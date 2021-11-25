@@ -61,6 +61,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Birth Date.
+        /// </summary>
+        public static string FIELD_BIRTH_DATE {
+            get {
+                return ResourceManager.GetString("FIELD_BIRTH_DATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to E-mail.
+        /// </summary>
+        public static string FIELD_EMAIL {
+            get {
+                return ResourceManager.GetString("FIELD_EMAIL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Apps page.
         /// </summary>
         public static string MODULE_PAGE_APPS_DESCRIPTION {
@@ -156,6 +174,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string UNSET_STRING_VALUE {
             get {
                 return ResourceManager.GetString("UNSET_STRING_VALUE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The {0} field has an incorrect date value..
+        /// </summary>
+        public static string VALIDATION_ERROR_INVALID_DATE {
+            get {
+                return ResourceManager.GetString("VALIDATION_ERROR_INVALID_DATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The date must be lesser than {0}.
+        /// </summary>
+        public static string VALIDATION_ERROR_MAX_DATE {
+            get {
+                return ResourceManager.GetString("VALIDATION_ERROR_MAX_DATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The field {0} is required..
+        /// </summary>
+        public static string VALIDATION_ERROR_REQUIRED_FIELD {
+            get {
+                return ResourceManager.GetString("VALIDATION_ERROR_REQUIRED_FIELD", resourceCulture);
             }
         }
     }

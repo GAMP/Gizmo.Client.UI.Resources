@@ -117,7 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="FIELD_BIRTH_DATE" xml:space="preserve">
+    <value>Ημ. Γέννησης</value>
+  </data>
+  <data name="FIELD_EMAIL" xml:space="preserve">
+    <value>Ηλ. Ταχυδρομείο</value>
+  </data>
   <data name="MODULE_PAGE_APPS_TITLE" xml:space="preserve">
     <value>greek</value>
+  </data>
+  <data name="VALIDATION_ERROR_INVALID_DATE" xml:space="preserve">
+    <value>Το πεδίο {0} δεν είναι έγκυρη ημερομηνία.</value>
+  </data>
+  <data name="VALIDATION_ERROR_MAX_DATE" xml:space="preserve">
+    <value>Η ημερομηνία πρέπει να είναι μικρότερη από {0}</value>
+  </data>
+  <data name="VALIDATION_ERROR_REQUIRED_FIELD" xml:space="preserve">
+    <value>Το πεδίο {0} είναι υποχρεωτικό.</value>
   </data>
 </root>

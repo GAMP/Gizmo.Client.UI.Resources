@@ -117,6 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="FIELD_BIRTH_DATE" xml:space="preserve">
+    <value>Birth Date</value>
+  </data>
+  <data name="FIELD_EMAIL" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
   <data name="MODULE_PAGE_APPS_DESCRIPTION" xml:space="preserve">
     <value>Apps page</value>
   </data>
@@ -149,5 +155,14 @@
   </data>
   <data name="UNSET_STRING_VALUE" xml:space="preserve">
     <value>Unset value</value>
+  </data>
+  <data name="VALIDATION_ERROR_INVALID_DATE" xml:space="preserve">
+    <value>The {0} field has an incorrect date value.</value>
+  </data>
+  <data name="VALIDATION_ERROR_MAX_DATE" xml:space="preserve">
+    <value>The date must be lesser than {0}</value>
+  </data>
+  <data name="VALIDATION_ERROR_REQUIRED_FIELD" xml:space="preserve">
+    <value>The field {0} is required.</value>
   </data>
 </root>
