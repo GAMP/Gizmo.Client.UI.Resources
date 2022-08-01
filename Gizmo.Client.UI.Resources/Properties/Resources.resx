@@ -153,6 +153,12 @@
   <data name="MODULE_PAGE_SHOP_TITLE" xml:space="preserve">
     <value>Shop</value>
   </data>
+  <data name="MODULE_PAGE_VALIDATION_DESCRIPTION" xml:space="preserve">
+    <value>Do some validation</value>
+  </data>
+  <data name="MODULE_PAGE_VALIDATION_TITLE" xml:space="preserve">
+    <value>Validation</value>
+  </data>
   <data name="UNSET_STRING_VALUE" xml:space="preserve">
     <value>Unset value</value>
   </data>

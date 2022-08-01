@@ -169,6 +169,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Do some validation.
+        /// </summary>
+        public static string MODULE_PAGE_VALIDATION_DESCRIPTION {
+            get {
+                return ResourceManager.GetString("MODULE_PAGE_VALIDATION_DESCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Validation.
+        /// </summary>
+        public static string MODULE_PAGE_VALIDATION_TITLE {
+            get {
+                return ResourceManager.GetString("MODULE_PAGE_VALIDATION_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Unset value.
         /// </summary>
         public static string UNSET_STRING_VALUE {
