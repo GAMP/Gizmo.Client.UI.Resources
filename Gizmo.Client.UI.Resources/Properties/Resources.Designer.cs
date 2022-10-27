@@ -79,173 +79,380 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add to cart.
+        ///   Looks up a localized string similar to Active applications.
         /// </summary>
-        public static string GIZ_ADD_TO_CART {
+        public static string GIZ_ACTIVE_APPS_TITLE {
             get {
-                return ResourceManager.GetString("GIZ_ADD_TO_CART", resourceCulture);
+                return ResourceManager.GetString("GIZ_ACTIVE_APPS_TITLE", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Address.
+        ///   Looks up a localized string similar to Autostart.
         /// </summary>
-        public static string GIZ_ADDRESS {
+        public static string GIZ_APPS_AUTO_START {
             get {
-                return ResourceManager.GetString("GIZ_ADDRESS", resourceCulture);
+                return ResourceManager.GetString("GIZ_APPS_AUTO_START", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Already a member?.
+        ///   Looks up a localized string similar to Category:.
         /// </summary>
-        public static string GIZ_ALREADY_A_MEMBER {
+        public static string GIZ_APPS_CATEGORY {
             get {
-                return ResourceManager.GetString("GIZ_ALREADY_A_MEMBER", resourceCulture);
+                return ResourceManager.GetString("GIZ_APPS_CATEGORY", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Balance Hidden.
+        ///   Looks up a localized string similar to Date Added.
         /// </summary>
-        public static string GIZ_BALANCE_IS_HIDDEN {
+        public static string GIZ_APPS_DATE_ADDED {
             get {
-                return ResourceManager.GetString("GIZ_BALANCE_IS_HIDDEN", resourceCulture);
+                return ResourceManager.GetString("GIZ_APPS_DATE_ADDED", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Date of birth.
+        ///   Looks up a localized string similar to Launch.
         /// </summary>
-        public static string GIZ_BIRTH_DATE {
+        public static string GIZ_APPS_LAUNCH {
             get {
-                return ResourceManager.GetString("GIZ_BIRTH_DATE", resourceCulture);
+                return ResourceManager.GetString("GIZ_APPS_LAUNCH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Links.
+        /// </summary>
+        public static string GIZ_APPS_LINKS {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_LINKS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Loading.
+        /// </summary>
+        public static string GIZ_APPS_LOADING {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_LOADING", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Media.
+        /// </summary>
+        public static string GIZ_APPS_MEDIA {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_MEDIA", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Parameters:.
+        /// </summary>
+        public static string GIZ_APPS_PARAMETERS {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_PARAMETERS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Personal Files.
+        /// </summary>
+        public static string GIZ_APPS_PERSONAL_FILES {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_PERSONAL_FILES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Player Mode.
+        /// </summary>
+        public static string GIZ_APPS_PLAYER_MODE {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_PLAYER_MODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Publisher.
+        /// </summary>
+        public static string GIZ_APPS_PUBLISHER {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_PUBLISHER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Release Date.
+        /// </summary>
+        public static string GIZ_APPS_RELEASE_DATE {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_RELEASE_DATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Repair.
+        /// </summary>
+        public static string GIZ_APPS_REPAIR {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_REPAIR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Terminate.
+        /// </summary>
+        public static string GIZ_APPS_TERMINATE {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_TERMINATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All.
+        /// </summary>
+        public static string GIZ_GEN_ALL {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_ALL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Back to Shop.
+        /// </summary>
+        public static string GIZ_GEN_BACK_TO_SHOP {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_BACK_TO_SHOP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Balance.
+        /// </summary>
+        public static string GIZ_GEN_BALANCE {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_BALANCE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancel.
+        /// </summary>
+        public static string GIZ_GEN_CANCEL {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_CANCEL", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Confirm.
         /// </summary>
-        public static string GIZ_CONFIRM {
+        public static string GIZ_GEN_CONFIRM {
             get {
-                return ResourceManager.GetString("GIZ_CONFIRM", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_CONFIRM", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Confirm your password.
         /// </summary>
-        public static string GIZ_CONFIRM_PASSWORD {
+        public static string GIZ_GEN_CONFIRM_PASSWORD {
             get {
-                return ResourceManager.GetString("GIZ_CONFIRM_PASSWORD", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_CONFIRM_PASSWORD", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Continue.
         /// </summary>
-        public static string GIZ_CONTINUE {
+        public static string GIZ_GEN_CONTINUE {
             get {
-                return ResourceManager.GetString("GIZ_CONTINUE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Country/Region.
-        /// </summary>
-        public static string GIZ_COUNTRY_REGION {
-            get {
-                return ResourceManager.GetString("GIZ_COUNTRY_REGION", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_CONTINUE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Email.
         /// </summary>
-        public static string GIZ_EMAIL {
+        public static string GIZ_GEN_EMAIL {
             get {
-                return ResourceManager.GetString("GIZ_EMAIL", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_EMAIL", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Email address.
         /// </summary>
-        public static string GIZ_EMAIL_ADDRESS {
+        public static string GIZ_GEN_EMAIL_ADDRESS {
             get {
-                return ResourceManager.GetString("GIZ_EMAIL_ADDRESS", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_EMAIL_ADDRESS", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Enter new password.
         /// </summary>
-        public static string GIZ_ENTER_NEW_PASSWORD {
+        public static string GIZ_GEN_ENTER_NEW_PASSWORD {
             get {
-                return ResourceManager.GetString("GIZ_ENTER_NEW_PASSWORD", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_ENTER_NEW_PASSWORD", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter the phone number that is linked to your account.
+        ///   Looks up a localized string similar to Mobile phone.
         /// </summary>
-        public static string GIZ_ENTER_PHONE_NUMBER {
+        public static string GIZ_GEN_MOBILE_PHONE {
             get {
-                return ResourceManager.GetString("GIZ_ENTER_PHONE_NUMBER", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_MOBILE_PHONE", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter your code.
+        ///   Looks up a localized string similar to Password.
         /// </summary>
-        public static string GIZ_ENTER_YOUR_CODE {
+        public static string GIZ_GEN_PASSWORD {
             get {
-                return ResourceManager.GetString("GIZ_ENTER_YOUR_CODE", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_PASSWORD", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to First name.
+        ///   Looks up a localized string similar to Phone number.
         /// </summary>
-        public static string GIZ_FIRST_NAME {
+        public static string GIZ_GEN_PHONE_NUMBER {
             get {
-                return ResourceManager.GetString("GIZ_FIRST_NAME", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_PHONE_NUMBER", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Forgot Password.
+        ///   Looks up a localized string similar to Points.
         /// </summary>
-        public static string GIZ_FORGOT_PASSWORD {
+        public static string GIZ_GEN_POINTS {
             get {
-                return ResourceManager.GetString("GIZ_FORGOT_PASSWORD", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_POINTS", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Forgot you password?.
+        ///   Looks up a localized string similar to Popular items.
         /// </summary>
-        public static string GIZ_FORGOT_YOUR_PASSWORD {
+        public static string GIZ_GEN_POPULAR_ITEMS {
             get {
-                return ResourceManager.GetString("GIZ_FORGOT_YOUR_PASSWORD", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_POPULAR_ITEMS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Repeat new password.
+        /// </summary>
+        public static string GIZ_GEN_REPEAT_NEW_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_REPEAT_NEW_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Results for.
+        /// </summary>
+        public static string GIZ_GEN_RESULTS_FOR {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_RESULTS_FOR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save.
+        /// </summary>
+        public static string GIZ_GEN_SAVE {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_SAVE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save Changes.
+        /// </summary>
+        public static string GIZ_GEN_SAVE_CHANGES {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_SAVE_CHANGES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sort by:.
+        /// </summary>
+        public static string GIZ_GEN_SORT_BY {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_SORT_BY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time.
+        /// </summary>
+        public static string GIZ_GEN_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_TIME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update.
+        /// </summary>
+        public static string GIZ_GEN_UPDATE {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_UPDATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Username.
+        /// </summary>
+        public static string GIZ_GEN_USERNAME {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_USERNAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View details.
+        /// </summary>
+        public static string GIZ_GEN_VIEW_DETAILS {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_VIEW_DETAILS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add to cart.
+        /// </summary>
+        public static string GIZ_GLOBAL_SEARCH_ADD_TO_CART {
+            get {
+                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_ADD_TO_CART", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Games &amp; Apps.
         /// </summary>
-        public static string GIZ_GAMES_AND_APPS {
+        public static string GIZ_GLOBAL_SEARCH_GAMES_AND_APPS {
             get {
-                return ResourceManager.GetString("GIZ_GAMES_AND_APPS", resourceCulture);
+                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_GAMES_AND_APPS", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Gender.
+        ///   Looks up a localized string similar to Launch.
         /// </summary>
-        public static string GIZ_GENDER {
+        public static string GIZ_GLOBAL_SEARCH_LAUNCH {
             get {
-                return ResourceManager.GetString("GIZ_GENDER", resourceCulture);
+                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_LAUNCH", resourceCulture);
             }
         }
         
@@ -268,6 +475,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Search games, apps, shop.
+        /// </summary>
+        public static string GIZ_GLOBAL_SEARCH_PLACEHOLDER {
+            get {
+                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_PLACEHOLDER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Shop.
+        /// </summary>
+        public static string GIZ_GLOBAL_SEARCH_SHOP {
+            get {
+                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_SHOP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to See all.
         /// </summary>
         public static string GIZ_GLOBAL_SEARCH_SHOW_ALL {
@@ -277,209 +502,695 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Home phone.
+        ///   Looks up a localized string similar to Already a member?.
         /// </summary>
-        public static string GIZ_HOME_PHONE {
+        public static string GIZ_LOGIN_ALREADY_A_MEMBER {
             get {
-                return ResourceManager.GetString("GIZ_HOME_PHONE", resourceCulture);
+                return ResourceManager.GetString("GIZ_LOGIN_ALREADY_A_MEMBER", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Last name.
+        ///   Looks up a localized string similar to Forgot you password?.
         /// </summary>
-        public static string GIZ_LAST_NAME {
+        public static string GIZ_LOGIN_FORGOT_YOUR_PASSWORD {
             get {
-                return ResourceManager.GetString("GIZ_LAST_NAME", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Launch.
-        /// </summary>
-        public static string GIZ_LAUNCH {
-            get {
-                return ResourceManager.GetString("GIZ_LAUNCH", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to No products.
-        /// </summary>
-        public static string GIZ_NO_PRODUCTS_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_NO_PRODUCTS_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Add products to get started.
-        /// </summary>
-        public static string GIZ_NO_PRODUCTS_RETRY_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_NO_PRODUCTS_RETRY_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_LOGIN_FORGOT_YOUR_PASSWORD", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Not a member?.
         /// </summary>
-        public static string GIZ_NOT_A_MEMBER {
+        public static string GIZ_LOGIN_NOT_A_MEMBER {
             get {
-                return ResourceManager.GetString("GIZ_NOT_A_MEMBER", resourceCulture);
+                return ResourceManager.GetString("GIZ_LOGIN_NOT_A_MEMBER", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Or.
         /// </summary>
-        public static string GIZ_OR {
+        public static string GIZ_LOGIN_OR {
             get {
-                return ResourceManager.GetString("GIZ_OR", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Order comments.
-        /// </summary>
-        public static string GIZ_ORDER_NOTE {
-            get {
-                return ResourceManager.GetString("GIZ_ORDER_NOTE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Add your note...
-        /// </summary>
-        public static string GIZ_ORDER_NOTE_PLACEHOLDER {
-            get {
-                return ResourceManager.GetString("GIZ_ORDER_NOTE_PLACEHOLDER", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Password.
-        /// </summary>
-        public static string GIZ_PASSWORD {
-            get {
-                return ResourceManager.GetString("GIZ_PASSWORD", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Phone number.
-        /// </summary>
-        public static string GIZ_PHONE_NUMBER {
-            get {
-                return ResourceManager.GetString("GIZ_PHONE_NUMBER", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Place order.
-        /// </summary>
-        public static string GIZ_PLACE_ORDER {
-            get {
-                return ResourceManager.GetString("GIZ_PLACE_ORDER", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Please enter the code from the text message we sent to {0}.
-        /// </summary>
-        public static string GIZ_PLEASE_ENTER_RECOVERY_CODE {
-            get {
-                return ResourceManager.GetString("GIZ_PLEASE_ENTER_RECOVERY_CODE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Post code.
-        /// </summary>
-        public static string GIZ_POST_CODE {
-            get {
-                return ResourceManager.GetString("GIZ_POST_CODE", resourceCulture);
+                return ResourceManager.GetString("GIZ_LOGIN_OR", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to QR code.
         /// </summary>
-        public static string GIZ_QR_CODE {
+        public static string GIZ_LOGIN_QR_CODE {
             get {
-                return ResourceManager.GetString("GIZ_QR_CODE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Repeat new password.
-        /// </summary>
-        public static string GIZ_REPEAT_NEW_PASSWORD {
-            get {
-                return ResourceManager.GetString("GIZ_REPEAT_NEW_PASSWORD", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Reset password.
-        /// </summary>
-        public static string GIZ_RESET_PASSWORD {
-            get {
-                return ResourceManager.GetString("GIZ_RESET_PASSWORD", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Great! Now come up with a new password and you&apos;re all set.
-        /// </summary>
-        public static string GIZ_SET_PASSWORD_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_SET_PASSWORD_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_LOGIN_QR_CODE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Sign in.
         /// </summary>
-        public static string GIZ_SIGN_IN {
+        public static string GIZ_LOGIN_SIGN_IN_TITLE {
             get {
-                return ResourceManager.GetString("GIZ_SIGN_IN", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Sign Up.
-        /// </summary>
-        public static string GIZ_SIGN_UP {
-            get {
-                return ResourceManager.GetString("GIZ_SIGN_UP", resourceCulture);
+                return ResourceManager.GetString("GIZ_LOGIN_SIGN_IN_TITLE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Sign up now.
         /// </summary>
-        public static string GIZ_SIGN_UP_NOW {
+        public static string GIZ_LOGIN_SIGN_UP_NOW {
             get {
-                return ResourceManager.GetString("GIZ_SIGN_UP_NOW", resourceCulture);
+                return ResourceManager.GetString("GIZ_LOGIN_SIGN_UP_NOW", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Balance Hidden.
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_IS_HIDDEN {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_IS_HIDDEN", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mark as all read.
+        /// </summary>
+        public static string GIZ_NOTIFICATIONS_MARK_ALL_AS_READ {
+            get {
+                return ResourceManager.GetString("GIZ_NOTIFICATIONS_MARK_ALL_AS_READ", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mark as read.
+        /// </summary>
+        public static string GIZ_NOTIFICATIONS_MARK_AS_READ {
+            get {
+                return ResourceManager.GetString("GIZ_NOTIFICATIONS_MARK_AS_READ", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No new notifications..
+        /// </summary>
+        public static string GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS {
+            get {
+                return ResourceManager.GetString("GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When something new happens you’ll find it here..
+        /// </summary>
+        public static string GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Notifications.
+        /// </summary>
+        public static string GIZ_NOTIFICATIONS_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_NOTIFICATIONS_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter the e-mail that is linked to your account.
+        /// </summary>
+        public static string GIZ_PASSWORD_RECOVERY_ENTER_EMAIL {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_ENTER_EMAIL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter the phone number that is linked to your account.
+        /// </summary>
+        public static string GIZ_PASSWORD_RECOVERY_ENTER_PHONE_NUMBER {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_ENTER_PHONE_NUMBER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter your code.
+        /// </summary>
+        public static string GIZ_PASSWORD_RECOVERY_ENTER_YOUR_CODE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_ENTER_YOUR_CODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Forgot Password.
+        /// </summary>
+        public static string GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please enter the code from the text message we sent to {0}.
+        /// </summary>
+        public static string GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reset password.
+        /// </summary>
+        public static string GIZ_PASSWORD_RECOVERY_RESET_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_RESET_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Great! Now come up with a new password and you&apos;re all set.
+        /// </summary>
+        public static string GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter your email.
+        /// </summary>
+        public static string GIZ_REGISTRATION_ENTER_YOUR_EMAIL {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_ENTER_YOUR_EMAIL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter your mobile phone.
+        /// </summary>
+        public static string GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign Up.
+        /// </summary>
+        public static string GIZ_REGISTRATION_SIGN_UP_BUTTON {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_SIGN_UP_BUTTON", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign Up.
+        /// </summary>
+        public static string GIZ_REGISTRATION_SIGN_UP_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_SIGN_UP_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in.
+        /// </summary>
+        public static string GIZ_REGISTRATION_SIGN_ΙΝ {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_SIGN_ΙΝ", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add to cart.
+        /// </summary>
+        public static string GIZ_SHOP_ADD_TO_CART {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_ADD_TO_CART", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Thanks for you order!.
+        /// </summary>
+        public static string GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Note: You can see all your current orders under My Profile &gt; Purchased.
+        /// </summary>
+        public static string GIZ_SHOP_CHECKOUT_COMPLETE_NOTE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_CHECKOUT_COMPLETE_NOTE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to By selecting Place order, you accept the Gizmo Customer Agreement and privacy statement and represent that you have the authority to do so..
+        /// </summary>
+        public static string GIZ_SHOP_CHECKOUT_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_CHECKOUT_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Checkout.
+        /// </summary>
+        public static string GIZ_SHOP_CHECKOUT_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_CHECKOUT_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earned points.
+        /// </summary>
+        public static string GIZ_SHOP_EARNED_POINTS {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_EARNED_POINTS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No products.
+        /// </summary>
+        public static string GIZ_SHOP_NO_PRODUCTS_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_NO_PRODUCTS_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add products to get started.
+        /// </summary>
+        public static string GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Order comments.
+        /// </summary>
+        public static string GIZ_SHOP_ORDER_NOTE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_ORDER_NOTE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add your note...
+        /// </summary>
+        public static string GIZ_SHOP_ORDER_NOTE_PLACEHOLDER {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_ORDER_NOTE_PLACEHOLDER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My order.
+        /// </summary>
+        public static string GIZ_SHOP_ORDER_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_ORDER_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Payment method.
+        /// </summary>
+        public static string GIZ_SHOP_PAYMENT_METHOD {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_PAYMENT_METHOD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Place order.
+        /// </summary>
+        public static string GIZ_SHOP_PLACE_ORDER {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_PLACE_ORDER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Price.
+        /// </summary>
+        public static string GIZ_SHOP_PRICE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_PRICE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Product name.
+        /// </summary>
+        public static string GIZ_SHOP_PRODUCT_NAME {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_PRODUCT_NAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Quantity.
+        /// </summary>
+        public static string GIZ_SHOP_QUANTITY {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_QUANTITY", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Subtotal.
         /// </summary>
-        public static string GIZ_SUBTOTAL {
+        public static string GIZ_SHOP_SUBTOTAL {
             get {
-                return ResourceManager.GetString("GIZ_SUBTOTAL", resourceCulture);
+                return ResourceManager.GetString("GIZ_SHOP_SUBTOTAL", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Username.
+        ///   Looks up a localized string similar to Total.
         /// </summary>
-        public static string GIZ_USERNAME {
+        public static string GIZ_SHOP_TOTAL {
             get {
-                return ResourceManager.GetString("GIZ_USERNAME", resourceCulture);
+                return ResourceManager.GetString("GIZ_SHOP_TOTAL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Or.
+        /// </summary>
+        public static string GIZ_TOP_UP_OR {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_OR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Or enter amount*.
+        /// </summary>
+        public static string GIZ_TOP_UP_OR_ENTER_AMOUNT {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_OR_ENTER_AMOUNT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pay from PC.
+        /// </summary>
+        public static string GIZ_TOP_UP_PAY_FROM_PC {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_PAY_FROM_PC", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Place Next: Payment informaition.
+        /// </summary>
+        public static string GIZ_TOP_UP_PLACE_NEXT {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_PLACE_NEXT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to QR-code for payment on phone.
+        /// </summary>
+        public static string GIZ_TOP_UP_QR_CODE {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_QR_CODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Quick select.
+        /// </summary>
+        public static string GIZ_TOP_UP_QUICK_SELECT {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_QUICK_SELECT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Top Up.
+        /// </summary>
+        public static string GIZ_TOP_UP_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To be paid:.
+        /// </summary>
+        public static string GIZ_TOP_UP_TO_BE_PAID {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_TO_BE_PAID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to will be credited to your Account balance.
+        /// </summary>
+        public static string GIZ_TOP_UP_WILL_BE_CREDITED {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_WILL_BE_CREDITED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Additional Information.
+        /// </summary>
+        public static string GIZ_USER_ADDITIONAL_INFORMATION {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ADDITIONAL_INFORMATION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Address.
+        /// </summary>
+        public static string GIZ_USER_ADDRESS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ADDRESS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Available items.
+        /// </summary>
+        public static string GIZ_USER_AVAILABLE_ITEMS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_AVAILABLE_ITEMS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Basic information.
+        /// </summary>
+        public static string GIZ_USER_BASIC_INFORMATION {
+            get {
+                return ResourceManager.GetString("GIZ_USER_BASIC_INFORMATION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date of birth.
+        /// </summary>
+        public static string GIZ_USER_BIRTH_DATE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_BIRTH_DATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Change password.
+        /// </summary>
+        public static string GIZ_USER_CHANGE_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHANGE_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Country/Region.
+        /// </summary>
+        public static string GIZ_USER_COUNTRY_REGION {
+            get {
+                return ResourceManager.GetString("GIZ_USER_COUNTRY_REGION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to User details.
+        /// </summary>
+        public static string GIZ_USER_DETAILS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_DETAILS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to First name.
+        /// </summary>
+        public static string GIZ_USER_FIRST_NAME {
+            get {
+                return ResourceManager.GetString("GIZ_USER_FIRST_NAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gender.
+        /// </summary>
+        public static string GIZ_USER_GENDER {
+            get {
+                return ResourceManager.GetString("GIZ_USER_GENDER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Home phone.
+        /// </summary>
+        public static string GIZ_USER_HOME_PHONE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_HOME_PHONE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last name.
+        /// </summary>
+        public static string GIZ_USER_LAST_NAME {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LAST_NAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mail and phone numbers.
+        /// </summary>
+        public static string GIZ_USER_MAIL_AND_PHONE_NUMBERS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_MAIL_AND_PHONE_NUMBERS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Help.
+        /// </summary>
+        public static string GIZ_USER_MENU_HELP {
+            get {
+                return ResourceManager.GetString("GIZ_USER_MENU_HELP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lock PC.
+        /// </summary>
+        public static string GIZ_USER_MENU_LOCK_PC {
+            get {
+                return ResourceManager.GetString("GIZ_USER_MENU_LOCK_PC", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Logout.
+        /// </summary>
+        public static string GIZ_USER_MENU_LOGOUT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_MENU_LOGOUT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My profile.
+        /// </summary>
+        public static string GIZ_USER_MENU_PROFILE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_MENU_PROFILE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Settings.
+        /// </summary>
+        public static string GIZ_USER_MENU_SETTINGS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_MENU_SETTINGS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Top Up.
+        /// </summary>
+        public static string GIZ_USER_MENU_TOP_UP {
+            get {
+                return ResourceManager.GetString("GIZ_USER_MENU_TOP_UP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Personal information.
+        /// </summary>
+        public static string GIZ_USER_PERSONAL_INFORMATION {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PERSONAL_INFORMATION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Post code.
+        /// </summary>
+        public static string GIZ_USER_POST_CODE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_POST_CODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Purchases.
+        /// </summary>
+        public static string GIZ_USER_PURCHASES {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PURCHASES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edit User Settings.
+        /// </summary>
+        public static string GIZ_USER_SETTINGS_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_SETTINGS_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Transactions.
+        /// </summary>
+        public static string GIZ_USER_TRANSACTIONS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TRANSACTIONS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other users will see your username.
+        /// </summary>
+        public static string GIZ_USER_USERNAME_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_USERNAME_MESSAGE", resourceCulture);
             }
         }
         
