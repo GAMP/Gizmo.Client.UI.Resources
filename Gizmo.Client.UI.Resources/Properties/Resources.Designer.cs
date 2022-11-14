@@ -538,15 +538,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to QR code.
-        /// </summary>
-        public static string GIZ_LOGIN_QR_CODE {
-            get {
-                return ResourceManager.GetString("GIZ_LOGIN_QR_CODE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Sign in.
         /// </summary>
         public static string GIZ_LOGIN_SIGN_IN_TITLE {
