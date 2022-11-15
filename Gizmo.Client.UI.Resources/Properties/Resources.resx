@@ -216,6 +216,9 @@
   <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve">
     <value>Repeat new password</value>
   </data>
+  <data name="GIZ_GEN_RESEND" xml:space="preserve">
+    <value>Re-send</value>
+  </data>
   <data name="GIZ_GEN_RESULTS_FOR" xml:space="preserve">
     <value>Results for</value>
   </data>

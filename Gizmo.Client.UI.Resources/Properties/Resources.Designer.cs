@@ -358,6 +358,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Re-send.
+        /// </summary>
+        public static string GIZ_GEN_RESEND {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_RESEND", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Results for.
         /// </summary>
         public static string GIZ_GEN_RESULTS_FOR {
