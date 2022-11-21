@@ -426,8 +426,8 @@
   <data name="GIZ_USER_ADDRESS" xml:space="preserve">
     <value>Address</value>
   </data>
-  <data name="GIZ_USER_AVAILABLE_ITEMS" xml:space="preserve">
-    <value>Available items</value>
+  <data name="GIZ_USER_AVAILABLE_TIME" xml:space="preserve">
+    <value>Available time</value>
   </data>
   <data name="GIZ_USER_BASIC_INFORMATION" xml:space="preserve">
     <value>Basic information</value>

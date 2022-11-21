@@ -988,11 +988,11 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Available items.
+        ///   Looks up a localized string similar to Available time.
         /// </summary>
-        public static string GIZ_USER_AVAILABLE_ITEMS {
+        public static string GIZ_USER_AVAILABLE_TIME {
             get {
-                return ResourceManager.GetString("GIZ_USER_AVAILABLE_ITEMS", resourceCulture);
+                return ResourceManager.GetString("GIZ_USER_AVAILABLE_TIME", resourceCulture);
             }
         }
         
