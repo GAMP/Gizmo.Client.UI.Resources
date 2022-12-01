@@ -531,6 +531,18 @@
   <data name="MODULE_PAGE_VALIDATION_TITLE" xml:space="preserve">
     <value>Validation</value>
   </data>
+  <data name="ORDER_STATUS_ACCEPTED" xml:space="preserve">
+    <value>Accepted</value>
+  </data>
+  <data name="ORDER_STATUS_CANCELED" xml:space="preserve">
+    <value>Canceled</value>
+  </data>
+  <data name="ORDER_STATUS_COMPLETED" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="ORDER_STATUS_ON_HOLD" xml:space="preserve">
+    <value>On Hold</value>
+  </data>
   <data name="UNSET_STRING_VALUE" xml:space="preserve">
     <value>Unset value</value>
   </data>

@@ -1303,6 +1303,42 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Accepted.
+        /// </summary>
+        public static string ORDER_STATUS_ACCEPTED {
+            get {
+                return ResourceManager.GetString("ORDER_STATUS_ACCEPTED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Canceled.
+        /// </summary>
+        public static string ORDER_STATUS_CANCELED {
+            get {
+                return ResourceManager.GetString("ORDER_STATUS_CANCELED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Completed.
+        /// </summary>
+        public static string ORDER_STATUS_COMPLETED {
+            get {
+                return ResourceManager.GetString("ORDER_STATUS_COMPLETED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to On Hold.
+        /// </summary>
+        public static string ORDER_STATUS_ON_HOLD {
+            get {
+                return ResourceManager.GetString("ORDER_STATUS_ON_HOLD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Unset value.
         /// </summary>
         public static string UNSET_STRING_VALUE {
