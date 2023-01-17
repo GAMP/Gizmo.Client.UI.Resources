@@ -279,6 +279,12 @@
   <data name="GIZ_LOGIN_OR" xml:space="preserve">
     <value>Or</value>
   </data>
+  <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve">
+    <value>If you log in now, you will be automatically logged out at the specified time.</value>
+  </data>
+  <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
+    <value>This computer is reserved at {0}.</value>
+  </data>
   <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve">
     <value>Sign in</value>
   </data>

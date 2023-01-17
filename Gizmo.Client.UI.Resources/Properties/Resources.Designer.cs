@@ -547,6 +547,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to If you log in now, you will be automatically logged out at the specified time..
+        /// </summary>
+        public static string GIZ_LOGIN_RESERVATION_WARNING_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_LOGIN_RESERVATION_WARNING_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This computer is reserved at {0}..
+        /// </summary>
+        public static string GIZ_LOGIN_RESERVATION_WARNING_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_LOGIN_RESERVATION_WARNING_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sign in.
         /// </summary>
         public static string GIZ_LOGIN_SIGN_IN_TITLE {
