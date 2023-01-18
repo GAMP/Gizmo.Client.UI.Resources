@@ -165,14 +165,20 @@
   <data name="GIZ_APPS_REPAIR" xml:space="preserve">
     <value>Repair</value>
   </data>
+  <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve">
+    <value>Select application version</value>
+  </data>
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve">
     <value>Terminate</value>
+  </data>
+  <data name="GIZ_GEN_ADS" xml:space="preserve">
+    <value>Ads</value>
   </data>
   <data name="GIZ_GEN_ALL" xml:space="preserve">
     <value>All</value>
   </data>
-  <data name="GIZ_GEN_BACK_TO_SHOP" xml:space="preserve">
-    <value>Back to Shop</value>
+  <data name="GIZ_GEN_BACK_TO" xml:space="preserve">
+    <value>Back to {0}</value>
   </data>
   <data name="GIZ_GEN_BALANCE" xml:space="preserve">
     <value>Balance</value>
@@ -294,6 +300,9 @@
   <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve">
     <value>Balance Hidden</value>
   </data>
+  <data name="GIZ_MENU_TIME_PRODUCT" xml:space="preserve">
+    <value>Time product</value>
+  </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
     <value>Mark as all read</value>
   </data>
@@ -348,6 +357,15 @@
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
     <value>Add to cart</value>
   </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve">
+    <value>Action period</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve">
+    <value>Package description:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve">
+    <value>Product life time</value>
+  </data>
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve">
     <value>Thanks for you order!</value>
   </data>
@@ -393,11 +411,20 @@
   <data name="GIZ_SHOP_QUANTITY" xml:space="preserve">
     <value>Quantity</value>
   </data>
+  <data name="GIZ_SHOP_RELATED_PRODUCTS" xml:space="preserve">
+    <value>Related products</value>
+  </data>
   <data name="GIZ_SHOP_SUBTOTAL" xml:space="preserve">
     <value>Subtotal</value>
   </data>
   <data name="GIZ_SHOP_TOTAL" xml:space="preserve">
     <value>Total</value>
+  </data>
+  <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve">
+    <value>Locked</value>
+  </data>
+  <data name="GIZ_SYSTEM_VERSION" xml:space="preserve">
+    <value>Version</value>
   </data>
   <data name="GIZ_TOP_UP_OR" xml:space="preserve">
     <value>Or</value>
@@ -500,6 +527,9 @@
   </data>
   <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve">
     <value>Other users will see your username</value>
+  </data>
+  <data name="GIZ_VERIFICATION_SEND_CODE" xml:space="preserve">
+    <value>Send code</value>
   </data>
   <data name="MODULE_PAGE_APPS_DESCRIPTION" xml:space="preserve">
     <value>Apps page</value>

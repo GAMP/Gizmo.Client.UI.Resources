@@ -123,9 +123,6 @@
   <data name="FIELD_EMAIL" xml:space="preserve">
     <value>Ηλ. Ταχυδρομείο</value>
   </data>
-  <data name="MODULE_PAGE_APPS_TITLE" xml:space="preserve">
-    <value>greek</value>
-  </data>
   <data name="VALIDATION_ERROR_INVALID_DATE" xml:space="preserve">
     <value>Το πεδίο {0} δεν είναι έγκυρη ημερομηνία.</value>
   </data>

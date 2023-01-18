@@ -205,11 +205,29 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Select application version.
+        /// </summary>
+        public static string GIZ_APPS_SELECT_EXE {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_SELECT_EXE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Terminate.
         /// </summary>
         public static string GIZ_APPS_TERMINATE {
             get {
                 return ResourceManager.GetString("GIZ_APPS_TERMINATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ads.
+        /// </summary>
+        public static string GIZ_GEN_ADS {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_ADS", resourceCulture);
             }
         }
         
@@ -223,11 +241,11 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Back to Shop.
+        ///   Looks up a localized string similar to Back to {0}.
         /// </summary>
-        public static string GIZ_GEN_BACK_TO_SHOP {
+        public static string GIZ_GEN_BACK_TO {
             get {
-                return ResourceManager.GetString("GIZ_GEN_BACK_TO_SHOP", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_BACK_TO", resourceCulture);
             }
         }
         
@@ -592,6 +610,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Time product.
+        /// </summary>
+        public static string GIZ_MENU_TIME_PRODUCT {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_TIME_PRODUCT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Mark as all read.
         /// </summary>
         public static string GIZ_NOTIFICATIONS_MARK_ALL_AS_READ {
@@ -754,6 +781,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Action period.
+        /// </summary>
+        public static string GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Package description:.
+        /// </summary>
+        public static string GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Product life time.
+        /// </summary>
+        public static string GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Thanks for you order!.
         /// </summary>
         public static string GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE {
@@ -889,6 +943,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Related products.
+        /// </summary>
+        public static string GIZ_SHOP_RELATED_PRODUCTS {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_RELATED_PRODUCTS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Subtotal.
         /// </summary>
         public static string GIZ_SHOP_SUBTOTAL {
@@ -903,6 +966,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_SHOP_TOTAL {
             get {
                 return ResourceManager.GetString("GIZ_SHOP_TOTAL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Locked.
+        /// </summary>
+        public static string GIZ_SYSTEM_LOCKED {
+            get {
+                return ResourceManager.GetString("GIZ_SYSTEM_LOCKED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Version.
+        /// </summary>
+        public static string GIZ_SYSTEM_VERSION {
+            get {
+                return ResourceManager.GetString("GIZ_SYSTEM_VERSION", resourceCulture);
             }
         }
         
@@ -1209,6 +1290,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_USERNAME_MESSAGE {
             get {
                 return ResourceManager.GetString("GIZ_USER_USERNAME_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send code.
+        /// </summary>
+        public static string GIZ_VERIFICATION_SEND_CODE {
+            get {
+                return ResourceManager.GetString("GIZ_VERIFICATION_SEND_CODE", resourceCulture);
             }
         }
         
