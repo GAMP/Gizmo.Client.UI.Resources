@@ -223,6 +223,42 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Update e-mail.
+        /// </summary>
+        public static string GIZ_CHANGE_EMAIL_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_CHANGE_EMAIL_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confirm new password.
+        /// </summary>
+        public static string GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Current password.
+        /// </summary>
+        public static string GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New password.
+        /// </summary>
+        public static string GIZ_CHANGE_PASSWORD_NEW_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_CHANGE_PASSWORD_NEW_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ads.
         /// </summary>
         public static string GIZ_GEN_ADS {
@@ -561,6 +597,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_LOGIN_OR {
             get {
                 return ResourceManager.GetString("GIZ_LOGIN_OR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scan this with the Mobile app to sign in instantly.
+        /// </summary>
+        public static string GIZ_LOGIN_QR_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_LOGIN_QR_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in with QR Code.
+        /// </summary>
+        public static string GIZ_LOGIN_QR_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_LOGIN_QR_TITLE", resourceCulture);
             }
         }
         

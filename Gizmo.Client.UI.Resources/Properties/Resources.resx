@@ -171,6 +171,18 @@
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve">
     <value>Terminate</value>
   </data>
+  <data name="GIZ_CHANGE_EMAIL_TITLE" xml:space="preserve">
+    <value>Update e-mail</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve">
+    <value>Confirm new password</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD" xml:space="preserve">
+    <value>Current password</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve">
+    <value>New password</value>
+  </data>
   <data name="GIZ_GEN_ADS" xml:space="preserve">
     <value>Ads</value>
   </data>
@@ -284,6 +296,12 @@
   </data>
   <data name="GIZ_LOGIN_OR" xml:space="preserve">
     <value>Or</value>
+  </data>
+  <data name="GIZ_LOGIN_QR_MESSAGE" xml:space="preserve">
+    <value>Scan this with the Mobile app to sign in instantly</value>
+  </data>
+  <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve">
+    <value>Sign in with QR Code</value>
   </data>
   <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve">
     <value>If you log in now, you will be automatically logged out at the specified time.</value>
