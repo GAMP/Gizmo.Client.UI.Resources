@@ -375,6 +375,9 @@
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
     <value>Add to cart</value>
   </data>
+  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve">
+    <value>Bundle includes:</value>
+  </data>
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve">
     <value>Action period</value>
   </data>
