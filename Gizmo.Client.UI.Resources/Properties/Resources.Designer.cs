@@ -61,6 +61,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to All games and apps.
+        /// </summary>
+        public static string ALL_GAMES_AND_APPS {
+            get {
+                return ResourceManager.GetString("ALL_GAMES_AND_APPS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The confirmation code is invalid..
         /// </summary>
         public static string CONFIRMATION_CODE_IS_INVALID {
@@ -88,6 +97,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Enter the code.
+        /// </summary>
+        public static string ENTER_THE_CODE {
+            get {
+                return ResourceManager.GetString("ENTER_THE_CODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Birth Date.
         /// </summary>
         public static string FIELD_BIRTH_DATE {
@@ -102,6 +120,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string FIELD_EMAIL {
             get {
                 return ResourceManager.GetString("FIELD_EMAIL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Get Code.
+        /// </summary>
+        public static string GET_CODE {
+            get {
+                return ResourceManager.GetString("GET_CODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search.
+        /// </summary>
+        public static string GIN_GEN_SEARCH {
+            get {
+                return ResourceManager.GetString("GIN_GEN_SEARCH", resourceCulture);
             }
         }
         
@@ -511,6 +547,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Verify.
+        /// </summary>
+        public static string GIZ_GEN_VERIFY {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_VERIFY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to View details.
         /// </summary>
         public static string GIZ_GEN_VIEW_DETAILS {
@@ -822,6 +867,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE {
             get {
                 return ResourceManager.GetString("GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please confirm your country code and enter your phone number to create an account..
+        /// </summary>
+        public static string GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE", resourceCulture);
             }
         }
         
@@ -1213,6 +1267,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Country.
+        /// </summary>
+        public static string GIZ_USER_COUNTRY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_COUNTRY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Country/Region.
         /// </summary>
         public static string GIZ_USER_COUNTRY_REGION {
@@ -1564,6 +1627,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Select something.
+        /// </summary>
+        public static string SELECT_SOMETHING {
+            get {
+                return ResourceManager.GetString("SELECT_SOMETHING", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Minimum amount is {0}..
         /// </summary>
         public static string TOP_UP_MINIMUM_AMOUNT_IS {
@@ -1578,6 +1650,87 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string UNSET_STRING_VALUE {
             get {
                 return ResourceManager.GetString("UNSET_STRING_VALUE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update number.
+        /// </summary>
+        public static string UPDATE_NUMBER {
+            get {
+                return ResourceManager.GetString("UPDATE_NUMBER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter the number you’d like to use. To make sure this number is yours, will send you a verification code..
+        /// </summary>
+        public static string UPDATE_NUMBER_MESSAGE {
+            get {
+                return ResourceManager.GetString("UPDATE_NUMBER_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We just sent you an SMS with a code. Enter it to verify your phone..
+        /// </summary>
+        public static string UPDATE_NUMBER_SUCCESS_MESSAGE {
+            get {
+                return ResourceManager.GetString("UPDATE_NUMBER_SUCCESS_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter Code to Continue.
+        /// </summary>
+        public static string USER_LOCK_SCREEN_ENTER_CODE {
+            get {
+                return ResourceManager.GetString("USER_LOCK_SCREEN_ENTER_CODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Forgot PIN.
+        /// </summary>
+        public static string USER_LOCK_SCREEN_FORGOT_PIN {
+            get {
+                return ResourceManager.GetString("USER_LOCK_SCREEN_FORGOT_PIN", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Profile Lock is currently on.
+        /// </summary>
+        public static string USER_LOCK_SCREEN_LOCKED_SUBTITLE {
+            get {
+                return ResourceManager.GetString("USER_LOCK_SCREEN_LOCKED_SUBTITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter you PIN to access this profile.
+        /// </summary>
+        public static string USER_LOCK_SCREEN_LOCKED_TITLE {
+            get {
+                return ResourceManager.GetString("USER_LOCK_SCREEN_LOCKED_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lock this profile by creating a 4-digit pin. Memorize or write it down..
+        /// </summary>
+        public static string USER_LOCK_SCREEN_SUBTITLE {
+            get {
+                return ResourceManager.GetString("USER_LOCK_SCREEN_SUBTITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Profile Lock.
+        /// </summary>
+        public static string USER_LOCK_SCREEN_TITLE {
+            get {
+                return ResourceManager.GetString("USER_LOCK_SCREEN_TITLE", resourceCulture);
             }
         }
         
