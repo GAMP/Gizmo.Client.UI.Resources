@@ -117,6 +117,15 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
+    <value>The confirmation code is invalid.</value>
+  </data>
+  <data name="EMAIL_IS_IN_USE" xml:space="preserve">
+    <value>The email is in use.</value>
+  </data>
+  <data name="EMAIL_IS_REQUIRED" xml:space="preserve">
+    <value>The e-mail field is required.</value>
+  </data>
   <data name="FIELD_BIRTH_DATE" xml:space="preserve">
     <value>Birth Date</value>
   </data>
@@ -600,8 +609,23 @@
   <data name="ORDER_STATUS_ON_HOLD" xml:space="preserve">
     <value>On Hold</value>
   </data>
+  <data name="PASSWORDS_DO_NOT_MATCH" xml:space="preserve">
+    <value>Passwords do not match!</value>
+  </data>
+  <data name="PHONE_IS_IN_USE" xml:space="preserve">
+    <value>The phone number is in use.</value>
+  </data>
+  <data name="PHONE_IS_REQUIRED" xml:space="preserve">
+    <value>The phone number field is required.</value>
+  </data>
+  <data name="TOP_UP_MINIMUM_AMOUNT_IS" xml:space="preserve">
+    <value>Minimum amount is {0}.</value>
+  </data>
   <data name="UNSET_STRING_VALUE" xml:space="preserve">
     <value>Unset value</value>
+  </data>
+  <data name="USERNAME_IS_IN_USE" xml:space="preserve">
+    <value>The Username is in use.</value>
   </data>
   <data name="VALIDATION_ERROR_INVALID_DATE" xml:space="preserve">
     <value>The {0} field has an incorrect date value.</value>

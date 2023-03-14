@@ -61,6 +61,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The confirmation code is invalid..
+        /// </summary>
+        public static string CONFIRMATION_CODE_IS_INVALID {
+            get {
+                return ResourceManager.GetString("CONFIRMATION_CODE_IS_INVALID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The email is in use..
+        /// </summary>
+        public static string EMAIL_IS_IN_USE {
+            get {
+                return ResourceManager.GetString("EMAIL_IS_IN_USE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The e-mail field is required..
+        /// </summary>
+        public static string EMAIL_IS_REQUIRED {
+            get {
+                return ResourceManager.GetString("EMAIL_IS_REQUIRED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Birth Date.
         /// </summary>
         public static string FIELD_BIRTH_DATE {
@@ -1510,11 +1537,56 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Passwords do not match!.
+        /// </summary>
+        public static string PASSWORDS_DO_NOT_MATCH {
+            get {
+                return ResourceManager.GetString("PASSWORDS_DO_NOT_MATCH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The phone number is in use..
+        /// </summary>
+        public static string PHONE_IS_IN_USE {
+            get {
+                return ResourceManager.GetString("PHONE_IS_IN_USE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The phone number field is required..
+        /// </summary>
+        public static string PHONE_IS_REQUIRED {
+            get {
+                return ResourceManager.GetString("PHONE_IS_REQUIRED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Minimum amount is {0}..
+        /// </summary>
+        public static string TOP_UP_MINIMUM_AMOUNT_IS {
+            get {
+                return ResourceManager.GetString("TOP_UP_MINIMUM_AMOUNT_IS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Unset value.
         /// </summary>
         public static string UNSET_STRING_VALUE {
             get {
                 return ResourceManager.GetString("UNSET_STRING_VALUE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The Username is in use..
+        /// </summary>
+        public static string USERNAME_IS_IN_USE {
+            get {
+                return ResourceManager.GetString("USERNAME_IS_IN_USE", resourceCulture);
             }
         }
         
