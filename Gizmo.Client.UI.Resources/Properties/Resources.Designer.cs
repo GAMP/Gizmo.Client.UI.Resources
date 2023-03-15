@@ -340,6 +340,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to and.
+        /// </summary>
+        public static string GIZ_GEN_AND {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_AND", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Back to {0}.
         /// </summary>
         public static string GIZ_GEN_BACK_TO {

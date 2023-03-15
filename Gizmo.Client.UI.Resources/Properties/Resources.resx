@@ -210,6 +210,9 @@
   <data name="GIZ_GEN_ALL" xml:space="preserve">
     <value>All</value>
   </data>
+  <data name="GIZ_GEN_AND" xml:space="preserve">
+    <value>and</value>
+  </data>
   <data name="GIZ_GEN_BACK_TO" xml:space="preserve">
     <value>Back to {0}</value>
   </data>
