@@ -70,6 +70,60 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add date.
+        /// </summary>
+        public static string APPLICATION_SORTING_OPTION_ADD_DATE {
+            get {
+                return ResourceManager.GetString("APPLICATION_SORTING_OPTION_ADD_DATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Popularity.
+        /// </summary>
+        public static string APPLICATION_SORTING_OPTION_POPULARITY {
+            get {
+                return ResourceManager.GetString("APPLICATION_SORTING_OPTION_POPULARITY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rating.
+        /// </summary>
+        public static string APPLICATION_SORTING_OPTION_RATING {
+            get {
+                return ResourceManager.GetString("APPLICATION_SORTING_OPTION_RATING", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Release date.
+        /// </summary>
+        public static string APPLICATION_SORTING_OPTION_RELEASE_DATE {
+            get {
+                return ResourceManager.GetString("APPLICATION_SORTING_OPTION_RELEASE_DATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Title.
+        /// </summary>
+        public static string APPLICATION_SORTING_OPTION_TITLE {
+            get {
+                return ResourceManager.GetString("APPLICATION_SORTING_OPTION_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Use.
+        /// </summary>
+        public static string APPLICATION_SORTING_OPTION_USE {
+            get {
+                return ResourceManager.GetString("APPLICATION_SORTING_OPTION_USE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The confirmation code is invalid..
         /// </summary>
         public static string CONFIRMATION_CODE_IS_INVALID {
@@ -1641,6 +1695,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string SELECT_SOMETHING {
             get {
                 return ResourceManager.GetString("SELECT_SOMETHING", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Female.
+        /// </summary>
+        public static string SEX_FEMALE {
+            get {
+                return ResourceManager.GetString("SEX_FEMALE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Male.
+        /// </summary>
+        public static string SEX_MALE {
+            get {
+                return ResourceManager.GetString("SEX_MALE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unspecified.
+        /// </summary>
+        public static string SEX_UNSPECIFIED {
+            get {
+                return ResourceManager.GetString("SEX_UNSPECIFIED", resourceCulture);
             }
         }
         

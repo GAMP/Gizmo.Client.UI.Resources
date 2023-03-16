@@ -120,6 +120,24 @@
   <data name="ALL_GAMES_AND_APPS" xml:space="preserve">
     <value>All games and apps</value>
   </data>
+  <data name="APPLICATION_SORTING_OPTION_ADD_DATE" xml:space="preserve">
+    <value>Add date</value>
+  </data>
+  <data name="APPLICATION_SORTING_OPTION_POPULARITY" xml:space="preserve">
+    <value>Popularity</value>
+  </data>
+  <data name="APPLICATION_SORTING_OPTION_RATING" xml:space="preserve">
+    <value>Rating</value>
+  </data>
+  <data name="APPLICATION_SORTING_OPTION_RELEASE_DATE" xml:space="preserve">
+    <value>Release date</value>
+  </data>
+  <data name="APPLICATION_SORTING_OPTION_TITLE" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="APPLICATION_SORTING_OPTION_USE" xml:space="preserve">
+    <value>Use</value>
+  </data>
   <data name="CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
     <value>The confirmation code is invalid.</value>
   </data>
@@ -644,6 +662,15 @@
   </data>
   <data name="SELECT_SOMETHING" xml:space="preserve">
     <value>Select something</value>
+  </data>
+  <data name="SEX_FEMALE" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="SEX_MALE" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="SEX_UNSPECIFIED" xml:space="preserve">
+    <value>Unspecified</value>
   </data>
   <data name="TOP_UP_MINIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Minimum amount is {0}.</value>
