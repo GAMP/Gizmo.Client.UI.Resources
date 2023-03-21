@@ -808,6 +808,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No match found for.
+        /// </summary>
+        public static string GIZ_NO_MATCH_FOUND_FOR {
+            get {
+                return ResourceManager.GetString("GIZ_NO_MATCH_FOUND_FOR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Try formulating your request differently.
+        /// </summary>
+        public static string GIZ_NO_MATCH_FOUND_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_NO_MATCH_FOUND_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Mark as all read.
         /// </summary>
         public static string GIZ_NOTIFICATIONS_MARK_ALL_AS_READ {
@@ -849,6 +867,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_NOTIFICATIONS_TITLE {
             get {
                 return ResourceManager.GetString("GIZ_NOTIFICATIONS_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Secure Password.
+        /// </summary>
+        public static string GIZ_PASSWORD_MESSAGE_SECURE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_MESSAGE_SECURE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Password is too easy.
+        /// </summary>
+        public static string GIZ_PASSWORD_MESSAGE_TOO_EASY {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_MESSAGE_TOO_EASY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Password is too short.
+        /// </summary>
+        public static string GIZ_PASSWORD_MESSAGE_TOO_SHORT {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_MESSAGE_TOO_SHORT", resourceCulture);
             }
         }
         
@@ -912,6 +957,42 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE {
             get {
                 return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 8-24 characters.
+        /// </summary>
+        public static string GIZ_PASSWORD_RULE_LENGTH {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RULE_LENGTH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At least 1 lowercace letter.
+        /// </summary>
+        public static string GIZ_PASSWORD_RULE_LOWER_CASE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RULE_LOWER_CASE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At least 1 number.
+        /// </summary>
+        public static string GIZ_PASSWORD_RULE_NUMBER {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RULE_NUMBER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At least 1 uppercase letter.
+        /// </summary>
+        public static string GIZ_PASSWORD_RULE_UPPER_CASE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RULE_UPPER_CASE", resourceCulture);
             }
         }
         
@@ -1740,6 +1821,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string UNSET_STRING_VALUE {
             get {
                 return ResourceManager.GetString("UNSET_STRING_VALUE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter the e-mail you’d like to use. To make sure this e-mail is yours, will send you a verification code..
+        /// </summary>
+        public static string UPDATE_EMAIL_MESSAGE {
+            get {
+                return ResourceManager.GetString("UPDATE_EMAIL_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We just sent you an e-mail with a code. Enter it to verify your e-mail..
+        /// </summary>
+        public static string UPDATE_EMAIL_SUCCESS_MESSAGE {
+            get {
+                return ResourceManager.GetString("UPDATE_EMAIL_SUCCESS_MESSAGE", resourceCulture);
             }
         }
         

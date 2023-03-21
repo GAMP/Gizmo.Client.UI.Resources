@@ -381,6 +381,21 @@
   <data name="GIZ_NOTIFICATIONS_TITLE" xml:space="preserve">
     <value>Notifications</value>
   </data>
+  <data name="GIZ_NO_MATCH_FOUND_FOR" xml:space="preserve">
+    <value>No match found for</value>
+  </data>
+  <data name="GIZ_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
+    <value>Try formulating your request differently</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
+    <value>Secure Password</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_EASY" xml:space="preserve">
+    <value>Password is too easy</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_SHORT" xml:space="preserve">
+    <value>Password is too short</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_EMAIL" xml:space="preserve">
     <value>Enter the e-mail that is linked to your account</value>
   </data>
@@ -401,6 +416,18 @@
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
     <value>Great! Now come up with a new password and you're all set</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_LENGTH" xml:space="preserve">
+    <value>8-24 characters</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_LOWER_CASE" xml:space="preserve">
+    <value>At least 1 lowercace letter</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_NUMBER" xml:space="preserve">
+    <value>At least 1 number</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve">
+    <value>At least 1 uppercase letter</value>
   </data>
   <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve">
     <value>Enter your email</value>
@@ -677,6 +704,12 @@
   </data>
   <data name="UNSET_STRING_VALUE" xml:space="preserve">
     <value>Unset value</value>
+  </data>
+  <data name="UPDATE_EMAIL_MESSAGE" xml:space="preserve">
+    <value>Enter the e-mail you’d like to use. To make sure this e-mail is yours, will send you a verification code.</value>
+  </data>
+  <data name="UPDATE_EMAIL_SUCCESS_MESSAGE" xml:space="preserve">
+    <value>We just sent you an e-mail with a code. Enter it to verify your e-mail.</value>
   </data>
   <data name="UPDATE_NUMBER" xml:space="preserve">
     <value>Update number</value>
