@@ -376,6 +376,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Confirmation code should have {0} digits!.
+        /// </summary>
+        public static string GIZ_CONFIRMATION_CODE_LENGTH_ERROR {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRMATION_CODE_LENGTH_ERROR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ads.
         /// </summary>
         public static string GIZ_GEN_ADS {

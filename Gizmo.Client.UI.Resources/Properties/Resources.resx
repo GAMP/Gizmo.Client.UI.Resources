@@ -222,6 +222,9 @@
   <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve">
     <value>New password</value>
   </data>
+  <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve">
+    <value>Confirmation code should have {0} digits!</value>
+  </data>
   <data name="GIZ_GEN_ADS" xml:space="preserve">
     <value>Ads</value>
   </data>
