@@ -133,11 +133,29 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The email is in use..
+        ///   Looks up a localized string similar to An email has been sent to {0}. Check your email for the verification code and enter it below.
         /// </summary>
-        public static string EMAIL_IS_IN_USE {
+        public static string CONFIRMATION_EMAIL_MESSAGE {
             get {
-                return ResourceManager.GetString("EMAIL_IS_IN_USE", resourceCulture);
+                return ResourceManager.GetString("CONFIRMATION_EMAIL_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A call has been placed to {0}. Check your phone for a flash (missed) call and enter the last {1} digits of the call number.
+        /// </summary>
+        public static string CONFIRMATION_FLASH_CALL_MESSAGE {
+            get {
+                return ResourceManager.GetString("CONFIRMATION_FLASH_CALL_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to An SMS has been sent to {0}. Check your phone’s SMS for the verification code and enter it below.
+        /// </summary>
+        public static string CONFIRMATION_SMS_MESSAGE {
+            get {
+                return ResourceManager.GetString("CONFIRMATION_SMS_MESSAGE", resourceCulture);
             }
         }
         
@@ -1753,6 +1771,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Password reset failed..
+        /// </summary>
+        public static string PASSWORD_RESET_FAILED_MESSAGE {
+            get {
+                return ResourceManager.GetString("PASSWORD_RESET_FAILED_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This account does not have a valid email..
+        /// </summary>
+        public static string PASSWORD_RESET_NO_VALID_EMAIL {
+            get {
+                return ResourceManager.GetString("PASSWORD_RESET_NO_VALID_EMAIL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This account does not have a valid phone..
+        /// </summary>
+        public static string PASSWORD_RESET_NO_VALID_MOBILE {
+            get {
+                return ResourceManager.GetString("PASSWORD_RESET_NO_VALID_MOBILE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Passwords do not match!.
         /// </summary>
         public static string PASSWORDS_DO_NOT_MATCH {
@@ -1762,20 +1807,29 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The phone number is in use..
-        /// </summary>
-        public static string PHONE_IS_IN_USE {
-            get {
-                return ResourceManager.GetString("PHONE_IS_IN_USE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to The phone number field is required..
         /// </summary>
         public static string PHONE_IS_REQUIRED {
             get {
                 return ResourceManager.GetString("PHONE_IS_REQUIRED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Message delivery impossible, check configuration..
+        /// </summary>
+        public static string PROVIDER_NO_ROUTE_FOR_DELIVERY {
+            get {
+                return ResourceManager.GetString("PROVIDER_NO_ROUTE_FOR_DELIVERY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Something went wrong. Contact front desk for info..
+        /// </summary>
+        public static string REGISTER_FAILED_MESSAGE {
+            get {
+                return ResourceManager.GetString("REGISTER_FAILED_MESSAGE", resourceCulture);
             }
         }
         
@@ -1821,6 +1875,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string TOP_UP_MINIMUM_AMOUNT_IS {
             get {
                 return ResourceManager.GetString("TOP_UP_MINIMUM_AMOUNT_IS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Retry with SMS.
+        /// </summary>
+        public static string UI_RETRY_WITH_SMS {
+            get {
+                return ResourceManager.GetString("UI_RETRY_WITH_SMS", resourceCulture);
             }
         }
         
@@ -1933,15 +1996,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Username is in use..
-        /// </summary>
-        public static string USERNAME_IS_IN_USE {
-            get {
-                return ResourceManager.GetString("USERNAME_IS_IN_USE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to The {0} field has an incorrect date value..
         /// </summary>
         public static string VALIDATION_ERROR_INVALID_DATE {
@@ -1965,6 +2019,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string VALIDATION_ERROR_REQUIRED_FIELD {
             get {
                 return ResourceManager.GetString("VALIDATION_ERROR_REQUIRED_FIELD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The specified email address is already in use.
+        /// </summary>
+        public static string VE_EMAIL_ADDRESS_USED {
+            get {
+                return ResourceManager.GetString("VE_EMAIL_ADDRESS_USED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The specified mobile phone number is already in use.
+        /// </summary>
+        public static string VE_MOBILE_PHONE_USED {
+            get {
+                return ResourceManager.GetString("VE_MOBILE_PHONE_USED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The specified username is already in use.
+        /// </summary>
+        public static string VE_USERNAME_USED {
+            get {
+                return ResourceManager.GetString("VE_USERNAME_USED", resourceCulture);
             }
         }
     }

@@ -141,8 +141,14 @@
   <data name="CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
     <value>The confirmation code is invalid.</value>
   </data>
-  <data name="EMAIL_IS_IN_USE" xml:space="preserve">
-    <value>The email is in use.</value>
+  <data name="CONFIRMATION_EMAIL_MESSAGE" xml:space="preserve">
+    <value>An email has been sent to {0}. Check your email for the verification code and enter it below</value>
+  </data>
+  <data name="CONFIRMATION_FLASH_CALL_MESSAGE" xml:space="preserve">
+    <value>A call has been placed to {0}. Check your phone for a flash (missed) call and enter the last {1} digits of the call number</value>
+  </data>
+  <data name="CONFIRMATION_SMS_MESSAGE" xml:space="preserve">
+    <value>An SMS has been sent to {0}. Check your phone’s SMS for the verification code and enter it below</value>
   </data>
   <data name="EMAIL_IS_REQUIRED" xml:space="preserve">
     <value>The e-mail field is required.</value>
@@ -684,11 +690,23 @@
   <data name="PASSWORDS_DO_NOT_MATCH" xml:space="preserve">
     <value>Passwords do not match!</value>
   </data>
-  <data name="PHONE_IS_IN_USE" xml:space="preserve">
-    <value>The phone number is in use.</value>
+  <data name="PASSWORD_RESET_FAILED_MESSAGE" xml:space="preserve">
+    <value>Password reset failed.</value>
+  </data>
+  <data name="PASSWORD_RESET_NO_VALID_EMAIL" xml:space="preserve">
+    <value>This account does not have a valid email.</value>
+  </data>
+  <data name="PASSWORD_RESET_NO_VALID_MOBILE" xml:space="preserve">
+    <value>This account does not have a valid phone.</value>
   </data>
   <data name="PHONE_IS_REQUIRED" xml:space="preserve">
     <value>The phone number field is required.</value>
+  </data>
+  <data name="PROVIDER_NO_ROUTE_FOR_DELIVERY" xml:space="preserve">
+    <value>Message delivery impossible, check configuration.</value>
+  </data>
+  <data name="REGISTER_FAILED_MESSAGE" xml:space="preserve">
+    <value>Something went wrong. Contact front desk for info.</value>
   </data>
   <data name="SELECT_SOMETHING" xml:space="preserve">
     <value>Select something</value>
@@ -704,6 +722,9 @@
   </data>
   <data name="TOP_UP_MINIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Minimum amount is {0}.</value>
+  </data>
+  <data name="UI_RETRY_WITH_SMS" xml:space="preserve">
+    <value>Retry with SMS</value>
   </data>
   <data name="UNSET_STRING_VALUE" xml:space="preserve">
     <value>Unset value</value>
@@ -722,9 +743,6 @@
   </data>
   <data name="UPDATE_NUMBER_SUCCESS_MESSAGE" xml:space="preserve">
     <value>We just sent you an SMS with a code. Enter it to verify your phone.</value>
-  </data>
-  <data name="USERNAME_IS_IN_USE" xml:space="preserve">
-    <value>The Username is in use.</value>
   </data>
   <data name="USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
     <value>Enter Code to Continue</value>
@@ -752,5 +770,14 @@
   </data>
   <data name="VALIDATION_ERROR_REQUIRED_FIELD" xml:space="preserve">
     <value>The field {0} is required.</value>
+  </data>
+  <data name="VE_EMAIL_ADDRESS_USED" xml:space="preserve">
+    <value>The specified email address is already in use</value>
+  </data>
+  <data name="VE_MOBILE_PHONE_USED" xml:space="preserve">
+    <value>The specified mobile phone number is already in use</value>
+  </data>
+  <data name="VE_USERNAME_USED" xml:space="preserve">
+    <value>The specified username is already in use</value>
   </data>
 </root>
