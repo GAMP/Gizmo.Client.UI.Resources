@@ -774,6 +774,21 @@
   <data name="VE_EMAIL_ADDRESS_USED" xml:space="preserve">
     <value>The specified email address is already in use</value>
   </data>
+  <data name="VE_ERROR_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
+    <value>Cannot validate email.</value>
+  </data>
+  <data name="VE_ERROR_CANNOT_VALIDATE_PHONE" xml:space="preserve">
+    <value>Cannot validate phone.</value>
+  </data>
+  <data name="VE_ERROR_CANNOT_VALIDATE_RECOVERY_TOKEN" xml:space="preserve">
+    <value>Check create account token validity error.</value>
+  </data>
+  <data name="VE_ERROR_CANNOT_VALIDATE_REGISTRATION_TOKEN" xml:space="preserve">
+    <value>Check password recovery token validity error.</value>
+  </data>
+  <data name="VE_ERROR_CANNOT_VALIDATE_USERNAME" xml:space="preserve">
+    <value>Cannot validate username.</value>
+  </data>
   <data name="VE_MOBILE_PHONE_USED" xml:space="preserve">
     <value>The specified mobile phone number is already in use</value>
   </data>

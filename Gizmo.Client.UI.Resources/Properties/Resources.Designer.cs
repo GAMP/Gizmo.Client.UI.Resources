@@ -2032,6 +2032,51 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cannot validate email..
+        /// </summary>
+        public static string VE_ERROR_CANNOT_VALIDATE_EMAIL {
+            get {
+                return ResourceManager.GetString("VE_ERROR_CANNOT_VALIDATE_EMAIL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cannot validate phone..
+        /// </summary>
+        public static string VE_ERROR_CANNOT_VALIDATE_PHONE {
+            get {
+                return ResourceManager.GetString("VE_ERROR_CANNOT_VALIDATE_PHONE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check create account token validity error..
+        /// </summary>
+        public static string VE_ERROR_CANNOT_VALIDATE_RECOVERY_TOKEN {
+            get {
+                return ResourceManager.GetString("VE_ERROR_CANNOT_VALIDATE_RECOVERY_TOKEN", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Check password recovery token validity error..
+        /// </summary>
+        public static string VE_ERROR_CANNOT_VALIDATE_REGISTRATION_TOKEN {
+            get {
+                return ResourceManager.GetString("VE_ERROR_CANNOT_VALIDATE_REGISTRATION_TOKEN", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cannot validate username..
+        /// </summary>
+        public static string VE_ERROR_CANNOT_VALIDATE_USERNAME {
+            get {
+                return ResourceManager.GetString("VE_ERROR_CANNOT_VALIDATE_USERNAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The specified mobile phone number is already in use.
         /// </summary>
         public static string VE_MOBILE_PHONE_USED {
