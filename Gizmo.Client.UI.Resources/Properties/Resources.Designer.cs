@@ -178,6 +178,132 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Application.
+        /// </summary>
+        public static string EXECUTABLE_MODE_APPLICATION {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_APPLICATION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Co-Op Lan.
+        /// </summary>
+        public static string EXECUTABLE_MODE_CO_OP {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_CO_OP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Co-Op Online.
+        /// </summary>
+        public static string EXECUTABLE_MODE_CO_OP_ONLINE {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_CO_OP_ONLINE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Free To Play.
+        /// </summary>
+        public static string EXECUTABLE_MODE_FREE_TO_PLAY {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_FREE_TO_PLAY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Free Trial.
+        /// </summary>
+        public static string EXECUTABLE_MODE_FREE_TRIAL {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_FREE_TRIAL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Game.
+        /// </summary>
+        public static string EXECUTABLE_MODE_GAME {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_GAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lan Multiplayer.
+        /// </summary>
+        public static string EXECUTABLE_MODE_MULTIPLAYER {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_MULTIPLAYER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to One Time Purchase.
+        /// </summary>
+        public static string EXECUTABLE_MODE_ONE_TIME_PURCHASE {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_ONE_TIME_PURCHASE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Online Multiplayer.
+        /// </summary>
+        public static string EXECUTABLE_MODE_ONLINE {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_ONLINE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Requires Subscription.
+        /// </summary>
+        public static string EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Settings.
+        /// </summary>
+        public static string EXECUTABLE_MODE_SETTINGS {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_SETTINGS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Single Player.
+        /// </summary>
+        public static string EXECUTABLE_MODE_SINGLE_PLAYER {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_SINGLE_PLAYER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Split Screen.
+        /// </summary>
+        public static string EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Utility.
+        /// </summary>
+        public static string EXECUTABLE_MODE_UTILITY {
+            get {
+                return ResourceManager.GetString("EXECUTABLE_MODE_UTILITY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Birth Date.
         /// </summary>
         public static string FIELD_BIRTH_DATE {

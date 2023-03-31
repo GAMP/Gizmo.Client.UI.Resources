@@ -156,6 +156,48 @@
   <data name="ENTER_THE_CODE" xml:space="preserve">
     <value>Enter the code</value>
   </data>
+  <data name="EXECUTABLE_MODE_APPLICATION" xml:space="preserve">
+    <value>Application</value>
+  </data>
+  <data name="EXECUTABLE_MODE_CO_OP" xml:space="preserve">
+    <value>Co-Op Lan</value>
+  </data>
+  <data name="EXECUTABLE_MODE_CO_OP_ONLINE" xml:space="preserve">
+    <value>Co-Op Online</value>
+  </data>
+  <data name="EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve">
+    <value>Free To Play</value>
+  </data>
+  <data name="EXECUTABLE_MODE_FREE_TRIAL" xml:space="preserve">
+    <value>Free Trial</value>
+  </data>
+  <data name="EXECUTABLE_MODE_GAME" xml:space="preserve">
+    <value>Game</value>
+  </data>
+  <data name="EXECUTABLE_MODE_MULTIPLAYER" xml:space="preserve">
+    <value>Lan Multiplayer</value>
+  </data>
+  <data name="EXECUTABLE_MODE_ONE_TIME_PURCHASE" xml:space="preserve">
+    <value>One Time Purchase</value>
+  </data>
+  <data name="EXECUTABLE_MODE_ONLINE" xml:space="preserve">
+    <value>Online Multiplayer</value>
+  </data>
+  <data name="EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve">
+    <value>Requires Subscription</value>
+  </data>
+  <data name="EXECUTABLE_MODE_SETTINGS" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve">
+    <value>Single Player</value>
+  </data>
+  <data name="EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve">
+    <value>Split Screen</value>
+  </data>
+  <data name="EXECUTABLE_MODE_UTILITY" xml:space="preserve">
+    <value>Utility</value>
+  </data>
   <data name="FIELD_BIRTH_DATE" xml:space="preserve">
     <value>Birth Date</value>
   </data>
