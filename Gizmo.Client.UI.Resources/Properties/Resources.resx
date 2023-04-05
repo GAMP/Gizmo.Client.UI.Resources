@@ -573,6 +573,18 @@
   <data name="GIZ_SYSTEM_VERSION" xml:space="preserve">
     <value>Version</value>
   </data>
+  <data name="GIZ_TIME_PRODUCT_HOUR" xml:space="preserve">
+    <value>Hour</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_HOURS" xml:space="preserve">
+    <value>Hours</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_MINUTES" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="GIZ_TOP_UP_CLEAR" xml:space="preserve">
+    <value>Clear</value>
+  </data>
   <data name="GIZ_TOP_UP_OR" xml:space="preserve">
     <value>Or</value>
   </data>

@@ -1429,6 +1429,42 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Hour.
+        /// </summary>
+        public static string GIZ_TIME_PRODUCT_HOUR {
+            get {
+                return ResourceManager.GetString("GIZ_TIME_PRODUCT_HOUR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hours.
+        /// </summary>
+        public static string GIZ_TIME_PRODUCT_HOURS {
+            get {
+                return ResourceManager.GetString("GIZ_TIME_PRODUCT_HOURS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Min.
+        /// </summary>
+        public static string GIZ_TIME_PRODUCT_MINUTES {
+            get {
+                return ResourceManager.GetString("GIZ_TIME_PRODUCT_MINUTES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clear.
+        /// </summary>
+        public static string GIZ_TOP_UP_CLEAR {
+            get {
+                return ResourceManager.GetString("GIZ_TOP_UP_CLEAR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Or.
         /// </summary>
         public static string GIZ_TOP_UP_OR {
