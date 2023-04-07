@@ -447,31 +447,31 @@
   <data name="GIZ_SYSTEM_VERSION" xml:space="preserve">
     <value>Version</value>
   </data>
-  <data name="GIZ_TOP_UP_OR" xml:space="preserve">
+  <data name="GIZ_USER_ONLINE_DEPOSIT_OR" xml:space="preserve">
     <value>Or</value>
   </data>
-  <data name="GIZ_TOP_UP_OR_ENTER_AMOUNT" xml:space="preserve">
+  <data name="GIZ_USER_ONLINE_DEPOSIT_OR_ENTER_AMOUNT" xml:space="preserve">
     <value>Or enter amount*</value>
   </data>
-  <data name="GIZ_TOP_UP_PAY_FROM_PC" xml:space="preserve">
+  <data name="GIZ_USER_ONLINE_DEPOSIT_PAY_FROM_PC" xml:space="preserve">
     <value>Pay from PC</value>
   </data>
-  <data name="GIZ_TOP_UP_PLACE_NEXT" xml:space="preserve">
+  <data name="GIZ_USER_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve">
     <value>Place Next: Payment informaition</value>
   </data>
-  <data name="GIZ_TOP_UP_QR_CODE" xml:space="preserve">
+  <data name="GIZ_USER_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve">
     <value>QR-code for payment on phone</value>
   </data>
-  <data name="GIZ_TOP_UP_QUICK_SELECT" xml:space="preserve">
+  <data name="GIZ_USER_ONLINE_DEPOSIT_QUICK_SELECT" xml:space="preserve">
     <value>Quick select</value>
   </data>
-  <data name="GIZ_TOP_UP_TITLE" xml:space="preserve">
+  <data name="GIZ_USER_ONLINE_DEPOSIT_TITLE" xml:space="preserve">
     <value>Top Up</value>
   </data>
-  <data name="GIZ_TOP_UP_TO_BE_PAID" xml:space="preserve">
+  <data name="GIZ_USER_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve">
     <value>To be paid:</value>
   </data>
-  <data name="GIZ_TOP_UP_WILL_BE_CREDITED" xml:space="preserve">
+  <data name="GIZ_USER_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve">
     <value>will be credited to your Account balance</value>
   </data>
   <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve">
@@ -528,7 +528,7 @@
   <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve">
     <value>Settings</value>
   </data>
-  <data name="GIZ_USER_MENU_TOP_UP" xml:space="preserve">
+  <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
     <value>Top Up</value>
   </data>
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">

@@ -1456,96 +1456,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Clear.
-        /// </summary>
-        public static string GIZ_TOP_UP_CLEAR {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_CLEAR", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Or.
-        /// </summary>
-        public static string GIZ_TOP_UP_OR {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_OR", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Or enter amount*.
-        /// </summary>
-        public static string GIZ_TOP_UP_OR_ENTER_AMOUNT {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_OR_ENTER_AMOUNT", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Pay from PC.
-        /// </summary>
-        public static string GIZ_TOP_UP_PAY_FROM_PC {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_PAY_FROM_PC", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Place Next: Payment informaition.
-        /// </summary>
-        public static string GIZ_TOP_UP_PLACE_NEXT {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_PLACE_NEXT", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to QR-code for payment on phone.
-        /// </summary>
-        public static string GIZ_TOP_UP_QR_CODE {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_QR_CODE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Quick select.
-        /// </summary>
-        public static string GIZ_TOP_UP_QUICK_SELECT {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_QUICK_SELECT", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Top Up.
-        /// </summary>
-        public static string GIZ_TOP_UP_TITLE {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_TITLE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to To be paid:.
-        /// </summary>
-        public static string GIZ_TOP_UP_TO_BE_PAID {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_TO_BE_PAID", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to will be credited to your Account balance.
-        /// </summary>
-        public static string GIZ_TOP_UP_WILL_BE_CREDITED {
-            get {
-                return ResourceManager.GetString("GIZ_TOP_UP_WILL_BE_CREDITED", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Additional Information.
         /// </summary>
         public static string GIZ_USER_ADDITIONAL_INFORMATION {
@@ -1719,9 +1629,99 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Top Up.
         /// </summary>
-        public static string GIZ_USER_MENU_TOP_UP {
+        public static string GIZ_USER_MENU_USER_ONLINE_DEPOSIT {
             get {
-                return ResourceManager.GetString("GIZ_USER_MENU_TOP_UP", resourceCulture);
+                return ResourceManager.GetString("GIZ_USER_MENU_USER_ONLINE_DEPOSIT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clear.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_CLEAR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_CLEAR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Or.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_OR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_OR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Or enter amount*.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_OR_ENTER_AMOUNT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_OR_ENTER_AMOUNT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pay from PC.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_PAY_FROM_PC {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_PAY_FROM_PC", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Place Next: Payment informaition.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_PLACE_NEXT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_PLACE_NEXT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to QR-code for payment on phone.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_QR_CODE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_QR_CODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Quick select.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_QUICK_SELECT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_QUICK_SELECT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Top Up.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To be paid:.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_TO_BE_PAID {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_TO_BE_PAID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to will be credited to your Account balance.
+        /// </summary>
+        public static string GIZ_USER_ONLINE_DEPOSIT_WILL_BE_CREDITED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ONLINE_DEPOSIT_WILL_BE_CREDITED", resourceCulture);
             }
         }
         
@@ -2032,15 +2032,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Minimum amount is {0}..
-        /// </summary>
-        public static string TOP_UP_MINIMUM_AMOUNT_IS {
-            get {
-                return ResourceManager.GetString("TOP_UP_MINIMUM_AMOUNT_IS", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Retry with SMS.
         /// </summary>
         public static string UI_RETRY_WITH_SMS {
@@ -2154,6 +2145,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string USER_LOCK_SCREEN_TITLE {
             get {
                 return ResourceManager.GetString("USER_LOCK_SCREEN_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Maximum amount is {0}..
+        /// </summary>
+        public static string USER_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS {
+            get {
+                return ResourceManager.GetString("USER_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Minimum amount is {0}..
+        /// </summary>
+        public static string USER_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS {
+            get {
+                return ResourceManager.GetString("USER_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS", resourceCulture);
             }
         }
         
