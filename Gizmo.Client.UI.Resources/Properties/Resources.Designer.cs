@@ -349,6 +349,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to All items.
+        /// </summary>
+        public static string GIZ_APPS_ALL_ITEMS {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_ALL_ITEMS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Autostart.
         /// </summary>
         public static string GIZ_APPS_AUTO_START {
@@ -412,6 +421,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to New releases.
+        /// </summary>
+        public static string GIZ_APPS_NEW_RELEASES {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_NEW_RELEASES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Parameters:.
         /// </summary>
         public static string GIZ_APPS_PARAMETERS {
@@ -439,11 +457,29 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Popular items.
+        /// </summary>
+        public static string GIZ_APPS_POPULAR_ITEMS {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_POPULAR_ITEMS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Publisher.
         /// </summary>
         public static string GIZ_APPS_PUBLISHER {
             get {
                 return ResourceManager.GetString("GIZ_APPS_PUBLISHER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Recently Added.
+        /// </summary>
+        public static string GIZ_APPS_RECENTLY_ADDED {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_RECENTLY_ADDED", resourceCulture);
             }
         }
         
