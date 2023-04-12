@@ -682,6 +682,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to or.
+        /// </summary>
+        public static string GIZ_GEN_OR {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_OR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Password.
         /// </summary>
         public static string GIZ_GEN_PASSWORD {
