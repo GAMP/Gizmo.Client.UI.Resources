@@ -2032,6 +2032,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to and.
+        /// </summary>
+        public static string PURCHASE_OPTION_AND {
+            get {
+                return ResourceManager.GetString("PURCHASE_OPTION_AND", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Free.
+        /// </summary>
+        public static string PURCHASE_OPTION_FREE {
+            get {
+                return ResourceManager.GetString("PURCHASE_OPTION_FREE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to or.
+        /// </summary>
+        public static string PURCHASE_OPTION_OR {
+            get {
+                return ResourceManager.GetString("PURCHASE_OPTION_OR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Something went wrong. Contact front desk for info..
         /// </summary>
         public static string REGISTER_FAILED_MESSAGE {

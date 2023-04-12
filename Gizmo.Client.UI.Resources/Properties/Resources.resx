@@ -867,4 +867,13 @@
   <data name="GIZ_GEN_OR" xml:space="preserve">
     <value>or</value>
   </data>
+  <data name="PURCHASE_OPTION_AND" xml:space="preserve">
+    <value>and</value>
+  </data>
+  <data name="PURCHASE_OPTION_FREE" xml:space="preserve">
+    <value>Free</value>
+  </data>
+  <data name="PURCHASE_OPTION_OR" xml:space="preserve">
+    <value>or</value>
+  </data>
 </root>
