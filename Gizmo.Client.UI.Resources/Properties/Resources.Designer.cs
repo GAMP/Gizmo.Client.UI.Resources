@@ -700,6 +700,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Phone.
+        /// </summary>
+        public static string GIZ_GEN_PHONE {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_PHONE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Phone number.
         /// </summary>
         public static string GIZ_GEN_PHONE_NUMBER {
@@ -1530,9 +1539,9 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Basic information.
         /// </summary>
-        public static string GIZ_USER_BASIC_INFORMATION {
+        public static string GIZ_USER_BASIC_INFO {
             get {
-                return ResourceManager.GetString("GIZ_USER_BASIC_INFORMATION", resourceCulture);
+                return ResourceManager.GetString("GIZ_USER_BASIC_INFO", resourceCulture);
             }
         }
         
@@ -1551,6 +1560,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_CHANGE_PASSWORD {
             get {
                 return ResourceManager.GetString("GIZ_USER_CHANGE_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Contact info.
+        /// </summary>
+        public static string GIZ_USER_CONTACT_INFO {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CONTACT_INFO", resourceCulture);
             }
         }
         
@@ -1794,6 +1812,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_PURCHASES {
             get {
                 return ResourceManager.GetString("GIZ_USER_PURCHASES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Security.
+        /// </summary>
+        public static string GIZ_USER_SECURITY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_SECURITY", resourceCulture);
             }
         }
         

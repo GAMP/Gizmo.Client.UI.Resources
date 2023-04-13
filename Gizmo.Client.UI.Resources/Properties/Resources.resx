@@ -621,7 +621,7 @@
   <data name="GIZ_USER_AVAILABLE_TIME" xml:space="preserve">
     <value>Available time</value>
   </data>
-  <data name="GIZ_USER_BASIC_INFORMATION" xml:space="preserve">
+  <data name="GIZ_USER_BASIC_INFO" xml:space="preserve">
     <value>Basic information</value>
   </data>
   <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve">
@@ -875,5 +875,14 @@
   </data>
   <data name="PURCHASE_OPTION_OR" xml:space="preserve">
     <value>or</value>
+  </data>
+  <data name="GIZ_GEN_PHONE" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve">
+    <value>Contact info</value>
+  </data>
+  <data name="GIZ_USER_SECURITY" xml:space="preserve">
+    <value>Security</value>
   </data>
 </root>
