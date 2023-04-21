@@ -885,4 +885,16 @@
   <data name="GIZ_USER_SECURITY" xml:space="preserve">
     <value>Security</value>
   </data>
+  <data name="GIZ_GEN_CLOSE" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="GIZ_USER_LOCATION" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="GIZ_USER_PROFILE_PICTURE_AND_USERNAME" xml:space="preserve">
+    <value>Profile picture and username</value>
+  </data>
+  <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve">
+    <value>Update password</value>
+  </data>
 </root>

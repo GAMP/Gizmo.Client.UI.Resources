@@ -619,6 +619,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Close.
+        /// </summary>
+        public static string GIZ_GEN_CLOSE {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_CLOSE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Confirm.
         /// </summary>
         public static string GIZ_GEN_CONFIRM {
@@ -1636,6 +1645,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Location.
+        /// </summary>
+        public static string GIZ_USER_LOCATION {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LOCATION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Mail and phone numbers.
         /// </summary>
         public static string GIZ_USER_MAIL_AND_PHONE_NUMBERS {
@@ -1807,6 +1825,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Profile picture and username.
+        /// </summary>
+        public static string GIZ_USER_PROFILE_PICTURE_AND_USERNAME {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PROFILE_PICTURE_AND_USERNAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Purchases.
         /// </summary>
         public static string GIZ_USER_PURCHASES {
@@ -1839,6 +1866,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_TRANSACTIONS {
             get {
                 return ResourceManager.GetString("GIZ_USER_TRANSACTIONS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Update password.
+        /// </summary>
+        public static string GIZ_USER_UPDATE_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_USER_UPDATE_PASSWORD", resourceCulture);
             }
         }
         
