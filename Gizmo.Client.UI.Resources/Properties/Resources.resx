@@ -897,4 +897,13 @@
   <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve">
     <value>Update password</value>
   </data>
+  <data name="ORDER_INVOICE_STATUS_PAID" xml:space="preserve">
+    <value>Paid</value>
+  </data>
+  <data name="ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve">
+    <value>Partialy paid</value>
+  </data>
+  <data name="ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve">
+    <value>Unpaid</value>
+  </data>
 </root>

@@ -2005,6 +2005,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Paid.
+        /// </summary>
+        public static string ORDER_INVOICE_STATUS_PAID {
+            get {
+                return ResourceManager.GetString("ORDER_INVOICE_STATUS_PAID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Partialy paid.
+        /// </summary>
+        public static string ORDER_INVOICE_STATUS_PARTIALY_PAID {
+            get {
+                return ResourceManager.GetString("ORDER_INVOICE_STATUS_PARTIALY_PAID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unpaid.
+        /// </summary>
+        public static string ORDER_INVOICE_STATUS_UNPAID {
+            get {
+                return ResourceManager.GetString("ORDER_INVOICE_STATUS_UNPAID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Accepted.
         /// </summary>
         public static string ORDER_STATUS_ACCEPTED {
