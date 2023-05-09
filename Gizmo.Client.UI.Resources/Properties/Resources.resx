@@ -357,13 +357,13 @@
   <data name="GIZ_GEN_VIEW_DETAILS" xml:space="preserve">
     <value>View details</value>
   </data>
-  <data name="GIZ_GLOBAL_SEARCH_ADD_TO_CART" xml:space="preserve">
+  <data name="GIZ_GEN_ADD_TO_CART" xml:space="preserve">
     <value>Add to cart</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_GAMES_AND_APPS" xml:space="preserve">
     <value>Games &amp; Apps</value>
   </data>
-  <data name="GIZ_GLOBAL_SEARCH_LAUNCH" xml:space="preserve">
+  <data name="GIZ_GEN_LAUNCH" xml:space="preserve">
     <value>Launch</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve">
@@ -905,5 +905,38 @@
   </data>
   <data name="ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve">
     <value>Unpaid</value>
+  </data>
+  <data name="GIZ_GEN_ERROR" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_POINTS" xml:space="preserve">
+    <value>Insufficient points.</value>
+  </data>
+  <data name="PAYMENT_METHOD_CASH" xml:space="preserve">
+    <value>Cash</value>
+  </data>
+  <data name="PAYMENT_METHOD_CREDIT_CARD" xml:space="preserve">
+    <value>Credit Card</value>
+  </data>
+  <data name="PAYMENT_METHOD_DEPOSIT" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="PAYMENT_METHOD_POINTS" xml:space="preserve">
+    <value>Points</value>
+  </data>
+  <data name="GIZ_GEN_CLEAR" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="GIZ_GEN_NO" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="GIZ_GEN_OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="GIZ_GEN_YES" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="GIZ_SHOP_VERIFY_CLEAR_CART" xml:space="preserve">
+    <value>Are you sure you want to clear you cart?</value>
   </data>
 </root>

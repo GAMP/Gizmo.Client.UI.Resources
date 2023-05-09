@@ -565,6 +565,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add to cart.
+        /// </summary>
+        public static string GIZ_GEN_ADD_TO_CART {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_ADD_TO_CART", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ads.
         /// </summary>
         public static string GIZ_GEN_ADS {
@@ -615,6 +624,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_GEN_CANCEL {
             get {
                 return ResourceManager.GetString("GIZ_GEN_CANCEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clear.
+        /// </summary>
+        public static string GIZ_GEN_CLEAR {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_CLEAR", resourceCulture);
             }
         }
         
@@ -682,11 +700,47 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Error.
+        /// </summary>
+        public static string GIZ_GEN_ERROR {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_ERROR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Launch.
+        /// </summary>
+        public static string GIZ_GEN_LAUNCH {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_LAUNCH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Mobile phone.
         /// </summary>
         public static string GIZ_GEN_MOBILE_PHONE {
             get {
                 return ResourceManager.GetString("GIZ_GEN_MOBILE_PHONE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No.
+        /// </summary>
+        public static string GIZ_GEN_NO {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_NO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to OK.
+        /// </summary>
+        public static string GIZ_GEN_OK {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_OK", resourceCulture);
             }
         }
         
@@ -844,11 +898,11 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add to cart.
+        ///   Looks up a localized string similar to Yes.
         /// </summary>
-        public static string GIZ_GLOBAL_SEARCH_ADD_TO_CART {
+        public static string GIZ_GEN_YES {
             get {
-                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_ADD_TO_CART", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_YES", resourceCulture);
             }
         }
         
@@ -858,15 +912,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_GLOBAL_SEARCH_GAMES_AND_APPS {
             get {
                 return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_GAMES_AND_APPS", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Launch.
-        /// </summary>
-        public static string GIZ_GLOBAL_SEARCH_LAUNCH {
-            get {
-                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_LAUNCH", resourceCulture);
             }
         }
         
@@ -912,6 +957,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_GLOBAL_SEARCH_SHOW_ALL {
             get {
                 return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_SHOW_ALL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Insufficient points..
+        /// </summary>
+        public static string GIZ_INSUFFICIENT_POINTS {
+            get {
+                return ResourceManager.GetString("GIZ_INSUFFICIENT_POINTS", resourceCulture);
             }
         }
         
@@ -1470,6 +1524,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_SHOP_TOTAL {
             get {
                 return ResourceManager.GetString("GIZ_SHOP_TOTAL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to clear you cart?.
+        /// </summary>
+        public static string GIZ_SHOP_VERIFY_CLEAR_CART {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_VERIFY_CLEAR_CART", resourceCulture);
             }
         }
         
@@ -2100,6 +2163,42 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string PASSWORDS_DO_NOT_MATCH {
             get {
                 return ResourceManager.GetString("PASSWORDS_DO_NOT_MATCH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cash.
+        /// </summary>
+        public static string PAYMENT_METHOD_CASH {
+            get {
+                return ResourceManager.GetString("PAYMENT_METHOD_CASH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit Card.
+        /// </summary>
+        public static string PAYMENT_METHOD_CREDIT_CARD {
+            get {
+                return ResourceManager.GetString("PAYMENT_METHOD_CREDIT_CARD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deposit.
+        /// </summary>
+        public static string PAYMENT_METHOD_DEPOSIT {
+            get {
+                return ResourceManager.GetString("PAYMENT_METHOD_DEPOSIT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Points.
+        /// </summary>
+        public static string PAYMENT_METHOD_POINTS {
+            get {
+                return ResourceManager.GetString("PAYMENT_METHOD_POINTS", resourceCulture);
             }
         }
         
