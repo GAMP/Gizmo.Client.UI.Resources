@@ -511,6 +511,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Show more.
+        /// </summary>
+        public static string GIZ_APPS_SHOW_MORE {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_SHOW_MORE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Terminate.
         /// </summary>
         public static string GIZ_APPS_TERMINATE {
