@@ -942,4 +942,10 @@
   <data name="GIZ_APPS_SHOW_MORE" xml:space="preserve">
     <value>Show more</value>
   </data>
+  <data name="GIZ_GEN_BACK" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="GIZ_GEN_DETAILS" xml:space="preserve">
+    <value>Details</value>
+  </data>
 </root>

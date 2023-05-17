@@ -610,6 +610,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Back.
+        /// </summary>
+        public static string GIZ_GEN_BACK {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_BACK", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Back to {0}.
         /// </summary>
         public static string GIZ_GEN_BACK_TO {
@@ -678,6 +687,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_GEN_CONTINUE {
             get {
                 return ResourceManager.GetString("GIZ_GEN_CONTINUE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Details.
+        /// </summary>
+        public static string GIZ_GEN_DETAILS {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_DETAILS", resourceCulture);
             }
         }
         
