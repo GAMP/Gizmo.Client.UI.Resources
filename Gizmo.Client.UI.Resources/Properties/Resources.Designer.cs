@@ -817,11 +817,29 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Popular apps.
+        /// </summary>
+        public static string GIZ_GEN_POPULAR_APPS {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_POPULAR_APPS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Popular items.
         /// </summary>
         public static string GIZ_GEN_POPULAR_ITEMS {
             get {
                 return ResourceManager.GetString("GIZ_GEN_POPULAR_ITEMS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Popular products.
+        /// </summary>
+        public static string GIZ_GEN_POPULAR_PRODUCTS {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_POPULAR_PRODUCTS", resourceCulture);
             }
         }
         
@@ -1321,6 +1339,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Sign in.
+        /// </summary>
+        public static string GIZ_REGISTRATION_SIGN_IN {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_SIGN_IN", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sign Up.
         /// </summary>
         public static string GIZ_REGISTRATION_SIGN_UP_BUTTON {
@@ -1335,15 +1362,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_REGISTRATION_SIGN_UP_TITLE {
             get {
                 return ResourceManager.GetString("GIZ_REGISTRATION_SIGN_UP_TITLE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Sign in.
-        /// </summary>
-        public static string GIZ_REGISTRATION_SIGN_IN {
-            get {
-                return ResourceManager.GetString("GIZ_REGISTRATION_SIGN_IN", resourceCulture);
             }
         }
         

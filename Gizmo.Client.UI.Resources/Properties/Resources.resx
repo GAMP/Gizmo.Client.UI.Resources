@@ -948,4 +948,10 @@
   <data name="GIZ_GEN_DETAILS" xml:space="preserve">
     <value>Details</value>
   </data>
+  <data name="GIZ_GEN_POPULAR_APPS" xml:space="preserve">
+    <value>Popular apps</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve">
+    <value>Popular products</value>
+  </data>
 </root>
