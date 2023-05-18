@@ -1341,9 +1341,9 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Sign in.
         /// </summary>
-        public static string GIZ_REGISTRATION_SIGN_ΙΝ {
+        public static string GIZ_REGISTRATION_SIGN_IN {
             get {
-                return ResourceManager.GetString("GIZ_REGISTRATION_SIGN_ΙΝ", resourceCulture);
+                return ResourceManager.GetString("GIZ_REGISTRATION_SIGN_IN", resourceCulture);
             }
         }
         
