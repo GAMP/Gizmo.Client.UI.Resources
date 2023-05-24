@@ -331,6 +331,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to of.
+        /// </summary>
+        public static string GIN_GEN_OF {
+            get {
+                return ResourceManager.GetString("GIN_GEN_OF", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Search.
         /// </summary>
         public static string GIN_GEN_SEARCH {
@@ -1308,6 +1317,141 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_PASSWORD_RULE_UPPER_CASE {
             get {
                 return ResourceManager.GetString("GIZ_PASSWORD_RULE_UPPER_CASE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Action time.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to after.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_AFTER {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_AFTER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to after logout.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to purchase.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to use.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Buying time.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to day.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_DAY {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_DAY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to days.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_DAYS {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_DAYS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to hour.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_HOUR {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_HOUR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to hours.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_HOURS {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_HOURS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to logout.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to minute.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_MINUTE {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_MINUTE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to minutes.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_MINUTES {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_MINUTES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to min.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Purchase History.
+        /// </summary>
+        public static string GIZ_PROFILE_PURCHASE_HISTORY {
+            get {
+                return ResourceManager.GetString("GIZ_PROFILE_PURCHASE_HISTORY", resourceCulture);
             }
         }
         
