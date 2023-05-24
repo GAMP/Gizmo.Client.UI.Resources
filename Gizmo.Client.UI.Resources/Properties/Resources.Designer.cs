@@ -322,6 +322,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Application failed to launch.
+        /// </summary>
+        public static string FN_APP_EXE_FAILURE {
+            get {
+                return ResourceManager.GetString("FN_APP_EXE_FAILURE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Get Code.
         /// </summary>
         public static string GET_CODE {

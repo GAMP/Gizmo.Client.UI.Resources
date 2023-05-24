@@ -954,4 +954,7 @@
   <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve">
     <value>Popular products</value>
   </data>
+  <data name="FN_APP_EXE_FAILURE" xml:space="preserve">
+    <value>Application failed to launch</value>
+  </data>
 </root>
