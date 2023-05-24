@@ -1438,6 +1438,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Expires after.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRES_AFTER {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRES_AFTER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to min.
         /// </summary>
         public static string GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED {

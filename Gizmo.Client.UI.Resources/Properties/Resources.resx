@@ -1002,4 +1002,7 @@
   <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve">
     <value>min</value>
   </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRES_AFTER" xml:space="preserve">
+    <value>Expires after</value>
+  </data>
 </root>
