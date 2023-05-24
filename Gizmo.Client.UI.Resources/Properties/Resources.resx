@@ -954,7 +954,58 @@
   <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve">
     <value>Popular products</value>
   </data>
-  <data name="FN_APP_EXE_FAILURE" xml:space="preserve">
-    <value>Application failed to launch</value>
+  <data name="GIZ_PROFILE_PURCHASE_HISTORY" xml:space="preserve">
+    <value>Purchase History</value>
+  </data>
+  <data name="GIN_GEN_OF" xml:space="preserve">
+    <value>of</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve">
+    <value>Action time</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER" xml:space="preserve">
+    <value>after</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve">
+    <value>after logout</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve">
+    <value>purchase</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve">
+    <value>use</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve">
+    <value>Buying time</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY" xml:space="preserve">
+    <value>day</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAYS" xml:space="preserve">
+    <value>days</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOUR" xml:space="preserve">
+    <value>hour</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS" xml:space="preserve">
+    <value>hours</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT" xml:space="preserve">
+    <value>logout</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE" xml:space="preserve">
+    <value>minute</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTES" xml:space="preserve">
+    <value>minutes</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve">
+    <value>min</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRES_AFTER" xml:space="preserve">
+    <value>Expires after</value>
+  </data>
+  <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve">
+    <value>pcs.</value>
   </data>
 </root>
