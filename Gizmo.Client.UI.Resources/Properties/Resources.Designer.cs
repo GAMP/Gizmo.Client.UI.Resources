@@ -817,6 +817,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to pcs..
+        /// </summary>
+        public static string GIZ_GEN_PIECES_ABBREVIATED {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_PIECES_ABBREVIATED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Points.
         /// </summary>
         public static string GIZ_GEN_POINTS {
