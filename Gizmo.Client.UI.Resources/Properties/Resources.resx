@@ -978,26 +978,26 @@
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve">
     <value>Buying time</value>
   </data>
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY" xml:space="preserve">
-    <value>day</value>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve">
+    <value>d.</value>
   </data>
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAYS" xml:space="preserve">
-    <value>days</value>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAYS_ABBREVIATED" xml:space="preserve">
+    <value>d.</value>
   </data>
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOUR" xml:space="preserve">
-    <value>hour</value>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOUR_ABBREVIATED" xml:space="preserve">
+    <value>h.</value>
   </data>
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS" xml:space="preserve">
-    <value>hours</value>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED" xml:space="preserve">
+    <value>h.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT" xml:space="preserve">
     <value>logout</value>
   </data>
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE" xml:space="preserve">
-    <value>minute</value>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve">
+    <value>m.</value>
   </data>
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTES" xml:space="preserve">
-    <value>minutes</value>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTES_ABBREVIATED" xml:space="preserve">
+    <value>m.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve">
     <value>min</value>
@@ -1007,5 +1007,8 @@
   </data>
   <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve">
     <value>pcs.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve">
+    <value>Expires</value>
   </data>
 </root>

@@ -322,15 +322,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Application failed to launch.
-        /// </summary>
-        public static string FN_APP_EXE_FAILURE {
-            get {
-                return ResourceManager.GetString("FN_APP_EXE_FAILURE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Get Code.
         /// </summary>
         public static string GET_CODE {
@@ -1393,38 +1384,38 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to day.
+        ///   Looks up a localized string similar to d..
         /// </summary>
-        public static string GIZ_PRODUCT_TIME_EXPIRATION_DAY {
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED {
             get {
-                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_DAY", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to days.
+        ///   Looks up a localized string similar to d..
         /// </summary>
-        public static string GIZ_PRODUCT_TIME_EXPIRATION_DAYS {
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_DAYS_ABBREVIATED {
             get {
-                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_DAYS", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_DAYS_ABBREVIATED", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to hour.
+        ///   Looks up a localized string similar to h..
         /// </summary>
-        public static string GIZ_PRODUCT_TIME_EXPIRATION_HOUR {
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_HOUR_ABBREVIATED {
             get {
-                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_HOUR", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_HOUR_ABBREVIATED", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to hours.
+        ///   Looks up a localized string similar to h..
         /// </summary>
-        public static string GIZ_PRODUCT_TIME_EXPIRATION_HOURS {
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED {
             get {
-                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_HOURS", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED", resourceCulture);
             }
         }
         
@@ -1438,20 +1429,29 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to minute.
+        ///   Looks up a localized string similar to m..
         /// </summary>
-        public static string GIZ_PRODUCT_TIME_EXPIRATION_MINUTE {
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED {
             get {
-                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_MINUTE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to minutes.
+        ///   Looks up a localized string similar to m..
         /// </summary>
-        public static string GIZ_PRODUCT_TIME_EXPIRATION_MINUTES {
+        public static string GIZ_PRODUCT_TIME_EXPIRATION_MINUTES_ABBREVIATED {
             get {
-                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_MINUTES", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_MINUTES_ABBREVIATED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Expires.
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_EXPIRES {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRES", resourceCulture);
             }
         }
         
