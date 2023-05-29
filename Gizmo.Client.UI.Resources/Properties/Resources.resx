@@ -1011,4 +1011,7 @@
   <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve">
     <value>Expires</value>
   </data>
+  <data name="FN_APP_EXE_FAILURE" xml:space="preserve">
+    <value>Application failed to launch</value>
+  </data>
 </root>
