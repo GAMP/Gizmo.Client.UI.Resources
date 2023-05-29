@@ -1011,4 +1011,10 @@
   <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve">
     <value>Expires</value>
   </data>
+  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION" xml:space="preserve">
+    <value>Bundle description:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_PURCHASE_DETAILS" xml:space="preserve">
+    <value>Purchase details:</value>
+  </data>
 </root>

@@ -1546,11 +1546,29 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Bundle description:.
+        /// </summary>
+        public static string GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Bundle includes:.
         /// </summary>
         public static string GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES {
             get {
                 return ResourceManager.GetString("GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Purchase details:.
+        /// </summary>
+        public static string GIZ_SHOP_CARD_PURCHASE_DETAILS {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_CARD_PURCHASE_DETAILS", resourceCulture);
             }
         }
         
