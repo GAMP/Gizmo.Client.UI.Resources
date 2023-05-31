@@ -754,6 +754,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to From.
+        /// </summary>
+        public static string GIZ_GEN_FROM {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_FROM", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Launch.
         /// </summary>
         public static string GIZ_GEN_LAUNCH {
@@ -934,6 +943,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Until.
+        /// </summary>
+        public static string GIZ_GEN_UNTIL {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_UNTIL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Update.
         /// </summary>
         public static string GIZ_GEN_UPDATE {
@@ -966,6 +984,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_GEN_VIEW_DETAILS {
             get {
                 return ResourceManager.GetString("GIZ_GEN_VIEW_DETAILS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Warning.
+        /// </summary>
+        public static string GIZ_GEN_WARNING {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_WARNING", resourceCulture);
             }
         }
         
@@ -1339,6 +1366,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Currently not available..
+        /// </summary>
+        public static string GIZ_PRODUCT_CURRENTLY_NOT_AVAILABLE {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_CURRENTLY_NOT_AVAILABLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not available anymore..
+        /// </summary>
+        public static string GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not yet available..
+        /// </summary>
+        public static string GIZ_PRODUCT_NOT_YET_AVAILABLE {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_NOT_YET_AVAILABLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Action time.
         /// </summary>
         public static string GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME {
@@ -1479,6 +1533,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED {
             get {
                 return ResourceManager.GetString("GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not available on this host..
+        /// </summary>
+        public static string GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST", resourceCulture);
             }
         }
         
@@ -2199,6 +2262,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_VERIFICATION_SEND_CODE {
             get {
                 return ResourceManager.GetString("GIZ_VERIFICATION_SEND_CODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You cannot use this product for the moment. Are you sure you want to buy this product?.
+        /// </summary>
+        public static string GIZ_VERIFY_PRODUCT_TIME_CURRENTLY_UNAVAILABLE {
+            get {
+                return ResourceManager.GetString("GIZ_VERIFY_PRODUCT_TIME_CURRENTLY_UNAVAILABLE", resourceCulture);
             }
         }
         
