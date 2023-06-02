@@ -1044,4 +1044,13 @@
   <data name="GIZ_VERIFY_PRODUCT_TIME_CURRENTLY_UNAVAILABLE" xml:space="preserve">
     <value>You cannot use this product for the moment. Are you sure you want to buy this product?</value>
   </data>
+  <data name="GIZ_GEN_NEVER" xml:space="preserve">
+    <value>Never</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_EARNED_POINTS" xml:space="preserve">
+    <value>Earned points:</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve">
+    <value>Order comments:</value>
+  </data>
 </root>

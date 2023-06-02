@@ -781,6 +781,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Never.
+        /// </summary>
+        public static string GIZ_GEN_NEVER {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_NEVER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to No.
         /// </summary>
         public static string GIZ_GEN_NO {
@@ -2208,6 +2217,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_PURCHASES {
             get {
                 return ResourceManager.GetString("GIZ_USER_PURCHASES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Earned points:.
+        /// </summary>
+        public static string GIZ_USER_PURCHASES_EARNED_POINTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PURCHASES_EARNED_POINTS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Order comments:.
+        /// </summary>
+        public static string GIZ_USER_PURCHASES_ORDER_NOTE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PURCHASES_ORDER_NOTE", resourceCulture);
             }
         }
         
