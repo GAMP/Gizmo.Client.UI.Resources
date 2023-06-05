@@ -322,7 +322,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Application failed to launch.
+        ///   Looks up a localized string similar to {0} failed to launch :(.
         /// </summary>
         public static string FN_APP_EXE_FAILURE {
             get {
