@@ -988,6 +988,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Success.
+        /// </summary>
+        public static string GIZ_GEN_SUCCESS {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_SUCCESS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Time.
         /// </summary>
         public static string GIZ_GEN_TIME {
@@ -1708,6 +1717,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Less.
+        /// </summary>
+        public static string GIZ_PRODUCT_DETAILS_LESS {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_DETAILS_LESS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to More.
+        /// </summary>
+        public static string GIZ_PRODUCT_DETAILS_MORE {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_DETAILS_MORE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Not available anymore..
         /// </summary>
         public static string GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE {
@@ -2329,6 +2356,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Privacy Policy and Terms of Use.
+        /// </summary>
+        public static string GIZ_USER_AGREEMENT_DIALOG_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_AGREEMENT_DIALOG_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Available time.
         /// </summary>
         public static string GIZ_USER_AVAILABLE_TIME {
@@ -2455,6 +2491,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The confirmation code field is required..
+        /// </summary>
+        public static string GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The e-mail field is required..
         /// </summary>
         public static string GIZ_USER_CONFIRMATION_VE_EMAIL_IS_REQUIRED {
@@ -2572,6 +2617,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Incorrect PIN.
+        /// </summary>
+        public static string GIZ_USER_LOCK_SCREEN_INCORRECT_PIN {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LOCK_SCREEN_INCORRECT_PIN", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Profile Lock is currently on.
         /// </summary>
         public static string GIZ_USER_LOCK_SCREEN_LOCKED_SUBTITLE {
@@ -2604,6 +2658,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_LOCK_SCREEN_TITLE {
             get {
                 return ResourceManager.GetString("GIZ_USER_LOCK_SCREEN_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Password should have 4 digits!.
+        /// </summary>
+        public static string GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH", resourceCulture);
             }
         }
         

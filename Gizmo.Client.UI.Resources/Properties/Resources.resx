@@ -1044,4 +1044,25 @@
   <data name="GIZ_GEN_PAYMENT_METHOD_DEPOSIT" xml:space="preserve">
     <value>Deposit</value>
   </data>
+  <data name="GIZ_GEN_SUCCESS" xml:space="preserve">
+    <value>Success</value>
+  </data>
+  <data name="GIZ_PRODUCT_DETAILS_LESS" xml:space="preserve">
+    <value>Less</value>
+  </data>
+  <data name="GIZ_PRODUCT_DETAILS_MORE" xml:space="preserve">
+    <value>More</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED" xml:space="preserve">
+    <value>The confirmation code field is required.</value>
+  </data>
+  <data name="GIZ_USER_AGREEMENT_DIALOG_TITLE" xml:space="preserve">
+    <value>Privacy Policy and Terms of Use</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_INCORRECT_PIN" xml:space="preserve">
+    <value>Incorrect PIN</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve">
+    <value>Password should have 4 digits!</value>
+  </data>
 </root>
