@@ -360,10 +360,10 @@
   <data name="GIZ_GEN_LAUNCH" xml:space="preserve">
     <value>Launch</value>
   </data>
-  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve">
+  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE" xml:space="preserve">
     <value>We didn't find anything</value>
   </data>
-  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_RETRY_MESSAGE" xml:space="preserve">
+  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve">
     <value>Try different keywords or make sure everything is spelled correctly.</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_PLACEHOLDER" xml:space="preserve">
@@ -1064,5 +1064,11 @@
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve">
     <value>Password should have 4 digits!</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve">
+    <value>Please enter at least {0} characters.</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE" xml:space="preserve">
+    <value>Not enough characters</value>
   </data>
 </root>

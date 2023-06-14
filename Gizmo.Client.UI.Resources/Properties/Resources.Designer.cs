@@ -1114,7 +1114,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We didn&apos;t find anything.
+        ///   Looks up a localized string similar to Try different keywords or make sure everything is spelled correctly..
         /// </summary>
         public static string GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE {
             get {
@@ -1123,11 +1123,29 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Try different keywords or make sure everything is spelled correctly..
+        ///   Looks up a localized string similar to We didn&apos;t find anything.
         /// </summary>
-        public static string GIZ_GLOBAL_SEARCH_NO_RESULTS_RETRY_MESSAGE {
+        public static string GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE {
             get {
-                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_NO_RESULTS_RETRY_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please enter at least {0} characters..
+        /// </summary>
+        public static string GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not enough characters.
+        /// </summary>
+        public static string GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE", resourceCulture);
             }
         }
         
