@@ -2419,6 +2419,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Old password is required..
+        /// </summary>
+        public static string GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The confirmation code is invalid..
         /// </summary>
         public static string GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID {
