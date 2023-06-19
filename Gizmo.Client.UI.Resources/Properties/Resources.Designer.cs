@@ -187,6 +187,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cancel.
+        /// </summary>
+        public static string GIZ_APPS_CANCEL {
+            get {
+                return ResourceManager.GetString("GIZ_APPS_CANCEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Category:.
         /// </summary>
         public static string GIZ_APPS_CATEGORY {

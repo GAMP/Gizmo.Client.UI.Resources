@@ -1074,4 +1074,7 @@
   <data name="GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED" xml:space="preserve">
     <value>Old password is required.</value>
   </data>
+  <data name="GIZ_APPS_CANCEL" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
 </root>
