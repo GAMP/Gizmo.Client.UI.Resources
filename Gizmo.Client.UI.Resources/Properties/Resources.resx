@@ -891,7 +891,7 @@
   <data name="GIZ_GEN_ERROR" xml:space="preserve">
     <value>Error</value>
   </data>
-  <data name="GIZ_INSUFFICIENT_POINTS" xml:space="preserve">
+  <data name="GIZ_INSUFFICIENT_POINTS_MESSAGE" xml:space="preserve">
     <value>Insufficient points.</value>
   </data>
   <data name="GIZ_GEN_PAYMENT_METHOD_POINTS" xml:space="preserve">
@@ -1076,5 +1076,77 @@
   </data>
   <data name="GIZ_APPS_CANCEL" xml:space="preserve">
     <value>Cancel</value>
+  </data>
+  <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Are you sure you want to logout?</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Ordering is currently disallowed</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve">
+    <value>Your usergroup cannot purchase this product</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve">
+    <value>Something went wrong</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Only members can purchase this product</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve">
+    <value>Invalid product id</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve">
+    <value>Invalid user id</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve">
+    <value>The product is out of stock</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Product purchase is not allowed at this time</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Product sale is currently disallowed</value>
+  </data>
+  <data name="PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve">
+    <value>Success</value>
+  </data>
+  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
+    <value>You are not old enough!</value>
+  </data>
+  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve">
+    <value>Age rating</value>
+  </data>
+  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve">
+    <value>You can only run one application!</value>
+  </data>
+  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve">
+    <value>Maximum applications</value>
+  </data>
+  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Are you sure you want to abort this executable?</value>
+  </data>
+  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Are you sure you want to repair this executable?</value>
+  </data>
+  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Are you sure you want to terminate this executable?</value>
+  </data>
+  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
+    <value>An error has occurred. Change password failed!</value>
+  </data>
+  <data name="GIZ_LOGOUT_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
+    <value>You don't have enough deposits to make this order.</value>
   </data>
 </root>

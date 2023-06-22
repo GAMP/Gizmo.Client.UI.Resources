@@ -70,6 +70,96 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to abort this executable?.
+        /// </summary>
+        public static string GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Verify.
+        /// </summary>
+        public static string GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You are not old enough!.
+        /// </summary>
+        public static string GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Age rating.
+        /// </summary>
+        public static string GIZ_APP_EXE_AGE_RATING_WARNING_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_AGE_RATING_WARNING_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can only run one application!.
+        /// </summary>
+        public static string GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Maximum applications.
+        /// </summary>
+        public static string GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to repair this executable?.
+        /// </summary>
+        public static string GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Verify.
+        /// </summary>
+        public static string GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to terminate this executable?.
+        /// </summary>
+        public static string GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Verify.
+        /// </summary>
+        public static string GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to All games and apps.
         /// </summary>
         public static string GIZ_APP_FILTERS_ALL_GAMES_AND_APPS {
@@ -399,6 +489,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD {
             get {
                 return ResourceManager.GetString("GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to An error has occurred. Change password failed!.
+        /// </summary>
+        public static string GIZ_CHANGE_PASSWORD_ERROR_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CHANGE_PASSWORD_ERROR_MESSAGE", resourceCulture);
             }
         }
         
@@ -1204,11 +1303,20 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You don&apos;t have enough deposits to make this order..
+        /// </summary>
+        public static string GIZ_INSUFFICIENT_DEPOSITS_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_INSUFFICIENT_DEPOSITS_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Insufficient points..
         /// </summary>
-        public static string GIZ_INSUFFICIENT_POINTS {
+        public static string GIZ_INSUFFICIENT_POINTS_MESSAGE {
             get {
-                return ResourceManager.GetString("GIZ_INSUFFICIENT_POINTS", resourceCulture);
+                return ResourceManager.GetString("GIZ_INSUFFICIENT_POINTS_MESSAGE", resourceCulture);
             }
         }
         
@@ -1299,6 +1407,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_LOGIN_SIGN_UP_NOW {
             get {
                 return ResourceManager.GetString("GIZ_LOGIN_SIGN_UP_NOW", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to logout?.
+        /// </summary>
+        public static string GIZ_LOGOUT_VERIFICATION_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_LOGOUT_VERIFICATION_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Verify.
+        /// </summary>
+        public static string GIZ_LOGOUT_VERIFICATION_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_LOGOUT_VERIFICATION_TITLE", resourceCulture);
             }
         }
         
@@ -2937,6 +3063,96 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_USERNAME_MESSAGE {
             get {
                 return ResourceManager.GetString("GIZ_USER_USERNAME_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ordering is currently disallowed.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your usergroup cannot purchase this product.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Something went wrong.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Only members can purchase this product.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Invalid product id.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Invalid user id.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The product is out of stock.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Product purchase is not allowed at this time.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Product sale is currently disallowed.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Success.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE", resourceCulture);
             }
         }
     }
