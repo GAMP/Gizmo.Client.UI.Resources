@@ -1117,7 +1117,7 @@
     <value>Age rating</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve">
-    <value>You can only run one application!</value>
+    <value>You are already running an application. Press accept to terminate any running application and continue.</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve">
     <value>Maximum applications</value>
@@ -1154,5 +1154,8 @@
   </data>
   <data name="PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve">
     <value>Error</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
+    <value>Wrong password</value>
   </data>
 </root>

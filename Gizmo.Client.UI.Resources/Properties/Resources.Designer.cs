@@ -106,7 +106,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can only run one application!.
+        ///   Looks up a localized string similar to You are already running an application. Press accept to terminate any running application and continue..
         /// </summary>
         public static string GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE {
             get {
@@ -507,6 +507,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_CHANGE_PASSWORD_NEW_PASSWORD {
             get {
                 return ResourceManager.GetString("GIZ_CHANGE_PASSWORD_NEW_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wrong password.
+        /// </summary>
+        public static string GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE", resourceCulture);
             }
         }
         
