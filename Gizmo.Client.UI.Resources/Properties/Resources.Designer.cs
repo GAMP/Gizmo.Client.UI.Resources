@@ -1314,9 +1314,18 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Insufficient points..
         /// </summary>
-        public static string GIZ_INSUFFICIENT_POINTS_MESSAGE {
+        public static string GIZ_INSUFFICIENT_POINTS_ERROR_MESSAGE {
             get {
-                return ResourceManager.GetString("GIZ_INSUFFICIENT_POINTS_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_INSUFFICIENT_POINTS_ERROR_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Error.
+        /// </summary>
+        public static string GIZ_INSUFFICIENT_POINTS_ERROR_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_INSUFFICIENT_POINTS_ERROR_TITLE", resourceCulture);
             }
         }
         
@@ -3090,6 +3099,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE {
             get {
                 return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Error.
+        /// </summary>
+        public static string PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE {
+            get {
+                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE", resourceCulture);
             }
         }
         
