@@ -3087,99 +3087,99 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Ordering is currently disallowed.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Your usergroup cannot purchase this product.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Something went wrong.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Error.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Only members can purchase this product.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Invalid product id.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Invalid user id.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to The product is out of stock.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Product purchase is not allowed at this time.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Product sale is currently disallowed.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Success.
         /// </summary>
-        public static string PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE {
+        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE {
             get {
-                return ResourceManager.GetString("PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE", resourceCulture);
             }
         }
     }
