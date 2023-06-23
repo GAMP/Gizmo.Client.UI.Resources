@@ -1564,15 +1564,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Time product.
-        /// </summary>
-        public static string GIZ_MENU_TIME_PRODUCT {
-            get {
-                return ResourceManager.GetString("GIZ_MENU_TIME_PRODUCT", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Apps page.
         /// </summary>
         public static string GIZ_MODULE_PAGE_APPS_DESCRIPTION {

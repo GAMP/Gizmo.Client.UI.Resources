@@ -408,9 +408,6 @@
   <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve">
     <value>Balance Hidden</value>
   </data>
-  <data name="GIZ_MENU_TIME_PRODUCT" xml:space="preserve">
-    <value>Time product</value>
-  </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
     <value>Mark as all read</value>
   </data>
