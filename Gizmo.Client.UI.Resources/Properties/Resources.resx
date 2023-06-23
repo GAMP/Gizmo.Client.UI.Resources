@@ -1158,4 +1158,40 @@
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
     <value>Wrong password</value>
   </data>
+  <data name="GIZ_LOGIN_RESULT_ACCOUNT_DISABLED" xml:space="preserve">
+    <value>Your account is disabled</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_ALREADY_LOGGED_IN" xml:space="preserve">
+    <value>Already logged in</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_DENIED" xml:space="preserve">
+    <value>Denied</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve">
+    <value>General failure</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve">
+    <value>Insufficient balance</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_CREDENTIALS" xml:space="preserve">
+    <value>Invalid credentials</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_PARAMETERS" xml:space="preserve">
+    <value>Invalid parameters</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve">
+    <value>Invalid password</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve">
+    <value>Invalid user name</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_MAX_SESSIONS_REACHED" xml:space="preserve">
+    <value>Maximum sessions reached</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve">
+    <value>Not in waiting line</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve">
+    <value>Success</value>
+  </data>
 </root>
