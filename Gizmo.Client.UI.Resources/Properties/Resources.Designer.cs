@@ -2707,6 +2707,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Rate.
+        /// </summary>
+        public static string GIZ_USAGE_TYPE_RATE {
+            get {
+                return ResourceManager.GetString("GIZ_USAGE_TYPE_RATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fixed time.
+        /// </summary>
+        public static string GIZ_USAGE_TYPE_TIME_FIXED {
+            get {
+                return ResourceManager.GetString("GIZ_USAGE_TYPE_TIME_FIXED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time product.
+        /// </summary>
+        public static string GIZ_USAGE_TYPE_TIME_PRODUCT {
+            get {
+                return ResourceManager.GetString("GIZ_USAGE_TYPE_TIME_PRODUCT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Additional Information.
         /// </summary>
         public static string GIZ_USER_ADDITIONAL_INFORMATION {
