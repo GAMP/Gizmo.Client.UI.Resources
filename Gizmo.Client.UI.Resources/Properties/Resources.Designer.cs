@@ -2311,6 +2311,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Please enter your e-mail to create an account..
+        /// </summary>
+        public static string GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Enter your email.
         /// </summary>
         public static string GIZ_REGISTRATION_ENTER_YOUR_EMAIL {
