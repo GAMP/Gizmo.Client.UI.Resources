@@ -1294,6 +1294,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Logout.
+        /// </summary>
+        public static string GIZ_GRACE_PERDIOD_LOGOUT {
+            get {
+                return ResourceManager.GetString("GIZ_GRACE_PERDIOD_LOGOUT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your time has expired.&lt;br&gt;Refill at the front desk or&lt;br&gt;click &quot;logout&quot; to end your session..
+        /// </summary>
+        public static string GIZ_GRACE_PERIOD_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_GRACE_PERIOD_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Login is currently blocked..
         /// </summary>
         public static string GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED {
