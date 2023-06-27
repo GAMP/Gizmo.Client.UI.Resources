@@ -1960,7 +1960,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 8-24 characters.
+        ///   Looks up a localized string similar to {0}-{1} characters.
         /// </summary>
         public static string GIZ_PASSWORD_RULE_LENGTH {
             get {

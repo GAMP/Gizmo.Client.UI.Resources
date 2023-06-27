@@ -460,7 +460,7 @@
     <value>Great! Now come up with a new password and you're all set</value>
   </data>
   <data name="GIZ_PASSWORD_RULE_LENGTH" xml:space="preserve">
-    <value>8-24 characters</value>
+    <value>{0}-{1} characters</value>
   </data>
   <data name="GIZ_PASSWORD_RULE_LOWER_CASE" xml:space="preserve">
     <value>At least 1 lowercace letter</value>
