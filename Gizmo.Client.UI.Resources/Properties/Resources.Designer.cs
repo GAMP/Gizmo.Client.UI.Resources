@@ -2698,6 +2698,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Out of Order.
+        /// </summary>
+        public static string GIZ_SYSTEM_OUT_OF_ORDER {
+            get {
+                return ResourceManager.GetString("GIZ_SYSTEM_OUT_OF_ORDER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Version.
         /// </summary>
         public static string GIZ_SYSTEM_VERSION {

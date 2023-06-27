@@ -1209,4 +1209,7 @@
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
     <value>Your time has expired.&lt;br&gt;Refill at the front desk or&lt;br&gt;click "logout" to end your session.</value>
   </data>
+  <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve">
+    <value>Out of Order</value>
+  </data>
 </root>
