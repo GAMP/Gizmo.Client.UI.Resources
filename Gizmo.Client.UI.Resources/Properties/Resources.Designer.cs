@@ -1960,15 +1960,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0}-{1} characters.
-        /// </summary>
-        public static string GIZ_PASSWORD_RULE_LENGTH {
-            get {
-                return ResourceManager.GetString("GIZ_PASSWORD_RULE_LENGTH", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to At least 1 lowercace letter.
         /// </summary>
         public static string GIZ_PASSWORD_RULE_LOWER_CASE {
@@ -1978,11 +1969,38 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Maximum {0} characters.
+        /// </summary>
+        public static string GIZ_PASSWORD_RULE_MAX_LENGTH {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RULE_MAX_LENGTH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Minimum {0} characters.
+        /// </summary>
+        public static string GIZ_PASSWORD_RULE_MIN_LENGTH {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RULE_MIN_LENGTH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to At least 1 number.
         /// </summary>
         public static string GIZ_PASSWORD_RULE_NUMBER {
             get {
                 return ResourceManager.GetString("GIZ_PASSWORD_RULE_NUMBER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0}-{1} characters.
+        /// </summary>
+        public static string GIZ_PASSWORD_RULE_RANGE_LENGTH {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RULE_RANGE_LENGTH", resourceCulture);
             }
         }
         
