@@ -117,4 +117,1108 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
+    <value>Όλα τα παιχνίδια και οι εφαρμογές</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve">
+    <value>Προσθήκη ημερομηνίας</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
+    <value>Δημοτικότητα</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve">
+    <value>Εκτίμηση</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve">
+    <value>Ημερομηνία κυκλοφορίας</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve">
+    <value>Τίτλος</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve">
+    <value>Χρήση</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
+    <value>Ο κωδικός επιβεβαίωσης δεν είναι έγκυρος.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_EMAIL_MESSAGE" xml:space="preserve">
+    <value>Έχει σταλεί ένα μήνυμα ηλεκτρονικού ταχυδρομείου στη διεύθυνση {0}. Ελέγξτε το email σας για τον κωδικό επαλήθευσης και πληκτρολογήστε τον παρακάτω</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_FLASH_CALL_MESSAGE" xml:space="preserve">
+    <value>Πραγματοποιήθηκε μια κλήση στο {0}. Ελέγξτε το τηλέφωνό σας για άμεση (αναπάντητη) κλήση και εισαγάγετε τα τελευταία {1} ψηφία του αριθμού κλήσης</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_SMS_MESSAGE" xml:space="preserve">
+    <value>Έχει σταλεί ένα SMS στη διεύθυνση {0}. Ελέγξτε το SMS του τηλεφώνου σας για τον κωδικό επαλήθευσης και πληκτρολογήστε τον παρακάτω</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_EMAIL_IS_REQUIRED" xml:space="preserve">
+    <value>Το πεδίο e-mail είναι υποχρεωτικό.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_ENTER_CONFIRMATION_CODE" xml:space="preserve">
+    <value>Εισάγετε τον κωδικό</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_APPLICATION" xml:space="preserve">
+    <value>Εφαρμογή</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_CO_OP" xml:space="preserve">
+    <value>Co-Op Lan</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_CO_OP_ONLINE" xml:space="preserve">
+    <value>Co-Op Online</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve">
+    <value>Δωρεάν για να παίξεις</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_FREE_TRIAL" xml:space="preserve">
+    <value>Δωρεάν δοκιμή</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_GAME" xml:space="preserve">
+    <value>Παιχνίδι</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_MULTIPLAYER" xml:space="preserve">
+    <value>Lan Multiplayer</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_ONE_TIME_PURCHASE" xml:space="preserve">
+    <value>Εφάπαξ Αγορά</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_ONLINE" xml:space="preserve">
+    <value>Online Multiplayer</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve">
+    <value>Απαιτεί συνδρομή</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_SETTINGS" xml:space="preserve">
+    <value>Ρυθμίσεις</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve">
+    <value>Μονος παιχτης</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve">
+    <value>Χωρισμένη οθόνη</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_UTILITY" xml:space="preserve">
+    <value>Χρησιμότητα</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_GET_CONFIRMATION_CODE" xml:space="preserve">
+    <value>Πάρετε τον κωδικό</value>
+  </data>
+  <data name="GIZ_GEN_SEARCH" xml:space="preserve">
+    <value>Αναζήτηση</value>
+  </data>
+  <data name="GIZ_ACTIVE_APPS_TITLE" xml:space="preserve">
+    <value>Ενεργές εφαρμογές</value>
+  </data>
+  <data name="GIZ_APPS_AUTO_START" xml:space="preserve">
+    <value>Αυτόματη εκκίνηση</value>
+  </data>
+  <data name="GIZ_APPS_CATEGORY" xml:space="preserve">
+    <value>Κατηγορία:</value>
+  </data>
+  <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve">
+    <value>Ημερομηνία προστέθηκε</value>
+  </data>
+  <data name="GIZ_APPS_LAUNCH" xml:space="preserve">
+    <value>Εκτόξευση</value>
+  </data>
+  <data name="GIZ_APPS_LINKS" xml:space="preserve">
+    <value>Συνδέσεις</value>
+  </data>
+  <data name="GIZ_APPS_LOADING" xml:space="preserve">
+    <value>Φόρτωση</value>
+  </data>
+  <data name="GIZ_APPS_MEDIA" xml:space="preserve">
+    <value>Μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ</value>
+  </data>
+  <data name="GIZ_APPS_PARAMETERS" xml:space="preserve">
+    <value>Παράμετροι:</value>
+  </data>
+  <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve">
+    <value>Προσωπικά Αρχεία</value>
+  </data>
+  <data name="GIZ_APPS_PLAYER_MODE" xml:space="preserve">
+    <value>Λειτουργία αναπαραγωγής</value>
+  </data>
+  <data name="GIZ_APPS_PUBLISHER" xml:space="preserve">
+    <value>Εκδότης</value>
+  </data>
+  <data name="GIZ_APPS_RELEASE_DATE" xml:space="preserve">
+    <value>Ημερομηνία κυκλοφορίας</value>
+  </data>
+  <data name="GIZ_APPS_REPAIR" xml:space="preserve">
+    <value>Επισκευή</value>
+  </data>
+  <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve">
+    <value>Επιλέξτε την έκδοση της εφαρμογής</value>
+  </data>
+  <data name="GIZ_APPS_TERMINATE" xml:space="preserve">
+    <value>Περατώ</value>
+  </data>
+  <data name="GIZ_CHANGE_EMAIL_TITLE" xml:space="preserve">
+    <value>Ενημέρωση e-mail</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve">
+    <value>Επιβεβαιώστε τον καινούριο σας κωδικό</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD" xml:space="preserve">
+    <value>Τρέχων κωδικός πρόσβασης</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve">
+    <value>Νέος Κωδικός</value>
+  </data>
+  <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve">
+    <value>Ο κωδικός επιβεβαίωσης πρέπει να έχει {0} ψηφία!</value>
+  </data>
+  <data name="GIZ_GEN_ADS" xml:space="preserve">
+    <value>Διαφημίσεις</value>
+  </data>
+  <data name="GIZ_GEN_ALL" xml:space="preserve">
+    <value>Ολα</value>
+  </data>
+  <data name="GIZ_GEN_AND" xml:space="preserve">
+    <value>και</value>
+  </data>
+  <data name="GIZ_GEN_BACK_TO" xml:space="preserve">
+    <value>Επιστροφή στο {0}</value>
+  </data>
+  <data name="GIZ_GEN_BALANCE" xml:space="preserve">
+    <value>Ισορροπία</value>
+  </data>
+  <data name="GIZ_GEN_CANCEL" xml:space="preserve">
+    <value>Ματαίωση</value>
+  </data>
+  <data name="GIZ_GEN_CONFIRM" xml:space="preserve">
+    <value>Επιβεβαιώνω</value>
+  </data>
+  <data name="GIZ_GEN_CONFIRM_PASSWORD" xml:space="preserve">
+    <value>Επιβεβαιώστε τον κωδικό πρόσβασής σας</value>
+  </data>
+  <data name="GIZ_GEN_CONTINUE" xml:space="preserve">
+    <value>Να συνεχίσει</value>
+  </data>
+  <data name="GIZ_GEN_EMAIL" xml:space="preserve">
+    <value>ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ</value>
+  </data>
+  <data name="GIZ_GEN_EMAIL_ADDRESS" xml:space="preserve">
+    <value>Διεύθυνση ηλεκτρονικού ταχυδρομείου</value>
+  </data>
+  <data name="GIZ_GEN_ENTER_NEW_PASSWORD" xml:space="preserve">
+    <value>Εισάγετε νέο κωδικό</value>
+  </data>
+  <data name="GIZ_GEN_MOBILE_PHONE" xml:space="preserve">
+    <value>Κινητό τηλέφωνο</value>
+  </data>
+  <data name="GIZ_GEN_PASSWORD" xml:space="preserve">
+    <value>Κωδικός πρόσβασης</value>
+  </data>
+  <data name="GIZ_GEN_PHONE_NUMBER" xml:space="preserve">
+    <value>Τηλεφωνικό νούμερο</value>
+  </data>
+  <data name="GIZ_GEN_POINTS" xml:space="preserve">
+    <value>Πόντοι</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve">
+    <value>Δημοφιλή είδη</value>
+  </data>
+  <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve">
+    <value>Επαναλάβετε τον νέο κωδικό πρόσβασης</value>
+  </data>
+  <data name="GIZ_GEN_RESEND" xml:space="preserve">
+    <value>Εκ νέου αποστολή</value>
+  </data>
+  <data name="GIZ_GEN_RESULTS_FOR" xml:space="preserve">
+    <value>Αποτελέσματα για</value>
+  </data>
+  <data name="GIZ_GEN_SAVE" xml:space="preserve">
+    <value>Αποθηκεύσετε</value>
+  </data>
+  <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve">
+    <value>Αποθήκευσε τις αλλαγές</value>
+  </data>
+  <data name="GIZ_GEN_SORT_BY" xml:space="preserve">
+    <value>Ταξινόμηση κατά:</value>
+  </data>
+  <data name="GIZ_GEN_TIME" xml:space="preserve">
+    <value>χρόνος</value>
+  </data>
+  <data name="GIZ_GEN_UPDATE" xml:space="preserve">
+    <value>Εκσυγχρονίζω</value>
+  </data>
+  <data name="GIZ_GEN_USERNAME" xml:space="preserve">
+    <value>Όνομα χρήστη</value>
+  </data>
+  <data name="GIZ_GEN_VERIFY" xml:space="preserve">
+    <value>Επαληθεύω</value>
+  </data>
+  <data name="GIZ_GEN_VIEW_DETAILS" xml:space="preserve">
+    <value>Δείτε λεπτομέρειες</value>
+  </data>
+  <data name="GIZ_GEN_ADD_TO_CART" xml:space="preserve">
+    <value>Προσθήκη στο καλάθι</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_GAMES_AND_APPS" xml:space="preserve">
+    <value>Παιχνίδια και εφαρμογές</value>
+  </data>
+  <data name="GIZ_GEN_LAUNCH" xml:space="preserve">
+    <value>Εκτόξευση</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE" xml:space="preserve">
+    <value>Δεν βρήκαμε τίποτα</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve">
+    <value>Δοκιμάστε διαφορετικές λέξεις-κλειδιά ή βεβαιωθείτε ότι όλα είναι γραμμένα σωστά.</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_PLACEHOLDER" xml:space="preserve">
+    <value>Αναζητήστε παιχνίδια, εφαρμογές, ψωνίστε</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_SHOP" xml:space="preserve">
+    <value>Κατάστημα</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_SHOW_ALL" xml:space="preserve">
+    <value>Προβολή όλων</value>
+  </data>
+  <data name="GIZ_LOGIN_ALREADY_A_MEMBER" xml:space="preserve">
+    <value>Ήδη μέλος;</value>
+  </data>
+  <data name="GIZ_LOGIN_FORGOT_YOUR_PASSWORD" xml:space="preserve">
+    <value>Ξεχάσατε τον κωδικό σας;</value>
+  </data>
+  <data name="GIZ_LOGIN_NOT_A_MEMBER" xml:space="preserve">
+    <value>Οχι μέλος?</value>
+  </data>
+  <data name="GIZ_LOGIN_OR" xml:space="preserve">
+    <value>Ή</value>
+  </data>
+  <data name="GIZ_LOGIN_QR_MESSAGE" xml:space="preserve">
+    <value>Σαρώστε το με την εφαρμογή για κινητά για να συνδεθείτε άμεσα</value>
+  </data>
+  <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve">
+    <value>Συνδεθείτε με τον κωδικό QR</value>
+  </data>
+  <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve">
+    <value>Εάν συνδεθείτε τώρα, θα αποσυνδεθείτε αυτόματα την καθορισμένη ώρα.</value>
+  </data>
+  <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
+    <value>Αυτός ο υπολογιστής είναι δεσμευμένος στη διεύθυνση {0}.</value>
+  </data>
+  <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve">
+    <value>Συνδεθείτε</value>
+  </data>
+  <data name="GIZ_LOGIN_SIGN_UP_NOW" xml:space="preserve">
+    <value>Εγγραφείτε τώρα</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve">
+    <value>Υπόλοιπο Κρυφό</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
+    <value>Επισημάνετε ως όλα διαβασμένα</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve">
+    <value>Σημείωσε ως διαβασμένο</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve">
+    <value>Δεν υπάρχουν νέες ειδοποιήσεις.</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE" xml:space="preserve">
+    <value>Όταν συμβεί κάτι νέο, θα το βρείτε εδώ.</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_TITLE" xml:space="preserve">
+    <value>Ειδοποιήσεις</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_FOR" xml:space="preserve">
+    <value>Δεν βρέθηκε αντιστοιχία για</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
+    <value>Δοκιμάστε να διατυπώσετε διαφορετικά το αίτημά σας</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
+    <value>Ασφαλής κωδικός πρόσβασης</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_EASY" xml:space="preserve">
+    <value>Ο κωδικός πρόσβασης είναι πολύ εύκολος</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_SHORT" xml:space="preserve">
+    <value>Ο κωδικός πρόσβασης είναι πολύ μικρός</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_EMAIL" xml:space="preserve">
+    <value>Εισαγάγετε το e-mail που είναι συνδεδεμένο με τον λογαριασμό σας</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_PHONE_NUMBER" xml:space="preserve">
+    <value>Εισαγάγετε τον αριθμό τηλεφώνου που είναι συνδεδεμένος με τον λογαριασμό σας</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_YOUR_CODE" xml:space="preserve">
+    <value>εισάγετε τον κωδικό σας</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
+    <value>Ξεχάσατε τον κωδικό</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
+    <value>Εισαγάγετε τον κωδικό από το μήνυμα κειμένου που στείλαμε στο {0}</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
+    <value>Επαναφέρετε τον κωδικό πρόσβασης</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
+    <value>Εξαιρετική! Τώρα βρείτε έναν νέο κωδικό πρόσβασης και είστε έτοιμοι</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_RANGE_LENGTH" xml:space="preserve">
+    <value>{0}-{1} χαρακτήρες</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_LOWER_CASE" xml:space="preserve">
+    <value>Τουλάχιστον 1 πεζό γράμμα</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_NUMBER" xml:space="preserve">
+    <value>Τουλάχιστον 1 αριθμός</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve">
+    <value>Τουλάχιστον 1 κεφαλαίο γράμμα</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve">
+    <value>Συμπληρώστε το email σας</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve">
+    <value>Εισαγάγετε το κινητό σας τηλέφωνο</value>
+  </data>
+  <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve">
+    <value>Επιβεβαιώστε τον κωδικό της χώρας σας και εισαγάγετε τον αριθμό τηλεφώνου σας για να δημιουργήσετε έναν λογαριασμό.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SIGN_UP_BUTTON" xml:space="preserve">
+    <value>Εγγραφείτε</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SIGN_UP_TITLE" xml:space="preserve">
+    <value>Εγγραφείτε</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve">
+    <value>Συνδεθείτε</value>
+  </data>
+  <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
+    <value>Προσθήκη στο καλάθι</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve">
+    <value>Το πακέτο περιλαμβάνει:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve">
+    <value>Περίοδος δράσης</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve">
+    <value>Περιγραφή πακέτου:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve">
+    <value>Χρόνος ζωής προϊόντος</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve">
+    <value>Ευχαριστώ για την παραγγελία!</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve">
+    <value>Σημείωση: Μπορείτε να δείτε όλες τις τρέχουσες παραγγελίες σας στην ενότητα Το προφίλ μου &gt; Αγορά</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_MESSAGE" xml:space="preserve">
+    <value>Επιλέγοντας Τοποθέτηση παραγγελίας, αποδέχεστε τη Συμφωνία Πελατών Gizmo και τη δήλωση απορρήτου και δηλώνετε ότι έχετε την εξουσιοδότηση να το κάνετε.</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve">
+    <value>Ολοκλήρωση αγοράς</value>
+  </data>
+  <data name="GIZ_SHOP_EARNED_POINTS" xml:space="preserve">
+    <value>Κερδισμένοι πόντους</value>
+  </data>
+  <data name="GIZ_SHOP_NO_PRODUCTS_MESSAGE" xml:space="preserve">
+    <value>Δεν υπάρχουν προϊόντα</value>
+  </data>
+  <data name="GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE" xml:space="preserve">
+    <value>Προσθέστε προϊόντα για να ξεκινήσετε</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_NOTE" xml:space="preserve">
+    <value>Παραγγελία σχολίων</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve">
+    <value>Προσθέστε τη σημείωση σας..</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve">
+    <value>Η παραγγελία μου</value>
+  </data>
+  <data name="GIZ_SHOP_PAYMENT_METHOD" xml:space="preserve">
+    <value>Μέθοδος πληρωμής</value>
+  </data>
+  <data name="GIZ_SHOP_PLACE_ORDER" xml:space="preserve">
+    <value>Παραγγέλνω</value>
+  </data>
+  <data name="GIZ_SHOP_PRICE" xml:space="preserve">
+    <value>Τιμή</value>
+  </data>
+  <data name="GIZ_SHOP_PRODUCT_NAME" xml:space="preserve">
+    <value>Ονομασία προϊόντος</value>
+  </data>
+  <data name="GIZ_SHOP_QUANTITY" xml:space="preserve">
+    <value>Ποσότητα</value>
+  </data>
+  <data name="GIZ_SHOP_RELATED_PRODUCTS" xml:space="preserve">
+    <value>Σχετικά προϊόντα</value>
+  </data>
+  <data name="GIZ_SHOP_SUBTOTAL" xml:space="preserve">
+    <value>ΜΕΡΙΚΟ ΣΥΝΟΛΟ</value>
+  </data>
+  <data name="GIZ_SHOP_TOTAL" xml:space="preserve">
+    <value>Σύνολο</value>
+  </data>
+  <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve">
+    <value>Κλειδωμένο</value>
+  </data>
+  <data name="GIZ_SYSTEM_VERSION" xml:space="preserve">
+    <value>Εκδοχή</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_HOUR" xml:space="preserve">
+    <value>Ωρα</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_HOURS" xml:space="preserve">
+    <value>Ωρες</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_MINUTES" xml:space="preserve">
+    <value>Ελάχ</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_CLEAR" xml:space="preserve">
+    <value>Σαφή</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_OR" xml:space="preserve">
+    <value>Ή</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_OR_ENTER_AMOUNT" xml:space="preserve">
+    <value>Ή πληκτρολογήστε ποσό*</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_PAY_FROM_PC" xml:space="preserve">
+    <value>Πληρώστε από υπολογιστή</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve">
+    <value>Place Next: Πληροφορίες πληρωμής</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve">
+    <value>QR-code για πληρωμή στο τηλέφωνο</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_QUICK_SELECT" xml:space="preserve">
+    <value>Γρήγορη επιλογή</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_TITLE" xml:space="preserve">
+    <value>Ξεχειλίζω</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve">
+    <value>Να πληρωθεί:</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve">
+    <value>θα πιστωθεί στο υπόλοιπο του λογαριασμού σας</value>
+  </data>
+  <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve">
+    <value>Επιπλέον πληροφορίες</value>
+  </data>
+  <data name="GIZ_USER_ADDRESS" xml:space="preserve">
+    <value>Διεύθυνση</value>
+  </data>
+  <data name="GIZ_USER_AVAILABLE_TIME" xml:space="preserve">
+    <value>Διαθέσιμος χρόνος</value>
+  </data>
+  <data name="GIZ_USER_BASIC_INFO" xml:space="preserve">
+    <value>Βασικές πληροφορίες</value>
+  </data>
+  <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve">
+    <value>Ημερομηνια γεννησης</value>
+  </data>
+  <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
+    <value>Αλλαξε κωδικό</value>
+  </data>
+  <data name="GIZ_USER_COUNTRY" xml:space="preserve">
+    <value>Χώρα</value>
+  </data>
+  <data name="GIZ_USER_COUNTRY_REGION" xml:space="preserve">
+    <value>Χώρα/Περιοχή</value>
+  </data>
+  <data name="GIZ_USER_DETAILS" xml:space="preserve">
+    <value>Στοιχεία χρήστη</value>
+  </data>
+  <data name="GIZ_USER_FIRST_NAME" xml:space="preserve">
+    <value>Ονομα</value>
+  </data>
+  <data name="GIZ_USER_GENDER" xml:space="preserve">
+    <value>Γένος</value>
+  </data>
+  <data name="GIZ_USER_HOME_PHONE" xml:space="preserve">
+    <value>Το τηλέφωνο του σπιτιού</value>
+  </data>
+  <data name="GIZ_USER_LAST_NAME" xml:space="preserve">
+    <value>Επίθετο</value>
+  </data>
+  <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve">
+    <value>Αριθμοί ταχυδρομείου και τηλεφώνου</value>
+  </data>
+  <data name="GIZ_USER_MENU_HELP" xml:space="preserve">
+    <value>Βοήθεια</value>
+  </data>
+  <data name="GIZ_USER_MENU_LOCK_PC" xml:space="preserve">
+    <value>Κλείδωμα υπολογιστή</value>
+  </data>
+  <data name="GIZ_USER_MENU_LOGOUT" xml:space="preserve">
+    <value>Αποσύνδεση</value>
+  </data>
+  <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve">
+    <value>Το ΠΡΟΦΙΛ μου</value>
+  </data>
+  <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve">
+    <value>Ρυθμίσεις</value>
+  </data>
+  <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
+    <value>Ξεχειλίζω</value>
+  </data>
+  <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">
+    <value>Προσωπικές πληροφορίες</value>
+  </data>
+  <data name="GIZ_USER_POST_CODE" xml:space="preserve">
+    <value>ΤΑΧΥΔΡΟΜΙΚΟΣ ΚΩΔΙΚΟΣ</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES" xml:space="preserve">
+    <value>Ψώνια</value>
+  </data>
+  <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve">
+    <value>Επεξεργασία ρυθμίσεων χρήστη</value>
+  </data>
+  <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
+    <value>Συναλλαγές</value>
+  </data>
+  <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve">
+    <value>Οι άλλοι χρήστες θα δουν το όνομα χρήστη σας</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve">
+    <value>Στέλνω κωδικό</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_APPS_DESCRIPTION" xml:space="preserve">
+    <value>Σελίδα εφαρμογών</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve">
+    <value>Εφαρμογές</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve">
+    <value>Σελίδα παιχνιδιών</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve">
+    <value>Παιχνίδια</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve">
+    <value>Αρχική σελίδα</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve">
+    <value>Σπίτι</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve">
+    <value>Σελίδα προφίλ</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve">
+    <value>Προφίλ</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve">
+    <value>Σελίδα καταστήματος</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve">
+    <value>Κατάστημα</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_VALIDATION_DESCRIPTION" xml:space="preserve">
+    <value>Κάντε κάποια επικύρωση</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_VALIDATION_TITLE" xml:space="preserve">
+    <value>Επικύρωση</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve">
+    <value>Αποδεκτό</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_CANCELED" xml:space="preserve">
+    <value>Ακυρώθηκε</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_COMPLETED" xml:space="preserve">
+    <value>Ολοκληρώθηκε το</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD" xml:space="preserve">
+    <value>Σε κράτηση</value>
+  </data>
+  <data name="GIZ_GEN_PASSWORDS_DO_NOT_MATCH" xml:space="preserve">
+    <value>Οι κωδικοί πρόσβασης δεν ταιριάζουν!</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_PASSWORD_RESET_FAILED_MESSAGE" xml:space="preserve">
+    <value>Η επαναφορά του κωδικού πρόσβασης απέτυχε.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_MOBILE" xml:space="preserve">
+    <value>Αυτός ο λογαριασμός δεν έχει έγκυρο τηλέφωνο.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED" xml:space="preserve">
+    <value>Το πεδίο αριθμού τηλεφώνου είναι υποχρεωτικό.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_ERROR_PROVIDER_NO_ROUTE_FOR_DELIVERY" xml:space="preserve">
+    <value>Αδύνατη η παράδοση μηνύματος, ελέγξτε τη διαμόρφωση.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_FAILED_MESSAGE" xml:space="preserve">
+    <value>Κάτι πήγε στραβά. Επικοινωνήστε με τη ρεσεψιόν για πληροφορίες.</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve">
+    <value>Επιλέξτε κάτι</value>
+  </data>
+  <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve">
+    <value>Θηλυκός</value>
+  </data>
+  <data name="GIZ_GEN_SEX_MALE" xml:space="preserve">
+    <value>Αρσενικός</value>
+  </data>
+  <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve">
+    <value>Απροσδιόριστος</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve">
+    <value>Το ελάχιστο ποσό είναι {0}.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_RETRY_WITH_SMS" xml:space="preserve">
+    <value>Δοκιμάστε ξανά με SMS</value>
+  </data>
+  <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve">
+    <value>Μη καθορισμένη τιμή</value>
+  </data>
+  <data name="GIZ_CHANGE_EMAIL_MESSAGE" xml:space="preserve">
+    <value>Εισαγάγετε το e-mail που θέλετε να χρησιμοποιήσετε. Για να βεβαιωθείτε ότι αυτό το e-mail είναι δικό σας, θα σας στείλει έναν κωδικό επαλήθευσης.</value>
+  </data>
+  <data name="GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE" xml:space="preserve">
+    <value>Μόλις σας στείλαμε ένα e-mail με κωδικό. Εισαγάγετε το για να επαληθεύσετε το e-mail σας.</value>
+  </data>
+  <data name="GIZ_CHANGE_MOBILE" xml:space="preserve">
+    <value>Ενημέρωση αριθμού</value>
+  </data>
+  <data name="GIZ_CHANGE_MOBILE_MESSAGE" xml:space="preserve">
+    <value>Εισαγάγετε τον αριθμό που θέλετε να χρησιμοποιήσετε. Για να βεβαιωθείτε ότι αυτός ο αριθμός είναι δικός σας, θα σας στείλει έναν κωδικό επαλήθευσης.</value>
+  </data>
+  <data name="GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE" xml:space="preserve">
+    <value>Μόλις σας στείλαμε ένα SMS με έναν κωδικό. Εισαγάγετε το για να επαληθεύσετε το τηλέφωνό σας.</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
+    <value>Εισαγάγετε τον κωδικό για να συνεχίσετε</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve">
+    <value>Ξέχασα το PIN</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_LOCKED_SUBTITLE" xml:space="preserve">
+    <value>Το Κλείδωμα προφίλ είναι ενεργοποιημένο αυτήν τη στιγμή</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve">
+    <value>Εισαγάγετε το PIN σας για πρόσβαση σε αυτό το προφίλ</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
+    <value>Κλειδώστε αυτό το προφίλ δημιουργώντας μια καρφίτσα 4 ψηφίων. Απομνημονεύστε ή γράψτε το.</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve">
+    <value>Κλείδωμα προφίλ</value>
+  </data>
+  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
+    <value>Το πεδίο {0} είναι υποχρεωτικό.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
+    <value>Η καθορισμένη διεύθυνση email χρησιμοποιείται ήδη</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
+    <value>Δεν είναι δυνατή η επικύρωση του email.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_PHONE" xml:space="preserve">
+    <value>Δεν είναι δυνατή η επικύρωση του τηλεφώνου.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve">
+    <value>Ελέγξτε το σφάλμα εγκυρότητας διακριτικού ανάκτησης κωδικού πρόσβασης.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve">
+    <value>Δεν είναι δυνατή η επικύρωση του ονόματος χρήστη.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
+    <value>Ο καθορισμένος αριθμός κινητού τηλεφώνου χρησιμοποιείται ήδη</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
+    <value>Το καθορισμένο όνομα χρήστη χρησιμοποιείται ήδη</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
+    <value>Το μέγιστο ποσό είναι {0}.</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_ALL_ITEMS" xml:space="preserve">
+    <value>Ολα τα αντικείμενα</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve">
+    <value>Νέες κυκλοφορίες</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_POPULAR_ITEMS" xml:space="preserve">
+    <value>Δημοφιλή είδη</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve">
+    <value>Πρόσφατα προστέθηκε</value>
+  </data>
+  <data name="GIZ_GEN_OR" xml:space="preserve">
+    <value>ή</value>
+  </data>
+  <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve">
+    <value>και</value>
+  </data>
+  <data name="GIZ_PRODUCT_PRICE_FREE" xml:space="preserve">
+    <value>Ελεύθερος</value>
+  </data>
+  <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_OR" xml:space="preserve">
+    <value>ή</value>
+  </data>
+  <data name="GIZ_GEN_PHONE" xml:space="preserve">
+    <value>Τηλέφωνο</value>
+  </data>
+  <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve">
+    <value>Πληροφορίες επαφής</value>
+  </data>
+  <data name="GIZ_USER_SECURITY" xml:space="preserve">
+    <value>Ασφάλεια</value>
+  </data>
+  <data name="GIZ_GEN_CLOSE" xml:space="preserve">
+    <value>Κλείσε</value>
+  </data>
+  <data name="GIZ_USER_LOCATION" xml:space="preserve">
+    <value>Τοποθεσία</value>
+  </data>
+  <data name="GIZ_USER_PROFILE_PICTURE_AND_USERNAME" xml:space="preserve">
+    <value>Εικόνα προφίλ και όνομα χρήστη</value>
+  </data>
+  <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve">
+    <value>Ενημέρωση κωδικού πρόσβασης</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve">
+    <value>επί πληρωμή</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve">
+    <value>Μερικώς πληρωμένη</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve">
+    <value>Απλήρωτος</value>
+  </data>
+  <data name="GIZ_GEN_ERROR" xml:space="preserve">
+    <value>Λάθος</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_MESSAGE" xml:space="preserve">
+    <value>Ανεπαρκείς πόντοι.</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_POINTS" xml:space="preserve">
+    <value>Πόντοι</value>
+  </data>
+  <data name="GIZ_GEN_CLEAR" xml:space="preserve">
+    <value>Σαφή</value>
+  </data>
+  <data name="GIZ_GEN_NO" xml:space="preserve">
+    <value>Οχι</value>
+  </data>
+  <data name="GIZ_GEN_OK" xml:space="preserve">
+    <value>Εντάξει</value>
+  </data>
+  <data name="GIZ_GEN_YES" xml:space="preserve">
+    <value>Ναί</value>
+  </data>
+  <data name="GIZ_SHOP_VERIFY_CLEAR_CART" xml:space="preserve">
+    <value>Είστε βέβαιοι ότι θέλετε να καθαρίσετε το καλάθι σας;</value>
+  </data>
+  <data name="GIZ_APPS_SHOW_MORE" xml:space="preserve">
+    <value>Δείτε περισσότερα</value>
+  </data>
+  <data name="GIZ_GEN_BACK" xml:space="preserve">
+    <value>Πίσω</value>
+  </data>
+  <data name="GIZ_GEN_DETAILS" xml:space="preserve">
+    <value>Λεπτομέριες</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_APPS" xml:space="preserve">
+    <value>Δημοφιλείς εφαρμογές</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve">
+    <value>Δημοφιλή προϊόντα</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve">
+    <value>Ιστορικό αγορών</value>
+  </data>
+  <data name="GIZ_GEN_OF" xml:space="preserve">
+    <value>του</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve">
+    <value>Χρόνος δράσης</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER" xml:space="preserve">
+    <value>μετά</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve">
+    <value>μετά την αποσύνδεση</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve">
+    <value>αγορά</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve">
+    <value>χρήση</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve">
+    <value>Αγορά χρόνου</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve">
+    <value>ρε.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAYS_ABBREVIATED" xml:space="preserve">
+    <value>ρε.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOUR_ABBREVIATED" xml:space="preserve">
+    <value>η.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED" xml:space="preserve">
+    <value>η.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT" xml:space="preserve">
+    <value>Αποσύνδεση</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve">
+    <value>Μ.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTES_ABBREVIATED" xml:space="preserve">
+    <value>Μ.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve">
+    <value>ελάχ</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRES_AFTER" xml:space="preserve">
+    <value>Λήγει μετά</value>
+  </data>
+  <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve">
+    <value>τεμ.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve">
+    <value>Λήγει</value>
+  </data>
+  <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve">
+    <value>Το {0} απέτυχε να ξεκινήσει :(</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION" xml:space="preserve">
+    <value>Περιγραφή πακέτου:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_PURCHASE_DETAILS" xml:space="preserve">
+    <value>Λεπτομέρειες αγοράς:</value>
+  </data>
+  <data name="GIZ_GEN_FROM" xml:space="preserve">
+    <value>Από</value>
+  </data>
+  <data name="GIZ_GEN_UNTIL" xml:space="preserve">
+    <value>Μέχρι</value>
+  </data>
+  <data name="GIZ_GEN_WARNING" xml:space="preserve">
+    <value>Προειδοποίηση</value>
+  </data>
+  <data name="GIZ_PRODUCT_CURRENTLY_NOT_AVAILABLE" xml:space="preserve">
+    <value>Προσωρινά μη διαθέσιμο.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE" xml:space="preserve">
+    <value>Δεν είναι πλέον διαθέσιμο.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_YET_AVAILABLE" xml:space="preserve">
+    <value>Δεν είναι ακόμα διαθέσιμο.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve">
+    <value>Δεν είναι διαθέσιμο σε αυτόν τον κεντρικό υπολογιστή.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
+    <value>Δεν μπορείτε να χρησιμοποιήσετε αυτό το προϊόν προς το παρόν. Είστε βέβαιοι ότι θέλετε να αγοράσετε αυτό το προϊόν;</value>
+  </data>
+  <data name="GIZ_GEN_NEVER" xml:space="preserve">
+    <value>Ποτέ</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_EARNED_POINTS" xml:space="preserve">
+    <value>Κερδισμένοι πόντους:</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve">
+    <value>Σχόλια παραγγελίας:</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve">
+    <value>Αυτός ο λογαριασμός δεν έχει έγκυρο email.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve">
+    <value>Η σύνδεση είναι προς το παρόν αποκλεισμένη.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve">
+    <value>Αυτήν τη στιγμή, η σύνδεση είναι αποκλεισμένη.</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve">
+    <value>Μετρητά</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_CREDIT_CARD" xml:space="preserve">
+    <value>Πιστωτική κάρτα</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_DEPOSIT" xml:space="preserve">
+    <value>Κατάθεση</value>
+  </data>
+  <data name="GIZ_GEN_SUCCESS" xml:space="preserve">
+    <value>Επιτυχία</value>
+  </data>
+  <data name="GIZ_PRODUCT_DETAILS_LESS" xml:space="preserve">
+    <value>Πιο λιγο</value>
+  </data>
+  <data name="GIZ_PRODUCT_DETAILS_MORE" xml:space="preserve">
+    <value>Περισσότερο</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED" xml:space="preserve">
+    <value>Απαιτείται το πεδίο κωδικού επιβεβαίωσης.</value>
+  </data>
+  <data name="GIZ_USER_AGREEMENT_DIALOG_TITLE" xml:space="preserve">
+    <value>Πολιτική Απορρήτου και Όροι Χρήσης</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_INCORRECT_PIN" xml:space="preserve">
+    <value>Λανθασμένο PIN</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve">
+    <value>Ο κωδικός πρέπει να έχει 4 ψηφία!</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve">
+    <value>Εισαγάγετε τουλάχιστον {0} χαρακτήρες.</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE" xml:space="preserve">
+    <value>Δεν αρκετοί χαρακτήρες</value>
+  </data>
+  <data name="GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED" xml:space="preserve">
+    <value>Απαιτείται παλιός κωδικός πρόσβασης.</value>
+  </data>
+  <data name="GIZ_APPS_CANCEL" xml:space="preserve">
+    <value>Ματαίωση</value>
+  </data>
+  <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε?</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Η παραγγελία δεν επιτρέπεται αυτήν τη στιγμή</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve">
+    <value>Η ομάδα χρηστών σας δεν μπορεί να αγοράσει αυτό το προϊόν</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve">
+    <value>Κάτι πήγε στραβά</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Μόνο τα μέλη μπορούν να αγοράσουν αυτό το προϊόν</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve">
+    <value>Μη έγκυρο αναγνωριστικό προϊόντος</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve">
+    <value>Μη έγκυρο αναγνωριστικό χρήστη</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve">
+    <value>Το προϊόν έχει εξαντληθεί</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Δεν επιτρέπεται η αγορά προϊόντος αυτήν τη στιγμή</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Η πώληση προϊόντος δεν επιτρέπεται προς το παρόν</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve">
+    <value>Επιτυχία</value>
+  </data>
+  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
+    <value>Δεν είσαι αρκετά μεγάλος!</value>
+  </data>
+  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve">
+    <value>Ηλικιακή βαθμολογία</value>
+  </data>
+  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve">
+    <value>Εκτελείτε ήδη μια εφαρμογή. Πατήστε αποδοχή για να τερματίσετε οποιαδήποτε εφαρμογή που εκτελείται και να συνεχίσετε.</value>
+  </data>
+  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve">
+    <value>Μέγιστες εφαρμογές</value>
+  </data>
+  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Είστε βέβαιοι ότι θέλετε να ματαιώσετε αυτό το εκτελέσιμο;</value>
+  </data>
+  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Επαληθεύω</value>
+  </data>
+  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Είστε βέβαιοι ότι θέλετε να επιδιορθώσετε αυτό το εκτελέσιμο;</value>
+  </data>
+  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Επαληθεύω</value>
+  </data>
+  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Είστε βέβαιοι ότι θέλετε να τερματίσετε αυτό το εκτελέσιμο αρχείο;</value>
+  </data>
+  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Επαληθεύω</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
+    <value>Παρουσιάστηκε σφάλμα. Η αλλαγή κωδικού πρόσβασης απέτυχε!</value>
+  </data>
+  <data name="GIZ_LOGOUT_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Επαληθεύω</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
+    <value>Δεν έχετε αρκετές καταθέσεις για να κάνετε αυτήν την παραγγελία.</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
+    <value>Λάθος</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve">
+    <value>Λάθος</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
+    <value>Λάθος κωδικός</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_ACCOUNT_DISABLED" xml:space="preserve">
+    <value>Ο λογαριασμός σας έχει απενεργοποιηθεί</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_ALREADY_LOGGED_IN" xml:space="preserve">
+    <value>Ήδη συνδεδεμένος</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_DENIED" xml:space="preserve">
+    <value>Αρνήθηκε</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve">
+    <value>Γενική αποτυχία</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve">
+    <value>Ανεπαρκής ισορροπία</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_CREDENTIALS" xml:space="preserve">
+    <value>Ακυρα διαπιστευτήρια</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_PARAMETERS" xml:space="preserve">
+    <value>Μη έγκυρες παράμετροι</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve">
+    <value>Λανθασμένος κωδικός</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve">
+    <value>Μη έγκυρο όνομα χρήστη</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_MAX_SESSIONS_REACHED" xml:space="preserve">
+    <value>Συμπληρώθηκαν οι μέγιστες συνεδρίες</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve">
+    <value>Όχι σε ουρά αναμονής</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve">
+    <value>Επιτυχία</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve">
+    <value>Τιμή</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve">
+    <value>Καθορισμένη ώρα</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve">
+    <value>Προϊόν του χρόνου</value>
+  </data>
+  <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve">
+    <value>Εισαγάγετε το e-mail σας για να δημιουργήσετε λογαριασμό.</value>
+  </data>
+  <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve">
+    <value>Αποσύνδεση</value>
+  </data>
+  <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
+    <value>Ο χρόνος σας έχει λήξει.&lt;br&gt;Γεμίστε ξανά στη ρεσεψιόν ή&lt;br&gt;κάντε κλικ στην επιλογή "Αποσύνδεση" για να τερματίσετε τη συνεδρία σας.</value>
+  </data>
+  <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve">
+    <value>Εκτός λειτουργίας</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_MAX_LENGTH" xml:space="preserve">
+    <value>Μέγιστος αριθμός {0} χαρακτήρων</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_MIN_LENGTH" xml:space="preserve">
+    <value>Τουλάχιστον {0} χαρακτήρες</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_LONG" xml:space="preserve">
+    <value>Ο κωδικός πρόσβασης είναι πολύ μεγάλος</value>
+  </data>
 </root>

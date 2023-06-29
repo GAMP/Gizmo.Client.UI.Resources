@@ -117,4 +117,1108 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
+    <value>Все игры и приложения</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve">
+    <value>Добавить дату</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
+    <value>Популярность</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve">
+    <value>Рейтинг</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve">
+    <value>Дата выпуска</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve">
+    <value>Заголовок</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve">
+    <value>Использовать</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
+    <value>Код подтверждения недействителен.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_EMAIL_MESSAGE" xml:space="preserve">
+    <value>Электронное письмо было отправлено на {0}. Проверьте свою электронную почту на наличие кода подтверждения и введите его ниже</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_FLASH_CALL_MESSAGE" xml:space="preserve">
+    <value>Был сделан вызов {0}. Проверьте телефон на наличие мгновенного (пропущенного) вызова и введите последние {1} цифры номера вызова.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_SMS_MESSAGE" xml:space="preserve">
+    <value>SMS было отправлено на {0}. Проверьте SMS вашего телефона на наличие проверочного кода и введите его ниже</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_EMAIL_IS_REQUIRED" xml:space="preserve">
+    <value>Поле электронной почты обязательно.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_ENTER_CONFIRMATION_CODE" xml:space="preserve">
+    <value>введите код</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_APPLICATION" xml:space="preserve">
+    <value>Приложение</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_CO_OP" xml:space="preserve">
+    <value>Совместная игра</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_CO_OP_ONLINE" xml:space="preserve">
+    <value>Совместная игра онлайн</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve">
+    <value>Бесплатная игра</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_FREE_TRIAL" xml:space="preserve">
+    <value>Бесплатная пробная версия</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_GAME" xml:space="preserve">
+    <value>Игра</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_MULTIPLAYER" xml:space="preserve">
+    <value>Многопользовательская игра по локальной сети</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_ONE_TIME_PURCHASE" xml:space="preserve">
+    <value>Разовая покупка</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_ONLINE" xml:space="preserve">
+    <value>Онлайн мультиплеер</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve">
+    <value>Требуется подписка</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_SETTINGS" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve">
+    <value>Один игрок</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve">
+    <value>Разделенный экран</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_UTILITY" xml:space="preserve">
+    <value>Полезность</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_GET_CONFIRMATION_CODE" xml:space="preserve">
+    <value>Получить код</value>
+  </data>
+  <data name="GIZ_GEN_SEARCH" xml:space="preserve">
+    <value>Поиск</value>
+  </data>
+  <data name="GIZ_ACTIVE_APPS_TITLE" xml:space="preserve">
+    <value>Активные приложения</value>
+  </data>
+  <data name="GIZ_APPS_AUTO_START" xml:space="preserve">
+    <value>Автоматический старт</value>
+  </data>
+  <data name="GIZ_APPS_CATEGORY" xml:space="preserve">
+    <value>Категория:</value>
+  </data>
+  <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve">
+    <value>Дата Добавлена</value>
+  </data>
+  <data name="GIZ_APPS_LAUNCH" xml:space="preserve">
+    <value>Запуск</value>
+  </data>
+  <data name="GIZ_APPS_LINKS" xml:space="preserve">
+    <value>Ссылки</value>
+  </data>
+  <data name="GIZ_APPS_LOADING" xml:space="preserve">
+    <value>Загрузка</value>
+  </data>
+  <data name="GIZ_APPS_MEDIA" xml:space="preserve">
+    <value>СМИ</value>
+  </data>
+  <data name="GIZ_APPS_PARAMETERS" xml:space="preserve">
+    <value>Параметры:</value>
+  </data>
+  <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve">
+    <value>Личные файлы</value>
+  </data>
+  <data name="GIZ_APPS_PLAYER_MODE" xml:space="preserve">
+    <value>Режим игрока</value>
+  </data>
+  <data name="GIZ_APPS_PUBLISHER" xml:space="preserve">
+    <value>Издатель</value>
+  </data>
+  <data name="GIZ_APPS_RELEASE_DATE" xml:space="preserve">
+    <value>Дата выпуска</value>
+  </data>
+  <data name="GIZ_APPS_REPAIR" xml:space="preserve">
+    <value>Ремонт</value>
+  </data>
+  <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve">
+    <value>Выберите версию приложения</value>
+  </data>
+  <data name="GIZ_APPS_TERMINATE" xml:space="preserve">
+    <value>Прекратить</value>
+  </data>
+  <data name="GIZ_CHANGE_EMAIL_TITLE" xml:space="preserve">
+    <value>Обновить адрес электронной почты</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve">
+    <value>Подтвердите новый пароль</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD" xml:space="preserve">
+    <value>Текущий пароль</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve">
+    <value>Новый пароль</value>
+  </data>
+  <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve">
+    <value>Код подтверждения должен состоять из {0} цифр!</value>
+  </data>
+  <data name="GIZ_GEN_ADS" xml:space="preserve">
+    <value>Объявления</value>
+  </data>
+  <data name="GIZ_GEN_ALL" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="GIZ_GEN_AND" xml:space="preserve">
+    <value>и</value>
+  </data>
+  <data name="GIZ_GEN_BACK_TO" xml:space="preserve">
+    <value>Назад к {0}</value>
+  </data>
+  <data name="GIZ_GEN_BALANCE" xml:space="preserve">
+    <value>Баланс</value>
+  </data>
+  <data name="GIZ_GEN_CANCEL" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="GIZ_GEN_CONFIRM" xml:space="preserve">
+    <value>Подтверждать</value>
+  </data>
+  <data name="GIZ_GEN_CONFIRM_PASSWORD" xml:space="preserve">
+    <value>Подтвердите ваш пароль</value>
+  </data>
+  <data name="GIZ_GEN_CONTINUE" xml:space="preserve">
+    <value>Продолжать</value>
+  </data>
+  <data name="GIZ_GEN_EMAIL" xml:space="preserve">
+    <value>Электронная почта</value>
+  </data>
+  <data name="GIZ_GEN_EMAIL_ADDRESS" xml:space="preserve">
+    <value>Адрес электронной почты</value>
+  </data>
+  <data name="GIZ_GEN_ENTER_NEW_PASSWORD" xml:space="preserve">
+    <value>Введите новый пароль</value>
+  </data>
+  <data name="GIZ_GEN_MOBILE_PHONE" xml:space="preserve">
+    <value>Мобильный телефон</value>
+  </data>
+  <data name="GIZ_GEN_PASSWORD" xml:space="preserve">
+    <value>Пароль</value>
+  </data>
+  <data name="GIZ_GEN_PHONE_NUMBER" xml:space="preserve">
+    <value>Номер телефона</value>
+  </data>
+  <data name="GIZ_GEN_POINTS" xml:space="preserve">
+    <value>Точки</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve">
+    <value>Популярные товары</value>
+  </data>
+  <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve">
+    <value>повторите новый пароль</value>
+  </data>
+  <data name="GIZ_GEN_RESEND" xml:space="preserve">
+    <value>Отправить</value>
+  </data>
+  <data name="GIZ_GEN_RESULTS_FOR" xml:space="preserve">
+    <value>Результаты для</value>
+  </data>
+  <data name="GIZ_GEN_SAVE" xml:space="preserve">
+    <value>Сохранять</value>
+  </data>
+  <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve">
+    <value>Сохранить изменения</value>
+  </data>
+  <data name="GIZ_GEN_SORT_BY" xml:space="preserve">
+    <value>Сортировать по:</value>
+  </data>
+  <data name="GIZ_GEN_TIME" xml:space="preserve">
+    <value>Время</value>
+  </data>
+  <data name="GIZ_GEN_UPDATE" xml:space="preserve">
+    <value>Обновлять</value>
+  </data>
+  <data name="GIZ_GEN_USERNAME" xml:space="preserve">
+    <value>Имя пользователя</value>
+  </data>
+  <data name="GIZ_GEN_VERIFY" xml:space="preserve">
+    <value>Проверять</value>
+  </data>
+  <data name="GIZ_GEN_VIEW_DETAILS" xml:space="preserve">
+    <value>Посмотреть детали</value>
+  </data>
+  <data name="GIZ_GEN_ADD_TO_CART" xml:space="preserve">
+    <value>Добавить в корзину</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_GAMES_AND_APPS" xml:space="preserve">
+    <value>Игры и приложения</value>
+  </data>
+  <data name="GIZ_GEN_LAUNCH" xml:space="preserve">
+    <value>Запуск</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE" xml:space="preserve">
+    <value>мы ничего не нашли</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve">
+    <value>Попробуйте разные ключевые слова или убедитесь, что все написано правильно.</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_PLACEHOLDER" xml:space="preserve">
+    <value>Поиск игр, приложений, магазин</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_SHOP" xml:space="preserve">
+    <value>Магазин</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_SHOW_ALL" xml:space="preserve">
+    <value>Увидеть все</value>
+  </data>
+  <data name="GIZ_LOGIN_ALREADY_A_MEMBER" xml:space="preserve">
+    <value>Уже вступил?</value>
+  </data>
+  <data name="GIZ_LOGIN_FORGOT_YOUR_PASSWORD" xml:space="preserve">
+    <value>Forgot you password?</value>
+  </data>
+  <data name="GIZ_LOGIN_NOT_A_MEMBER" xml:space="preserve">
+    <value>Не член?</value>
+  </data>
+  <data name="GIZ_LOGIN_OR" xml:space="preserve">
+    <value>Или</value>
+  </data>
+  <data name="GIZ_LOGIN_QR_MESSAGE" xml:space="preserve">
+    <value>Отсканируйте это с помощью мобильного приложения, чтобы мгновенно войти в систему</value>
+  </data>
+  <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve">
+    <value>Войти с помощью QR-кода</value>
+  </data>
+  <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve">
+    <value>Если вы войдете сейчас, вы автоматически выйдете из системы в указанное время.</value>
+  </data>
+  <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
+    <value>Этот компьютер зарезервирован по адресу {0}.</value>
+  </data>
+  <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve">
+    <value>Войти</value>
+  </data>
+  <data name="GIZ_LOGIN_SIGN_UP_NOW" xml:space="preserve">
+    <value>Войти Сейчас</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve">
+    <value>Баланс скрыт</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
+    <value>Отметить как все прочитанное</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve">
+    <value>пометить, как прочитанное</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve">
+    <value>Нет новых уведомлений.</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE" xml:space="preserve">
+    <value>Когда произойдет что-то новое, вы найдете это здесь.</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_TITLE" xml:space="preserve">
+    <value>Уведомления</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_FOR" xml:space="preserve">
+    <value>Не найдено совпадений для</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
+    <value>Попробуйте сформулировать запрос иначе</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
+    <value>Безопасный пароль</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_EASY" xml:space="preserve">
+    <value>Пароль слишком простой</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_SHORT" xml:space="preserve">
+    <value>Пароль слишком короткий</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_EMAIL" xml:space="preserve">
+    <value>Введите адрес электронной почты, который привязан к вашему аккаунту</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_PHONE_NUMBER" xml:space="preserve">
+    <value>Введите номер телефона, который привязан к вашей учетной записи</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_YOUR_CODE" xml:space="preserve">
+    <value>Введите ваш код</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
+    <value>Забыли пароль</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
+    <value>Пожалуйста, введите код из текстового сообщения, которое мы отправили на {0}</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
+    <value>Сброс пароля</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
+    <value>Большой! Теперь придумайте новый пароль, и все готово.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_RANGE_LENGTH" xml:space="preserve">
+    <value>{0}-{1} символов</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_LOWER_CASE" xml:space="preserve">
+    <value>Минимум 1 строчная буква</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_NUMBER" xml:space="preserve">
+    <value>Минимум 1 номер</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve">
+    <value>Минимум 1 заглавная буква</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve">
+    <value>Введите адрес электронной почты</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve">
+    <value>Введите свой мобильный телефон</value>
+  </data>
+  <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve">
+    <value>Пожалуйста, подтвердите свой код страны и введите свой номер телефона, чтобы создать учетную запись.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SIGN_UP_BUTTON" xml:space="preserve">
+    <value>Зарегистрироваться</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SIGN_UP_TITLE" xml:space="preserve">
+    <value>Зарегистрироваться</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve">
+    <value>Войти</value>
+  </data>
+  <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
+    <value>Добавить в корзину</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve">
+    <value>В комплект входят:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve">
+    <value>Период действия</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve">
+    <value>Описание пакета:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve">
+    <value>Срок службы продукта</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve">
+    <value>Спасибо за ваш заказ!</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve">
+    <value>Примечание. Вы можете просмотреть все свои текущие заказы в разделе «Мой профиль» &gt; «Покупки».</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_MESSAGE" xml:space="preserve">
+    <value>Выбирая «Разместить заказ», вы принимаете клиентское соглашение Gizmo и заявление о конфиденциальности и подтверждаете, что у вас есть соответствующие полномочия.</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve">
+    <value>Проверить</value>
+  </data>
+  <data name="GIZ_SHOP_EARNED_POINTS" xml:space="preserve">
+    <value>Заработанные баллы</value>
+  </data>
+  <data name="GIZ_SHOP_NO_PRODUCTS_MESSAGE" xml:space="preserve">
+    <value>Нет продуктов</value>
+  </data>
+  <data name="GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE" xml:space="preserve">
+    <value>Добавьте продукты, чтобы начать</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_NOTE" xml:space="preserve">
+    <value>Комментарии к заказу</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve">
+    <value>Добавьте свое примечание..</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve">
+    <value>Мой заказ</value>
+  </data>
+  <data name="GIZ_SHOP_PAYMENT_METHOD" xml:space="preserve">
+    <value>Способ оплаты</value>
+  </data>
+  <data name="GIZ_SHOP_PLACE_ORDER" xml:space="preserve">
+    <value>Разместить заказ</value>
+  </data>
+  <data name="GIZ_SHOP_PRICE" xml:space="preserve">
+    <value>Цена</value>
+  </data>
+  <data name="GIZ_SHOP_PRODUCT_NAME" xml:space="preserve">
+    <value>Наименование товара</value>
+  </data>
+  <data name="GIZ_SHOP_QUANTITY" xml:space="preserve">
+    <value>Количество</value>
+  </data>
+  <data name="GIZ_SHOP_RELATED_PRODUCTS" xml:space="preserve">
+    <value>Сопутствующие товары</value>
+  </data>
+  <data name="GIZ_SHOP_SUBTOTAL" xml:space="preserve">
+    <value>Промежуточный итог</value>
+  </data>
+  <data name="GIZ_SHOP_TOTAL" xml:space="preserve">
+    <value>Общий</value>
+  </data>
+  <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve">
+    <value>Заблокировано</value>
+  </data>
+  <data name="GIZ_SYSTEM_VERSION" xml:space="preserve">
+    <value>Версия</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_HOUR" xml:space="preserve">
+    <value>Час</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_HOURS" xml:space="preserve">
+    <value>Часы</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_MINUTES" xml:space="preserve">
+    <value>Мин.</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_CLEAR" xml:space="preserve">
+    <value>Прозрачный</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_OR" xml:space="preserve">
+    <value>Или</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_OR_ENTER_AMOUNT" xml:space="preserve">
+    <value>Или введите сумму*</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_PAY_FROM_PC" xml:space="preserve">
+    <value>Оплата с ПК</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve">
+    <value>Place Next: Платежная информация</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve">
+    <value>QR-код для оплаты на телефоне</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_QUICK_SELECT" xml:space="preserve">
+    <value>Быстрый выбор</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_TITLE" xml:space="preserve">
+    <value>Пополнить</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve">
+    <value>Быть оплаченным:</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve">
+    <value>будут зачислены на баланс вашего Аккаунта</value>
+  </data>
+  <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve">
+    <value>Дополнительная информация</value>
+  </data>
+  <data name="GIZ_USER_ADDRESS" xml:space="preserve">
+    <value>Адрес</value>
+  </data>
+  <data name="GIZ_USER_AVAILABLE_TIME" xml:space="preserve">
+    <value>Доступное время</value>
+  </data>
+  <data name="GIZ_USER_BASIC_INFO" xml:space="preserve">
+    <value>Основная информация</value>
+  </data>
+  <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve">
+    <value>Дата рождения</value>
+  </data>
+  <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
+    <value>Изменить пароль</value>
+  </data>
+  <data name="GIZ_USER_COUNTRY" xml:space="preserve">
+    <value>Страна</value>
+  </data>
+  <data name="GIZ_USER_COUNTRY_REGION" xml:space="preserve">
+    <value>Страна/регион</value>
+  </data>
+  <data name="GIZ_USER_DETAILS" xml:space="preserve">
+    <value>Данные пользователя</value>
+  </data>
+  <data name="GIZ_USER_FIRST_NAME" xml:space="preserve">
+    <value>Имя</value>
+  </data>
+  <data name="GIZ_USER_GENDER" xml:space="preserve">
+    <value>Пол</value>
+  </data>
+  <data name="GIZ_USER_HOME_PHONE" xml:space="preserve">
+    <value>Домашний телефон</value>
+  </data>
+  <data name="GIZ_USER_LAST_NAME" xml:space="preserve">
+    <value>Фамилия</value>
+  </data>
+  <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve">
+    <value>Почта и телефоны</value>
+  </data>
+  <data name="GIZ_USER_MENU_HELP" xml:space="preserve">
+    <value>Помощь</value>
+  </data>
+  <data name="GIZ_USER_MENU_LOCK_PC" xml:space="preserve">
+    <value>Блокировка ПК</value>
+  </data>
+  <data name="GIZ_USER_MENU_LOGOUT" xml:space="preserve">
+    <value>Выйти</value>
+  </data>
+  <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve">
+    <value>Мой профайл</value>
+  </data>
+  <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
+    <value>Пополнить</value>
+  </data>
+  <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">
+    <value>Персональная информация</value>
+  </data>
+  <data name="GIZ_USER_POST_CODE" xml:space="preserve">
+    <value>Почтовый индекс</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES" xml:space="preserve">
+    <value>Покупки</value>
+  </data>
+  <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve">
+    <value>Изменить настройки пользователя</value>
+  </data>
+  <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
+    <value>Транзакции</value>
+  </data>
+  <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve">
+    <value>Другие пользователи увидят ваше имя пользователя</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve">
+    <value>Отправить код</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_APPS_DESCRIPTION" xml:space="preserve">
+    <value>Страница приложений</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve">
+    <value>Программы</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve">
+    <value>Страница игр</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve">
+    <value>Игры</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve">
+    <value>Домашняя страница</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve">
+    <value>Дом</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve">
+    <value>Страница профиля</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve">
+    <value>Профиль</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve">
+    <value>Страница магазина</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve">
+    <value>Магазин</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_VALIDATION_DESCRIPTION" xml:space="preserve">
+    <value>Сделайте некоторую проверку</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_VALIDATION_TITLE" xml:space="preserve">
+    <value>Проверка</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve">
+    <value>Принял</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_CANCELED" xml:space="preserve">
+    <value>Отменено</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_COMPLETED" xml:space="preserve">
+    <value>Завершенный</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD" xml:space="preserve">
+    <value>На удерживании</value>
+  </data>
+  <data name="GIZ_GEN_PASSWORDS_DO_NOT_MATCH" xml:space="preserve">
+    <value>Пароли не совпадают!</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_PASSWORD_RESET_FAILED_MESSAGE" xml:space="preserve">
+    <value>Не удалось сбросить пароль.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_MOBILE" xml:space="preserve">
+    <value>В этой учетной записи нет действительного телефона.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED" xml:space="preserve">
+    <value>Поле с номером телефона обязательно.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_ERROR_PROVIDER_NO_ROUTE_FOR_DELIVERY" xml:space="preserve">
+    <value>Доставка сообщения невозможна, проверьте конфигурацию.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_FAILED_MESSAGE" xml:space="preserve">
+    <value>Что-то пошло не так. Обратитесь на стойку регистрации для получения информации.</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve">
+    <value>Выберите что-нибудь</value>
+  </data>
+  <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve">
+    <value>Женский</value>
+  </data>
+  <data name="GIZ_GEN_SEX_MALE" xml:space="preserve">
+    <value>Мужской</value>
+  </data>
+  <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve">
+    <value>Неопределенные</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve">
+    <value>Минимальная сумма: {0}.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_RETRY_WITH_SMS" xml:space="preserve">
+    <value>Повторите попытку с помощью СМС</value>
+  </data>
+  <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve">
+    <value>Неустановленное значение</value>
+  </data>
+  <data name="GIZ_CHANGE_EMAIL_MESSAGE" xml:space="preserve">
+    <value>Введите адрес электронной почты, который вы хотите использовать. Чтобы убедиться, что этот адрес электронной почты принадлежит вам, мы отправим вам код подтверждения.</value>
+  </data>
+  <data name="GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE" xml:space="preserve">
+    <value>Мы только что отправили вам электронное письмо с кодом. Введите его, чтобы подтвердить свой адрес электронной почты.</value>
+  </data>
+  <data name="GIZ_CHANGE_MOBILE" xml:space="preserve">
+    <value>Номер обновления</value>
+  </data>
+  <data name="GIZ_CHANGE_MOBILE_MESSAGE" xml:space="preserve">
+    <value>Введите номер, который вы хотите использовать. Чтобы убедиться, что этот номер принадлежит вам, мы отправим вам проверочный код.</value>
+  </data>
+  <data name="GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE" xml:space="preserve">
+    <value>Мы только что отправили вам SMS с кодом. Введите его, чтобы подтвердить свой телефон.</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
+    <value>Введите код, чтобы продолжить</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve">
+    <value>Забыли PIN-код</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_LOCKED_SUBTITLE" xml:space="preserve">
+    <value>Блокировка профиля в настоящее время включена</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve">
+    <value>Введите PIN-код для доступа к этому профилю</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
+    <value>Заблокируйте этот профиль, создав 4-значный PIN-код. Запомните или запишите его.</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve">
+    <value>Блокировка профиля</value>
+  </data>
+  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
+    <value>Поле {0} обязательно для заполнения.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
+    <value>Указанный адрес электронной почты уже используется</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
+    <value>Не удается проверить электронную почту.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_PHONE" xml:space="preserve">
+    <value>Не удается подтвердить телефон.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve">
+    <value>Проверьте ошибку действительности токена восстановления пароля.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve">
+    <value>Не удается проверить имя пользователя.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
+    <value>Указанный номер мобильного телефона уже используется</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
+    <value>Указанное имя пользователя уже используется</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
+    <value>Максимальная сумма: {0}.</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_ALL_ITEMS" xml:space="preserve">
+    <value>Все детали</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve">
+    <value>Новые релизы</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_POPULAR_ITEMS" xml:space="preserve">
+    <value>Популярные товары</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve">
+    <value>Недавно добавленный</value>
+  </data>
+  <data name="GIZ_GEN_OR" xml:space="preserve">
+    <value>или</value>
+  </data>
+  <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve">
+    <value>и</value>
+  </data>
+  <data name="GIZ_PRODUCT_PRICE_FREE" xml:space="preserve">
+    <value>Бесплатно</value>
+  </data>
+  <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_OR" xml:space="preserve">
+    <value>или</value>
+  </data>
+  <data name="GIZ_GEN_PHONE" xml:space="preserve">
+    <value>Телефон</value>
+  </data>
+  <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve">
+    <value>Контактная информация</value>
+  </data>
+  <data name="GIZ_USER_SECURITY" xml:space="preserve">
+    <value>Безопасность</value>
+  </data>
+  <data name="GIZ_GEN_CLOSE" xml:space="preserve">
+    <value>Закрывать</value>
+  </data>
+  <data name="GIZ_USER_LOCATION" xml:space="preserve">
+    <value>Расположение</value>
+  </data>
+  <data name="GIZ_USER_PROFILE_PICTURE_AND_USERNAME" xml:space="preserve">
+    <value>Изображение профиля и имя пользователя</value>
+  </data>
+  <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve">
+    <value>Обновить пароль</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve">
+    <value>Оплаченный</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve">
+    <value>Частично оплачено</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve">
+    <value>Неоплачиваемый</value>
+  </data>
+  <data name="GIZ_GEN_ERROR" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_MESSAGE" xml:space="preserve">
+    <value>Недостаточно очков.</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_POINTS" xml:space="preserve">
+    <value>Точки</value>
+  </data>
+  <data name="GIZ_GEN_CLEAR" xml:space="preserve">
+    <value>Прозрачный</value>
+  </data>
+  <data name="GIZ_GEN_NO" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="GIZ_GEN_OK" xml:space="preserve">
+    <value>ХОРОШО</value>
+  </data>
+  <data name="GIZ_GEN_YES" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="GIZ_SHOP_VERIFY_CLEAR_CART" xml:space="preserve">
+    <value>Вы уверены, что хотите очистить корзину?</value>
+  </data>
+  <data name="GIZ_APPS_SHOW_MORE" xml:space="preserve">
+    <value>Показать больше</value>
+  </data>
+  <data name="GIZ_GEN_BACK" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="GIZ_GEN_DETAILS" xml:space="preserve">
+    <value>Подробности</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_APPS" xml:space="preserve">
+    <value>Популярные приложения</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve">
+    <value>Популярные продукты</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve">
+    <value>История покупки</value>
+  </data>
+  <data name="GIZ_GEN_OF" xml:space="preserve">
+    <value>из</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve">
+    <value>Время действия</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER" xml:space="preserve">
+    <value>после</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve">
+    <value>после выхода</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve">
+    <value>покупка</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve">
+    <value>использовать</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve">
+    <value>Время покупки</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve">
+    <value>д.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAYS_ABBREVIATED" xml:space="preserve">
+    <value>д.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOUR_ABBREVIATED" xml:space="preserve">
+    <value>час</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED" xml:space="preserve">
+    <value>час</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT" xml:space="preserve">
+    <value>выйти</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve">
+    <value>м.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTES_ABBREVIATED" xml:space="preserve">
+    <value>м.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve">
+    <value>мин</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRES_AFTER" xml:space="preserve">
+    <value>Истекает через</value>
+  </data>
+  <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve">
+    <value>шт.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve">
+    <value>Истекает</value>
+  </data>
+  <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve">
+    <value>{0} не удалось запустить :(</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION" xml:space="preserve">
+    <value>Описание комплекта:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_PURCHASE_DETAILS" xml:space="preserve">
+    <value>Детали покупки:</value>
+  </data>
+  <data name="GIZ_GEN_FROM" xml:space="preserve">
+    <value>От</value>
+  </data>
+  <data name="GIZ_GEN_UNTIL" xml:space="preserve">
+    <value>До</value>
+  </data>
+  <data name="GIZ_GEN_WARNING" xml:space="preserve">
+    <value>Предупреждение</value>
+  </data>
+  <data name="GIZ_PRODUCT_CURRENTLY_NOT_AVAILABLE" xml:space="preserve">
+    <value>В данный момент недоступно.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE" xml:space="preserve">
+    <value>Больше не доступен.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_YET_AVAILABLE" xml:space="preserve">
+    <value>Пока недоступно.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve">
+    <value>Недоступно на этом хосте.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
+    <value>Вы не можете использовать этот продукт на данный момент. Вы уверены, что хотите купить этот товар?</value>
+  </data>
+  <data name="GIZ_GEN_NEVER" xml:space="preserve">
+    <value>Никогда</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_EARNED_POINTS" xml:space="preserve">
+    <value>Заработанные баллы:</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve">
+    <value>Комментарии к заказу:</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve">
+    <value>У этой учетной записи нет действительного адреса электронной почты.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve">
+    <value>Вход в настоящее время заблокирован.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve">
+    <value>Вход в настоящее время разблокирован.</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve">
+    <value>Наличные</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_CREDIT_CARD" xml:space="preserve">
+    <value>Кредитная карта</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_DEPOSIT" xml:space="preserve">
+    <value>Депозит</value>
+  </data>
+  <data name="GIZ_GEN_SUCCESS" xml:space="preserve">
+    <value>Успех</value>
+  </data>
+  <data name="GIZ_PRODUCT_DETAILS_LESS" xml:space="preserve">
+    <value>Меньше</value>
+  </data>
+  <data name="GIZ_PRODUCT_DETAILS_MORE" xml:space="preserve">
+    <value>Более</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED" xml:space="preserve">
+    <value>Поле кода подтверждения обязательно.</value>
+  </data>
+  <data name="GIZ_USER_AGREEMENT_DIALOG_TITLE" xml:space="preserve">
+    <value>Политика конфиденциальности и Условия использования</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_INCORRECT_PIN" xml:space="preserve">
+    <value>Неверный PIN-код</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve">
+    <value>Пароль должен состоять из 4 цифр!</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve">
+    <value>Введите не менее {0} символов.</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE" xml:space="preserve">
+    <value>Недостаточно символов</value>
+  </data>
+  <data name="GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED" xml:space="preserve">
+    <value>Требуется старый пароль.</value>
+  </data>
+  <data name="GIZ_APPS_CANCEL" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Вы действительно хотите выйти?</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Заказ в настоящее время запрещен</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve">
+    <value>Ваша группа пользователей не может приобрести этот продукт</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve">
+    <value>Что-то пошло не так</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Только участники могут приобрести этот продукт</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve">
+    <value>Недопустимый идентификатор продукта</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve">
+    <value>Недопустимый идентификатор пользователя</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve">
+    <value>Товара нет в наличии</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>В настоящее время покупка продукта не разрешена</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Продажа продукта в настоящее время запрещена</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve">
+    <value>Успех</value>
+  </data>
+  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
+    <value>Вы не достаточно стары!</value>
+  </data>
+  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve">
+    <value>Возрастной рейтинг</value>
+  </data>
+  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve">
+    <value>Вы уже запускаете приложение. Нажмите «Принять», чтобы закрыть любое запущенное приложение и продолжить.</value>
+  </data>
+  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve">
+    <value>Максимальное количество приложений</value>
+  </data>
+  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Вы уверены, что хотите прервать этот исполняемый файл?</value>
+  </data>
+  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Проверять</value>
+  </data>
+  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Вы уверены, что хотите восстановить этот исполняемый файл?</value>
+  </data>
+  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Проверять</value>
+  </data>
+  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Вы уверены, что хотите завершить работу этого исполняемого файла?</value>
+  </data>
+  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Проверять</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
+    <value>Произошла ошибка. Не удалось изменить пароль!</value>
+  </data>
+  <data name="GIZ_LOGOUT_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Проверять</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
+    <value>У вас недостаточно депозитов для выполнения этого заказа.</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
+    <value>Неправильный пароль</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_ACCOUNT_DISABLED" xml:space="preserve">
+    <value>Ваш аккаунт отключен</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_ALREADY_LOGGED_IN" xml:space="preserve">
+    <value>Уже вошли в систему</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_DENIED" xml:space="preserve">
+    <value>Отклонен</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve">
+    <value>Общий сбой</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve">
+    <value>Недостаточный баланс</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_CREDENTIALS" xml:space="preserve">
+    <value>Недействительные учетные данные</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_PARAMETERS" xml:space="preserve">
+    <value>Недопустимые параметры</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve">
+    <value>Неверный пароль</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve">
+    <value>Неверное имя пользователя</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_MAX_SESSIONS_REACHED" xml:space="preserve">
+    <value>Достигнуто максимальное количество сеансов</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve">
+    <value>Не в очереди</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve">
+    <value>Успех</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve">
+    <value>Ставка</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve">
+    <value>Установленный срок</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve">
+    <value>Продукт времени</value>
+  </data>
+  <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve">
+    <value>Пожалуйста, введите свой адрес электронной почты, чтобы создать учетную запись.</value>
+  </data>
+  <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve">
+    <value>Выйти</value>
+  </data>
+  <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
+    <value>Ваше время истекло.&lt;br&gt;Пополните баланс на стойке регистрации или&lt;br&gt;нажмите "Выход", чтобы завершить сеанс.</value>
+  </data>
+  <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve">
+    <value>Вышел из строя</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_MAX_LENGTH" xml:space="preserve">
+    <value>Максимум {0} символов</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_MIN_LENGTH" xml:space="preserve">
+    <value>Минимум {0} символов</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_LONG" xml:space="preserve">
+    <value>Пароль слишком длинный</value>
+  </data>
 </root>
