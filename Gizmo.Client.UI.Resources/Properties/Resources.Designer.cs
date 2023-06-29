@@ -1861,6 +1861,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Password is too long.
+        /// </summary>
+        public static string GIZ_PASSWORD_MESSAGE_TOO_LONG {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_MESSAGE_TOO_LONG", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Password is too short.
         /// </summary>
         public static string GIZ_PASSWORD_MESSAGE_TOO_SHORT {
