@@ -1221,4 +1221,38 @@
   <data name="GIZ_PASSWORD_MESSAGE_TOO_LONG" xml:space="preserve">
     <value>Пароль слишком длинный</value>
   </data>
+  <data name="GIZ_PERSONAL_STORAGE_LABEL" xml:space="preserve">
+    <value>Личное хранилище</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ACCEPTED" xml:space="preserve">
+    <value>Ваш заказ принят и ожидает доставки</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ACCEPTED_HEADER" xml:space="preserve">
+    <value>Ваш заказ принят</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_CANCELED" xml:space="preserve">
+    <value>Ваш заказ был отменен, пожалуйста, свяжитесь с одним из наших сотрудников для получения дополнительной информации</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_CANCELED_HEADER" xml:space="preserve">
+    <value>Ваш заказ был отменен</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
+    <value>Ваш заказ выполнен</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve">
+    <value>Заказ выполнен</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
+    <value>Ваш заказ приостановлен, вы будете уведомлены, как только заказ будет принят</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ON_HOLD_HEADER" xml:space="preserve">
+    <value>Заказ приостановлен</value>
+  </data>
+  <data name="GIZ_TIME_NOTIFICATION_MESSAGE" xml:space="preserve">
+    <value>У вас осталось {0} минут.
+Пожалуйста, пополните свой счет сейчас.</value>
+  </data>
+  <data name="GIZ_TIME_NOTIFICATION_TITLE" xml:space="preserve">
+    <value>Время уходит</value>
+  </data>
 </root>

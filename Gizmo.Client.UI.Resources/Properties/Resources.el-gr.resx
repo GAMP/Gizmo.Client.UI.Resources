@@ -1221,4 +1221,38 @@
   <data name="GIZ_PASSWORD_MESSAGE_TOO_LONG" xml:space="preserve">
     <value>Ο κωδικός πρόσβασης είναι πολύ μεγάλος</value>
   </data>
+  <data name="GIZ_PERSONAL_STORAGE_LABEL" xml:space="preserve">
+    <value>Προσωπική αποθήκευση</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ACCEPTED" xml:space="preserve">
+    <value>Η παραγγελία σας έγινε αποδεκτή και αναμένεται παράδοση</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ACCEPTED_HEADER" xml:space="preserve">
+    <value>Η παραγγελία σας έγινε αποδεκτή</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_CANCELED" xml:space="preserve">
+    <value>Η παραγγελία σας ακυρώθηκε, επικοινωνήστε με έναν από τους υπαλλήλους μας για περισσότερες πληροφορίες</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_CANCELED_HEADER" xml:space="preserve">
+    <value>Η παραγγελία σας ακυρώθηκε</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
+    <value>Η παραγγελία σας ολοκληρώθηκε</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve">
+    <value>Η παραγγελία ολοκληρώθηκε</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
+    <value>Η παραγγελία σας είναι σε αναμονή, θα ειδοποιηθείτε μόλις γίνει αποδεκτή η παραγγελία</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ON_HOLD_HEADER" xml:space="preserve">
+    <value>Παραγγελία σε αναμονή</value>
+  </data>
+  <data name="GIZ_TIME_NOTIFICATION_MESSAGE" xml:space="preserve">
+    <value>Σας απομένουν {0} λεπτά.
+Φορτίστε τώρα τον λογαριασμό σας.</value>
+  </data>
+  <data name="GIZ_TIME_NOTIFICATION_TITLE" xml:space="preserve">
+    <value>Ο χρόνος τελειώνει</value>
+  </data>
 </root>

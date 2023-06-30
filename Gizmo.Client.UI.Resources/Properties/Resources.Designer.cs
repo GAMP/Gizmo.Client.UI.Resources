@@ -1582,6 +1582,78 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your order has been accepted and waiting for delivery.
+        /// </summary>
+        public static string GIZ_MESSAGE_ORDER_ACCEPTED {
+            get {
+                return ResourceManager.GetString("GIZ_MESSAGE_ORDER_ACCEPTED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your order has been accepted.
+        /// </summary>
+        public static string GIZ_MESSAGE_ORDER_ACCEPTED_HEADER {
+            get {
+                return ResourceManager.GetString("GIZ_MESSAGE_ORDER_ACCEPTED_HEADER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your order has been canceled, please contact one of our employees for more info.
+        /// </summary>
+        public static string GIZ_MESSAGE_ORDER_CANCELED {
+            get {
+                return ResourceManager.GetString("GIZ_MESSAGE_ORDER_CANCELED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your order has been canceled.
+        /// </summary>
+        public static string GIZ_MESSAGE_ORDER_CANCELED_HEADER {
+            get {
+                return ResourceManager.GetString("GIZ_MESSAGE_ORDER_CANCELED_HEADER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your order has been completed.
+        /// </summary>
+        public static string GIZ_MESSAGE_ORDER_COMPLETED {
+            get {
+                return ResourceManager.GetString("GIZ_MESSAGE_ORDER_COMPLETED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Order completed.
+        /// </summary>
+        public static string GIZ_MESSAGE_ORDER_COMPLETED_HEADER {
+            get {
+                return ResourceManager.GetString("GIZ_MESSAGE_ORDER_COMPLETED_HEADER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your order is on hold, you will be notified once order is accepted.
+        /// </summary>
+        public static string GIZ_MESSAGE_ORDER_ON_HOLD {
+            get {
+                return ResourceManager.GetString("GIZ_MESSAGE_ORDER_ON_HOLD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Order on hold.
+        /// </summary>
+        public static string GIZ_MESSAGE_ORDER_ON_HOLD_HEADER {
+            get {
+                return ResourceManager.GetString("GIZ_MESSAGE_ORDER_ON_HOLD_HEADER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Apps page.
         /// </summary>
         public static string GIZ_MODULE_PAGE_APPS_DESCRIPTION {
@@ -2019,6 +2091,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_PASSWORD_RULE_UPPER_CASE {
             get {
                 return ResourceManager.GetString("GIZ_PASSWORD_RULE_UPPER_CASE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Personal storage.
+        /// </summary>
+        public static string GIZ_PERSONAL_STORAGE_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_PERSONAL_STORAGE_LABEL", resourceCulture);
             }
         }
         
@@ -2464,6 +2545,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Email is invalid.
+        /// </summary>
+        public static string GIZ_REGISTRATION_VE_EMAIL_INVALID {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_VE_EMAIL_INVALID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mobile phone is invalid.
+        /// </summary>
+        public static string GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The specified mobile phone number is already in use.
         /// </summary>
         public static string GIZ_REGISTRATION_VE_MOBILE_PHONE_USED {
@@ -2739,6 +2838,25 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_SYSTEM_VERSION {
             get {
                 return ResourceManager.GetString("GIZ_SYSTEM_VERSION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You have {0} minutes left.
+        ///Please recharge your account now..
+        /// </summary>
+        public static string GIZ_TIME_NOTIFICATION_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_TIME_NOTIFICATION_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time is running out.
+        /// </summary>
+        public static string GIZ_TIME_NOTIFICATION_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_TIME_NOTIFICATION_TITLE", resourceCulture);
             }
         }
         
