@@ -3374,6 +3374,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Order.
+        /// </summary>
+        public static string GIZ_USER_PURCHASES_ORDER {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PURCHASES_ORDER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date.
+        /// </summary>
+        public static string GIZ_USER_PURCHASES_ORDER_DATE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PURCHASES_ORDER_DATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Paid.
         /// </summary>
         public static string GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID {
@@ -3410,6 +3428,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Order price.
+        /// </summary>
+        public static string GIZ_USER_PURCHASES_ORDER_PRICE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PURCHASES_ORDER_PRICE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Order status.
+        /// </summary>
+        public static string GIZ_USER_PURCHASES_ORDER_STATUS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PURCHASES_ORDER_STATUS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Accepted.
         /// </summary>
         public static string GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED {
@@ -3442,6 +3478,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD {
             get {
                 return ResourceManager.GetString("GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Payment method.
+        /// </summary>
+        public static string GIZ_USER_PURCHASES_PAYMENT_METHOD {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PURCHASES_PAYMENT_METHOD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Payment status.
+        /// </summary>
+        public static string GIZ_USER_PURCHASES_PAYMENT_STATUS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PURCHASES_PAYMENT_STATUS", resourceCulture);
             }
         }
         
