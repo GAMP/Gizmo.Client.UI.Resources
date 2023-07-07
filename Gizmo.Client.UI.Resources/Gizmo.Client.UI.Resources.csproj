@@ -2,7 +2,12 @@
 
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
+		<!--<RootNamespace>Gizmo.Client.UI</RootNamespace>-->
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Remove="Properties\Resources.resx" />
+	</ItemGroup>
 
 	<ItemGroup>
 		<EmbeddedResource Include="Properties\Resources.resx">
