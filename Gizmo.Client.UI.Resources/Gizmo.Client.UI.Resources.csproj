@@ -2,12 +2,7 @@
 
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
-		<!--<RootNamespace>Gizmo.Client.UI</RootNamespace>-->
 	</PropertyGroup>
-
-	<ItemGroup>
-	  <EmbeddedResource Remove="Properties\Resources.resx" />
-	</ItemGroup>
 
 	<ItemGroup>
 		<EmbeddedResource Include="Properties\Resources.resx">
@@ -24,20 +19,5 @@
 	    <DependentUpon>Resources.resx</DependentUpon>
 	  </Compile>
 	</ItemGroup>
-
-	<ItemGroup>
-	  <EmbeddedResource Update="Properties\Resources.da-dk.resx">
-	    <CustomToolNamespace></CustomToolNamespace>
-	    <Generator>PublicResXFileCodeGenerator</Generator>
-	  </EmbeddedResource>
-	  <EmbeddedResource Update="Properties\Resources.el-gr.resx">
-	    <Generator>PublicResXFileCodeGenerator</Generator>
-	    <CustomToolNamespace></CustomToolNamespace>
-	  </EmbeddedResource>
-	  <EmbeddedResource Update="Properties\Resources.ru-ru.resx">
-	    <Generator>PublicResXFileCodeGenerator</Generator>
-	    <CustomToolNamespace></CustomToolNamespace>
-	  </EmbeddedResource>
-	</ItemGroup>
-
+	
 </Project>
