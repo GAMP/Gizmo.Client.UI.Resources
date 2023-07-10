@@ -4,9 +4,9 @@
   Loco xml export: ResX - .NET resources
   Project: Gizmo Client UI
   Release: Working copy
-  Locale: da-DK, Danish (Denmark)
+  Locale: es-BO, Spanish (Bolivia)
   Exported by: Oleg Savelos
-  Exported at: Fri, 07 Jul 2023 12:02:09 +0300 
+  Exported at: Mon, 10 Jul 2023 11:08:14 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -67,445 +67,445 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <metadata name="locoLocaleCode">
-    <value>da-DK</value>
+    <value>es-BO</value>
   </metadata>
   <metadata name="locoLocaleName" xml:space="preserve">
-    <value>Danish (Denmark)</value>
+    <value>Spanish (Bolivia)</value>
   </metadata> 
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve"> 
-    <value>All games and apps</value> 
+    <value>Todos los juegos y apps</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve"> 
-    <value>Add date</value> 
+    <value>Añadir fecha</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve"> 
-    <value>Popularity</value> 
+    <value>Popularidad</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve"> 
-    <value>Rating</value> 
+    <value>Clasificación</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve"> 
-    <value>Release date</value> 
+    <value>Fecha de lanzamiento</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve"> 
-    <value>Title</value> 
+    <value>Título</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve"> 
-    <value>Use</value> 
+    <value>Usar</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve"> 
-    <value>The confirmation code is invalid.</value> 
+    <value>El código de confirmación es inválido</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value>An email has been sent to {0}. Check your email for the verification code and enter it below</value> 
+    <value>Se ha enviado un correo electrónico a {0}. Verifica el correo electrónico para obtener el código de verificación e ingrésalo a continuación</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_FLASH_CALL_MESSAGE" xml:space="preserve"> 
-    <value>A call has been placed to {0}. Check your phone for a flash (missed) call and enter the last {1} digits of the call number</value> 
+    <value>Se ha llamado al número {0}. Verifica en tu teléfono una llamada perdida e ingresa los últimos {1} dígitos.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_SMS_MESSAGE" xml:space="preserve"> 
-    <value>An SMS has been sent to {0}. Check your phone’s SMS for the verification code and enter it below</value> 
+    <value>Un SMS se ha enviado al número {0}. Verifica el código en el mensaje en tu teléfono e ingrésalo a continuación</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_EMAIL_IS_REQUIRED" xml:space="preserve"> 
-    <value>The e-mail field is required.</value> 
+    <value>El campo de email es requerido</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_ENTER_CONFIRMATION_CODE" xml:space="preserve"> 
-    <value>Enter the code</value> 
+    <value>Ingresa el código</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_APPLICATION" xml:space="preserve"> 
-    <value>Application</value> 
+    <value>Aplicación</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_CO_OP" xml:space="preserve"> 
-    <value>Co-Op Lan</value> 
+    <value>Cooperativo LAN</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_CO_OP_ONLINE" xml:space="preserve"> 
-    <value>Co-Op Online</value> 
+    <value>Cooperativo Online</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve"> 
-    <value>Free To Play</value> 
+    <value>Free to Play</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_FREE_TRIAL" xml:space="preserve"> 
-    <value>Free Trial</value> 
+    <value>Prueba gratis</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_GAME" xml:space="preserve"> 
-    <value>Game</value> 
+    <value>Juego</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_MULTIPLAYER" xml:space="preserve"> 
-    <value>Lan Multiplayer</value> 
+    <value>LAN multijugador</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_ONE_TIME_PURCHASE" xml:space="preserve"> 
-    <value>One Time Purchase</value> 
+    <value>Compra única</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_ONLINE" xml:space="preserve"> 
-    <value>Online Multiplayer</value> 
+    <value>Online multijugador</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve"> 
-    <value>Requires Subscription</value> 
+    <value>Requiere suscripción</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_SETTINGS" xml:space="preserve"> 
-    <value>Settings</value> 
+    <value>Ajustes</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve"> 
-    <value>Single Player</value> 
+    <value>Un solo jugador</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve"> 
-    <value>Split Screen</value> 
+    <value>Pantalla dividida</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_UTILITY" xml:space="preserve"> 
-    <value>Utility</value> 
+    <value>Utilidad</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_GET_CONFIRMATION_CODE" xml:space="preserve"> 
-    <value>Get Code</value> 
+    <value>Obtener código</value> 
   </data> 
   <data name="GIZ_GEN_SEARCH" xml:space="preserve"> 
-    <value>Search</value> 
+    <value>Buscar</value> 
   </data> 
   <data name="GIZ_ACTIVE_APPS_TITLE" xml:space="preserve"> 
-    <value>Active applications</value> 
+    <value>Aplicaciones activas</value> 
   </data> 
   <data name="GIZ_APPS_AUTO_START" xml:space="preserve"> 
-    <value>Autostart</value> 
+    <value>Iniciar automáticamente</value> 
   </data> 
   <data name="GIZ_APPS_CATEGORY" xml:space="preserve"> 
-    <value>Category:</value> 
+    <value>Categoría:</value> 
   </data> 
   <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve"> 
-    <value>Date Added</value> 
+    <value>Añadido en:</value> 
   </data> 
   <data name="GIZ_APPS_LAUNCH" xml:space="preserve"> 
-    <value>Launch</value> 
+    <value>Iniciar</value> 
   </data> 
   <data name="GIZ_APPS_LINKS" xml:space="preserve"> 
     <value>Links</value> 
   </data> 
   <data name="GIZ_APPS_LOADING" xml:space="preserve"> 
-    <value>Loading</value> 
+    <value>Cargando</value> 
   </data> 
   <data name="GIZ_APPS_MEDIA" xml:space="preserve"> 
     <value>Media</value> 
   </data> 
   <data name="GIZ_APPS_PARAMETERS" xml:space="preserve"> 
-    <value>Parameters:</value> 
+    <value>Parámetros:</value> 
   </data> 
   <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve"> 
-    <value>Personal Files</value> 
+    <value>Archivos personales</value> 
   </data> 
   <data name="GIZ_APPS_PLAYER_MODE" xml:space="preserve"> 
-    <value>Player Mode</value> 
+    <value>Modo de jugador</value> 
   </data> 
   <data name="GIZ_APPS_PUBLISHER" xml:space="preserve"> 
-    <value>Publisher</value> 
+    <value>Autor</value> 
   </data> 
   <data name="GIZ_APPS_RELEASE_DATE" xml:space="preserve"> 
-    <value>Release Date</value> 
+    <value>Fecha de lanzamiento</value> 
   </data> 
   <data name="GIZ_APPS_REPAIR" xml:space="preserve"> 
-    <value>Repair</value> 
+    <value>Reparar</value> 
   </data> 
   <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve"> 
-    <value>Select application version</value> 
+    <value>Seleccionar la versión de la aplicación</value> 
   </data> 
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve"> 
-    <value>Terminate</value> 
+    <value>Terminar</value> 
   </data> 
   <data name="GIZ_CHANGE_EMAIL_TITLE" xml:space="preserve"> 
-    <value>Update e-mail</value> 
+    <value>Actualizar email</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Confirm new password</value> 
+    <value>Confirmar el nuevo password</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD" xml:space="preserve"> 
-    <value>Current password</value> 
+    <value>Password actual</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve"> 
-    <value>New password</value> 
+    <value>Nuevo password</value> 
   </data> 
   <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve"> 
-    <value>Confirmation code should have {0} digits!</value> 
+    <value>El código de confirmación debería tener {0} dígitos!</value> 
   </data> 
   <data name="GIZ_GEN_ADS" xml:space="preserve"> 
     <value>Ads</value> 
   </data> 
   <data name="GIZ_GEN_ALL" xml:space="preserve"> 
-    <value>All</value> 
+    <value>Todo</value> 
   </data> 
   <data name="GIZ_GEN_AND" xml:space="preserve"> 
-    <value>and</value> 
+    <value>y</value> 
   </data> 
   <data name="GIZ_GEN_BACK_TO" xml:space="preserve"> 
-    <value>Back to {0}</value> 
+    <value>Volver a {0}</value> 
   </data> 
   <data name="GIZ_GEN_BALANCE" xml:space="preserve"> 
     <value>Balance</value> 
   </data> 
   <data name="GIZ_GEN_CANCEL" xml:space="preserve"> 
-    <value>Cancel</value> 
+    <value>Cancelar</value> 
   </data> 
   <data name="GIZ_GEN_CONFIRM" xml:space="preserve"> 
-    <value>Confirm</value> 
+    <value>Confirmar</value> 
   </data> 
   <data name="GIZ_GEN_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Confirm your password</value> 
+    <value>Confirma tu password</value> 
   </data> 
   <data name="GIZ_GEN_CONTINUE" xml:space="preserve"> 
-    <value>Continue</value> 
+    <value>Continuar</value> 
   </data> 
   <data name="GIZ_GEN_EMAIL" xml:space="preserve"> 
     <value>Email</value> 
   </data> 
   <data name="GIZ_GEN_EMAIL_ADDRESS" xml:space="preserve"> 
-    <value>Email address</value> 
+    <value>Dirección de email</value> 
   </data> 
   <data name="GIZ_GEN_ENTER_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Enter new password</value> 
+    <value>Ingresa nuevo password</value> 
   </data> 
   <data name="GIZ_GEN_MOBILE_PHONE" xml:space="preserve"> 
-    <value>Mobile phone</value> 
+    <value>Celular</value> 
   </data> 
   <data name="GIZ_GEN_PASSWORD" xml:space="preserve"> 
     <value>Password</value> 
   </data> 
   <data name="GIZ_GEN_PHONE_NUMBER" xml:space="preserve"> 
-    <value>Phone number</value> 
+    <value>Teléfono</value> 
   </data> 
   <data name="GIZ_GEN_POINTS" xml:space="preserve"> 
-    <value>Points</value> 
+    <value>Puntos</value> 
   </data> 
   <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve"> 
-    <value>Popular items</value> 
+    <value>Items populares</value> 
   </data> 
   <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Repeat new password</value> 
+    <value>Repite el nuevo password</value> 
   </data> 
   <data name="GIZ_GEN_RESEND" xml:space="preserve"> 
-    <value>Re-send</value> 
+    <value>Reenviar</value> 
   </data> 
   <data name="GIZ_GEN_RESULTS_FOR" xml:space="preserve"> 
-    <value>Results for</value> 
+    <value>Resultados para</value> 
   </data> 
   <data name="GIZ_GEN_SAVE" xml:space="preserve"> 
-    <value>Save</value> 
+    <value>Guardar</value> 
   </data> 
   <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve"> 
-    <value>Save Changes</value> 
+    <value>Guardar cambios</value> 
   </data> 
   <data name="GIZ_GEN_SORT_BY" xml:space="preserve"> 
-    <value>Sort by:</value> 
+    <value>Ordenar por:</value> 
   </data> 
   <data name="GIZ_GEN_TIME" xml:space="preserve"> 
-    <value>Time</value> 
+    <value>Tiempo</value> 
   </data> 
   <data name="GIZ_GEN_UPDATE" xml:space="preserve"> 
-    <value>Update</value> 
+    <value>Actualizar</value> 
   </data> 
   <data name="GIZ_GEN_USERNAME" xml:space="preserve"> 
-    <value>Username</value> 
+    <value>Nombre de usuario</value> 
   </data> 
   <data name="GIZ_GEN_VERIFY" xml:space="preserve"> 
-    <value>Verify</value> 
+    <value>Verificar</value> 
   </data> 
   <data name="GIZ_GEN_VIEW_DETAILS" xml:space="preserve"> 
-    <value>View details</value> 
+    <value>Ver detalles</value> 
   </data> 
   <data name="GIZ_GEN_ADD_TO_CART" xml:space="preserve"> 
-    <value>Add to cart</value> 
+    <value>Añadir al carrito</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_GAMES_AND_APPS" xml:space="preserve"> 
-    <value>Games &amp; Apps</value> 
+    <value>Juegos y Apps</value> 
   </data> 
   <data name="GIZ_GEN_LAUNCH" xml:space="preserve"> 
-    <value>Launch</value> 
+    <value>Iniciar</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE" xml:space="preserve"> 
-    <value>We didn't find anything</value> 
+    <value>No pudimos encontrar nada</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve"> 
-    <value>Try different keywords or make sure everything is spelled correctly.</value> 
+    <value>Intenta con diferentes palabras o asegúrate de que esté bien escrito</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_PLACEHOLDER" xml:space="preserve"> 
-    <value>Search games, apps, shop</value> 
+    <value>Buscar juegos, apps, tienda</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_SHOP" xml:space="preserve"> 
-    <value>Shop</value> 
+    <value>Tienda</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_SHOW_ALL" xml:space="preserve"> 
-    <value>See all</value> 
+    <value>Ver todo</value> 
   </data> 
   <data name="GIZ_LOGIN_ALREADY_A_MEMBER" xml:space="preserve"> 
-    <value>Already a member?</value> 
+    <value>Ya eres miembro?</value> 
   </data> 
   <data name="GIZ_LOGIN_FORGOT_YOUR_PASSWORD" xml:space="preserve"> 
-    <value>Forgot you password?</value> 
+    <value>Olvidaste tu password?</value> 
   </data> 
   <data name="GIZ_LOGIN_NOT_A_MEMBER" xml:space="preserve"> 
-    <value>Not a member?</value> 
+    <value>No eres miembro?</value> 
   </data> 
   <data name="GIZ_LOGIN_OR" xml:space="preserve"> 
-    <value>Or</value> 
+    <value>O</value> 
   </data> 
   <data name="GIZ_LOGIN_QR_MESSAGE" xml:space="preserve"> 
-    <value>Scan this with the Mobile app to sign in instantly</value> 
+    <value>Escanea esto con la aplicación para iniciar sesión inmediatamente</value> 
   </data> 
   <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve"> 
-    <value>Sign in with QR Code</value> 
+    <value>Iniciar sesión con QR</value> 
   </data> 
   <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>If you log in now, you will be automatically logged out at the specified time.</value> 
+    <value>Si inicias sesión ahora, tu sesión se cerrará automáticamente a la hora especificada</value> 
   </data> 
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve"> 
-    <value>This computer is reserved at {0}.</value> 
+    <value>Esta computadora está reservada para {0}</value> 
   </data> 
   <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve"> 
-    <value>Sign in</value> 
+    <value>Iniciar sesión</value> 
   </data> 
   <data name="GIZ_LOGIN_SIGN_UP_NOW" xml:space="preserve"> 
-    <value>Sign up now</value> 
+    <value>Registrarse ahora</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve"> 
-    <value>Balance Hidden</value> 
+    <value>Balance oculto</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve"> 
-    <value>Mark as all read</value> 
+    <value>Marcar todo como leído</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve"> 
-    <value>Mark as read</value> 
+    <value>Marcar como leído</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve"> 
-    <value>No new notifications.</value> 
+    <value>No hay nuevas notificaciones</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE" xml:space="preserve"> 
-    <value>When something new happens you’ll find it here.</value> 
+    <value>Cuando algo nuevo ocurra lo encontrarás aquí</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_TITLE" xml:space="preserve"> 
-    <value>Notifications</value> 
+    <value>Notificaciones</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_FOR" xml:space="preserve"> 
-    <value>No match found for</value> 
+    <value>No hay resultados para</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve"> 
-    <value>Try formulating your request differently</value> 
+    <value>Intenta formular tu búsqueda de otra manera</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve"> 
-    <value>Secure Password</value> 
+    <value>Password seguro</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_TOO_EASY" xml:space="preserve"> 
-    <value>Password is too easy</value> 
+    <value>Password muy inseguro</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_TOO_SHORT" xml:space="preserve"> 
-    <value>Password is too short</value> 
+    <value>Password muy corto</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_EMAIL" xml:space="preserve"> 
-    <value>Enter the e-mail that is linked to your account</value> 
+    <value>Ingresa el email enlazado a tu cuenta</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_PHONE_NUMBER" xml:space="preserve"> 
-    <value>Enter the phone number that is linked to your account</value> 
+    <value>Ingresa el número de teléfono enlazado a tu cuenta</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_YOUR_CODE" xml:space="preserve"> 
-    <value>Enter your code</value> 
+    <value>Ingresa tu código</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve"> 
-    <value>Forgot Password</value> 
+    <value>Olvidé el password</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve"> 
-    <value>Please enter the code from the text message we sent to {0}</value> 
+    <value>Por favor ingresa el código que te enviamos a tu teléfono</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve"> 
-    <value>Reset password</value> 
+    <value>Resetear password</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve"> 
-    <value>Great! Now come up with a new password and you're all set</value> 
+    <value>Genial! Ahora inventa un nuevo password y listo!</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_RANGE_LENGTH" xml:space="preserve"> 
-    <value>{0}-{1} characters</value> 
+    <value>{0}-{1} caracteres</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_LOWER_CASE" xml:space="preserve"> 
-    <value>At least 1 lowercace letter</value> 
+    <value>Al menos 1 letra minúscula</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_NUMBER" xml:space="preserve"> 
-    <value>At least 1 number</value> 
+    <value>Al menos 1 número</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve"> 
-    <value>At least 1 uppercase letter</value> 
+    <value>Al menos 1 letra mayúscula</value> 
   </data> 
   <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve"> 
-    <value>Enter your email</value> 
+    <value>Ingresa tu email</value> 
   </data> 
   <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve"> 
-    <value>Enter your mobile phone</value> 
+    <value>Ingresa tu número de celular</value> 
   </data> 
   <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve"> 
-    <value>Please confirm your country code and enter your phone number to create an account.</value> 
+    <value>Por favor confirma tu código de país e ingresa tu número de celular para crear una cuenta</value> 
   </data> 
   <data name="GIZ_REGISTRATION_SIGN_UP_BUTTON" xml:space="preserve"> 
-    <value>Sign Up</value> 
+    <value>Registrarse</value> 
   </data> 
   <data name="GIZ_REGISTRATION_SIGN_UP_TITLE" xml:space="preserve"> 
-    <value>Sign Up</value> 
+    <value>Registrarse</value> 
   </data> 
   <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve"> 
-    <value>Sign in</value> 
+    <value>Iniciar sesión</value> 
   </data> 
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve"> 
-    <value>Add to cart</value> 
+    <value>Añadir al carrito</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve"> 
-    <value>Bundle includes:</value> 
+    <value>El combo incluye:</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve"> 
-    <value>Action period</value> 
+    <value>Periodo de acción</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve"> 
-    <value>Package description:</value> 
+    <value>Descripción del paquete:</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve"> 
-    <value>Product life time</value> 
+    <value>Tiempo de vida del producto</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve"> 
-    <value>Thanks for you order!</value> 
+    <value>Gracias por tu orden!</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve"> 
-    <value>Note: You can see all your current orders under My Profile &gt; Purchased</value> 
+    <value>Nota: Puedes ver todas tus órdenes actuales en Mi Perfil &gt; Comprado</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_MESSAGE" xml:space="preserve"> 
-    <value>By selecting Place order, you accept the Gizmo Customer Agreement and privacy statement and represent that you have the authority to do so.</value> 
+    <value>Al seleccionar Realizar orden, aceptas el Acuerdo de cliente de Gizmo y declaración de privacidad y declaras que tienes la autoridad para hacerlo.</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve"> 
     <value>Checkout</value> 
   </data> 
   <data name="GIZ_SHOP_EARNED_POINTS" xml:space="preserve"> 
-    <value>Earned points</value> 
+    <value>Puntos ganados</value> 
   </data> 
   <data name="GIZ_SHOP_NO_PRODUCTS_MESSAGE" xml:space="preserve"> 
-    <value>No products</value> 
+    <value>No hay productos</value> 
   </data> 
   <data name="GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE" xml:space="preserve"> 
-    <value>Add products to get started</value> 
+    <value>Añade productos para empezar</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_NOTE" xml:space="preserve"> 
-    <value>Order comments</value> 
+    <value>Comentarios de la orden</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve"> 
-    <value>Add your note..</value> 
+    <value>Añade nota...</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve"> 
-    <value>My order</value> 
+    <value>Mi orden</value> 
   </data> 
   <data name="GIZ_SHOP_PAYMENT_METHOD" xml:space="preserve"> 
-    <value>Payment method</value> 
+    <value>Método de pago</value> 
   </data> 
   <data name="GIZ_SHOP_PLACE_ORDER" xml:space="preserve"> 
-    <value>Place order</value> 
+    <value>Realizar orden</value> 
   </data> 
   <data name="GIZ_SHOP_PRICE" xml:space="preserve"> 
-    <value>Price</value> 
+    <value>Precio</value> 
   </data> 
   <data name="GIZ_SHOP_PRODUCT_NAME" xml:space="preserve"> 
-    <value>Product name</value> 
+    <value>Nombre del producto</value> 
   </data> 
   <data name="GIZ_SHOP_QUANTITY" xml:space="preserve"> 
-    <value>Quantity</value> 
+    <value>Cantidad</value> 
   </data> 
   <data name="GIZ_SHOP_RELATED_PRODUCTS" xml:space="preserve"> 
-    <value>Related products</value> 
+    <value>Productos relacionados</value> 
   </data> 
   <data name="GIZ_SHOP_SUBTOTAL" xml:space="preserve"> 
     <value>Subtotal</value> 
@@ -514,343 +514,343 @@
     <value>Total</value> 
   </data> 
   <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve"> 
-    <value>Locked</value> 
+    <value>Bloqueado</value> 
   </data> 
   <data name="GIZ_SYSTEM_VERSION" xml:space="preserve"> 
-    <value>Version</value> 
+    <value>Versión</value> 
   </data> 
   <data name="GIZ_TIME_PRODUCT_HOUR" xml:space="preserve"> 
-    <value>Hour</value> 
+    <value>Hora</value> 
   </data> 
   <data name="GIZ_TIME_PRODUCT_HOURS" xml:space="preserve"> 
-    <value>Hours</value> 
+    <value>Horas</value> 
   </data> 
   <data name="GIZ_TIME_PRODUCT_MINUTES" xml:space="preserve"> 
-    <value>Min</value> 
+    <value>Minutos</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_CLEAR" xml:space="preserve"> 
-    <value>Clear</value> 
+    <value>Vaciar</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_OR" xml:space="preserve"> 
-    <value>Or</value> 
+    <value>O</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_OR_ENTER_AMOUNT" xml:space="preserve"> 
-    <value>Or enter amount*</value> 
+    <value>O ingresa monto*</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_PAY_FROM_PC" xml:space="preserve"> 
-    <value>Pay from PC</value> 
+    <value>Pagar desde la PC</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve"> 
-    <value>Place Next: Payment informaition</value> 
+    <value>A continuación coloca: Información de pago</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve"> 
-    <value>QR-code for payment on phone</value> 
+    <value>Código QR para pago con celular</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_QUICK_SELECT" xml:space="preserve"> 
-    <value>Quick select</value> 
+    <value>Selección rápida</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_TITLE" xml:space="preserve"> 
-    <value>Top Up</value> 
+    <value>Rellenar</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve"> 
-    <value>To be paid:</value> 
+    <value>A ser pagado:</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve"> 
-    <value>will be credited to your Account balance</value> 
+    <value>será añadido al balance de tu cuenta</value> 
   </data> 
   <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve"> 
-    <value>Additional Information</value> 
+    <value>Información adicional</value> 
   </data> 
   <data name="GIZ_USER_ADDRESS" xml:space="preserve"> 
-    <value>Address</value> 
+    <value>Dirección</value> 
   </data> 
   <data name="GIZ_USER_AVAILABLE_TIME" xml:space="preserve"> 
-    <value>Available time</value> 
+    <value>Tiempo disponible</value> 
   </data> 
   <data name="GIZ_USER_BASIC_INFO" xml:space="preserve"> 
-    <value>Basic information</value> 
+    <value>Información básica</value> 
   </data> 
   <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve"> 
-    <value>Date of birth</value> 
+    <value>Fecha de nacimiento</value> 
   </data> 
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve"> 
-    <value>Change password</value> 
+    <value>Cambiar password</value> 
   </data> 
   <data name="GIZ_USER_COUNTRY" xml:space="preserve"> 
-    <value>Country</value> 
+    <value>País</value> 
   </data> 
   <data name="GIZ_USER_COUNTRY_REGION" xml:space="preserve"> 
-    <value>Country/Region</value> 
+    <value>País/Departamento</value> 
   </data> 
   <data name="GIZ_USER_DETAILS" xml:space="preserve"> 
-    <value>User details</value> 
+    <value>Detalles de usuario</value> 
   </data> 
   <data name="GIZ_USER_FIRST_NAME" xml:space="preserve"> 
-    <value>First name</value> 
+    <value>Primer Nombre</value> 
   </data> 
   <data name="GIZ_USER_GENDER" xml:space="preserve"> 
-    <value>Gender</value> 
+    <value>Género</value> 
   </data> 
   <data name="GIZ_USER_HOME_PHONE" xml:space="preserve"> 
-    <value>Home phone</value> 
+    <value>Teléfono</value> 
   </data> 
   <data name="GIZ_USER_LAST_NAME" xml:space="preserve"> 
-    <value>Last name</value> 
+    <value>Apellido</value> 
   </data> 
   <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve"> 
-    <value>Mail and phone numbers</value> 
+    <value>Email y números de teléfono</value> 
   </data> 
   <data name="GIZ_USER_MENU_HELP" xml:space="preserve"> 
-    <value>Help</value> 
+    <value>Ayuda</value> 
   </data> 
   <data name="GIZ_USER_MENU_LOCK_PC" xml:space="preserve"> 
-    <value>Lock PC</value> 
+    <value>Bloquear PC</value> 
   </data> 
   <data name="GIZ_USER_MENU_LOGOUT" xml:space="preserve"> 
-    <value>Logout</value> 
+    <value>Cerrar sesión</value> 
   </data> 
   <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve"> 
-    <value>My profile</value> 
+    <value>Mi perfil</value> 
   </data> 
   <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve"> 
-    <value>Settings</value> 
+    <value>Ajustes</value> 
   </data> 
   <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve"> 
-    <value>Top Up</value> 
+    <value>Rellenar</value> 
   </data> 
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve"> 
-    <value>Personal information</value> 
+    <value>Información personal</value> 
   </data> 
   <data name="GIZ_USER_POST_CODE" xml:space="preserve"> 
-    <value>Post code</value> 
+    <value>Código postal</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES" xml:space="preserve"> 
-    <value>Purchases</value> 
+    <value>Compras</value> 
   </data> 
   <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve"> 
-    <value>Edit User Settings</value> 
+    <value>Editar los ajustes de usuario</value> 
   </data> 
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve"> 
-    <value>Transactions</value> 
+    <value>Transacciones</value> 
   </data> 
   <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve"> 
-    <value>Other users will see your username</value> 
+    <value>Otros usuarios podrán ver tu nombre de usuario</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve"> 
-    <value>Send code</value> 
+    <value>Enviar código</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_APPS_DESCRIPTION" xml:space="preserve"> 
-    <value>Apps page</value> 
+    <value>Página de apps</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve"> 
     <value>Apps</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve"> 
-    <value>Games page</value> 
+    <value>Página de juegos</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve"> 
-    <value>Games</value> 
+    <value>Juegos</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve"> 
-    <value>Home page</value> 
+    <value>Página de inicio</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve"> 
-    <value>Home</value> 
+    <value>Inicio</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve"> 
-    <value>Profile page</value> 
+    <value>Página del perfil</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve"> 
-    <value>Profile</value> 
+    <value>Perfil</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve"> 
-    <value>Shop page</value> 
+    <value>Página de la tienda</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve"> 
-    <value>Shop</value> 
+    <value>Tienda</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_VALIDATION_DESCRIPTION" xml:space="preserve"> 
-    <value>Do some validation</value> 
+    <value>Validar</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_VALIDATION_TITLE" xml:space="preserve"> 
-    <value>Validation</value> 
+    <value>Validación</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve"> 
-    <value>Accepted</value> 
+    <value>Aceptado</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_CANCELED" xml:space="preserve"> 
-    <value>Canceled</value> 
+    <value>Cancelado</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_COMPLETED" xml:space="preserve"> 
-    <value>Completed</value> 
+    <value>Completado</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD" xml:space="preserve"> 
-    <value>On Hold</value> 
+    <value>En espera</value> 
   </data> 
   <data name="GIZ_GEN_PASSWORDS_DO_NOT_MATCH" xml:space="preserve"> 
-    <value>Passwords do not match!</value> 
+    <value>Los passwords no son iguales!</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_PASSWORD_RESET_FAILED_MESSAGE" xml:space="preserve"> 
-    <value>Password reset failed.</value> 
+    <value>El password no se pudo resetear.</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_MOBILE" xml:space="preserve"> 
-    <value>This account does not have a valid phone.</value> 
+    <value>Esta cuenta no tiene un número de teléfono válido</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED" xml:space="preserve"> 
-    <value>The phone number field is required.</value> 
+    <value>El campo de número de teléfono es requerido.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_ERROR_PROVIDER_NO_ROUTE_FOR_DELIVERY" xml:space="preserve"> 
-    <value>Message delivery impossible, check configuration.</value> 
+    <value>El mensaje no pudo ser enviado,por favor verifica la configuración.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_FAILED_MESSAGE" xml:space="preserve"> 
-    <value>Something went wrong. Contact front desk for info.</value> 
+    <value>Algo salió mal. Contacta a alguien de nuestro personal para más información.</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve"> 
-    <value>Select something</value> 
+    <value>Selecciona alguno</value> 
   </data> 
   <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve"> 
-    <value>Female</value> 
+    <value>Mujer</value> 
   </data> 
   <data name="GIZ_GEN_SEX_MALE" xml:space="preserve"> 
-    <value>Male</value> 
+    <value>Hombre</value> 
   </data> 
   <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve"> 
-    <value>Unspecified</value> 
+    <value>Prefiero no decirlo</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve"> 
-    <value>Minimum amount is {0}.</value> 
+    <value>El monto mínimo es {0}</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_RETRY_WITH_SMS" xml:space="preserve"> 
-    <value>Retry with SMS</value> 
+    <value>Reintentar con SMS</value> 
   </data> 
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve"> 
-    <value>Unset value</value> 
+    <value>Valor no establecido</value> 
   </data> 
   <data name="GIZ_CHANGE_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value>Enter the e-mail you’d like to use. To make sure this e-mail is yours, will send you a verification code.</value> 
+    <value>Ingresa el email que quisieras usar. Para asegurarnos de que es tuyo, te enviaremos un código de verificación.</value> 
   </data> 
   <data name="GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>We just sent you an e-mail with a code. Enter it to verify your e-mail.</value> 
+    <value>Te enviamos un código de verificación. Ingrésalo para verificar tu email.</value> 
   </data> 
   <data name="GIZ_CHANGE_MOBILE" xml:space="preserve"> 
-    <value>Update number</value> 
+    <value>Actualizar número</value> 
   </data> 
   <data name="GIZ_CHANGE_MOBILE_MESSAGE" xml:space="preserve"> 
-    <value>Enter the number you’d like to use. To make sure this number is yours, will send you a verification code.</value> 
+    <value>Ingresa el número que quisieras usar. Para asegurarnos de que eres tú, te enviaremos un código de verificación.</value> 
   </data> 
   <data name="GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>We just sent you an SMS with a code. Enter it to verify your phone.</value> 
+    <value>Te enviamos un SMS con un código. Por favor ingrésalo para verificar tu número.</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve"> 
-    <value>Enter Code to Continue</value> 
+    <value>Ingresa el código para continuar</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve"> 
-    <value>Forgot PIN</value> 
+    <value>Olvidé mi PIN</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_SUBTITLE" xml:space="preserve"> 
-    <value>Profile Lock is currently on</value> 
+    <value>El bloqueo de perfil está activado</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve"> 
-    <value>Enter you PIN to access this profile</value> 
+    <value>Ingresa tu PIN para acceder a este perfil</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve"> 
-    <value>Lock this profile by creating a 4-digit pin. Memorize or write it down.</value> 
+    <value>Bloquea este perfil creando un PIN de 4 dígitos. Memorízalo o escríbelo en un lugar seguro.</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve"> 
-    <value>Profile Lock</value> 
+    <value>Bloquear perfil</value> 
   </data> 
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
-    <value>The field {0} is required.</value> 
+    <value>El campo {0} es requerido</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve"> 
-    <value>The specified email address is already in use</value> 
+    <value>Este email se encuentra en uso</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve"> 
-    <value>Cannot validate email.</value> 
+    <value>No se pudo validar este email</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_PHONE" xml:space="preserve"> 
-    <value>Cannot validate phone.</value> 
+    <value>No se pudo validar este número de celular</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve"> 
-    <value>Check password recovery token validity error.</value> 
+    <value>Comprueba el error de validez del token de recuperación de password.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve"> 
-    <value>Cannot validate username.</value> 
+    <value>No se pudo validar este nombre de usuario</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve"> 
-    <value>The specified mobile phone number is already in use</value> 
+    <value>Este número de celular se encuentra en uso</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve"> 
-    <value>The specified username is already in use</value> 
+    <value>Este nombre de usuario se encuentra en uso</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve"> 
-    <value>Maximum amount is {0}.</value> 
+    <value>El monto máximo es {0}</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_ALL_ITEMS" xml:space="preserve"> 
-    <value>All items</value> 
+    <value>Todos los items</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve"> 
-    <value>New releases</value> 
+    <value>Nuevos lanzamientos</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_POPULAR_ITEMS" xml:space="preserve"> 
-    <value>Popular items</value> 
+    <value>Items populares</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve"> 
-    <value>Recently Added</value> 
+    <value>Recientemente añadido</value> 
   </data> 
   <data name="GIZ_GEN_OR" xml:space="preserve"> 
-    <value>or</value> 
+    <value>o</value> 
   </data> 
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve"> 
-    <value>and</value> 
+    <value>y</value> 
   </data> 
   <data name="GIZ_PRODUCT_PRICE_FREE" xml:space="preserve"> 
-    <value>Free</value> 
+    <value>Gratis</value> 
   </data> 
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_OR" xml:space="preserve"> 
-    <value>or</value> 
+    <value>O</value> 
   </data> 
   <data name="GIZ_GEN_PHONE" xml:space="preserve"> 
-    <value>Phone</value> 
+    <value>Celular</value> 
   </data> 
   <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve"> 
-    <value>Contact info</value> 
+    <value>Información de contacto</value> 
   </data> 
   <data name="GIZ_USER_SECURITY" xml:space="preserve"> 
-    <value>Security</value> 
+    <value>Seguridad</value> 
   </data> 
   <data name="GIZ_GEN_CLOSE" xml:space="preserve"> 
-    <value>Close</value> 
+    <value>Cerrar</value> 
   </data> 
   <data name="GIZ_USER_LOCATION" xml:space="preserve"> 
-    <value>Location</value> 
+    <value>Ubicación</value> 
   </data> 
   <data name="GIZ_USER_PROFILE_PICTURE_AND_USERNAME" xml:space="preserve"> 
-    <value>Profile picture and username</value> 
+    <value>Foto de perfil y nombre de usuario</value> 
   </data> 
   <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve"> 
-    <value>Update password</value> 
+    <value>Actualizar password</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve"> 
-    <value>Paid</value> 
+    <value>Pagado</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve"> 
-    <value>Partialy paid</value> 
+    <value>Parcialmente pagado</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve"> 
-    <value>Unpaid</value> 
+    <value>No pagado</value> 
   </data> 
   <data name="GIZ_GEN_ERROR" xml:space="preserve"> 
     <value>Error</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Insufficient points.</value> 
+    <value>Insuficientes puntos</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_POINTS" xml:space="preserve"> 
-    <value>Points</value> 
+    <value>Puntos</value> 
   </data> 
   <data name="GIZ_GEN_CLEAR" xml:space="preserve"> 
-    <value>Clear</value> 
+    <value>Vaciar</value> 
   </data> 
   <data name="GIZ_GEN_NO" xml:space="preserve"> 
     <value>No</value> 
@@ -859,49 +859,49 @@
     <value>OK</value> 
   </data> 
   <data name="GIZ_GEN_YES" xml:space="preserve"> 
-    <value>Yes</value> 
+    <value>Si</value> 
   </data> 
   <data name="GIZ_SHOP_VERIFY_CLEAR_CART" xml:space="preserve"> 
-    <value>Are you sure you want to clear you cart?</value> 
+    <value>Estás seguro de que deseas vaciar tu carrito?</value> 
   </data> 
   <data name="GIZ_APPS_SHOW_MORE" xml:space="preserve"> 
-    <value>Show more</value> 
+    <value>Mostrar más</value> 
   </data> 
   <data name="GIZ_GEN_BACK" xml:space="preserve"> 
-    <value>Back</value> 
+    <value>Atrás</value> 
   </data> 
   <data name="GIZ_GEN_DETAILS" xml:space="preserve"> 
-    <value>Details</value> 
+    <value>Detalles</value> 
   </data> 
   <data name="GIZ_GEN_POPULAR_APPS" xml:space="preserve"> 
-    <value>Popular apps</value> 
+    <value>Apps populares</value> 
   </data> 
   <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve"> 
-    <value>Popular products</value> 
+    <value>Productos populares</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve"> 
-    <value>Purchase History</value> 
+    <value>Historial de compras</value> 
   </data> 
   <data name="GIZ_GEN_OF" xml:space="preserve"> 
-    <value>of</value> 
+    <value>De</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve"> 
-    <value>Action time</value> 
+    <value>Tiempo de acción</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER" xml:space="preserve"> 
-    <value>after</value> 
+    <value>Después de</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve"> 
-    <value>after logout</value> 
+    <value>Después de cerrar sesión</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve"> 
-    <value>purchase</value> 
+    <value>Comprar</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve"> 
-    <value>use</value> 
+    <value>Usar</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve"> 
-    <value>Buying time</value> 
+    <value>Tiempo de compra</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve"> 
     <value>d.</value> 
@@ -916,7 +916,7 @@
     <value>h.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT" xml:space="preserve"> 
-    <value>logout</value> 
+    <value>Cerrar sesión</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve"> 
     <value>m.</value> 
@@ -928,178 +928,178 @@
     <value>min</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRES_AFTER" xml:space="preserve"> 
-    <value>Expires after</value> 
+    <value>Expira después de:</value> 
   </data> 
   <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve"> 
-    <value>pcs.</value> 
+    <value>Piezas</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve"> 
-    <value>Expires</value> 
+    <value>Expira</value> 
   </data> 
   <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve"> 
-    <value>{0} failed to launch :(</value> 
+    <value>{0} no pudieron iniciarse :(</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION" xml:space="preserve"> 
-    <value>Bundle description:</value> 
+    <value>Descripción del combo:</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_PURCHASE_DETAILS" xml:space="preserve"> 
-    <value>Purchase details:</value> 
+    <value>Detalles de la compra:</value> 
   </data> 
   <data name="GIZ_GEN_FROM" xml:space="preserve"> 
-    <value>From</value> 
+    <value>Desde</value> 
   </data> 
   <data name="GIZ_GEN_UNTIL" xml:space="preserve"> 
-    <value>Until</value> 
+    <value>Hasta</value> 
   </data> 
   <data name="GIZ_GEN_WARNING" xml:space="preserve"> 
-    <value>Warning</value> 
+    <value>Advertencia</value> 
   </data> 
   <data name="GIZ_PRODUCT_CURRENTLY_NOT_AVAILABLE" xml:space="preserve"> 
-    <value>Currently not available.</value> 
+    <value>Acualmente no se encuentra disponible</value> 
   </data> 
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE" xml:space="preserve"> 
-    <value>Not available anymore.</value> 
+    <value>Ya no se encuentra disponible</value> 
   </data> 
   <data name="GIZ_PRODUCT_NOT_YET_AVAILABLE" xml:space="preserve"> 
-    <value>Not yet available.</value> 
+    <value>Aún no está disponible</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve"> 
-    <value>Not available on this host.</value> 
+    <value>No disponible en este host</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve"> 
-    <value>You cannot use this product for the moment. Are you sure you want to buy this product?</value> 
+    <value>No puedes utilizar este producto por el momento. Estás seguro de que lo quieres comprar?</value> 
   </data> 
   <data name="GIZ_GEN_NEVER" xml:space="preserve"> 
-    <value>Never</value> 
+    <value>Nunca</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_EARNED_POINTS" xml:space="preserve"> 
-    <value>Earned points:</value> 
+    <value>Puntos ganados:</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve"> 
-    <value>Order comments:</value> 
+    <value>Comentarios de la orden:</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve"> 
-    <value>This account does not have a valid email.</value> 
+    <value>Esta cuenta no tiene un email válido</value> 
   </data> 
   <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve"> 
-    <value>Login is currently blocked.</value> 
+    <value>La sesión se encuentra bloqueada</value> 
   </data> 
   <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve"> 
-    <value>Login is currently un-blocked.</value> 
+    <value>La sesión se encuentra desbloqueada</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve"> 
-    <value>Cash</value> 
+    <value>Efectivo</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_CREDIT_CARD" xml:space="preserve"> 
-    <value>Credit Card</value> 
+    <value>Tarjeta de crédito</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_DEPOSIT" xml:space="preserve"> 
-    <value>Deposit</value> 
+    <value>Depositar</value> 
   </data> 
   <data name="GIZ_GEN_SUCCESS" xml:space="preserve"> 
-    <value>Success</value> 
+    <value>Éxito</value> 
   </data> 
   <data name="GIZ_PRODUCT_DETAILS_LESS" xml:space="preserve"> 
-    <value>Less</value> 
+    <value>Menos</value> 
   </data> 
   <data name="GIZ_PRODUCT_DETAILS_MORE" xml:space="preserve"> 
-    <value>More</value> 
+    <value>Más</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED" xml:space="preserve"> 
-    <value>The confirmation code field is required.</value> 
+    <value>El campo del código de confirmación es obligatorio.</value> 
   </data> 
   <data name="GIZ_USER_AGREEMENT_DIALOG_TITLE" xml:space="preserve"> 
-    <value>Privacy Policy and Terms of Use</value> 
+    <value>Política de privacidad y condiciones de uso</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_INCORRECT_PIN" xml:space="preserve"> 
-    <value>Incorrect PIN</value> 
+    <value>PIN incorrecto</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve"> 
-    <value>Password should have 4 digits!</value> 
+    <value>El password debería tener al menos 4 dígitos</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve"> 
-    <value>Please enter at least {0} characters.</value> 
+    <value>Por favor utiliza al menos {0} caracteres</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE" xml:space="preserve"> 
-    <value>Not enough characters</value> 
+    <value>No son los caracteres suficientes</value> 
   </data> 
   <data name="GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED" xml:space="preserve"> 
-    <value>Old password is required.</value> 
+    <value>Se requiere el password antiguo</value> 
   </data> 
   <data name="GIZ_APPS_CANCEL" xml:space="preserve"> 
-    <value>Cancel</value> 
+    <value>Cancelar</value> 
   </data> 
   <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Are you sure you want to logout?</value> 
+    <value>Estás seguro de que quieres cerrar sesión?</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Ordering is currently disallowed</value> 
+    <value>No puedes realizar la orden en este momento</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve"> 
-    <value>Your usergroup cannot purchase this product</value> 
+    <value>Tu grupo de usuarios no puede comprar este producto</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Something went wrong</value> 
+    <value>Algo salió mal</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Only members can purchase this product</value> 
+    <value>Solo los miembros pueden comprar este producto</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve"> 
-    <value>Invalid product id</value> 
+    <value>Producto inválido</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve"> 
-    <value>Invalid user id</value> 
+    <value>Nombre de usuario inválido</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve"> 
-    <value>The product is out of stock</value> 
+    <value>El producto se agotó</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Product purchase is not allowed at this time</value> 
+    <value>La compra del producto no está permitida en este momento</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Product sale is currently disallowed</value> 
+    <value>La venta del producto no está permitida actualmente</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve"> 
-    <value>Success</value> 
+    <value>Éxito</value> 
   </data> 
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>You are not old enough!</value> 
+    <value>No eres lo suficientemente mayor!</value> 
   </data> 
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve"> 
-    <value>Age rating</value> 
+    <value>Clasificación de edad</value> 
   </data> 
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>You are already running an application. Press accept to terminate any running application and continue.</value> 
+    <value>Ya estás corriendo una aplicación. Presiona aceptar para cerrar todas las aplicaciones que se encuentran corriendo y continuar.</value> 
   </data> 
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve"> 
-    <value>Maximum applications</value> 
+    <value>Máximo número de aplicaciones</value> 
   </data> 
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Are you sure you want to abort this executable?</value> 
+    <value>Estás seguro de que quieres abortar este programa?</value> 
   </data> 
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verify</value> 
+    <value>Verificar</value> 
   </data> 
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Are you sure you want to repair this executable?</value> 
+    <value>Estás seguro de que quieres reparar este programa?</value> 
   </data> 
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verify</value> 
+    <value>Verificar</value> 
   </data> 
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Are you sure you want to terminate this executable?</value> 
+    <value>Estás seguro de que quieres cerrar este programa?</value> 
   </data> 
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verify</value> 
+    <value>Verificar</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>An error has occurred. Change password failed!</value> 
+    <value>Un error ha ocurrido. El cambio de password falló!</value> 
   </data> 
   <data name="GIZ_LOGOUT_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verify</value> 
+    <value>Verificar</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve"> 
-    <value>You don't have enough deposits to make this order.</value> 
+    <value>No tienes suficientes depósitos para realizar esta orden</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve"> 
     <value>Error</value> 
@@ -1108,130 +1108,129 @@
     <value>Error</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Wrong password</value> 
+    <value>Password incorrecto</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_ACCOUNT_DISABLED" xml:space="preserve"> 
-    <value>Your account is disabled</value> 
+    <value>Tu cuenta esta deshabilitada</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_ALREADY_LOGGED_IN" xml:space="preserve"> 
-    <value>Already logged in</value> 
+    <value>Ya iniciaste sesión</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_DENIED" xml:space="preserve"> 
-    <value>Denied</value> 
+    <value>Denegado</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve"> 
-    <value>General failure</value> 
+    <value>Error general</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve"> 
-    <value>Insufficient balance</value> 
+    <value>No hay saldo suficiente</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_CREDENTIALS" xml:space="preserve"> 
-    <value>Invalid credentials</value> 
+    <value>Credenciales inválidas</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_PARAMETERS" xml:space="preserve"> 
-    <value>Invalid parameters</value> 
+    <value>Parámetros inválidos</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve"> 
-    <value>Invalid password</value> 
+    <value>Password inválido</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve"> 
-    <value>Invalid user name</value> 
+    <value>Username inválido</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_MAX_SESSIONS_REACHED" xml:space="preserve"> 
-    <value>Maximum sessions reached</value> 
+    <value>Número máximo de sesiones alcanzado</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve"> 
-    <value>Not in waiting line</value> 
+    <value>No se encuentra en espera</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve"> 
-    <value>Success</value> 
+    <value>Éxito</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve"> 
-    <value>Rate</value> 
+    <value>Calificación</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve"> 
-    <value>Fixed time</value> 
+    <value>Tiempo fijo</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve"> 
-    <value>Time product</value> 
+    <value>Producto de tiempo</value> 
   </data> 
   <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve"> 
-    <value>Please enter your e-mail to create an account.</value> 
+    <value>Por favor pon tu email para crear una cuenta</value> 
   </data> 
   <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve"> 
-    <value>Logout</value> 
+    <value>Cerrar sesión</value> 
   </data> 
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve"> 
-    <value>Your time has expired.&lt;br&gt;Refill at the front desk or&lt;br&gt;click "logout" to end your session.</value> 
+    <value>Tu tiempo se agotó. Por favor adquiere más o cierra tu sesión.</value> 
   </data> 
   <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve"> 
-    <value>Out of Order</value> 
+    <value>Fuera de servicio</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_MAX_LENGTH" xml:space="preserve"> 
-    <value>Maximum {0} characters</value> 
+    <value>Máximo de {0} caracteres</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_MIN_LENGTH" xml:space="preserve"> 
-    <value>Minimum {0} characters</value> 
+    <value>Mínimo de {0} caracteres</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_TOO_LONG" xml:space="preserve"> 
-    <value>Password is too long</value> 
+    <value>La contraseña es muy larga</value> 
   </data> 
   <data name="GIZ_PERSONAL_STORAGE_LABEL" xml:space="preserve"> 
-    <value>Personal storage</value> 
+    <value>Almacenamiento personal</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED" xml:space="preserve"> 
-    <value>Your order has been accepted and waiting for delivery</value> 
+    <value>Tu orden ha sido aceptada y será enviada en breve</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED_HEADER" xml:space="preserve"> 
-    <value>Your order has been accepted</value> 
+    <value>Tu orden ha sido aceptada</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_CANCELED" xml:space="preserve"> 
-    <value>Your order has been canceled, please contact one of our employees for more info</value> 
+    <value>Tu orden ha sido cancelada, por favor contacta a alguien de nuestro personal para más información</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_CANCELED_HEADER" xml:space="preserve"> 
-    <value>Your order has been canceled</value> 
+    <value>Tu orden ha sido cancelada</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve"> 
-    <value>Your order has been completed</value> 
+    <value>Tu orden ha sido completada</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve"> 
-    <value>Order completed</value> 
+    <value>Orden completada</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve"> 
-    <value>Your order is on hold, you will be notified once order is accepted</value> 
+    <value>Tu orden está en la cola, serás notificado cuando sea aceptada</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD_HEADER" xml:space="preserve"> 
-    <value>Order on hold</value> 
+    <value>Orden en espera</value> 
   </data> 
   <data name="GIZ_TIME_NOTIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>You have {0} minutes left.
-Please recharge your account now.</value> 
+    <value>Te quedan {0} minutos restantes. Por favor recarga tu cuenta</value> 
   </data> 
   <data name="GIZ_TIME_NOTIFICATION_TITLE" xml:space="preserve"> 
-    <value>Time is running out</value> 
+    <value>El tiempo se está acabando</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_INVALID" xml:space="preserve"> 
-    <value>Email is invalid</value> 
+    <value>El email no es válido</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID" xml:space="preserve"> 
-    <value>Mobile phone is invalid</value> 
+    <value>El número de celular no es válido</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER" xml:space="preserve"> 
-    <value>Order</value> 
+    <value>Orden</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_DATE" xml:space="preserve"> 
-    <value>Date</value> 
+    <value>Fecha</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_PRICE" xml:space="preserve"> 
-    <value>Order price</value> 
+    <value>Precio de la orden</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS" xml:space="preserve"> 
-    <value>Order status</value> 
+    <value>Estado de la orden</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_PAYMENT_METHOD" xml:space="preserve"> 
-    <value>Payment method</value> 
+    <value>Método de pago</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_PAYMENT_STATUS" xml:space="preserve"> 
-    <value>Payment status</value> 
+    <value>Estado del pago</value> 
   </data> 
 </root>
