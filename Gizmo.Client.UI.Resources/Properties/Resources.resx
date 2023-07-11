@@ -5,8 +5,8 @@
   Project: Gizmo Client UI
   Release: Working copy
   Locale: en-US, English
-  Exported by: Oleg Savelos
-  Exported at: Mon, 10 Jul 2023 11:08:12 +0300 
+  Exported by: Dimitrios Klapsis
+  Exported at: Tue, 11 Jul 2023 12:42:12 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -669,12 +669,6 @@
   <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve"> 
     <value>Shop</value> 
   </data> 
-  <data name="GIZ_MODULE_PAGE_VALIDATION_DESCRIPTION" xml:space="preserve"> 
-    <value>Do some validation</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_VALIDATION_TITLE" xml:space="preserve"> 
-    <value>Validation</value> 
-  </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve"> 
     <value>Accepted</value> 
   </data> 
@@ -1233,5 +1227,35 @@ Please recharge your account now.</value>
   </data> 
   <data name="GIZ_USER_PURCHASES_PAYMENT_STATUS" xml:space="preserve"> 
     <value>Payment status</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS" xml:space="preserve"> 
+    <value>Login Attempts</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_PASSWORD" xml:space="preserve"> 
+    <value>Manager Password</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_ACCEPT" xml:space="preserve"> 
+    <value>Accept</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL" xml:space="preserve"> 
+    <value>Switch Shell</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE" xml:space="preserve"> 
+    <value>Switch to default system shell without terminating client application.</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_DEACTIVATE" xml:space="preserve"> 
+    <value>Deactivate</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE" xml:space="preserve"> 
+    <value>Deactivate client module</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_UNINSTALL" xml:space="preserve"> 
+    <value>Uninstall Client</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE" xml:space="preserve"> 
+    <value>Remove client from system and clean any configuration.</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve"> 
+    <value>Cancel</value> 
   </data> 
 </root>
