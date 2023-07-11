@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: el-GR, Greek (Greece)
   Exported by: Dimitrios Klapsis
-  Exported at: Tue, 11 Jul 2023 12:43:04 +0300 
+  Exported at: Tue, 11 Jul 2023 13:19:52 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1257,5 +1257,26 @@
   </data> 
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve"> 
     <value>Ακύρωση</value> 
+  </data> 
+  <data name="GIZ_SMA_STARTING_UI" xml:space="preserve"> 
+    <value>Έναρξη περιβάλλοντος χρήστη</value> 
+  </data> 
+  <data name="GIZ_SMA_INITIATING_CONNECTION" xml:space="preserve"> 
+    <value>Αρχικοποίηση σύνδεσης με server</value> 
+  </data> 
+  <data name="GIZ_SMA_CHECKING_DRIVER" xml:space="preserve"> 
+    <value>Έλεγχος οδηγών συστήματος</value> 
+  </data> 
+  <data name="GIZ_SMA_PROCESSING_TASKS" xml:space="preserve"> 
+    <value>Επεξεργασία εργασιών</value> 
+  </data> 
+  <data name="GIZ_SMA_INITIALIZING_PLUGINS" xml:space="preserve"> 
+    <value>Αρχικοποίηση προσθηκών</value> 
+  </data> 
+  <data name="GIZ_SMA_RESOLVING_SERVER_IP" xml:space="preserve"> 
+    <value>Επίλυση διεύθυνσης Server</value> 
+  </data> 
+  <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve"> 
+    <value>Επεξεργασία δικτυακών δίσκων</value> 
   </data> 
 </root>

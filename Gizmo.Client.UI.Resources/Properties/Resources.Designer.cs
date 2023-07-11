@@ -2887,6 +2887,69 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Checking system drivers.
+        /// </summary>
+        public static string GIZ_SMA_CHECKING_DRIVER {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_CHECKING_DRIVER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Initializing plugins.
+        /// </summary>
+        public static string GIZ_SMA_INITIALIZING_PLUGINS {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_INITIALIZING_PLUGINS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Initiating server connection.
+        /// </summary>
+        public static string GIZ_SMA_INITIATING_CONNECTION {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_INITIATING_CONNECTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processing drive mappings.
+        /// </summary>
+        public static string GIZ_SMA_PROCESSING_DRIVE_MAPPINGS {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_PROCESSING_DRIVE_MAPPINGS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processing tasks.
+        /// </summary>
+        public static string GIZ_SMA_PROCESSING_TASKS {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_PROCESSING_TASKS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Resolving server Host IP.
+        /// </summary>
+        public static string GIZ_SMA_RESOLVING_SERVER_IP {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_RESOLVING_SERVER_IP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Starting user interface.
+        /// </summary>
+        public static string GIZ_SMA_STARTING_UI {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_STARTING_UI", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Locked.
         /// </summary>
         public static string GIZ_SYSTEM_LOCKED {
