@@ -520,6 +520,96 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Accept.
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_ACCEPT {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_ACCEPT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancel.
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_CANCEL {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_CANCEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deactivate.
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_DEACTIVATE {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_DEACTIVATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deactivate client module.
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Login Attempts.
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Manager Password.
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_PASSWORD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Switch Shell.
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_SWITCH_SHELL {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SWITCH_SHELL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Switch to default system shell without terminating client application..
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Uninstall Client.
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_UNINSTALL {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_UNINSTALL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Remove client from system and clean any configuration..
+        /// </summary>
+        public static string GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Confirmation code should have {0} digits!.
         /// </summary>
         public static string GIZ_CONFIRMATION_CODE_LENGTH_ERROR {
@@ -1744,24 +1834,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do some validation.
-        /// </summary>
-        public static string GIZ_MODULE_PAGE_VALIDATION_DESCRIPTION {
-            get {
-                return ResourceManager.GetString("GIZ_MODULE_PAGE_VALIDATION_DESCRIPTION", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Validation.
-        /// </summary>
-        public static string GIZ_MODULE_PAGE_VALIDATION_TITLE {
-            get {
-                return ResourceManager.GetString("GIZ_MODULE_PAGE_VALIDATION_TITLE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Mark as all read.
         /// </summary>
         public static string GIZ_NOTIFICATIONS_MARK_ALL_AS_READ {
@@ -2815,6 +2887,69 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Checking system drivers.
+        /// </summary>
+        public static string GIZ_SMA_CHECKING_DRIVER {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_CHECKING_DRIVER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Initializing plugins.
+        /// </summary>
+        public static string GIZ_SMA_INITIALIZING_PLUGINS {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_INITIALIZING_PLUGINS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Initiating server connection.
+        /// </summary>
+        public static string GIZ_SMA_INITIATING_CONNECTION {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_INITIATING_CONNECTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processing drive mappings.
+        /// </summary>
+        public static string GIZ_SMA_PROCESSING_DRIVE_MAPPINGS {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_PROCESSING_DRIVE_MAPPINGS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Processing tasks.
+        /// </summary>
+        public static string GIZ_SMA_PROCESSING_TASKS {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_PROCESSING_TASKS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Resolving server Host IP.
+        /// </summary>
+        public static string GIZ_SMA_RESOLVING_SERVER_IP {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_RESOLVING_SERVER_IP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Starting user interface.
+        /// </summary>
+        public static string GIZ_SMA_STARTING_UI {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_STARTING_UI", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Locked.
         /// </summary>
         public static string GIZ_SYSTEM_LOCKED {
@@ -3541,6 +3676,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_USERNAME_MESSAGE {
             get {
                 return ResourceManager.GetString("GIZ_USER_USERNAME_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to en-US.
+        /// </summary>
+        public static string locoLocaleCode {
+            get {
+                return ResourceManager.GetString("locoLocaleCode", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English.
+        /// </summary>
+        public static string locoLocaleName {
+            get {
+                return ResourceManager.GetString("locoLocaleName", resourceCulture);
             }
         }
     }
