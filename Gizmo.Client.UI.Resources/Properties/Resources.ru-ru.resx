@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: ru-RU, Russian (Russia)
   Exported by: Oleg Savelos
-  Exported at: Mon, 10 Jul 2023 11:08:13 +0300 
+  Exported at: Tue, 11 Jul 2023 18:39:14 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -669,12 +669,6 @@
   <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve"> 
     <value>Магазин</value> 
   </data> 
-  <data name="GIZ_MODULE_PAGE_VALIDATION_DESCRIPTION" xml:space="preserve"> 
-    <value>Выполните проверку</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_VALIDATION_TITLE" xml:space="preserve"> 
-    <value>Подтверждение</value> 
-  </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve"> 
     <value>Принято</value> 
   </data> 
@@ -757,7 +751,7 @@
     <value>Заблокируйте этот ПК, введя 4-значный PIN-код. Запомните или запишите его.</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve"> 
-    <value>Profile Lock</value> 
+    <value>Профиль заблокирован</value> 
   </data> 
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
     <value>Поле {0} обязательно для заполнения.</value> 
@@ -772,7 +766,7 @@
     <value>Не удается подтвердить телефон.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve"> 
-    <value>Check password recovery token validity error.</value> 
+    <value>Проверьте ошибку валидности токена восстановления пароля.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve"> 
     <value>Не удается подтвердить имя пользователя.</value> 
@@ -1233,5 +1227,56 @@
   </data> 
   <data name="GIZ_USER_PURCHASES_PAYMENT_STATUS" xml:space="preserve"> 
     <value>Статус оплаты</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS" xml:space="preserve"> 
+    <value>Попытки авторизации</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_PASSWORD" xml:space="preserve"> 
+    <value>Пароль менеджера</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_ACCEPT" xml:space="preserve"> 
+    <value>Принять</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL" xml:space="preserve"> 
+    <value>Переключить шелл</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE" xml:space="preserve"> 
+    <value>Переключение в стандартную оболочку системы без завершения работы клиентского приложения.</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_DEACTIVATE" xml:space="preserve"> 
+    <value>Деактивировать</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE" xml:space="preserve"> 
+    <value>Деактивировать шелл</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_UNINSTALL" xml:space="preserve"> 
+    <value>Удаление клиента</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE" xml:space="preserve"> 
+    <value>Удаление клиента из системы и очистка конфигурации.</value> 
+  </data> 
+  <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve"> 
+    <value>Отмена</value> 
+  </data> 
+  <data name="GIZ_SMA_STARTING_UI" xml:space="preserve"> 
+    <value>Запуск пользовательского интерфейса</value> 
+  </data> 
+  <data name="GIZ_SMA_INITIATING_CONNECTION" xml:space="preserve"> 
+    <value>Инициирование подключения к серверу</value> 
+  </data> 
+  <data name="GIZ_SMA_CHECKING_DRIVER" xml:space="preserve"> 
+    <value>Проверка системных драйверов</value> 
+  </data> 
+  <data name="GIZ_SMA_PROCESSING_TASKS" xml:space="preserve"> 
+    <value>Обработка заданий</value> 
+  </data> 
+  <data name="GIZ_SMA_INITIALIZING_PLUGINS" xml:space="preserve"> 
+    <value>Инициализация плагинов</value> 
+  </data> 
+  <data name="GIZ_SMA_RESOLVING_SERVER_IP" xml:space="preserve"> 
+    <value>IP-адрес сервера</value> 
+  </data> 
+  <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve"> 
+    <value>Процесс подключения дисков</value> 
   </data> 
 </root>

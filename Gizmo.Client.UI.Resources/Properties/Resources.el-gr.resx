@@ -718,19 +718,19 @@
     <value>Μη ορισμένη τιμή</value> 
   </data> 
   <data name="GIZ_CHANGE_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value /> 
+    <value>Enter the e-mail you’d like to use. To make sure this e-mail is yours, will send you a verification code.</value> 
   </data> 
   <data name="GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value /> 
+    <value>We just sent you an e-mail with a code. Enter it to verify your e-mail.</value> 
   </data> 
   <data name="GIZ_CHANGE_MOBILE" xml:space="preserve"> 
     <value>Ενημέρωση τηλεφώνου</value> 
   </data> 
   <data name="GIZ_CHANGE_MOBILE_MESSAGE" xml:space="preserve"> 
-    <value /> 
+    <value>Enter the number you’d like to use. To make sure this number is yours, will send you a verification code.</value> 
   </data> 
   <data name="GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value /> 
+    <value>We just sent you an SMS with a code. Enter it to verify your phone.</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve"> 
     <value>Εισαγωγή κωδικού για συνέχεια</value> 
