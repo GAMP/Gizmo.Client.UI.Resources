@@ -961,15 +961,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to of.
-        /// </summary>
-        public static string GIZ_GEN_OF {
-            get {
-                return ResourceManager.GetString("GIZ_GEN_OF", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to OK.
         /// </summary>
         public static string GIZ_GEN_OK {
@@ -2365,15 +2356,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to after.
-        /// </summary>
-        public static string GIZ_PRODUCT_TIME_EXPIRATION_AFTER {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_AFTER", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to after logout.
         /// </summary>
         public static string GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT {
@@ -2383,7 +2365,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to purchase.
+        ///   Looks up a localized string similar to after purchase.
         /// </summary>
         public static string GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE {
             get {
@@ -2392,7 +2374,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to use.
+        ///   Looks up a localized string similar to after use.
         /// </summary>
         public static string GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE {
             get {
@@ -2446,15 +2428,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to logout.
-        /// </summary>
-        public static string GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to m..
         /// </summary>
         public static string GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED {
@@ -2478,15 +2451,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_PRODUCT_TIME_EXPIRES {
             get {
                 return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRES", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Expires after.
-        /// </summary>
-        public static string GIZ_PRODUCT_TIME_EXPIRES_AFTER {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_TIME_EXPIRES_AFTER", resourceCulture);
             }
         }
         
@@ -2730,15 +2694,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_SHOP_CHECKOUT_COMPLETE_NOTE {
             get {
                 return ResourceManager.GetString("GIZ_SHOP_CHECKOUT_COMPLETE_NOTE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to By selecting Place order, you accept the Gizmo Customer Agreement and privacy statement and represent that you have the authority to do so..
-        /// </summary>
-        public static string GIZ_SHOP_CHECKOUT_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_SHOP_CHECKOUT_MESSAGE", resourceCulture);
             }
         }
         
@@ -3064,6 +3019,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_ADDRESS {
             get {
                 return ResourceManager.GetString("GIZ_USER_ADDRESS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I have read and agree to the terms of service..
+        /// </summary>
+        public static string GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX {
+            get {
+                return ResourceManager.GetString("GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX", resourceCulture);
             }
         }
         
