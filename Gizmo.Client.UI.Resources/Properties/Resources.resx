@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: en-US, English
   Exported by: Oleg Savelos
-  Exported at: Tue, 11 Jul 2023 18:39:13 +0300 
+  Exported at: Thu, 13 Jul 2023 17:13:34 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -465,9 +465,6 @@
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve"> 
     <value>Note: You can see all your current orders under My Profile &gt; Purchased</value> 
   </data> 
-  <data name="GIZ_SHOP_CHECKOUT_MESSAGE" xml:space="preserve"> 
-    <value>By selecting Place order, you accept the Gizmo Customer Agreement and privacy statement and represent that you have the authority to do so.</value> 
-  </data> 
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve"> 
     <value>Checkout</value> 
   </data> 
@@ -876,23 +873,17 @@
   <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve"> 
     <value>Purchase History</value> 
   </data> 
-  <data name="GIZ_GEN_OF" xml:space="preserve"> 
-    <value>of</value> 
-  </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve"> 
     <value>Action time</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER" xml:space="preserve"> 
-    <value>after</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve"> 
     <value>after logout</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve"> 
-    <value>purchase</value> 
+    <value>after purchase</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve"> 
-    <value>use</value> 
+    <value>after use</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve"> 
     <value>Buying time</value> 
@@ -909,9 +900,6 @@
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED" xml:space="preserve"> 
     <value>h.</value> 
   </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT" xml:space="preserve"> 
-    <value>logout</value> 
-  </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve"> 
     <value>m.</value> 
   </data> 
@@ -920,9 +908,6 @@
   </data> 
   <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve"> 
     <value>min</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRES_AFTER" xml:space="preserve"> 
-    <value>Expires after</value> 
   </data> 
   <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve"> 
     <value>pcs.</value> 
@@ -1278,5 +1263,8 @@ Please recharge your account now.</value>
   </data> 
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve"> 
     <value>Processing drive mappings</value> 
+  </data> 
+  <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
+    <value>I have read and agree to the terms of service.</value> 
   </data> 
 </root>

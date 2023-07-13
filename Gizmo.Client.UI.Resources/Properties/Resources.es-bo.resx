@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: es-BO, Spanish (Bolivia)
   Exported by: Oleg Savelos
-  Exported at: Tue, 11 Jul 2023 18:39:15 +0300 
+  Exported at: Thu, 13 Jul 2023 17:13:36 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -211,13 +211,13 @@
     <value>Actualizar email</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Confirmar el nuevo password</value> 
+    <value>Confirmar la nueva contraseña</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD" xml:space="preserve"> 
-    <value>Password actual</value> 
+    <value>Contraseña actual</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Nuevo password</value> 
+    <value>Nueva contraseña</value> 
   </data> 
   <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve"> 
     <value>El código de confirmación debería tener {0} dígitos!</value> 
@@ -244,7 +244,7 @@
     <value>Confirmar</value> 
   </data> 
   <data name="GIZ_GEN_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Confirma tu password</value> 
+    <value>Confirma tu contraseña</value> 
   </data> 
   <data name="GIZ_GEN_CONTINUE" xml:space="preserve"> 
     <value>Continuar</value> 
@@ -256,13 +256,13 @@
     <value>Dirección de email</value> 
   </data> 
   <data name="GIZ_GEN_ENTER_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Ingresa nuevo password</value> 
+    <value>Ingresa nueva contraseña</value> 
   </data> 
   <data name="GIZ_GEN_MOBILE_PHONE" xml:space="preserve"> 
     <value>Celular</value> 
   </data> 
   <data name="GIZ_GEN_PASSWORD" xml:space="preserve"> 
-    <value>Password</value> 
+    <value>Contraseña</value> 
   </data> 
   <data name="GIZ_GEN_PHONE_NUMBER" xml:space="preserve"> 
     <value>Teléfono</value> 
@@ -274,7 +274,7 @@
     <value>Items populares</value> 
   </data> 
   <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Repite el nuevo password</value> 
+    <value>Repite la nueva contraseña</value> 
   </data> 
   <data name="GIZ_GEN_RESEND" xml:space="preserve"> 
     <value>Reenviar</value> 
@@ -334,7 +334,7 @@
     <value>Ya eres miembro?</value> 
   </data> 
   <data name="GIZ_LOGIN_FORGOT_YOUR_PASSWORD" xml:space="preserve"> 
-    <value>Olvidaste tu password?</value> 
+    <value>Olvidaste tu contraseña?</value> 
   </data> 
   <data name="GIZ_LOGIN_NOT_A_MEMBER" xml:space="preserve"> 
     <value>No eres miembro?</value> 
@@ -403,7 +403,7 @@
     <value>Ingresa tu código</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve"> 
-    <value>Olvidé el password</value> 
+    <value>Olvidé la contraseña</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve"> 
     <value>Por favor ingresa el código que te enviamos a tu teléfono</value> 
@@ -464,9 +464,6 @@
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve"> 
     <value>Nota: Puedes ver todas tus órdenes actuales en Mi Perfil &gt; Comprado</value> 
-  </data> 
-  <data name="GIZ_SHOP_CHECKOUT_MESSAGE" xml:space="preserve"> 
-    <value>Al seleccionar Realizar orden, aceptas el Acuerdo de cliente de Gizmo y declaración de privacidad y declaras que tienes la autoridad para hacerlo.</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve"> 
     <value>Checkout</value> 
@@ -805,7 +802,7 @@
     <value>O</value> 
   </data> 
   <data name="GIZ_GEN_PHONE" xml:space="preserve"> 
-    <value>Celular</value> 
+    <value>Teléfono</value> 
   </data> 
   <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve"> 
     <value>Información de contacto</value> 
@@ -876,14 +873,8 @@
   <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve"> 
     <value>Historial de compras</value> 
   </data> 
-  <data name="GIZ_GEN_OF" xml:space="preserve"> 
-    <value>De</value> 
-  </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve"> 
     <value>Tiempo de acción</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER" xml:space="preserve"> 
-    <value>Después de</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve"> 
     <value>Después de cerrar sesión</value> 
@@ -909,9 +900,6 @@
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED" xml:space="preserve"> 
     <value>h.</value> 
   </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT" xml:space="preserve"> 
-    <value>Cerrar sesión</value> 
-  </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve"> 
     <value>m.</value> 
   </data> 
@@ -920,9 +908,6 @@
   </data> 
   <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve"> 
     <value>min</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRES_AFTER" xml:space="preserve"> 
-    <value>Expira después de:</value> 
   </data> 
   <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve"> 
     <value>Piezas</value> 
@@ -1102,7 +1087,7 @@
     <value>Error</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Password incorrecto</value> 
+    <value>Contraseña incorrecta</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_ACCOUNT_DISABLED" xml:space="preserve"> 
     <value>Tu cuenta esta deshabilitada</value> 
@@ -1126,7 +1111,7 @@
     <value>Parámetros inválidos</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve"> 
-    <value>Password inválido</value> 
+    <value>Constraseña inválida</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve"> 
     <value>Username inválido</value> 
@@ -1228,54 +1213,57 @@
     <value>Estado del pago</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS" xml:space="preserve"> 
-    <value>Login Attempts</value> 
+    <value>Intentos de acceso</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_PASSWORD" xml:space="preserve"> 
-    <value>Manager Password</value> 
+    <value>Contraseña de administrador</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_ACCEPT" xml:space="preserve"> 
-    <value>Accept</value> 
+    <value>Aceptar</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL" xml:space="preserve"> 
-    <value>Switch Shell</value> 
+    <value>Cambiar interfaz</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE" xml:space="preserve"> 
-    <value>Switch to default system shell without terminating client application.</value> 
+    <value>Cambiar a la interfaz por defecto sin cerrar las aplicaciones abiertas</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_DEACTIVATE" xml:space="preserve"> 
-    <value>Deactivate</value> 
+    <value>Desactivar</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE" xml:space="preserve"> 
-    <value>Deactivate client module</value> 
+    <value>Desactivar este módulo del cliente</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL" xml:space="preserve"> 
-    <value>Uninstall Client</value> 
+    <value>Desinstalar cliente</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE" xml:space="preserve"> 
-    <value>Remove client from system and clean any configuration.</value> 
+    <value>Remover al cliente del sistema y borrar toda su configuración</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve"> 
-    <value>Cancel</value> 
+    <value>Cancelar</value> 
   </data> 
   <data name="GIZ_SMA_STARTING_UI" xml:space="preserve"> 
-    <value>Starting user interface</value> 
+    <value>Iniciando la interfaz de usuario</value> 
   </data> 
   <data name="GIZ_SMA_INITIATING_CONNECTION" xml:space="preserve"> 
-    <value>Initiating server connection</value> 
+    <value>Iniciando conexión con el servidor</value> 
   </data> 
   <data name="GIZ_SMA_CHECKING_DRIVER" xml:space="preserve"> 
-    <value>Checking system drivers</value> 
+    <value>Verificando drivers del sistema</value> 
   </data> 
   <data name="GIZ_SMA_PROCESSING_TASKS" xml:space="preserve"> 
-    <value>Processing tasks</value> 
+    <value>Procesando tareas</value> 
   </data> 
   <data name="GIZ_SMA_INITIALIZING_PLUGINS" xml:space="preserve"> 
-    <value>Initializing plugins</value> 
+    <value>Iniciando plug ins</value> 
   </data> 
   <data name="GIZ_SMA_RESOLVING_SERVER_IP" xml:space="preserve"> 
-    <value>Resolving server Host IP</value> 
+    <value>Buscando la dirección IP del servidor</value> 
   </data> 
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve"> 
-    <value>Processing drive mappings</value> 
+    <value>Procesando el mapeo de discos</value> 
+  </data> 
+  <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
+    <value>He leído y acepto los términos de servicio.</value> 
   </data> 
 </root>
