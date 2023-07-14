@@ -421,60 +421,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter the e-mail you’d like to use. To make sure this e-mail is yours, will send you a verification code..
-        /// </summary>
-        public static string GIZ_CHANGE_EMAIL_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_CHANGE_EMAIL_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to We just sent you an e-mail with a code. Enter it to verify your e-mail..
-        /// </summary>
-        public static string GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Update e-mail.
-        /// </summary>
-        public static string GIZ_CHANGE_EMAIL_TITLE {
-            get {
-                return ResourceManager.GetString("GIZ_CHANGE_EMAIL_TITLE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Update number.
-        /// </summary>
-        public static string GIZ_CHANGE_MOBILE {
-            get {
-                return ResourceManager.GetString("GIZ_CHANGE_MOBILE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Enter the number you’d like to use. To make sure this number is yours, will send you a verification code..
-        /// </summary>
-        public static string GIZ_CHANGE_MOBILE_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_CHANGE_MOBILE_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to We just sent you an SMS with a code. Enter it to verify your phone..
-        /// </summary>
-        public static string GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Confirm new password.
         /// </summary>
         public static string GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD {
@@ -615,6 +561,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_CONFIRMATION_CODE_LENGTH_ERROR {
             get {
                 return ResourceManager.GetString("GIZ_CONFIRMATION_CODE_LENGTH_ERROR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other.
+        /// </summary>
+        public static string GIZ_COUNTRY_OTHER {
+            get {
+                return ResourceManager.GetString("GIZ_COUNTRY_OTHER", resourceCulture);
             }
         }
         
@@ -1240,11 +1195,38 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The field {0} is required..
+        ///   Looks up a localized string similar to The field is invalid..
+        /// </summary>
+        public static string GIZ_GEN_VE_INVALID_FIELD {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_VE_INVALID_FIELD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The field must not be longer than {1} characters..
+        /// </summary>
+        public static string GIZ_GEN_VE_MAX_LENGTH {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_VE_MAX_LENGTH", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The field is required..
         /// </summary>
         public static string GIZ_GEN_VE_REQUIRED_FIELD {
             get {
                 return ResourceManager.GetString("GIZ_GEN_VE_REQUIRED_FIELD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The field {0} is required..
+        /// </summary>
+        public static string GIZ_GEN_VE_REQUIRED_NAMED_FIELD {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_VE_REQUIRED_NAMED_FIELD", resourceCulture);
             }
         }
         
