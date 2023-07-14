@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: tr-TR, Turkish
   Exported by: Oleg Savelos
-  Exported at: Tue, 11 Jul 2023 18:39:15 +0300 
+  Exported at: Thu, 13 Jul 2023 17:13:35 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -489,9 +489,6 @@
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve"> 
     <value>Not: Mevcut tüm siparişlerinizi Profilim &gt; Satın Alınanlar altında görebilirsiniz</value> 
   </data> 
-  <data name="GIZ_SHOP_CHECKOUT_MESSAGE" xml:space="preserve"> 
-    <value>Sipariş ver'i seçerek, Gizmo Müşteri Sözleşmesini ve gizlilik bildirimini kabul etmiş ve bunu yapmaya yetkili olduğunuzu beyan etmiş olursunuz.</value> 
-  </data> 
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve"> 
     <value>Ödeme</value> 
   </data> 
@@ -900,14 +897,8 @@
   <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve"> 
     <value>Satın Alma Geçmişi</value> 
   </data> 
-  <data name="GIZ_GEN_OF" xml:space="preserve"> 
-    <value>ve</value> 
-  </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve"> 
     <value>Eylem zamanı</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER" xml:space="preserve"> 
-    <value>sonra</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve"> 
     <value>oturum kapatıldıktan sonra</value> 
@@ -933,9 +924,6 @@
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED" xml:space="preserve"> 
     <value>s.</value> 
   </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_LOGOUT" xml:space="preserve"> 
-    <value>çıkış</value> 
-  </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve"> 
     <value>m.</value> 
   </data> 
@@ -944,9 +932,6 @@
   </data> 
   <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve"> 
     <value>dakika</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRES_AFTER" xml:space="preserve"> 
-    <value>Sonrasında sona erer</value> 
   </data> 
   <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve"> 
     <value>adet.</value> 
@@ -1253,54 +1238,57 @@
     <value>Ödeme durumu</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS" xml:space="preserve"> 
-    <value>Login Attempts</value> 
+    <value>Giriş Denemesi</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_PASSWORD" xml:space="preserve"> 
-    <value>Manager Password</value> 
+    <value>Yönetici Şifresi</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_ACCEPT" xml:space="preserve"> 
-    <value>Accept</value> 
+    <value>Kabul et</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL" xml:space="preserve"> 
-    <value>Switch Shell</value> 
+    <value>Kabuk Değiştir</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE" xml:space="preserve"> 
-    <value>Switch to default system shell without terminating client application.</value> 
+    <value>İstemci uygulamasını sonlandırmadan varsayılan sistem önyüzüne geçin.</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_DEACTIVATE" xml:space="preserve"> 
-    <value>Deactivate</value> 
+    <value>Devre dışı bırak</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE" xml:space="preserve"> 
-    <value>Deactivate client module</value> 
+    <value>İstemci modülünü devre dışı bırak</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL" xml:space="preserve"> 
-    <value>Uninstall Client</value> 
+    <value>İstemciyi sil</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE" xml:space="preserve"> 
-    <value>Remove client from system and clean any configuration.</value> 
+    <value>İstemciyi sistemden kaldırın ve tüm yapılandırmaları temizleyin.</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve"> 
-    <value>Cancel</value> 
+    <value>İptal</value> 
   </data> 
   <data name="GIZ_SMA_STARTING_UI" xml:space="preserve"> 
-    <value>Starting user interface</value> 
+    <value>Kullanıcı arayüzü başlatılıyor</value> 
   </data> 
   <data name="GIZ_SMA_INITIATING_CONNECTION" xml:space="preserve"> 
-    <value>Initiating server connection</value> 
+    <value>Sunucu bağlantısı başlatılıyor</value> 
   </data> 
   <data name="GIZ_SMA_CHECKING_DRIVER" xml:space="preserve"> 
-    <value>Checking system drivers</value> 
+    <value>Sistem sürücülerini kontrol ediliyor</value> 
   </data> 
   <data name="GIZ_SMA_PROCESSING_TASKS" xml:space="preserve"> 
-    <value>Processing tasks</value> 
+    <value>Görevler işleniyor</value> 
   </data> 
   <data name="GIZ_SMA_INITIALIZING_PLUGINS" xml:space="preserve"> 
-    <value>Initializing plugins</value> 
+    <value>Eklentiler başlatılıyor</value> 
   </data> 
   <data name="GIZ_SMA_RESOLVING_SERVER_IP" xml:space="preserve"> 
-    <value>Resolving server Host IP</value> 
+    <value>Sunucu Ana Bilgisayar IP'si çözülüyor</value> 
   </data> 
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve"> 
-    <value>Processing drive mappings</value> 
+    <value>Sürücü eşlemelerini işleniyor</value> 
+  </data> 
+  <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
+    <value>Hizmet şartlarını okudum ve kabul ediyorum.</value> 
   </data> 
 </root>
