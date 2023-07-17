@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: el-GR, Greek (Greece)
   Exported by: Oleg Savelos
-  Exported at: Thu, 13 Jul 2023 17:13:35 +0300 
+  Exported at: Mon, 17 Jul 2023 10:50:33 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -206,9 +206,6 @@
   </data> 
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve"> 
     <value>Τερματισμός</value> 
-  </data> 
-  <data name="GIZ_CHANGE_EMAIL_TITLE" xml:space="preserve"> 
-    <value>Ενημέρωση e-mail</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve"> 
     <value>Επαλήθευση νέου κωδικού</value> 
@@ -717,21 +714,6 @@
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve"> 
     <value>Μη ορισμένη τιμή</value> 
   </data> 
-  <data name="GIZ_CHANGE_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value>Enter the e-mail you’d like to use. To make sure this e-mail is yours, will send you a verification code.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>We just sent you an e-mail with a code. Enter it to verify your e-mail.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE" xml:space="preserve"> 
-    <value>Ενημέρωση τηλεφώνου</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE_MESSAGE" xml:space="preserve"> 
-    <value>Enter the number you’d like to use. To make sure this number is yours, will send you a verification code.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>We just sent you an SMS with a code. Enter it to verify your phone.</value> 
-  </data> 
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve"> 
     <value>Εισαγωγή κωδικού για συνέχεια</value> 
   </data> 
@@ -750,7 +732,7 @@
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve"> 
     <value>Κλείδωμα προφίλ</value> 
   </data> 
-  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
+  <data name="GIZ_GEN_VE_REQUIRED_NAMED_FIELD" xml:space="preserve"> 
     <value>Το πεδίο {0} είναι υποχρεωτικό.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve"> 
@@ -1266,5 +1248,17 @@
   </data> 
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
     <value>Έχω διαβάσει και αποδέχομαι τους όρους χρήσης.</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
+    <value>Το πεδίο είναι υποχρεωτικό.</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_MAX_LENGTH" xml:space="preserve"> 
+    <value>Το πεδίο δεν πρέπει να είναι μεγαλύτερο από {1} χαρακτήρες.</value> 
+  </data> 
+  <data name="GIZ_COUNTRY_OTHER" xml:space="preserve"> 
+    <value>Άλλη</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_INVALID_FIELD" xml:space="preserve"> 
+    <value>Το πεδίο δεν είναι έγκυρο.</value> 
   </data> 
 </root>

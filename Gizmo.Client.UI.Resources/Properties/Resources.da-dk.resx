@@ -4,9 +4,9 @@
   Loco xml export: ResX - .NET resources
   Project: Gizmo Client UI
   Release: Working copy
-  Locale: es-BO, Spanish (Bolivia)
+  Locale: da-DK, Danish (Denmark)
   Exported by: Oleg Savelos
-  Exported at: Mon, 17 Jul 2023 10:50:34 +0300 
+  Exported at: Mon, 17 Jul 2023 10:50:32 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -67,439 +67,440 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <metadata name="locoLocaleCode">
-    <value>es-BO</value>
+    <value>da-DK</value>
   </metadata>
   <metadata name="locoLocaleName" xml:space="preserve">
-    <value>Spanish (Bolivia)</value>
+    <value>Danish (Denmark)</value>
   </metadata> 
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve"> 
-    <value>Todos los juegos y apps</value> 
+    <value>Alle spil og programmer</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve"> 
-    <value>Añadir fecha</value> 
+    <value>Tilføj dato</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve"> 
-    <value>Popularidad</value> 
+    <value>Popularitet</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve"> 
-    <value>Clasificación</value> 
+    <value>Bedømmelse</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve"> 
-    <value>Fecha de lanzamiento</value> 
+    <value>Udgivelses dato</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve"> 
-    <value>Título</value> 
+    <value>Titel</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve"> 
-    <value>Usar</value> 
+    <value>Brug</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve"> 
-    <value>El código de confirmación es inválido</value> 
+    <value>Bekræftelseskoden er ugyldig.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value>Se ha enviado un correo electrónico a {0}. Verifica el correo electrónico para obtener el código de verificación e ingrésalo a continuación</value> 
+    <value>En e-mail er blevet sendt til {0}. Tjek din e-mail for bekræftelseskoden, og indtast den nedenfor</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_FLASH_CALL_MESSAGE" xml:space="preserve"> 
-    <value>Se ha llamado al número {0}. Verifica en tu teléfono una llamada perdida e ingresa los últimos {1} dígitos.</value> 
+    <value>Der er foretaget et opkald til {0}. Tjek din telefon for et (ubesvaret) opkald, og indtast de sidste {1} cifre i opkaldsnummeret</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_SMS_MESSAGE" xml:space="preserve"> 
-    <value>Se ha enviado un SMS al número {0}. Verifica el código en el mensaje en tu teléfono e ingrésalo a continuación</value> 
+    <value>En sms er blevet sendt til {0}. Tjek din telefons SMS for bekræftelseskoden, og indtast den nedenfor</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_EMAIL_IS_REQUIRED" xml:space="preserve"> 
-    <value>El campo de email es requerido</value> 
+    <value>E-mail feltet er påkrævet.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_ENTER_CONFIRMATION_CODE" xml:space="preserve"> 
-    <value>Ingresa el código</value> 
+    <value>Indtast koden</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_APPLICATION" xml:space="preserve"> 
-    <value>Aplicación</value> 
+    <value>Anvendelse</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_CO_OP" xml:space="preserve"> 
-    <value>Cooperativo LAN</value> 
+    <value>Co-Op Lan</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_CO_OP_ONLINE" xml:space="preserve"> 
-    <value>Cooperativo Online</value> 
+    <value>Co-Op Online</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve"> 
-    <value>Free to Play</value> 
+    <value>Gratis at spille</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_FREE_TRIAL" xml:space="preserve"> 
-    <value>Prueba gratis</value> 
+    <value>Gratis prøveversion</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_GAME" xml:space="preserve"> 
-    <value>Juego</value> 
+    <value>Spil</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_MULTIPLAYER" xml:space="preserve"> 
-    <value>LAN multijugador</value> 
+    <value>Lan Multiplayer</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_ONE_TIME_PURCHASE" xml:space="preserve"> 
-    <value>Compra única</value> 
+    <value>Engangskøb</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_ONLINE" xml:space="preserve"> 
-    <value>Online multijugador</value> 
+    <value>Online multiplayer</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve"> 
-    <value>Requiere suscripción</value> 
+    <value>Kræver abonnement</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_SETTINGS" xml:space="preserve"> 
-    <value>Ajustes</value> 
+    <value>Indstillinger</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve"> 
-    <value>Un solo jugador</value> 
+    <value>Singleplayer</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve"> 
-    <value>Pantalla dividida</value> 
+    <value>Delt skærm</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_UTILITY" xml:space="preserve"> 
-    <value>Utilidad</value> 
+    <value>Utility</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_GET_CONFIRMATION_CODE" xml:space="preserve"> 
-    <value>Obtener código</value> 
+    <value>Få kode</value> 
   </data> 
   <data name="GIZ_GEN_SEARCH" xml:space="preserve"> 
-    <value>Buscar</value> 
+    <value>Søg</value> 
   </data> 
   <data name="GIZ_ACTIVE_APPS_TITLE" xml:space="preserve"> 
-    <value>Aplicaciones activas</value> 
+    <value>Aktive applikationer</value> 
   </data> 
   <data name="GIZ_APPS_AUTO_START" xml:space="preserve"> 
-    <value>Iniciar automáticamente</value> 
+    <value>Automatisk start</value> 
   </data> 
   <data name="GIZ_APPS_CATEGORY" xml:space="preserve"> 
-    <value>Categoría:</value> 
+    <value>Kategori:</value> 
   </data> 
   <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve"> 
-    <value>Añadido en:</value> 
+    <value>Dato tilføjet</value> 
   </data> 
   <data name="GIZ_APPS_LAUNCH" xml:space="preserve"> 
-    <value>Iniciar</value> 
+    <value>Start</value> 
   </data> 
   <data name="GIZ_APPS_LINKS" xml:space="preserve"> 
     <value>Links</value> 
   </data> 
   <data name="GIZ_APPS_LOADING" xml:space="preserve"> 
-    <value>Cargando</value> 
+    <value>Indlæser</value> 
   </data> 
   <data name="GIZ_APPS_MEDIA" xml:space="preserve"> 
-    <value>Media</value> 
+    <value>Medie</value> 
   </data> 
   <data name="GIZ_APPS_PARAMETERS" xml:space="preserve"> 
-    <value>Parámetros:</value> 
+    <value>Parametre:</value> 
   </data> 
   <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve"> 
-    <value>Archivos personales</value> 
+    <value>Personlige filer</value> 
   </data> 
   <data name="GIZ_APPS_PLAYER_MODE" xml:space="preserve"> 
-    <value>Modo de jugador</value> 
+    <value>Spiller måde</value> 
   </data> 
   <data name="GIZ_APPS_PUBLISHER" xml:space="preserve"> 
-    <value>Autor</value> 
+    <value>Forlægger</value> 
   </data> 
   <data name="GIZ_APPS_RELEASE_DATE" xml:space="preserve"> 
-    <value>Fecha de lanzamiento</value> 
+    <value>Udgivelses dato</value> 
   </data> 
   <data name="GIZ_APPS_REPAIR" xml:space="preserve"> 
-    <value>Reparar</value> 
+    <value>Reparation</value> 
   </data> 
   <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve"> 
-    <value>Seleccionar la versión de la aplicación</value> 
+    <value>Vælg applikationsversion</value> 
   </data> 
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve"> 
-    <value>Terminar</value> 
+    <value>Afslutte</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Confirmar la nueva contraseña</value> 
+    <value>Bekræft ny adgangskode</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD" xml:space="preserve"> 
-    <value>Contraseña actual</value> 
+    <value>Nuværende adgangskode</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Nueva contraseña</value> 
+    <value>Ny adgangskode</value> 
   </data> 
   <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve"> 
-    <value>El código de confirmación debería tener {0} dígitos!</value> 
+    <value>Bekræftelseskoden skal have {0} tal!</value> 
   </data> 
   <data name="GIZ_GEN_ADS" xml:space="preserve"> 
-    <value>Ads</value> 
+    <value>Annoncer</value> 
   </data> 
   <data name="GIZ_GEN_ALL" xml:space="preserve"> 
-    <value>Todo</value> 
+    <value>Alle</value> 
   </data> 
   <data name="GIZ_GEN_AND" xml:space="preserve"> 
-    <value>y</value> 
+    <value>og</value> 
   </data> 
   <data name="GIZ_GEN_BACK_TO" xml:space="preserve"> 
-    <value>Volver a {0}</value> 
+    <value>Tilbage til {0}</value> 
   </data> 
   <data name="GIZ_GEN_BALANCE" xml:space="preserve"> 
     <value>Balance</value> 
   </data> 
   <data name="GIZ_GEN_CANCEL" xml:space="preserve"> 
-    <value>Cancelar</value> 
+    <value>Afbryde</value> 
   </data> 
   <data name="GIZ_GEN_CONFIRM" xml:space="preserve"> 
-    <value>Confirmar</value> 
+    <value>Bekræft</value> 
   </data> 
   <data name="GIZ_GEN_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Confirma tu contraseña</value> 
+    <value>Bekræft din adgangskode</value> 
   </data> 
   <data name="GIZ_GEN_CONTINUE" xml:space="preserve"> 
-    <value>Continuar</value> 
+    <value>Fortsætte</value> 
   </data> 
   <data name="GIZ_GEN_EMAIL" xml:space="preserve"> 
-    <value>Email</value> 
+    <value>E-mail</value> 
   </data> 
   <data name="GIZ_GEN_EMAIL_ADDRESS" xml:space="preserve"> 
-    <value>Dirección de email</value> 
+    <value>E-mail adresse</value> 
   </data> 
   <data name="GIZ_GEN_ENTER_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Ingresa nueva contraseña</value> 
+    <value>Indtast ny adgangskode</value> 
   </data> 
   <data name="GIZ_GEN_MOBILE_PHONE" xml:space="preserve"> 
-    <value>Celular</value> 
+    <value>Mobiltelefon</value> 
   </data> 
   <data name="GIZ_GEN_PASSWORD" xml:space="preserve"> 
-    <value>Contraseña</value> 
+    <value>Adgangskode</value> 
   </data> 
   <data name="GIZ_GEN_PHONE_NUMBER" xml:space="preserve"> 
-    <value>Número de teléfono</value> 
+    <value>Telefon nummer</value> 
   </data> 
   <data name="GIZ_GEN_POINTS" xml:space="preserve"> 
-    <value>Puntos</value> 
+    <value>Points</value> 
   </data> 
   <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve"> 
-    <value>Items populares</value> 
+    <value>Populære varer</value> 
   </data> 
   <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Repite la nueva contraseña</value> 
+    <value>Gentag den nye adgangskode</value> 
   </data> 
   <data name="GIZ_GEN_RESEND" xml:space="preserve"> 
-    <value>Reenviar</value> 
+    <value>Send igen</value> 
   </data> 
   <data name="GIZ_GEN_RESULTS_FOR" xml:space="preserve"> 
-    <value>Resultados para</value> 
+    <value>Resultater for</value> 
   </data> 
   <data name="GIZ_GEN_SAVE" xml:space="preserve"> 
-    <value>Guardar</value> 
+    <value>Gem</value> 
   </data> 
   <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve"> 
-    <value>Guardar cambios</value> 
+    <value>Gem ændringerne</value> 
   </data> 
   <data name="GIZ_GEN_SORT_BY" xml:space="preserve"> 
-    <value>Ordenar por:</value> 
+    <value>Sorter efter:</value> 
   </data> 
   <data name="GIZ_GEN_TIME" xml:space="preserve"> 
-    <value>Tiempo</value> 
+    <value>Tid</value> 
   </data> 
   <data name="GIZ_GEN_UPDATE" xml:space="preserve"> 
-    <value>Actualizar</value> 
+    <value>Opdater</value> 
   </data> 
   <data name="GIZ_GEN_USERNAME" xml:space="preserve"> 
-    <value>Nombre de usuario</value> 
+    <value>Brugernavn</value> 
   </data> 
   <data name="GIZ_GEN_VERIFY" xml:space="preserve"> 
-    <value>Verificar</value> 
+    <value>Verificer</value> 
   </data> 
   <data name="GIZ_GEN_VIEW_DETAILS" xml:space="preserve"> 
-    <value>Ver detalles</value> 
+    <value>Se detaljer</value> 
   </data> 
   <data name="GIZ_GEN_ADD_TO_CART" xml:space="preserve"> 
-    <value>Añadir al carrito</value> 
+    <value>Tilføj til kurv</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_GAMES_AND_APPS" xml:space="preserve"> 
-    <value>Juegos y Apps</value> 
+    <value>Spil &amp; Programmer</value> 
   </data> 
   <data name="GIZ_GEN_LAUNCH" xml:space="preserve"> 
-    <value>Iniciar</value> 
+    <value>Kør</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE" xml:space="preserve"> 
-    <value>No pudimos encontrar nada</value> 
+    <value>Vi fandt ikke noget</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve"> 
-    <value>Intenta con diferentes palabras clave o asegúrate de que esté bien escrito</value> 
+    <value>Prøv forskellige søgeord, ellers  sørg for, at alt er stavet korrekt.</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_PLACEHOLDER" xml:space="preserve"> 
-    <value>Buscar juegos, apps, tienda</value> 
+    <value>Søg i spil, programmer, shoppen</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_SHOP" xml:space="preserve"> 
-    <value>Tienda</value> 
+    <value>Shoppen</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_SHOW_ALL" xml:space="preserve"> 
-    <value>Ver todo</value> 
+    <value>Se alt</value> 
   </data> 
   <data name="GIZ_LOGIN_ALREADY_A_MEMBER" xml:space="preserve"> 
-    <value>Ya eres miembro?</value> 
+    <value>Allerede medlem?</value> 
   </data> 
   <data name="GIZ_LOGIN_FORGOT_YOUR_PASSWORD" xml:space="preserve"> 
-    <value>Olvidaste tu contraseña?</value> 
+    <value>Har du glemt din adgangskode?</value> 
   </data> 
   <data name="GIZ_LOGIN_NOT_A_MEMBER" xml:space="preserve"> 
-    <value>No eres miembro?</value> 
+    <value>Ikke medlem?</value> 
   </data> 
   <data name="GIZ_LOGIN_OR" xml:space="preserve"> 
-    <value>O</value> 
+    <value>
+Eller</value> 
   </data> 
   <data name="GIZ_LOGIN_QR_MESSAGE" xml:space="preserve"> 
-    <value>Escanea esto con la aplicación para iniciar sesión inmediatamente</value> 
+    <value>Scan dette med mobilappen for at logge ind med det samme</value> 
   </data> 
   <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve"> 
-    <value>Iniciar sesión con QR</value> 
+    <value>Log ind med QR-kode</value> 
   </data> 
   <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>Si inicias sesión ahora, tu sesión se cerrará automáticamente a la hora especificada</value> 
+    <value>Hvis du logger ind nu, bliver du automatisk logget ud på det angivne tidspunkt.</value> 
   </data> 
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve"> 
-    <value>Esta computadora está reservada para {0}</value> 
+    <value>Denne computer er reserveret kl {0}.</value> 
   </data> 
   <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve"> 
-    <value>Iniciar sesión</value> 
+    <value>Log ind</value> 
   </data> 
   <data name="GIZ_LOGIN_SIGN_UP_NOW" xml:space="preserve"> 
-    <value>Registrarse ahora</value> 
+    <value>Tilmeld dig nu</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve"> 
-    <value>Balance oculto</value> 
+    <value>Balance skjult</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve"> 
-    <value>Marcar todo como leído</value> 
+    <value>Markér som alt læst</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve"> 
-    <value>Marcar como leído</value> 
+    <value>Marker som læst</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve"> 
-    <value>No hay nuevas notificaciones</value> 
+    <value>Ingen nye meddelelser.</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE" xml:space="preserve"> 
-    <value>Cuando algo nuevo ocurra lo encontrarás aquí</value> 
+    <value>Når der sker noget nyt, finder du det her.</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_TITLE" xml:space="preserve"> 
-    <value>Notificaciones</value> 
+    <value>Notifikationer</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_FOR" xml:space="preserve"> 
-    <value>No hay resultados para</value> 
+    <value>Der blev ikke fundet noget match for</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve"> 
-    <value>Intenta formular tu búsqueda de otra manera</value> 
+    <value>Prøv at formulere dig anderledes</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve"> 
-    <value>Contraseña segura</value> 
+    <value>Sikker adgangskode</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_TOO_EASY" xml:space="preserve"> 
-    <value>Contraseña muy insegura</value> 
+    <value>Adgangskoden er for nem</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_TOO_SHORT" xml:space="preserve"> 
-    <value>Contraseña muy corta</value> 
+    <value>Adgangskoden er for kort</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_EMAIL" xml:space="preserve"> 
-    <value>Ingresa el email enlazado a tu cuenta</value> 
+    <value>Indtast den e-mail, der er knyttet til din konto</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_PHONE_NUMBER" xml:space="preserve"> 
-    <value>Ingresa el número de teléfono enlazado a tu cuenta</value> 
+    <value>Indtast telefonnummeret, der er knyttet til din konto</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_YOUR_CODE" xml:space="preserve"> 
-    <value>Ingresa tu código</value> 
+    <value>Skriv din kode</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve"> 
-    <value>Olvidé la contraseña</value> 
+    <value>Glemt kodeord</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve"> 
-    <value>Por favor ingresa el código que te enviamos al número {0}</value> 
+    <value>Indtast venligst koden fra den sms, vi sendte til {0}</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve"> 
-    <value>Restablecer contraseña</value> 
+    <value>Nulstille kodeord</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve"> 
-    <value>Genial! Ahora inventa una nueva contraseña y listo!</value> 
+    <value>Superb! Kom med et nyt Kodeord, også er du klar</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_RANGE_LENGTH" xml:space="preserve"> 
-    <value>{0}-{1} caracteres</value> 
+    <value>{0}-{1} tegn</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_LOWER_CASE" xml:space="preserve"> 
-    <value>Al menos 1 letra minúscula</value> 
+    <value>Mindst 1 lille bogstav</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_NUMBER" xml:space="preserve"> 
-    <value>Al menos 1 número</value> 
+    <value>Mindst 1 tal</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve"> 
-    <value>Al menos 1 letra mayúscula</value> 
+    <value>Mindst 1 stort bogstav</value> 
   </data> 
   <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve"> 
-    <value>Ingresa tu email</value> 
+    <value>Indtast din e-mail</value> 
   </data> 
   <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve"> 
-    <value>Ingresa tu número de celular</value> 
+    <value>Indtast dit mobiltelefon nummer</value> 
   </data> 
   <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve"> 
-    <value>Por favor confirma tu código de país e ingresa tu número de celular para crear una cuenta</value> 
+    <value>Bekræft landekode og indtast dit telefonnummer for at oprette en konto.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_SIGN_UP_BUTTON" xml:space="preserve"> 
-    <value>Registrarse</value> 
+    <value>Tilmelde</value> 
   </data> 
   <data name="GIZ_REGISTRATION_SIGN_UP_TITLE" xml:space="preserve"> 
-    <value>Registrarse</value> 
+    <value>Tilmelde</value> 
   </data> 
   <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve"> 
-    <value>Iniciar sesión</value> 
+    <value>Log ind</value> 
   </data> 
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve"> 
-    <value>Añadir al carrito</value> 
+    <value>Tilføj til kurv</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve"> 
-    <value>El combo incluye:</value> 
+    <value>Pakken inkluderer:</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve"> 
-    <value>Periodo de acción</value> 
+    <value>Tidsperiode</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve"> 
-    <value>Descripción del paquete:</value> 
+    <value>Pakke Beskrivelse:</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve"> 
-    <value>Tiempo de vida del producto</value> 
+    <value>Produktets levetid</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve"> 
-    <value>Gracias por tu orden!</value> 
+    <value>Tak for din bestilling!</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve"> 
-    <value>Nota: Puedes ver todas tus órdenes actuales en Mi Perfil &gt; Comprado</value> 
+    <value>Bemærk: Du kan se alle dine aktuelle ordrer under Min profil &gt; Købt</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve"> 
     <value>Checkout</value> 
   </data> 
   <data name="GIZ_SHOP_EARNED_POINTS" xml:space="preserve"> 
-    <value>Puntos ganados</value> 
+    <value>Optjente point</value> 
   </data> 
   <data name="GIZ_SHOP_NO_PRODUCTS_MESSAGE" xml:space="preserve"> 
-    <value>No hay productos</value> 
+    <value>Ingen produkter</value> 
   </data> 
   <data name="GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE" xml:space="preserve"> 
-    <value>Añade productos para empezar</value> 
+    <value>Tilføj produkter for at komme i gang</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_NOTE" xml:space="preserve"> 
-    <value>Comentarios de la orden</value> 
+    <value>Bestillingskommentarer</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve"> 
-    <value>Añade una nota...</value> 
+    <value>Tilføj din note..</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve"> 
-    <value>Mi orden</value> 
+    <value>Min bestilling</value> 
   </data> 
   <data name="GIZ_SHOP_PAYMENT_METHOD" xml:space="preserve"> 
-    <value>Método de pago</value> 
+    <value>Betalingsmetode</value> 
   </data> 
   <data name="GIZ_SHOP_PLACE_ORDER" xml:space="preserve"> 
-    <value>Realizar orden</value> 
+    <value>Angiv bestilling</value> 
   </data> 
   <data name="GIZ_SHOP_PRICE" xml:space="preserve"> 
-    <value>Precio</value> 
+    <value>Pris</value> 
   </data> 
   <data name="GIZ_SHOP_PRODUCT_NAME" xml:space="preserve"> 
-    <value>Nombre del producto</value> 
+    <value>Produktnavn</value> 
   </data> 
   <data name="GIZ_SHOP_QUANTITY" xml:space="preserve"> 
-    <value>Cantidad</value> 
+    <value>Antal</value> 
   </data> 
   <data name="GIZ_SHOP_RELATED_PRODUCTS" xml:space="preserve"> 
-    <value>Productos relacionados</value> 
+    <value>Relaterede produkter</value> 
   </data> 
   <data name="GIZ_SHOP_SUBTOTAL" xml:space="preserve"> 
     <value>Subtotal</value> 
@@ -508,367 +509,368 @@
     <value>Total</value> 
   </data> 
   <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve"> 
-    <value>Bloqueado</value> 
+    <value>Låst</value> 
   </data> 
   <data name="GIZ_SYSTEM_VERSION" xml:space="preserve"> 
-    <value>Versión</value> 
+    <value>Version</value> 
   </data> 
   <data name="GIZ_TIME_PRODUCT_HOUR" xml:space="preserve"> 
-    <value>Hora</value> 
+    <value>Time</value> 
   </data> 
   <data name="GIZ_TIME_PRODUCT_HOURS" xml:space="preserve"> 
-    <value>Horas</value> 
+    <value>Timer</value> 
   </data> 
   <data name="GIZ_TIME_PRODUCT_MINUTES" xml:space="preserve"> 
-    <value>Minutos</value> 
+    <value>Min</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_CLEAR" xml:space="preserve"> 
-    <value>Vaciar</value> 
+    <value>Ryd</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_OR" xml:space="preserve"> 
-    <value>O</value> 
+    <value>Og</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_OR_ENTER_AMOUNT" xml:space="preserve"> 
-    <value>O ingresa monto*</value> 
+    <value>Eller indtast beløb*</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_PAY_FROM_PC" xml:space="preserve"> 
-    <value>Pagar desde la PC</value> 
+    <value>Betal fra pc</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve"> 
-    <value>A continuación coloca: Información de pago</value> 
+    <value>Betalingsoplysninger</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve"> 
-    <value>Código QR para pago con celular</value> 
+    <value>QR-kode til betaling på telefon</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_QUICK_SELECT" xml:space="preserve"> 
-    <value>Selección rápida</value> 
+    <value>Hurtigt valg</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_TITLE" xml:space="preserve"> 
-    <value>Rellenar</value> 
+    <value>Top Up</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve"> 
-    <value>A ser pagado:</value> 
+    <value>Skal betales:</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve"> 
-    <value>será añadido al balance de tu cuenta</value> 
+    <value>vil blive krediteret til din kontosaldo</value> 
   </data> 
   <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve"> 
-    <value>Información adicional</value> 
+    <value>Yderligere Information</value> 
   </data> 
   <data name="GIZ_USER_ADDRESS" xml:space="preserve"> 
-    <value>Dirección</value> 
+    <value>Adresse</value> 
   </data> 
   <data name="GIZ_USER_AVAILABLE_TIME" xml:space="preserve"> 
-    <value>Tiempo disponible</value> 
+    <value>Tilgængelig tid</value> 
   </data> 
   <data name="GIZ_USER_BASIC_INFO" xml:space="preserve"> 
-    <value>Información básica</value> 
+    <value>Grundlæggende oplysninger</value> 
   </data> 
   <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve"> 
-    <value>Fecha de nacimiento</value> 
+    <value>Fødselsdato</value> 
   </data> 
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve"> 
-    <value>Cambiar contraseña</value> 
+    <value>Skift kodeord</value> 
   </data> 
   <data name="GIZ_USER_COUNTRY" xml:space="preserve"> 
-    <value>País</value> 
+    <value>Land</value> 
   </data> 
   <data name="GIZ_USER_COUNTRY_REGION" xml:space="preserve"> 
-    <value>País/Región</value> 
+    <value>Område</value> 
   </data> 
   <data name="GIZ_USER_DETAILS" xml:space="preserve"> 
-    <value>Detalles de usuario</value> 
+    <value>Brugeroplysninger</value> 
   </data> 
   <data name="GIZ_USER_FIRST_NAME" xml:space="preserve"> 
-    <value>Primer Nombre</value> 
+    <value>Fornavn</value> 
   </data> 
   <data name="GIZ_USER_GENDER" xml:space="preserve"> 
-    <value>Género</value> 
+    <value>Køn</value> 
   </data> 
   <data name="GIZ_USER_HOME_PHONE" xml:space="preserve"> 
-    <value>Teléfono</value> 
+    <value>Hjemmetelefon</value> 
   </data> 
   <data name="GIZ_USER_LAST_NAME" xml:space="preserve"> 
-    <value>Apellido</value> 
+    <value>Efternavn</value> 
   </data> 
   <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve"> 
-    <value>Email y números de teléfono</value> 
+    <value>Mail og telefonnumre</value> 
   </data> 
   <data name="GIZ_USER_MENU_HELP" xml:space="preserve"> 
-    <value>Ayuda</value> 
+    <value>Hjælp</value> 
   </data> 
   <data name="GIZ_USER_MENU_LOCK_PC" xml:space="preserve"> 
-    <value>Bloquear PC</value> 
+    <value>Lås PC</value> 
   </data> 
   <data name="GIZ_USER_MENU_LOGOUT" xml:space="preserve"> 
-    <value>Cerrar sesión</value> 
+    <value>Log ud</value> 
   </data> 
   <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve"> 
-    <value>Mi perfil</value> 
+    <value>Min profil</value> 
   </data> 
   <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve"> 
-    <value>Ajustes</value> 
+    <value>Indstillinger</value> 
   </data> 
   <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve"> 
-    <value>Rellenar</value> 
+    <value>Top Up</value> 
   </data> 
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve"> 
-    <value>Información personal</value> 
+    <value>Personlig information</value> 
   </data> 
   <data name="GIZ_USER_POST_CODE" xml:space="preserve"> 
-    <value>Código postal</value> 
+    <value>Postnummer</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES" xml:space="preserve"> 
-    <value>Compras</value> 
+    <value>Indkøb</value> 
   </data> 
   <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve"> 
-    <value>Editar los ajustes de usuario</value> 
+    <value>Rediger brugerindstillinger</value> 
   </data> 
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve"> 
-    <value>Transacciones</value> 
+    <value>Transaktioner</value> 
   </data> 
   <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve"> 
-    <value>Otros usuarios podrán ver tu nombre de usuario</value> 
+    <value>Andre brugere vil kunne se dit brugernavn</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve"> 
-    <value>Enviar código</value> 
+    <value>Send kode</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_APPS_DESCRIPTION" xml:space="preserve"> 
-    <value>Página de apps</value> 
+    <value>Programmer side</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve"> 
-    <value>Apps</value> 
+    <value>Programmer</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve"> 
-    <value>Página de juegos</value> 
+    <value>Spil side</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve"> 
-    <value>Juegos</value> 
+    <value>Spil</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve"> 
-    <value>Página de inicio</value> 
+    <value>Hjemme side</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve"> 
-    <value>Inicio</value> 
+    <value>Hjem</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve"> 
-    <value>Página del perfil</value> 
+    <value>Profil Side</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve"> 
-    <value>Perfil</value> 
+    <value>Profil</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve"> 
-    <value>Página de la tienda</value> 
+    <value>Shop side</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve"> 
-    <value>Tienda</value> 
+    <value>Shop</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve"> 
-    <value>Aceptado</value> 
+    <value>Accepteret</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_CANCELED" xml:space="preserve"> 
-    <value>Cancelado</value> 
+    <value>Annullering</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_COMPLETED" xml:space="preserve"> 
-    <value>Completado</value> 
+    <value>Afsluttet</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD" xml:space="preserve"> 
-    <value>En espera</value> 
+    <value>I venteposition</value> 
   </data> 
   <data name="GIZ_GEN_PASSWORDS_DO_NOT_MATCH" xml:space="preserve"> 
-    <value>Las contraseñas no son iguales!</value> 
+    <value>Adgangskoderne stemmer ikke overens!</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_PASSWORD_RESET_FAILED_MESSAGE" xml:space="preserve"> 
-    <value>La contraseña no se pudo restablecer.</value> 
+    <value>Nulstilling af adgangskode mislykkedes.</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_MOBILE" xml:space="preserve"> 
-    <value>Esta cuenta no tiene un número de teléfono válido</value> 
+    <value>Denne konto har ikke et gyldigt telefon nummer.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED" xml:space="preserve"> 
-    <value>El campo de número de teléfono es requerido.</value> 
+    <value>Telefonnummerfeltet er påkrævet.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_ERROR_PROVIDER_NO_ROUTE_FOR_DELIVERY" xml:space="preserve"> 
-    <value>El mensaje no pudo ser enviado, por favor verifica la configuración.</value> 
+    <value>Besked blev ikke leveret, tjek konfiguration.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_FAILED_MESSAGE" xml:space="preserve"> 
-    <value>Algo salió mal. Contacta a alguien de nuestro personal para más información.</value> 
+    <value>Noget gik galt. Kontakt receptionen for info.</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve"> 
-    <value>Selecciona alguno</value> 
+    <value>Vælg noget</value> 
   </data> 
   <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve"> 
-    <value>Mujer</value> 
+    <value>Kvinde</value> 
   </data> 
   <data name="GIZ_GEN_SEX_MALE" xml:space="preserve"> 
-    <value>Hombre</value> 
+    <value>Mand</value> 
   </data> 
   <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve"> 
-    <value>Prefiero no decirlo</value> 
+    <value>Uspecificeret</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve"> 
-    <value>El monto mínimo es {0}</value> 
+    <value>Minimumsbeløbet er {0}.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_RETRY_WITH_SMS" xml:space="preserve"> 
-    <value>Reintentar con SMS</value> 
+    <value>Prøv igen med SMS</value> 
   </data> 
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve"> 
-    <value>Valor no establecido</value> 
+    <value>Fra vælg værdi</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve"> 
-    <value>Ingresa el código para continuar</value> 
+    <value>Indtast kode for at fortsætte</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve"> 
-    <value>Olvidé mi PIN</value> 
+    <value>Glemt PIN</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_SUBTITLE" xml:space="preserve"> 
-    <value>El bloqueo de perfil está activado</value> 
+    <value>Profillås er i øjeblikket aktiveret</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve"> 
-    <value>Ingresa tu PIN para acceder a este perfil</value> 
+    <value>Indtast din PIN-kode for at få adgang til denne profil</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve"> 
-    <value>Bloquea este perfil creando un PIN de 4 dígitos. Memorízalo o escríbelo en un lugar seguro.</value> 
+    <value>Lås denne profil ved at oprette en 4-cifret pinkode. Husk eller skriv det venligst ned.</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve"> 
-    <value>Bloquear perfil</value> 
+    <value>Profil Lås</value> 
   </data> 
   <data name="GIZ_GEN_VE_REQUIRED_NAMED_FIELD" xml:space="preserve"> 
-    <value>El campo {0} es requerido</value> 
+    <value>Feltet {0} er påkrævet.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve"> 
-    <value>Este email se encuentra en uso</value> 
+    <value>Den angivne e-mailadresse er allerede i brug</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve"> 
-    <value>No se pudo validar este email</value> 
+    <value>Kan ikke validere e-mail.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_PHONE" xml:space="preserve"> 
-    <value>No se pudo validar este número de celular</value> 
+    <value>Telefonen kan ikke valideres.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve"> 
-    <value>Comprueba el error de validez del token de recuperación de contraseña.</value> 
+    <value>Kontroller gyldighedsfejl for adgangskode gendannelses token.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve"> 
-    <value>No se pudo validar este nombre de usuario</value> 
+    <value>Kan ikke validere brugernavn.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve"> 
-    <value>Este número de celular se encuentra en uso</value> 
+    <value>Det angivne mobiltelefonnummer er allerede i brug</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve"> 
-    <value>Este nombre de usuario se encuentra en uso</value> 
+    <value>Det angivne brugernavn er allerede i brug</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve"> 
-    <value>El monto máximo es {0}</value> 
+    <value>Det maksimale beløb er {0}.</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_ALL_ITEMS" xml:space="preserve"> 
-    <value>Todos los items</value> 
+    <value>Alle dele</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve"> 
-    <value>Nuevos lanzamientos</value> 
+    <value>Nye udgivelser</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_POPULAR_ITEMS" xml:space="preserve"> 
-    <value>Items populares</value> 
+    <value>Populære varer</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve"> 
-    <value>Añadido recientemente</value> 
+    <value>Nylig tilføjet</value> 
   </data> 
   <data name="GIZ_GEN_OR" xml:space="preserve"> 
-    <value>o</value> 
+    <value>eller</value> 
   </data> 
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve"> 
-    <value>y</value> 
+    <value>og</value> 
   </data> 
   <data name="GIZ_PRODUCT_PRICE_FREE" xml:space="preserve"> 
-    <value>Gratis</value> 
+    <value>Fri</value> 
   </data> 
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_OR" xml:space="preserve"> 
-    <value>O</value> 
+    <value>eller</value> 
   </data> 
   <data name="GIZ_GEN_PHONE" xml:space="preserve"> 
-    <value>Teléfono</value> 
+    <value>Telefon</value> 
   </data> 
   <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve"> 
-    <value>Información de contacto</value> 
+    <value>Kontaktoplysninger</value> 
   </data> 
   <data name="GIZ_USER_SECURITY" xml:space="preserve"> 
-    <value>Seguridad</value> 
+    <value>Sikkerhed</value> 
   </data> 
   <data name="GIZ_GEN_CLOSE" xml:space="preserve"> 
-    <value>Cerrar</value> 
+    <value>Luk</value> 
   </data> 
   <data name="GIZ_USER_LOCATION" xml:space="preserve"> 
-    <value>Ubicación</value> 
+    <value>Beliggenhed</value> 
   </data> 
   <data name="GIZ_USER_PROFILE_PICTURE_AND_USERNAME" xml:space="preserve"> 
-    <value>Foto de perfil y nombre de usuario</value> 
+    <value>Profilbillede og brugernavn</value> 
   </data> 
   <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve"> 
-    <value>Actualizar contraseña</value> 
+    <value>Update password</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve"> 
-    <value>Pagado</value> 
+    <value>
+Betalt</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve"> 
-    <value>Parcialmente pagado</value> 
+    <value>Delvist betalt</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve"> 
-    <value>No pagado</value> 
+    <value>Ubetalt</value> 
   </data> 
   <data name="GIZ_GEN_ERROR" xml:space="preserve"> 
-    <value>Error</value> 
+    <value>Fejl</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Insuficientes puntos</value> 
+    <value>Utilstrækkelige point.</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_POINTS" xml:space="preserve"> 
-    <value>Puntos</value> 
+    <value>Points</value> 
   </data> 
   <data name="GIZ_GEN_CLEAR" xml:space="preserve"> 
-    <value>Vaciar</value> 
+    <value>Ryd</value> 
   </data> 
   <data name="GIZ_GEN_NO" xml:space="preserve"> 
-    <value>No</value> 
+    <value>Nej</value> 
   </data> 
   <data name="GIZ_GEN_OK" xml:space="preserve"> 
     <value>OK</value> 
   </data> 
   <data name="GIZ_GEN_YES" xml:space="preserve"> 
-    <value>Si</value> 
+    <value>Ja</value> 
   </data> 
   <data name="GIZ_SHOP_VERIFY_CLEAR_CART" xml:space="preserve"> 
-    <value>Estás seguro de que quieres vaciar tu carrito?</value> 
+    <value>Er du sikker på, at du vil rydde din indkøbskurv?</value> 
   </data> 
   <data name="GIZ_APPS_SHOW_MORE" xml:space="preserve"> 
-    <value>Mostrar más</value> 
+    <value>Vis mere</value> 
   </data> 
   <data name="GIZ_GEN_BACK" xml:space="preserve"> 
-    <value>Atrás</value> 
+    <value>Tilbage</value> 
   </data> 
   <data name="GIZ_GEN_DETAILS" xml:space="preserve"> 
-    <value>Detalles</value> 
+    <value>Detaljer</value> 
   </data> 
   <data name="GIZ_GEN_POPULAR_APPS" xml:space="preserve"> 
-    <value>Apps populares</value> 
+    <value>Populære programmer</value> 
   </data> 
   <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve"> 
-    <value>Productos populares</value> 
+    <value>Populære produkter</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve"> 
-    <value>Historial de compras</value> 
+    <value>Købshistorie</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve"> 
-    <value>Tiempo de acción</value> 
+    <value>Handlingstid</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve"> 
-    <value>Después de cerrar sesión</value> 
+    <value>efter log ud</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve"> 
-    <value>después de la compra</value> 
+    <value>efter køb</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve"> 
-    <value>después de su uso</value> 
+    <value>efter brug</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve"> 
-    <value>Tiempo de compra</value> 
+    <value>Køber tid</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve"> 
     <value>d.</value> 
@@ -892,373 +894,373 @@
     <value>min</value> 
   </data> 
   <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve"> 
-    <value>Piezas</value> 
+    <value>stk.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve"> 
-    <value>Expira</value> 
+    <value>Udløber</value> 
   </data> 
   <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve"> 
-    <value>{0} no pudo iniciarse :(</value> 
+    <value>{0} kunne ikke starte :(</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION" xml:space="preserve"> 
-    <value>Descripción del paquete:</value> 
+    <value>Beskrivelse:</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_PURCHASE_DETAILS" xml:space="preserve"> 
-    <value>Detalles de la compra:</value> 
+    <value>Købsoplysninger:</value> 
   </data> 
   <data name="GIZ_GEN_FROM" xml:space="preserve"> 
-    <value>Desde</value> 
+    <value>Fra</value> 
   </data> 
   <data name="GIZ_GEN_UNTIL" xml:space="preserve"> 
-    <value>Hasta</value> 
+    <value>Indtil</value> 
   </data> 
   <data name="GIZ_GEN_WARNING" xml:space="preserve"> 
-    <value>Advertencia</value> 
+    <value>Advarsel</value> 
   </data> 
   <data name="GIZ_PRODUCT_CURRENTLY_NOT_AVAILABLE" xml:space="preserve"> 
-    <value>Acualmente no disponible</value> 
+    <value>Ikke tilgængelig i øjeblikket.</value> 
   </data> 
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE" xml:space="preserve"> 
-    <value>Ya no se encuentra disponible</value> 
+    <value>Ikke tilgængelig længere.</value> 
   </data> 
   <data name="GIZ_PRODUCT_NOT_YET_AVAILABLE" xml:space="preserve"> 
-    <value>Aún no está disponible</value> 
+    <value>Ikke tilgængelig endnu.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve"> 
-    <value>No disponible en este host.</value> 
+    <value>Ikke tilgængelig på denne vært.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve"> 
-    <value>No puedes utilizar este producto por el momento. Estás seguro de que lo quieres comprar?</value> 
+    <value>Du kan ikke bruge dette produkt i øjeblikket. Er du sikker på, at du vil købe dette produkt?</value> 
   </data> 
   <data name="GIZ_GEN_NEVER" xml:space="preserve"> 
-    <value>Nunca</value> 
+    <value>Aldrig</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_EARNED_POINTS" xml:space="preserve"> 
-    <value>Puntos ganados:</value> 
+    <value>Optjente point:</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve"> 
-    <value>Comentarios de la orden:</value> 
+    <value>Ordrekommentarer:</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve"> 
-    <value>Esta cuenta no tiene un email válido</value> 
+    <value>Denne konto har ikke en gyldig e-mail.</value> 
   </data> 
   <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve"> 
-    <value>La sesión se encuentra bloqueada</value> 
+    <value>Login er i øjeblikket blokeret.</value> 
   </data> 
   <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve"> 
-    <value>La sesión se encuentra desbloqueada</value> 
+    <value>Login er i øjeblikket ophævet.</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve"> 
-    <value>Efectivo</value> 
+    <value>Kontant</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_CREDIT_CARD" xml:space="preserve"> 
-    <value>Tarjeta de crédito</value> 
+    <value>Kreditkort</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_DEPOSIT" xml:space="preserve"> 
-    <value>Depositar</value> 
+    <value>Depositum</value> 
   </data> 
   <data name="GIZ_GEN_SUCCESS" xml:space="preserve"> 
-    <value>Éxito</value> 
+    <value>Succes</value> 
   </data> 
   <data name="GIZ_PRODUCT_DETAILS_LESS" xml:space="preserve"> 
-    <value>Menos</value> 
+    <value>Mindre</value> 
   </data> 
   <data name="GIZ_PRODUCT_DETAILS_MORE" xml:space="preserve"> 
-    <value>Más</value> 
+    <value>Mere</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED" xml:space="preserve"> 
-    <value>El campo del código de confirmación es obligatorio.</value> 
+    <value>Bekræftelseskodefeltet er påkrævet.</value> 
   </data> 
   <data name="GIZ_USER_AGREEMENT_DIALOG_TITLE" xml:space="preserve"> 
-    <value>Política de privacidad y condiciones de uso</value> 
+    <value>Privatlivspolitik og vilkår for brug</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_INCORRECT_PIN" xml:space="preserve"> 
-    <value>PIN incorrecto</value> 
+    <value>Forkert pinkode</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve"> 
-    <value>La contraseña debería tener al menos 4 dígitos</value> 
+    <value>Adgangskoden skal have 4 cifre!</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve"> 
-    <value>Por favor ingresa al menos {0} caracteres</value> 
+    <value>Indtast mindst {0} tegn.</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE" xml:space="preserve"> 
-    <value>No son los caracteres suficientes</value> 
+    <value>Ikke nok tegn</value> 
   </data> 
   <data name="GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED" xml:space="preserve"> 
-    <value>Se requiere la contraseña antigua</value> 
+    <value>Gammel adgangskode er påkrævet.</value> 
   </data> 
   <data name="GIZ_APPS_CANCEL" xml:space="preserve"> 
-    <value>Cancelar</value> 
+    <value>Afbryd</value> 
   </data> 
   <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Estás seguro de que quieres cerrar sesión?</value> 
+    <value>Er du sikker på, at du vil logge ud?</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>No puedes realizar órdenes en este momento</value> 
+    <value>Bestilling er i øjeblikket ikke tilladt</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve"> 
-    <value>Tu grupo de usuarios no puede comprar este producto</value> 
+    <value>Din brugergruppe kan ikke købe dette produkt</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Algo salió mal</value> 
+    <value>Noget gik galt</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Solo los miembros pueden comprar este producto</value> 
+    <value>Kun medlemmer kan købe dette produkt</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve"> 
-    <value>ID de producto inválido</value> 
+    <value>Ugyldigt produkt-id</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve"> 
-    <value>ID de usuario inválido</value> 
+    <value>Ugyldigt bruger-id</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve"> 
-    <value>El producto se agotó</value> 
+    <value>Produktet er udsolgt</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>La compra de productos no está permitida en este momento</value> 
+    <value>Produktkøb er ikke tilladt på nuværende tidspunkt</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>La venta de productos no está permitida en este momento</value> 
+    <value>Produktsalg er i øjeblikket ikke tilladt</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve"> 
-    <value>Éxito</value> 
+    <value>Succes</value> 
   </data> 
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>No eres lo suficientemente mayor!</value> 
+    <value>Du er ikke gammel nok!</value> 
   </data> 
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve"> 
-    <value>Clasificación de edad</value> 
+    <value>Aldersvurdering</value> 
   </data> 
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>Ya estás corriendo una aplicación. Presiona aceptar para cerrar todas las aplicaciones que se encuentran corriendo y continuar.</value> 
+    <value>Du kører allerede en applikation. Tryk på accept for at afslutte enhver kørende applikation og fortsætte.</value> 
   </data> 
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve"> 
-    <value>Máximo número de aplicaciones</value> 
+    <value>Maksimalt antal applikationer</value> 
   </data> 
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Estás seguro de que quieres abortar este programa?</value> 
+    <value>Er du sikker på, at du vil afbryde dette program/spil?</value> 
   </data> 
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificar</value> 
+    <value>Verificere</value> 
   </data> 
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Estás seguro de que quieres reparar este programa?</value> 
+    <value>Er du sikker på, at du vil reparere denne eksekverbare?</value> 
   </data> 
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificar</value> 
+    <value>Verificere</value> 
   </data> 
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Estás seguro de que quieres cerrar este programa?</value> 
+    <value>Er du sikker på, at du vil afslutte dette program/spil?</value> 
   </data> 
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificar</value> 
+    <value>Verificere</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Un error ha ocurrido. El cambio de contraseña falló!</value> 
+    <value>Der opstod en fejl. Ændring af adgangskode mislykkedes!</value> 
   </data> 
   <data name="GIZ_LOGOUT_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificar</value> 
+    <value>Verificere</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve"> 
-    <value>No tienes suficientes depósitos para realizar esta orden</value> 
+    <value>Du har ikke nok indskud til at foretage denne ordre.</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve"> 
-    <value>Error</value> 
+    <value>Fejl</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve"> 
-    <value>Error</value> 
+    <value>Fejl</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Contraseña incorrecta</value> 
+    <value>Forkert kodeord</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_ACCOUNT_DISABLED" xml:space="preserve"> 
-    <value>Tu cuenta esta deshabilitada</value> 
+    <value>Din konto er deaktiveret</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_ALREADY_LOGGED_IN" xml:space="preserve"> 
-    <value>Ya iniciaste sesión</value> 
+    <value>Allerede logget ind</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_DENIED" xml:space="preserve"> 
-    <value>Denegado</value> 
+    <value>Afvist</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve"> 
-    <value>Error general</value> 
+    <value>Generel fejl</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve"> 
-    <value>Saldo insuficiente</value> 
+    <value>Utilstrækkelig balance</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_CREDENTIALS" xml:space="preserve"> 
-    <value>Credenciales inválidas</value> 
+    <value>Ugyldige legitimations oplysninger</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_PARAMETERS" xml:space="preserve"> 
-    <value>Parámetros inválidos</value> 
+    <value>Ugyldige parametre</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve"> 
-    <value>Constraseña inválida</value> 
+    <value>Forkert kodeord</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve"> 
-    <value>Username inválido</value> 
+    <value>Ugyldigt brugernavn</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_MAX_SESSIONS_REACHED" xml:space="preserve"> 
-    <value>Número máximo de sesiones alcanzado</value> 
+    <value>Det maksimale antal sessioner er nået</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve"> 
-    <value>No se encuentra en espera</value> 
+    <value>Ikke i ventekø</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve"> 
-    <value>Éxito</value> 
+    <value>Succes</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve"> 
-    <value>Calificación</value> 
+    <value>bedømme</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve"> 
-    <value>Tiempo fijo</value> 
+    <value>Fast tid</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve"> 
-    <value>Producto de tiempo</value> 
+    <value>Tidsprodukt</value> 
   </data> 
   <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve"> 
-    <value>Por favor ingresa tu email para crear una cuenta</value> 
+    <value>Indtast venligst din e-mail for at oprette en konto.</value> 
   </data> 
   <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve"> 
-    <value>Cerrar sesión</value> 
+    <value>Log ud</value> 
   </data> 
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve"> 
-    <value>Tu tiempo se agotó. Por favor adquiere más o cierra tu sesión.</value> 
+    <value>Din tid er udløbet.&lt;br&gt;Fyld på i receptionen eller&lt;br&gt;klik på "log ud" for at afslutte din session.</value> 
   </data> 
   <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve"> 
-    <value>Fuera de servicio</value> 
+    <value>Virker ikke</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_MAX_LENGTH" xml:space="preserve"> 
-    <value>Máximo de {0} caracteres</value> 
+    <value>Maksimalt {0} tegn</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_MIN_LENGTH" xml:space="preserve"> 
-    <value>Mínimo de {0} caracteres</value> 
+    <value>Minimum {0} tegn</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_TOO_LONG" xml:space="preserve"> 
-    <value>La contraseña es muy larga</value> 
+    <value>Adgangskoden er for lang</value> 
   </data> 
   <data name="GIZ_PERSONAL_STORAGE_LABEL" xml:space="preserve"> 
-    <value>Almacenamiento personal</value> 
+    <value>Personlig opbevaring</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED" xml:space="preserve"> 
-    <value>Tu orden ha sido aceptada y será enviada en breve</value> 
+    <value>Din ordre er blevet accepteret og venter på at blive leveret</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED_HEADER" xml:space="preserve"> 
-    <value>Tu orden ha sido aceptada</value> 
+    <value>Din ordre er blevet accepteret</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_CANCELED" xml:space="preserve"> 
-    <value>Tu orden ha sido cancelada, por favor contacta a alguien de nuestro personal para más información</value> 
+    <value>Din ordre er blevet annulleret, kontakt venligst en af ​​vores medarbejdere for mere info</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_CANCELED_HEADER" xml:space="preserve"> 
-    <value>Tu orden ha sido cancelada</value> 
+    <value>Din ordre er blevet annulleret</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve"> 
-    <value>Tu orden ha sido completada</value> 
+    <value>Din ordre er blevet gennemført</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve"> 
-    <value>Orden completada</value> 
+    <value>Ordren gennemført</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve"> 
-    <value>Tu orden está en la cola, serás notificado cuando sea aceptada</value> 
+    <value>Din ordre er i venteposition, du vil blive underrettet, når ordren er accepteret</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD_HEADER" xml:space="preserve"> 
-    <value>Orden en espera</value> 
+    <value>Bestilling i venteposition</value> 
   </data> 
   <data name="GIZ_TIME_NOTIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Te quedan {0} minutos restantes.
-Por favor recarga tu cuenta.</value> 
+    <value>Du har {0} minutter tilbage.
+Genoplad venligst din konto nu.</value> 
   </data> 
   <data name="GIZ_TIME_NOTIFICATION_TITLE" xml:space="preserve"> 
-    <value>El tiempo se está acabando</value> 
+    <value>Tiden løber ud</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_INVALID" xml:space="preserve"> 
-    <value>El email no es válido</value> 
+    <value>E-mailen er ugyldig</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID" xml:space="preserve"> 
-    <value>El número de celular no es válido</value> 
+    <value>Mobiltelefonen er ugyldig</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER" xml:space="preserve"> 
-    <value>Orden</value> 
+    <value>Bestille</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_DATE" xml:space="preserve"> 
-    <value>Fecha</value> 
+    <value>Dato</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_PRICE" xml:space="preserve"> 
-    <value>Precio de la orden</value> 
+    <value>Ordrepris</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS" xml:space="preserve"> 
-    <value>Estado de la orden</value> 
+    <value>Ordre status</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_PAYMENT_METHOD" xml:space="preserve"> 
-    <value>Método de pago</value> 
+    <value>Betalingsmetode</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_PAYMENT_STATUS" xml:space="preserve"> 
-    <value>Estado del pago</value> 
+    <value>Payment status</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS" xml:space="preserve"> 
-    <value>Intentos de acceso</value> 
+    <value>Login forsøg</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_PASSWORD" xml:space="preserve"> 
-    <value>Contraseña de administrador</value> 
+    <value>Manager adgangskode</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_ACCEPT" xml:space="preserve"> 
-    <value>Aceptar</value> 
+    <value>Acceptere</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL" xml:space="preserve"> 
-    <value>Cambiar interfaz</value> 
+    <value>Skift vindue</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE" xml:space="preserve"> 
-    <value>Cambiar a la interfaz por defecto sin cerrar las aplicaciones abiertas</value> 
+    <value>Skift til standard system vindue uden at afslutte klientapplikationen.</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_DEACTIVATE" xml:space="preserve"> 
-    <value>Desactivar</value> 
+    <value>Deaktiver</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE" xml:space="preserve"> 
-    <value>Desactivar este módulo del cliente</value> 
+    <value>Deaktiver klientmodul</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL" xml:space="preserve"> 
-    <value>Desinstalar cliente</value> 
+    <value>Afinstaller klient</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE" xml:space="preserve"> 
-    <value>Remover al cliente del sistema y borrar toda su configuración</value> 
+    <value>Fjern klienten fra systemet og rengør enhver konfiguration.</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve"> 
-    <value>Cancelar</value> 
+    <value>Afbryd</value> 
   </data> 
   <data name="GIZ_SMA_STARTING_UI" xml:space="preserve"> 
-    <value>Iniciando la interfaz de usuario</value> 
+    <value>Start af brugergrænseflade</value> 
   </data> 
   <data name="GIZ_SMA_INITIATING_CONNECTION" xml:space="preserve"> 
-    <value>Iniciando conexión con el servidor</value> 
+    <value>Starter serverforbindelse</value> 
   </data> 
   <data name="GIZ_SMA_CHECKING_DRIVER" xml:space="preserve"> 
-    <value>Verificando drivers del sistema</value> 
+    <value>Kontrol af systemdrivere</value> 
   </data> 
   <data name="GIZ_SMA_PROCESSING_TASKS" xml:space="preserve"> 
-    <value>Procesando tareas</value> 
+    <value>Behandling af opgaver</value> 
   </data> 
   <data name="GIZ_SMA_INITIALIZING_PLUGINS" xml:space="preserve"> 
-    <value>Iniciando plug ins</value> 
+    <value>Initialisering af plugins</value> 
   </data> 
   <data name="GIZ_SMA_RESOLVING_SERVER_IP" xml:space="preserve"> 
-    <value>Buscando la dirección IP del servidor</value> 
+    <value>Finder server ip</value> 
   </data> 
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve"> 
-    <value>Procesando el mapeo de discos</value> 
+    <value>Behandling af drevkortlægninger</value> 
   </data> 
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
-    <value>He leído y acepto los términos de servicio.</value> 
+    <value>Jeg har læst og accepterer servicevilkårene.</value> 
   </data> 
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
-    <value>El campo es obligatorio.</value> 
+    <value>Feltet skal udfyldes</value> 
   </data> 
   <data name="GIZ_GEN_VE_MAX_LENGTH" xml:space="preserve"> 
-    <value>El campo no debe tener más de {1} caracteres.</value> 
+    <value>Feltet må ikke være længere end {1} tegn.</value> 
   </data> 
   <data name="GIZ_COUNTRY_OTHER" xml:space="preserve"> 
-    <value>Otro</value> 
+    <value>Andet</value> 
   </data> 
   <data name="GIZ_GEN_VE_INVALID_FIELD" xml:space="preserve"> 
-    <value>El campo no es válido.</value> 
+    <value>Feltet er ugyldigt.</value> 
   </data> 
 </root>

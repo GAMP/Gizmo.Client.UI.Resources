@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: ru-RU, Russian (Russia)
   Exported by: Oleg Savelos
-  Exported at: Thu, 13 Jul 2023 17:13:35 +0300 
+  Exported at: Mon, 17 Jul 2023 10:50:33 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -206,9 +206,6 @@
   </data> 
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve"> 
     <value>Завершить работу</value> 
-  </data> 
-  <data name="GIZ_CHANGE_EMAIL_TITLE" xml:space="preserve"> 
-    <value>Обновить e-mail</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve"> 
     <value>Подтвердите новый пароль</value> 
@@ -475,7 +472,7 @@
     <value>Корзина пуста</value> 
   </data> 
   <data name="GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE" xml:space="preserve"> 
-    <value>Сначала добавьте товары</value> 
+    <value>Добавьте товары</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_NOTE" xml:space="preserve"> 
     <value>Комментарии к заказу</value> 
@@ -717,21 +714,6 @@
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve"> 
     <value>Сброс значения</value> 
   </data> 
-  <data name="GIZ_CHANGE_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value>Введите e-mail, который вы хотите использовать. Чтобы убедиться, что этот e-mail ваш, вам будет выслан проверочный код.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>Мы только что отправили вам письмо с кодом. Введите его, чтобы подтвердить свою электронную почту.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE" xml:space="preserve"> 
-    <value>Обновить номер</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE_MESSAGE" xml:space="preserve"> 
-    <value>Введите номер, который вы хотели бы использовать. Чтобы убедиться, что этот номер ваш, мы вышлем вам проверочный код.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>Мы только что отправили вам SMS с кодом. Введите его, чтобы подтвердить свой телефон.</value> 
-  </data> 
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve"> 
     <value>Введите код, чтобы продолжить</value> 
   </data> 
@@ -750,7 +732,7 @@
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve"> 
     <value>Блокировка ПК</value> 
   </data> 
-  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
+  <data name="GIZ_GEN_VE_REQUIRED_NAMED_FIELD" xml:space="preserve"> 
     <value>Поле {0} обязательно для заполнения.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve"> 
@@ -880,10 +862,10 @@
     <value>после выхода</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve"> 
-    <value>покупки</value> 
+    <value>от покупки</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve"> 
-    <value>использования</value> 
+    <value>от активации</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve"> 
     <value>Время покупки</value> 
@@ -1159,7 +1141,7 @@
     <value>Персональное хранилище</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED" xml:space="preserve"> 
-    <value>Ваш заказ принят и ожидает доставки</value> 
+    <value>Ваш заказ принят и скоро вам его принесут</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED_HEADER" xml:space="preserve"> 
     <value>Ваш заказ принят</value> 
@@ -1235,10 +1217,10 @@
     <value>Полное завершение работы шелла</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL" xml:space="preserve"> 
-    <value>Удаление клиента</value> 
+    <value>Удаление шелла</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE" xml:space="preserve"> 
-    <value>Удаление клиента из системы и очистка конфигурации.</value> 
+    <value>Удаление шелла из системы и очистка конфигурации.</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve"> 
     <value>Отмена</value> 
@@ -1266,5 +1248,17 @@
   </data> 
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
     <value>Я прочитал и согласен с условиями обслуживания.</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
+    <value>Поле является обязательным.</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_MAX_LENGTH" xml:space="preserve"> 
+    <value>Длина поля не должна превышать {1} символов.</value> 
+  </data> 
+  <data name="GIZ_COUNTRY_OTHER" xml:space="preserve"> 
+    <value>Прочие</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_INVALID_FIELD" xml:space="preserve"> 
+    <value>Поле является недопустимым.</value> 
   </data> 
 </root>

@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: tr-TR, Turkish
   Exported by: Oleg Savelos
-  Exported at: Thu, 13 Jul 2023 17:13:35 +0300 
+  Exported at: Mon, 17 Jul 2023 10:50:35 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -230,9 +230,6 @@
   </data> 
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve"> 
     <value>Sonlandır</value> 
-  </data> 
-  <data name="GIZ_CHANGE_EMAIL_TITLE" xml:space="preserve"> 
-    <value>E-postayı güncelle</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve"> 
     <value>Yeni parolayı onayla</value> 
@@ -741,21 +738,6 @@
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve"> 
     <value>Ayarlanmamış değer</value> 
   </data> 
-  <data name="GIZ_CHANGE_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value>Kullanmak istediğiniz e-postayı girin. Bu e-postanın size ait olduğundan emin olmak için size bir doğrulama kodu gönderilecektir.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>Az önce size bir kod içeren bir e-posta gönderdik. E-postanızı doğrulamak için kodu girin.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE" xml:space="preserve"> 
-    <value>Numarayı güncelle</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE_MESSAGE" xml:space="preserve"> 
-    <value>Kullanmak istediğiniz numarayı girin. Bu numaranın size ait olduğundan emin olmak için size bir doğrulama kodu gönderilecektir.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>Az önce size bir kod içeren bir SMS gönderdik. Telefonunuzu doğrulamak için girin.</value> 
-  </data> 
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve"> 
     <value>Devam Etmek için Kod Girin</value> 
   </data> 
@@ -774,7 +756,7 @@
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve"> 
     <value>Profil Kilidi</value> 
   </data> 
-  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
+  <data name="GIZ_GEN_VE_REQUIRED_NAMED_FIELD" xml:space="preserve"> 
     <value>{0} alanı zorunludur.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve"> 
@@ -1290,5 +1272,17 @@
   </data> 
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
     <value>Hizmet şartlarını okudum ve kabul ediyorum.</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
+    <value>Bu alan gereklidir.</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_MAX_LENGTH" xml:space="preserve"> 
+    <value>Alan {1} karakterden daha uzun olmamalıdır.</value> 
+  </data> 
+  <data name="GIZ_COUNTRY_OTHER" xml:space="preserve"> 
+    <value>Diğer</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_INVALID_FIELD" xml:space="preserve"> 
+    <value>Bu alan geçersiz.</value> 
   </data> 
 </root>

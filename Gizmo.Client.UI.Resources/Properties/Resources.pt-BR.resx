@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: pt-BR, Brazilian Portuguese
   Exported by: Oleg Savelos
-  Exported at: Thu, 13 Jul 2023 17:13:34 +0300 
+  Exported at: Mon, 17 Jul 2023 10:50:32 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -76,7 +76,7 @@
     <value>Todos os jogos e programas</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve"> 
-    <value>Adicionar data</value> 
+    <value>Data de instalação</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve"> 
     <value>Popularidade</value> 
@@ -207,9 +207,6 @@
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve"> 
     <value>Encerrar</value> 
   </data> 
-  <data name="GIZ_CHANGE_EMAIL_TITLE" xml:space="preserve"> 
-    <value>Atualizar e-mail</value> 
-  </data> 
   <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve"> 
     <value>Confirmar nova senha</value> 
   </data> 
@@ -223,7 +220,7 @@
     <value>O código de confirmação deve ter {0} dígitos!</value> 
   </data> 
   <data name="GIZ_GEN_ADS" xml:space="preserve"> 
-    <value>Ads</value> 
+    <value>Anúncios</value> 
   </data> 
   <data name="GIZ_GEN_ALL" xml:space="preserve"> 
     <value>Todos</value> 
@@ -364,7 +361,7 @@
     <value>Saldo oculto</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve"> 
-    <value>Marcar todos como lido</value> 
+    <value>Marcar tudo como lido</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve"> 
     <value>marcar como lido</value> 
@@ -373,7 +370,7 @@
     <value>Nenhuma nova notificação.</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE" xml:space="preserve"> 
-    <value>Quando algo novo acontecer, você o encontrará aqui.</value> 
+    <value>Quando algo novo acontecer, você será notificado aqui.</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_TITLE" xml:space="preserve"> 
     <value>Notificações</value> 
@@ -481,7 +478,7 @@
     <value>Comentários do pedido</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve"> 
-    <value>Adicione sua observação..</value> 
+    <value>Adicione uma observação, se precisar...</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve"> 
     <value>Meu pedido</value> 
@@ -717,21 +714,6 @@
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve"> 
     <value>Valor não definido</value> 
   </data> 
-  <data name="GIZ_CHANGE_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value>Valor não definido</value> 
-  </data> 
-  <data name="GIZ_CHANGE_EMAIL_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>Acabamos de lhe enviar um e-mail com um código. Digite-o para verificar seu e-mail.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE" xml:space="preserve"> 
-    <value>Atualizar número</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE_MESSAGE" xml:space="preserve"> 
-    <value>Digite o número que você gostaria de usar. Para verificação de que este número é seu, enviaremos um código de validação.</value> 
-  </data> 
-  <data name="GIZ_CHANGE_MOBILE_SUCCESS_MESSAGE" xml:space="preserve"> 
-    <value>Acabamos de lhe enviar um SMS com um código. Digite-o para validar seu telefone.</value> 
-  </data> 
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve"> 
     <value>Insira o Código para Continuar</value> 
   </data> 
@@ -750,7 +732,7 @@
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve"> 
     <value>Bloqueio de perfil</value> 
   </data> 
-  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
+  <data name="GIZ_GEN_VE_REQUIRED_NAMED_FIELD" xml:space="preserve"> 
     <value>O campo {0} é obrigatório.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve"> 
@@ -874,7 +856,7 @@
     <value>Historico de compras</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve"> 
-    <value>Tempo de uso</value> 
+    <value>Liberado para usar</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve"> 
     <value>depois de sair</value> 
@@ -886,7 +868,7 @@
     <value>usar</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve"> 
-    <value>Tempo de compra</value> 
+    <value>Liberado para comprar</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve"> 
     <value>d.</value> 
@@ -1126,7 +1108,7 @@
     <value>Sucesso</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve"> 
-    <value>Avaliar</value> 
+    <value>Tarifa</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve"> 
     <value>Tempo fixo</value> 
@@ -1266,5 +1248,17 @@ Por favor, recarregue sua conta agora.</value>
   </data> 
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
     <value>Eu li e concordo com os termos de serviço.</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
+    <value>Esse campo é obrigatório</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_MAX_LENGTH" xml:space="preserve"> 
+    <value>O campo não deve ter mais de {1} caracteres.</value> 
+  </data> 
+  <data name="GIZ_COUNTRY_OTHER" xml:space="preserve"> 
+    <value>Outro</value> 
+  </data> 
+  <data name="GIZ_GEN_VE_INVALID_FIELD" xml:space="preserve"> 
+    <value>O campo é inválido.</value> 
   </data> 
 </root>
