@@ -4,9 +4,9 @@
   Loco xml export: ResX - .NET resources
   Project: Gizmo Client UI
   Release: Working copy
-  Locale: az-AZ, Azerbaijani
+  Locale: az-Latn-AZ, Azerbaijani
   Exported by: Oleg Savelos
-  Exported at: Mon, 17 Jul 2023 10:50:32 +0300 
+  Exported at: Tue, 18 Jul 2023 14:46:48 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
