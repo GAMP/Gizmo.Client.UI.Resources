@@ -5,8 +5,8 @@
   Project: Gizmo Client UI
   Release: Working copy
   Locale: el-GR, Greek (Greece)
-  Exported by: Oleg Savelos
-  Exported at: Tue, 18 Jul 2023 14:46:49 +0300 
+  Exported by: Dimitrios Klapsis
+  Exported at: Tue, 18 Jul 2023 15:30:04 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -759,17 +759,17 @@
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve"> 
     <value>Το μέγιστο ποσό είναι {0}.</value> 
   </data> 
-  <data name="GIZ_APP_FILTERS_ALL_ITEMS" xml:space="preserve"> 
-    <value>Όλα τα αντικείμενα</value> 
+  <data name="GIZ_APP_FILTERS_ALL_APPS" xml:space="preserve"> 
+    <value>Όλες οι εφαρμογές</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve"> 
     <value>Νέες κυκλοφορίες</value> 
   </data> 
-  <data name="GIZ_APP_FILTERS_POPULAR_ITEMS" xml:space="preserve"> 
-    <value>Δημοφιλή αντικείμενα</value> 
+  <data name="GIZ_APP_FILTERS_POPULAR_APPS" xml:space="preserve"> 
+    <value>Δημοφιλείς εφαρμογές</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve"> 
-    <value>Προστέθηκαν Πρόσφατα</value> 
+    <value>Προστέθηκαν πρόσφατα</value> 
   </data> 
   <data name="GIZ_GEN_OR" xml:space="preserve"> 
     <value>ή</value> 
