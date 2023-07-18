@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: es-BO, Spanish (Bolivia)
   Exported by: Oleg Savelos
-  Exported at: Tue, 18 Jul 2023 14:46:51 +0300 
+  Exported at: Tue, 18 Jul 2023 16:58:38 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -759,13 +759,13 @@
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve"> 
     <value>El monto máximo es {0}</value> 
   </data> 
-  <data name="GIZ_APP_FILTERS_ALL_ITEMS" xml:space="preserve"> 
+  <data name="GIZ_APP_FILTERS_ALL_APPS" xml:space="preserve"> 
     <value>Todos los items</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve"> 
     <value>Nuevos lanzamientos</value> 
   </data> 
-  <data name="GIZ_APP_FILTERS_POPULAR_ITEMS" xml:space="preserve"> 
+  <data name="GIZ_APP_FILTERS_POPULAR_APPS" xml:space="preserve"> 
     <value>Items populares</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve"> 

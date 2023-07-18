@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: az-Latn-AZ, Azerbaijani
   Exported by: Oleg Savelos
-  Exported at: Tue, 18 Jul 2023 14:46:48 +0300 
+  Exported at: Tue, 18 Jul 2023 16:58:35 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -759,13 +759,13 @@
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve"> 
     <value>Maksimum məbləğ {0} olmalıdır.</value> 
   </data> 
-  <data name="GIZ_APP_FILTERS_ALL_ITEMS" xml:space="preserve"> 
+  <data name="GIZ_APP_FILTERS_ALL_APPS" xml:space="preserve"> 
     <value>Bütün təkliflər</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve"> 
     <value>Yeni versiyalar</value> 
   </data> 
-  <data name="GIZ_APP_FILTERS_POPULAR_ITEMS" xml:space="preserve"> 
+  <data name="GIZ_APP_FILTERS_POPULAR_APPS" xml:space="preserve"> 
     <value>Populyar təkliflər</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve"> 
