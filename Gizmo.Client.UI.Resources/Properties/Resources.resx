@@ -5,8 +5,8 @@
   Project: Gizmo Client UI
   Release: Working copy
   Locale: en-US, English
-  Exported by: Oleg Savelos
-  Exported at: Tue, 18 Jul 2023 16:58:35 +0300 
+  Exported by: Dimitrios Klapsis
+  Exported at: Thu, 20 Jul 2023 11:05:23 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1260,5 +1260,8 @@ Please recharge your account now.</value>
   </data> 
   <data name="GIZ_GEN_VE_INVALID_FIELD" xml:space="preserve"> 
     <value>The field is invalid.</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_USERNAME_TIP" xml:space="preserve"> 
+    <value>Other users will see your username</value> 
   </data> 
 </root>
