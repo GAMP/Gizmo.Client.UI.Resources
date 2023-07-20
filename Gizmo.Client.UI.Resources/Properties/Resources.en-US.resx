@@ -5,8 +5,8 @@
   Project: Gizmo Client UI
   Release: Working copy
   Locale: en-US, English
-  Exported by: Oleg Savelos
-  Exported at: Thu, 20 Jul 2023 15:11:25 +0300 
+  Exported by: Dimitrios Klapsis
+  Exported at: Thu, 20 Jul 2023 11:05:23 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />

@@ -160,20 +160,20 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to All apps.
+        /// </summary>
+        public static string GIZ_APP_FILTERS_ALL_APPS {
+            get {
+                return ResourceManager.GetString("GIZ_APP_FILTERS_ALL_APPS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to All games and apps.
         /// </summary>
         public static string GIZ_APP_FILTERS_ALL_GAMES_AND_APPS {
             get {
                 return ResourceManager.GetString("GIZ_APP_FILTERS_ALL_GAMES_AND_APPS", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to All items.
-        /// </summary>
-        public static string GIZ_APP_FILTERS_ALL_ITEMS {
-            get {
-                return ResourceManager.GetString("GIZ_APP_FILTERS_ALL_ITEMS", resourceCulture);
             }
         }
         
@@ -187,16 +187,16 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Popular items.
+        ///   Looks up a localized string similar to Popular apps.
         /// </summary>
-        public static string GIZ_APP_FILTERS_POPULAR_ITEMS {
+        public static string GIZ_APP_FILTERS_POPULAR_APPS {
             get {
-                return ResourceManager.GetString("GIZ_APP_FILTERS_POPULAR_ITEMS", resourceCulture);
+                return ResourceManager.GetString("GIZ_APP_FILTERS_POPULAR_APPS", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Recently Added.
+        ///   Looks up a localized string similar to Recently added.
         /// </summary>
         public static string GIZ_APP_FILTERS_RECENTLY_ADDED {
             get {
@@ -3424,6 +3424,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_PROFILE_PICTURE_AND_USERNAME {
             get {
                 return ResourceManager.GetString("GIZ_USER_PROFILE_PICTURE_AND_USERNAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Other users will see your username.
+        /// </summary>
+        public static string GIZ_USER_PROFILE_USERNAME_TIP {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PROFILE_USERNAME_TIP", resourceCulture);
             }
         }
         
