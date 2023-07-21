@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: es-BO, Spanish (Bolivia)
   Exported by: Oleg Savelos
-  Exported at: Thu, 20 Jul 2023 15:11:28 +0300 
+  Exported at: Fri, 21 Jul 2023 11:56:15 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -220,7 +220,7 @@
     <value>El código de confirmación debería tener {0} dígitos!</value> 
   </data> 
   <data name="GIZ_GEN_ADS" xml:space="preserve"> 
-    <value>Ads</value> 
+    <value>Anuncios</value> 
   </data> 
   <data name="GIZ_GEN_ALL" xml:space="preserve"> 
     <value>Todo</value> 
@@ -1262,6 +1262,6 @@ Por favor recarga tu cuenta.</value>
     <value>El campo no es válido.</value> 
   </data> 
   <data name="GIZ_USER_PROFILE_USERNAME_TIP" xml:space="preserve"> 
-    <value>Otras usuarios verán tu nombre de usuario</value> 
+    <value>Otros usuarios verán tu nombre de usuario</value> 
   </data> 
 </root>
