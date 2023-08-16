@@ -2185,11 +2185,29 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Not available..
+        /// </summary>
+        public static string GIZ_PRODUCT_NOT_AVAILABLE {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Not available anymore..
         /// </summary>
         public static string GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE {
             get {
                 return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not available on this host..
+        /// </summary>
+        public static string GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST", resourceCulture);
             }
         }
         
