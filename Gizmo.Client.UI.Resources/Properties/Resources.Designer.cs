@@ -889,6 +889,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to License reservation failed for {0}..
+        /// </summary>
+        public static string GIZ_GEN_LICENSE_RESERVATION_FAILED {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_LICENSE_RESERVATION_FAILED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Mobile phone.
         /// </summary>
         public static string GIZ_GEN_MOBILE_PHONE {
