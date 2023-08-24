@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: en-US, English
   Exported by: Oleg Savelos
-  Exported at: Fri, 21 Jul 2023 11:56:11 +0300 
+  Exported at: Thu, 24 Aug 2023 15:01:41 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1263,5 +1263,17 @@ Please recharge your account now.</value>
   </data> 
   <data name="GIZ_USER_PROFILE_USERNAME_TIP" xml:space="preserve"> 
     <value>Other users will see your username</value> 
+  </data> 
+  <data name="GIZ_GEN_LICENSE_RESERVATION_FAILED" xml:space="preserve"> 
+    <value>License reservation failed for {0}.</value> 
+  </data> 
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE" xml:space="preserve"> 
+    <value>Not available.</value> 
+  </data> 
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve"> 
+    <value>Not available on this host.</value> 
+  </data> 
+  <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve"> 
+    <value>Whitespaces not allowed</value> 
   </data> 
 </root>

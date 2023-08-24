@@ -4,9 +4,9 @@
   Loco xml export: ResX - .NET resources
   Project: Gizmo Client UI
   Release: Working copy
-  Locale: da-DK, Danish (Denmark)
+  Locale: sl-SI, Slovenian (Slovenia)
   Exported by: Oleg Savelos
-  Exported at: Thu, 24 Aug 2023 15:01:43 +0300 
+  Exported at: Thu, 24 Aug 2023 15:02:42 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -67,810 +67,808 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <metadata name="locoLocaleCode">
-    <value>da-DK</value>
+    <value>sl-SI</value>
   </metadata>
   <metadata name="locoLocaleName" xml:space="preserve">
-    <value>Danish (Denmark)</value>
+    <value>Slovenian (Slovenia)</value>
   </metadata> 
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve"> 
-    <value>Alle spil og programmer</value> 
+    <value>Vse igre in aplikacije</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve"> 
-    <value>Tilføj dato</value> 
+    <value>Dodaj datum</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve"> 
-    <value>Popularitet</value> 
+    <value>Priljubljenost</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve"> 
-    <value>Bedømmelse</value> 
+    <value>Ocena</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve"> 
-    <value>Udgivelses dato</value> 
+    <value>Datum izida</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve"> 
-    <value>Titel</value> 
+    <value>Naslov</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve"> 
-    <value>Brug</value> 
+    <value>Uporabi</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve"> 
-    <value>Bekræftelseskoden er ugyldig.</value> 
+    <value>Potrditvena koda je neveljavna.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value>En e-mail er blevet sendt til {0}. Tjek din e-mail for bekræftelseskoden, og indtast den nedenfor</value> 
+    <value>E-poštno sporočilo je bilo poslano na {0}. Preverite svojo e-pošto za potrditveno kodo in jo vnesite spodaj</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_FLASH_CALL_MESSAGE" xml:space="preserve"> 
-    <value>Der er foretaget et opkald til {0}. Tjek din telefon for et (ubesvaret) opkald, og indtast de sidste {1} cifre i opkaldsnummeret</value> 
+    <value>Klic je bil opravljen na {0}. V telefonu preverite hitri (zgrešeni) klic in vnesite zadnje {1} številke klicne številke</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_SMS_MESSAGE" xml:space="preserve"> 
-    <value>En sms er blevet sendt til {0}. Tjek din telefons SMS for bekræftelseskoden, og indtast den nedenfor</value> 
+    <value>SMS je bil poslan na {0}. Preverite kodo za preverjanje v SMS-u telefona in jo vnesite spodaj</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_EMAIL_IS_REQUIRED" xml:space="preserve"> 
-    <value>E-mail feltet er påkrævet.</value> 
+    <value>Polje za e-pošto je obvezno.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_ENTER_CONFIRMATION_CODE" xml:space="preserve"> 
-    <value>Indtast koden</value> 
+    <value>Vnesite kodo</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_APPLICATION" xml:space="preserve"> 
-    <value>Anvendelse</value> 
+    <value>Aplikacija</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_CO_OP" xml:space="preserve"> 
-    <value>Co-Op Lan</value> 
+    <value>Co-Op lokalna mreža</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_CO_OP_ONLINE" xml:space="preserve"> 
-    <value>Co-Op Online</value> 
+    <value>Co-Op preko interneta</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve"> 
-    <value>Gratis at spille</value> 
+    <value>Brezplačna igra</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_FREE_TRIAL" xml:space="preserve"> 
-    <value>Gratis prøveversion</value> 
+    <value>Brezplačni preizkus</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_GAME" xml:space="preserve"> 
-    <value>Spil</value> 
+    <value>Igra</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_MULTIPLAYER" xml:space="preserve"> 
-    <value>Lan Multiplayer</value> 
+    <value>Lan igra za več igralcev</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_ONE_TIME_PURCHASE" xml:space="preserve"> 
-    <value>Engangskøb</value> 
+    <value>Enkratni nakup</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_ONLINE" xml:space="preserve"> 
-    <value>Online multiplayer</value> 
+    <value>Spletna igra za več igralcev</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve"> 
-    <value>Kræver abonnement</value> 
+    <value>Zahteva naročnino</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_SETTINGS" xml:space="preserve"> 
-    <value>Indstillinger</value> 
+    <value>Nastavitve</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve"> 
-    <value>Singleplayer</value> 
+    <value>Enoigralska igra</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve"> 
-    <value>Delt skærm</value> 
+    <value>Razdeljen zaslon</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_UTILITY" xml:space="preserve"> 
-    <value>Utility</value> 
+    <value>Pripomoček</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_GET_CONFIRMATION_CODE" xml:space="preserve"> 
-    <value>Få kode</value> 
+    <value>Pridobite kodo</value> 
   </data> 
   <data name="GIZ_GEN_SEARCH" xml:space="preserve"> 
-    <value>Søg</value> 
+    <value>Iskanje</value> 
   </data> 
   <data name="GIZ_ACTIVE_APPS_TITLE" xml:space="preserve"> 
-    <value>Aktive applikationer</value> 
+    <value>Aktivne aplikacije</value> 
   </data> 
   <data name="GIZ_APPS_AUTO_START" xml:space="preserve"> 
-    <value>Automatisk start</value> 
+    <value>Samodejni zagon</value> 
   </data> 
   <data name="GIZ_APPS_CATEGORY" xml:space="preserve"> 
-    <value>Kategori:</value> 
+    <value>Kategorija:</value> 
   </data> 
   <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve"> 
-    <value>Dato tilføjet</value> 
+    <value>Datum dodajanja</value> 
   </data> 
   <data name="GIZ_APPS_LAUNCH" xml:space="preserve"> 
-    <value>Start</value> 
+    <value>Zagon</value> 
   </data> 
   <data name="GIZ_APPS_LINKS" xml:space="preserve"> 
-    <value>Links</value> 
+    <value>Povezave</value> 
   </data> 
   <data name="GIZ_APPS_LOADING" xml:space="preserve"> 
-    <value>Indlæser</value> 
+    <value>Nalaganje</value> 
   </data> 
   <data name="GIZ_APPS_MEDIA" xml:space="preserve"> 
-    <value>Medie</value> 
+    <value>Večpredstavnost</value> 
   </data> 
   <data name="GIZ_APPS_PARAMETERS" xml:space="preserve"> 
-    <value>Parametre:</value> 
+    <value>Parametri:</value> 
   </data> 
   <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve"> 
-    <value>Personlige filer</value> 
+    <value>Osebne datoteke</value> 
   </data> 
   <data name="GIZ_APPS_PLAYER_MODE" xml:space="preserve"> 
-    <value>Spiller måde</value> 
+    <value>Igralni način</value> 
   </data> 
   <data name="GIZ_APPS_PUBLISHER" xml:space="preserve"> 
-    <value>Forlægger</value> 
+    <value>Založnik</value> 
   </data> 
   <data name="GIZ_APPS_RELEASE_DATE" xml:space="preserve"> 
-    <value>Udgivelses dato</value> 
+    <value>Datum izida</value> 
   </data> 
   <data name="GIZ_APPS_REPAIR" xml:space="preserve"> 
-    <value>Reparation</value> 
+    <value>Popravi</value> 
   </data> 
   <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve"> 
-    <value>Vælg applikationsversion</value> 
+    <value>Izberite različico aplikacije</value> 
   </data> 
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve"> 
-    <value>Afslutte</value> 
+    <value>Prekini</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Bekræft ny adgangskode</value> 
+    <value>Potrdite novo geslo</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD" xml:space="preserve"> 
-    <value>Nuværende adgangskode</value> 
+    <value>Trenutno geslo</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Ny adgangskode</value> 
+    <value>Novo geslo</value> 
   </data> 
   <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve"> 
-    <value>Bekræftelseskoden skal have {0} tal!</value> 
+    <value>Potrditvena koda mora imeti {0} številk!</value> 
   </data> 
   <data name="GIZ_GEN_ADS" xml:space="preserve"> 
-    <value>Annoncer</value> 
+    <value>Oglasi</value> 
   </data> 
   <data name="GIZ_GEN_ALL" xml:space="preserve"> 
-    <value>Alle</value> 
+    <value>Vse</value> 
   </data> 
   <data name="GIZ_GEN_AND" xml:space="preserve"> 
-    <value>og</value> 
+    <value>in</value> 
   </data> 
   <data name="GIZ_GEN_BACK_TO" xml:space="preserve"> 
-    <value>Tilbage til {0}</value> 
+    <value>Nazaj na {0}</value> 
   </data> 
   <data name="GIZ_GEN_BALANCE" xml:space="preserve"> 
-    <value>Balance</value> 
+    <value>Stanje</value> 
   </data> 
   <data name="GIZ_GEN_CANCEL" xml:space="preserve"> 
-    <value>Afbryde</value> 
+    <value>Prekliči</value> 
   </data> 
   <data name="GIZ_GEN_CONFIRM" xml:space="preserve"> 
-    <value>Bekræft</value> 
+    <value>Potrdi</value> 
   </data> 
   <data name="GIZ_GEN_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Bekræft din adgangskode</value> 
+    <value>Potrdite geslo</value> 
   </data> 
   <data name="GIZ_GEN_CONTINUE" xml:space="preserve"> 
-    <value>Fortsætte</value> 
+    <value>Nadaljuj</value> 
   </data> 
   <data name="GIZ_GEN_EMAIL" xml:space="preserve"> 
-    <value>E-mail</value> 
+    <value>E-naslov</value> 
   </data> 
   <data name="GIZ_GEN_EMAIL_ADDRESS" xml:space="preserve"> 
-    <value>E-mail adresse</value> 
+    <value>Email naslov</value> 
   </data> 
   <data name="GIZ_GEN_ENTER_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Indtast ny adgangskode</value> 
+    <value>Vnesite novo geslo</value> 
   </data> 
   <data name="GIZ_GEN_MOBILE_PHONE" xml:space="preserve"> 
-    <value>Mobiltelefon</value> 
+    <value>Mobilni telefon</value> 
   </data> 
   <data name="GIZ_GEN_PASSWORD" xml:space="preserve"> 
-    <value>Adgangskode</value> 
+    <value>Geslo</value> 
   </data> 
   <data name="GIZ_GEN_PHONE_NUMBER" xml:space="preserve"> 
-    <value>Telefon nummer</value> 
+    <value>Telefonska številka</value> 
   </data> 
   <data name="GIZ_GEN_POINTS" xml:space="preserve"> 
-    <value>Points</value> 
+    <value>Točke</value> 
   </data> 
   <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve"> 
-    <value>Populære varer</value> 
+    <value>Priljubljeni predmeti</value> 
   </data> 
   <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Gentag den nye adgangskode</value> 
+    <value>Ponovite novo geslo</value> 
   </data> 
   <data name="GIZ_GEN_RESEND" xml:space="preserve"> 
-    <value>Send igen</value> 
+    <value>Pošlji znova</value> 
   </data> 
   <data name="GIZ_GEN_RESULTS_FOR" xml:space="preserve"> 
-    <value>Resultater for</value> 
+    <value>Rezultati za</value> 
   </data> 
   <data name="GIZ_GEN_SAVE" xml:space="preserve"> 
-    <value>Gem</value> 
+    <value>Shrani</value> 
   </data> 
   <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve"> 
-    <value>Gem ændringerne</value> 
+    <value>Shrani spremembe</value> 
   </data> 
   <data name="GIZ_GEN_SORT_BY" xml:space="preserve"> 
-    <value>Sorter efter:</value> 
+    <value>Razvrsti po:</value> 
   </data> 
   <data name="GIZ_GEN_TIME" xml:space="preserve"> 
-    <value>Tid</value> 
+    <value>Čas</value> 
   </data> 
   <data name="GIZ_GEN_UPDATE" xml:space="preserve"> 
-    <value>Opdater</value> 
+    <value>Posodobi</value> 
   </data> 
   <data name="GIZ_GEN_USERNAME" xml:space="preserve"> 
-    <value>Brugernavn</value> 
+    <value>Uporabniško ime</value> 
   </data> 
   <data name="GIZ_GEN_VERIFY" xml:space="preserve"> 
-    <value>Verificer</value> 
+    <value>Preveri</value> 
   </data> 
   <data name="GIZ_GEN_VIEW_DETAILS" xml:space="preserve"> 
-    <value>Se detaljer</value> 
+    <value>Ogled podrobnosti</value> 
   </data> 
   <data name="GIZ_GEN_ADD_TO_CART" xml:space="preserve"> 
-    <value>Tilføj til kurv</value> 
+    <value>Dodaj v košarico</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_GAMES_AND_APPS" xml:space="preserve"> 
-    <value>Spil &amp; Programmer</value> 
+    <value>Igre &amp; aplikacije</value> 
   </data> 
   <data name="GIZ_GEN_LAUNCH" xml:space="preserve"> 
-    <value>Kør</value> 
+    <value>Zaženi</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE" xml:space="preserve"> 
-    <value>Vi fandt ikke noget</value> 
+    <value>Ničesar nismo našli</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve"> 
-    <value>Prøv forskellige søgeord, ellers  sørg for, at alt er stavet korrekt.</value> 
+    <value>Poskusite z drugimi ključnimi besedami ali pa se prepričajte, da je vse pravilno črkovano.</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_PLACEHOLDER" xml:space="preserve"> 
-    <value>Søg i spil, programmer, shoppen</value> 
+    <value>Iskanje iger, aplikacij, trgovine</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_SHOP" xml:space="preserve"> 
-    <value>Shoppen</value> 
+    <value>Trgovina</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_SHOW_ALL" xml:space="preserve"> 
-    <value>Se alt</value> 
+    <value>Poglej vse</value> 
   </data> 
   <data name="GIZ_LOGIN_ALREADY_A_MEMBER" xml:space="preserve"> 
-    <value>Allerede medlem?</value> 
+    <value>Ste že član?</value> 
   </data> 
   <data name="GIZ_LOGIN_FORGOT_YOUR_PASSWORD" xml:space="preserve"> 
-    <value>Har du glemt din adgangskode?</value> 
+    <value>Ste pozabili geslo?</value> 
   </data> 
   <data name="GIZ_LOGIN_NOT_A_MEMBER" xml:space="preserve"> 
-    <value>Ikke medlem?</value> 
+    <value>Niste član?</value> 
   </data> 
   <data name="GIZ_LOGIN_OR" xml:space="preserve"> 
-    <value>
-Eller</value> 
+    <value>Ali</value> 
   </data> 
   <data name="GIZ_LOGIN_QR_MESSAGE" xml:space="preserve"> 
-    <value>Scan dette med mobilappen for at logge ind med det samme</value> 
+    <value>Skenirajte to z mobilno aplikacijo, da se takoj prijavite</value> 
   </data> 
   <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve"> 
-    <value>Log ind med QR-kode</value> 
+    <value>Prijavite se s kodo QR</value> 
   </data> 
   <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>Hvis du logger ind nu, bliver du automatisk logget ud på det angivne tidspunkt.</value> 
+    <value>Če se prijavite zdaj, boste ob določenem času samodejno odjavljeni.</value> 
   </data> 
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve"> 
-    <value>Denne computer er reserveret kl {0}.</value> 
+    <value>Ta računalnik je rezerviran ob {0}.</value> 
   </data> 
   <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve"> 
-    <value>Log ind</value> 
+    <value>Prijava</value> 
   </data> 
   <data name="GIZ_LOGIN_SIGN_UP_NOW" xml:space="preserve"> 
-    <value>Tilmeld dig nu</value> 
+    <value>Prijavite se zdaj</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve"> 
-    <value>Balance skjult</value> 
+    <value>Stanje skrito</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve"> 
-    <value>Markér som alt læst</value> 
+    <value>Označi vse kot prebrano</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve"> 
-    <value>Marker som læst</value> 
+    <value>Označi kot prebrano</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve"> 
-    <value>Ingen nye meddelelser.</value> 
+    <value>Ni novih obvestil.</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE" xml:space="preserve"> 
-    <value>Når der sker noget nyt, finder du det her.</value> 
+    <value>Novosti najdete tukaj.</value> 
   </data> 
   <data name="GIZ_NOTIFICATIONS_TITLE" xml:space="preserve"> 
-    <value>Notifikationer</value> 
+    <value>Obvestila</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_FOR" xml:space="preserve"> 
-    <value>Der blev ikke fundet noget match for</value> 
+    <value>Ni zadetkov za</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve"> 
-    <value>Prøv at formulere dig anderledes</value> 
+    <value>Poskusite svojo zahtevo oblikovati drugače</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve"> 
-    <value>Sikker adgangskode</value> 
+    <value>Varno geslo</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_TOO_EASY" xml:space="preserve"> 
-    <value>Adgangskoden er for nem</value> 
+    <value>Geslo je prelahko</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_TOO_SHORT" xml:space="preserve"> 
-    <value>Adgangskoden er for kort</value> 
+    <value>Geslo je prekratko</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_EMAIL" xml:space="preserve"> 
-    <value>Indtast den e-mail, der er knyttet til din konto</value> 
+    <value>Vnesite e-pošto, ki je povezana z vašim računom</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_PHONE_NUMBER" xml:space="preserve"> 
-    <value>Indtast telefonnummeret, der er knyttet til din konto</value> 
+    <value>Vnesite telefonsko številko, ki je povezana z vašim računom</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_ENTER_YOUR_CODE" xml:space="preserve"> 
-    <value>Skriv din kode</value> 
+    <value>Vnesite kodo</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve"> 
-    <value>Glemt kodeord</value> 
+    <value>Pozabljeno geslo</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve"> 
-    <value>Indtast venligst koden fra den sms, vi sendte til {0}</value> 
+    <value>Vnesite kodo iz besedilnega sporočila, ki smo ga poslali na {0}</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve"> 
-    <value>Nulstille kodeord</value> 
+    <value>Ponastavitev gesla</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve"> 
-    <value>Superb! Kom med et nyt Kodeord, også er du klar</value> 
+    <value>Super! Zdaj si omislite novo geslo in vse je pripravljeno</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_RANGE_LENGTH" xml:space="preserve"> 
-    <value>{0}-{1} tegn</value> 
+    <value>{0}-{1} znakov</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_LOWER_CASE" xml:space="preserve"> 
-    <value>Mindst 1 lille bogstav</value> 
+    <value>Vsaj 1 mala črka</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_NUMBER" xml:space="preserve"> 
-    <value>Mindst 1 tal</value> 
+    <value>Vsaj 1 številka</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve"> 
-    <value>Mindst 1 stort bogstav</value> 
+    <value>Vsaj 1 velika črka</value> 
   </data> 
   <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve"> 
-    <value>Indtast din e-mail</value> 
+    <value>Vpišite svoj elektronski naslov</value> 
   </data> 
   <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve"> 
-    <value>Indtast dit mobiltelefon nummer</value> 
+    <value>Vnesite svoj mobilni telefon</value> 
   </data> 
   <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve"> 
-    <value>Bekræft landekode og indtast dit telefonnummer for at oprette en konto.</value> 
+    <value>Prosimo, potrdite svojo kodo države in vnesite svojo telefonsko številko, da ustvarite račun.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_SIGN_UP_BUTTON" xml:space="preserve"> 
-    <value>Tilmelde</value> 
+    <value>Prijavite se</value> 
   </data> 
   <data name="GIZ_REGISTRATION_SIGN_UP_TITLE" xml:space="preserve"> 
-    <value>Tilmelde</value> 
+    <value>Prijavite se</value> 
   </data> 
   <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve"> 
-    <value>Log ind</value> 
+    <value>Prijava</value> 
   </data> 
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve"> 
-    <value>Tilføj til kurv</value> 
+    <value>Dodaj v košarico</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve"> 
-    <value>Pakken inkluderer:</value> 
+    <value>Paket vključuje:</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve"> 
-    <value>Tidsperiode</value> 
+    <value>Akcijsko obdobje</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve"> 
-    <value>Pakke Beskrivelse:</value> 
+    <value>Opis paketa:</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve"> 
-    <value>Produktets levetid</value> 
+    <value>Življenjska doba izdelka</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve"> 
-    <value>Tak for din bestilling!</value> 
+    <value>Hvala za vaše naročilo!</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve"> 
-    <value>Bemærk: Du kan se alle dine aktuelle ordrer under Min profil &gt; Købt</value> 
+    <value>Opomba: Vsa vaša trenutna naročila si lahko ogledate pod Moj profil &gt; Kupljeno</value> 
   </data> 
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve"> 
-    <value>Checkout</value> 
+    <value>Na blagajno</value> 
   </data> 
   <data name="GIZ_SHOP_EARNED_POINTS" xml:space="preserve"> 
-    <value>Optjente point</value> 
+    <value>Prislužene točke</value> 
   </data> 
   <data name="GIZ_SHOP_NO_PRODUCTS_MESSAGE" xml:space="preserve"> 
-    <value>Ingen produkter</value> 
+    <value>Brez izdelkov</value> 
   </data> 
   <data name="GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE" xml:space="preserve"> 
-    <value>Tilføj produkter for at komme i gang</value> 
+    <value>Za začetek dodajte izdelke</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_NOTE" xml:space="preserve"> 
-    <value>Bestillingskommentarer</value> 
+    <value>Komenatarji naročila</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve"> 
-    <value>Tilføj din note..</value> 
+    <value>Dodajte svojo opombo...</value> 
   </data> 
   <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve"> 
-    <value>Min bestilling</value> 
+    <value>Moje naročilo</value> 
   </data> 
   <data name="GIZ_SHOP_PAYMENT_METHOD" xml:space="preserve"> 
-    <value>Betalingsmetode</value> 
+    <value>Način plačila</value> 
   </data> 
   <data name="GIZ_SHOP_PLACE_ORDER" xml:space="preserve"> 
-    <value>Angiv bestilling</value> 
+    <value>Oddaj naročilo</value> 
   </data> 
   <data name="GIZ_SHOP_PRICE" xml:space="preserve"> 
-    <value>Pris</value> 
+    <value>Cena</value> 
   </data> 
   <data name="GIZ_SHOP_PRODUCT_NAME" xml:space="preserve"> 
-    <value>Produktnavn</value> 
+    <value>Ime izdelka</value> 
   </data> 
   <data name="GIZ_SHOP_QUANTITY" xml:space="preserve"> 
-    <value>Antal</value> 
+    <value>Količina</value> 
   </data> 
   <data name="GIZ_SHOP_RELATED_PRODUCTS" xml:space="preserve"> 
-    <value>Relaterede produkter</value> 
+    <value>Sorodni izdelki</value> 
   </data> 
   <data name="GIZ_SHOP_SUBTOTAL" xml:space="preserve"> 
-    <value>Subtotal</value> 
+    <value>Vmesni seštevek</value> 
   </data> 
   <data name="GIZ_SHOP_TOTAL" xml:space="preserve"> 
-    <value>Total</value> 
+    <value>Skupno</value> 
   </data> 
   <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve"> 
-    <value>Låst</value> 
+    <value>Zaklenjeno</value> 
   </data> 
   <data name="GIZ_SYSTEM_VERSION" xml:space="preserve"> 
-    <value>Version</value> 
+    <value>Različica</value> 
   </data> 
   <data name="GIZ_TIME_PRODUCT_HOUR" xml:space="preserve"> 
-    <value>Time</value> 
+    <value>Ura</value> 
   </data> 
   <data name="GIZ_TIME_PRODUCT_HOURS" xml:space="preserve"> 
-    <value>Timer</value> 
+    <value>Ure</value> 
   </data> 
   <data name="GIZ_TIME_PRODUCT_MINUTES" xml:space="preserve"> 
     <value>Min</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_CLEAR" xml:space="preserve"> 
-    <value>Ryd</value> 
+    <value>Počisti</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_OR" xml:space="preserve"> 
-    <value>Og</value> 
+    <value>Ali</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_OR_ENTER_AMOUNT" xml:space="preserve"> 
-    <value>Eller indtast beløb*</value> 
+    <value>Ali vnesi znesek*</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_PAY_FROM_PC" xml:space="preserve"> 
-    <value>Betal fra pc</value> 
+    <value>Plačajte iz računalnika</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve"> 
-    <value>Betalingsoplysninger</value> 
+    <value>Naslednji korak: informacije o plačilu</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve"> 
-    <value>QR-kode til betaling på telefon</value> 
+    <value>QR koda za plačilo preko telefona</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_QUICK_SELECT" xml:space="preserve"> 
-    <value>Hurtigt valg</value> 
+    <value>Hitri izbor</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_TITLE" xml:space="preserve"> 
-    <value>Top Up</value> 
+    <value>Napolni</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve"> 
-    <value>Skal betales:</value> 
+    <value>Za plačilo:</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve"> 
-    <value>vil blive krediteret til din kontosaldo</value> 
+    <value>bo knjiženo v dobro stanje vašega računa</value> 
   </data> 
   <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve"> 
-    <value>Yderligere Information</value> 
+    <value>Dodatne informacije</value> 
   </data> 
   <data name="GIZ_USER_ADDRESS" xml:space="preserve"> 
-    <value>Adresse</value> 
+    <value>Naslov</value> 
   </data> 
   <data name="GIZ_USER_AVAILABLE_TIME" xml:space="preserve"> 
-    <value>Tilgængelig tid</value> 
+    <value>Razpoložljiv čas</value> 
   </data> 
   <data name="GIZ_USER_BASIC_INFO" xml:space="preserve"> 
-    <value>Grundlæggende oplysninger</value> 
+    <value>Osnovne informacije</value> 
   </data> 
   <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve"> 
-    <value>Fødselsdato</value> 
+    <value>Datum rojstva</value> 
   </data> 
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve"> 
-    <value>Skift kodeord</value> 
+    <value>Spremeni geslo</value> 
   </data> 
   <data name="GIZ_USER_COUNTRY" xml:space="preserve"> 
-    <value>Land</value> 
+    <value>Država</value> 
   </data> 
   <data name="GIZ_USER_COUNTRY_REGION" xml:space="preserve"> 
-    <value>Område</value> 
+    <value>Država/regija</value> 
   </data> 
   <data name="GIZ_USER_DETAILS" xml:space="preserve"> 
-    <value>Brugeroplysninger</value> 
+    <value>Podrobnosti o uporabniku</value> 
   </data> 
   <data name="GIZ_USER_FIRST_NAME" xml:space="preserve"> 
-    <value>Fornavn</value> 
+    <value>Ime</value> 
   </data> 
   <data name="GIZ_USER_GENDER" xml:space="preserve"> 
-    <value>Køn</value> 
+    <value>Spol</value> 
   </data> 
   <data name="GIZ_USER_HOME_PHONE" xml:space="preserve"> 
-    <value>Hjemmetelefon</value> 
+    <value>Domači telefon</value> 
   </data> 
   <data name="GIZ_USER_LAST_NAME" xml:space="preserve"> 
-    <value>Efternavn</value> 
+    <value>Priimek</value> 
   </data> 
   <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve"> 
-    <value>Mail og telefonnumre</value> 
+    <value>E-pošta in telefonske številke</value> 
   </data> 
   <data name="GIZ_USER_MENU_HELP" xml:space="preserve"> 
-    <value>Hjælp</value> 
+    <value>Pomoč</value> 
   </data> 
   <data name="GIZ_USER_MENU_LOCK_PC" xml:space="preserve"> 
-    <value>Lås PC</value> 
+    <value>Zakleni računalnik</value> 
   </data> 
   <data name="GIZ_USER_MENU_LOGOUT" xml:space="preserve"> 
-    <value>Log ud</value> 
+    <value>Odjava</value> 
   </data> 
   <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve"> 
-    <value>Min profil</value> 
+    <value>Moj profil</value> 
   </data> 
   <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve"> 
-    <value>Indstillinger</value> 
+    <value>Nastavitve</value> 
   </data> 
   <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve"> 
-    <value>Top Up</value> 
+    <value>Napolni</value> 
   </data> 
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve"> 
-    <value>Personlig information</value> 
+    <value>Osebne informacije</value> 
   </data> 
   <data name="GIZ_USER_POST_CODE" xml:space="preserve"> 
-    <value>Postnummer</value> 
+    <value>Poštna številka</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES" xml:space="preserve"> 
-    <value>Indkøb</value> 
+    <value>Nakupi</value> 
   </data> 
   <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve"> 
-    <value>Rediger brugerindstillinger</value> 
+    <value>Uredi uporabniške nastavitve</value> 
   </data> 
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve"> 
-    <value>Transaktioner</value> 
+    <value>Transakcije</value> 
   </data> 
   <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve"> 
-    <value>Andre brugere vil kunne se dit brugernavn</value> 
+    <value>Ostali uporabniki bodo videli vaše uporabniško ime</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve"> 
-    <value>Send kode</value> 
+    <value>Pošlji kodo</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_APPS_DESCRIPTION" xml:space="preserve"> 
-    <value>Programmer side</value> 
+    <value>Stran z aplikacijami</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve"> 
-    <value>Programmer</value> 
+    <value>Aplikacije</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve"> 
-    <value>Spil side</value> 
+    <value>Stran z igrami</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve"> 
-    <value>Spil</value> 
+    <value>Igre</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve"> 
-    <value>Hjemme side</value> 
+    <value>Domača stran</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve"> 
-    <value>Hjem</value> 
+    <value>Domov</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve"> 
-    <value>Profil Side</value> 
+    <value>Stran profila</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve"> 
     <value>Profil</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve"> 
-    <value>Shop side</value> 
+    <value>Stran trgovine</value> 
   </data> 
   <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve"> 
-    <value>Shop</value> 
+    <value>Trgovina</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve"> 
-    <value>Accepteret</value> 
+    <value>Sprejeto</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_CANCELED" xml:space="preserve"> 
-    <value>Annullering</value> 
+    <value>Preklicano</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_COMPLETED" xml:space="preserve"> 
-    <value>Afsluttet</value> 
+    <value>Zaključeno</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD" xml:space="preserve"> 
-    <value>I venteposition</value> 
+    <value>Na čakanju</value> 
   </data> 
   <data name="GIZ_GEN_PASSWORDS_DO_NOT_MATCH" xml:space="preserve"> 
-    <value>Adgangskoderne stemmer ikke overens!</value> 
+    <value>Gesli se ne ujemata!</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_PASSWORD_RESET_FAILED_MESSAGE" xml:space="preserve"> 
-    <value>Nulstilling af adgangskode mislykkedes.</value> 
+    <value>Neuspešna ponastavitev gesla.</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_MOBILE" xml:space="preserve"> 
-    <value>Denne konto har ikke et gyldigt telefon nummer.</value> 
+    <value>Ta račun nima veljavne telefonske številke.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED" xml:space="preserve"> 
-    <value>Telefonnummerfeltet er påkrævet.</value> 
+    <value>Polje za telefonsko številko je obvezno.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_ERROR_PROVIDER_NO_ROUTE_FOR_DELIVERY" xml:space="preserve"> 
-    <value>Besked blev ikke leveret, tjek konfiguration.</value> 
+    <value>Dostava sporočila ni mogoča, preverite konfiguracijo.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_FAILED_MESSAGE" xml:space="preserve"> 
-    <value>Noget gik galt. Kontakt receptionen for info.</value> 
+    <value>Nekaj ​​je šlo narobe. Za informacije se obrnite na recepcijo.</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve"> 
-    <value>Vælg noget</value> 
+    <value>Izberite nekaj</value> 
   </data> 
   <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve"> 
-    <value>Kvinde</value> 
+    <value>Ženska</value> 
   </data> 
   <data name="GIZ_GEN_SEX_MALE" xml:space="preserve"> 
-    <value>Mand</value> 
+    <value>Moški</value> 
   </data> 
   <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve"> 
-    <value>Uspecificeret</value> 
+    <value>Nedoločeno</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve"> 
-    <value>Minimumsbeløbet er {0}.</value> 
+    <value>Najmanjši znesek je {0}.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_RETRY_WITH_SMS" xml:space="preserve"> 
-    <value>Prøv igen med SMS</value> 
+    <value>Poskusite znova s SMS-om</value> 
   </data> 
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve"> 
-    <value>Fra vælg værdi</value> 
+    <value>Nenastavljena vrednost</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve"> 
-    <value>Indtast kode for at fortsætte</value> 
+    <value>Za nadaljevanje vnesite kodo</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve"> 
-    <value>Glemt PIN</value> 
+    <value>Pozabljen PIN</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_SUBTITLE" xml:space="preserve"> 
-    <value>Profillås er i øjeblikket aktiveret</value> 
+    <value>Zaklepanje profila je trenutno vklopljeno</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve"> 
-    <value>Indtast din PIN-kode for at få adgang til denne profil</value> 
+    <value>Za dostop do tega profila vnesite PIN</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve"> 
-    <value>Lås denne profil ved at oprette en 4-cifret pinkode. Husk eller skriv det venligst ned.</value> 
+    <value>Zaklenite ta profil tako, da ustvarite 4-mestni PIN. Zapomnite si ga ali ga nekam zapišite.</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve"> 
-    <value>Profil Lås</value> 
+    <value>Zaklep profila</value> 
   </data> 
   <data name="GIZ_GEN_VE_REQUIRED_NAMED_FIELD" xml:space="preserve"> 
-    <value>Feltet {0} er påkrævet.</value> 
+    <value>Polje {0} je obvezno.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve"> 
-    <value>Den angivne e-mailadresse er allerede i brug</value> 
+    <value>Ta e-poštni naslov je že v uporabi</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve"> 
-    <value>Kan ikke validere e-mail.</value> 
+    <value>E-pošte ni mogoče potrditi.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_PHONE" xml:space="preserve"> 
-    <value>Telefonen kan ikke valideres.</value> 
+    <value>Telefona ni mogoče potrditi.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve"> 
-    <value>Kontroller gyldighedsfejl for adgangskode gendannelses token.</value> 
+    <value>Preverite napako veljavnosti žetona za obnovitev gesla.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve"> 
-    <value>Kan ikke validere brugernavn.</value> 
+    <value>Uporabniškega imena ni mogoče potrditi.</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve"> 
-    <value>Det angivne mobiltelefonnummer er allerede i brug</value> 
+    <value>Navedena številka mobilnega telefona je že v uporabi</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve"> 
-    <value>Det angivne brugernavn er allerede i brug</value> 
+    <value>Navedeno uporabniško ime je že v uporabi</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve"> 
-    <value>Det maksimale beløb er {0}.</value> 
+    <value>Največji znesek je {0}.</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_ALL_APPS" xml:space="preserve"> 
-    <value>Alle dele</value> 
+    <value>Vse aplikacije</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve"> 
-    <value>Nye udgivelser</value> 
+    <value>Novosti</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_POPULAR_APPS" xml:space="preserve"> 
-    <value>Populære varer</value> 
+    <value>Priljubljene aplikacije</value> 
   </data> 
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve"> 
-    <value>Nylig tilføjet</value> 
+    <value>Nedavno dodano</value> 
   </data> 
   <data name="GIZ_GEN_OR" xml:space="preserve"> 
-    <value>eller</value> 
+    <value>ali</value> 
   </data> 
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve"> 
-    <value>og</value> 
+    <value>in</value> 
   </data> 
   <data name="GIZ_PRODUCT_PRICE_FREE" xml:space="preserve"> 
-    <value>Fri</value> 
+    <value>Brezplačno</value> 
   </data> 
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_OR" xml:space="preserve"> 
-    <value>eller</value> 
+    <value>ali</value> 
   </data> 
   <data name="GIZ_GEN_PHONE" xml:space="preserve"> 
     <value>Telefon</value> 
   </data> 
   <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve"> 
-    <value>Kontaktoplysninger</value> 
+    <value>Kontaktni podatki</value> 
   </data> 
   <data name="GIZ_USER_SECURITY" xml:space="preserve"> 
-    <value>Sikkerhed</value> 
+    <value>Varnost</value> 
   </data> 
   <data name="GIZ_GEN_CLOSE" xml:space="preserve"> 
-    <value>Luk</value> 
+    <value>Zapri</value> 
   </data> 
   <data name="GIZ_USER_LOCATION" xml:space="preserve"> 
-    <value>Beliggenhed</value> 
+    <value>Lokacija</value> 
   </data> 
   <data name="GIZ_USER_PROFILE_PICTURE_AND_USERNAME" xml:space="preserve"> 
-    <value>Profilbillede og brugernavn</value> 
+    <value>Slika profila in uporabniško ime</value> 
   </data> 
   <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve"> 
-    <value>Update password</value> 
+    <value>Posodobi geslo</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve"> 
-    <value>
-Betalt</value> 
+    <value>Plačano</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve"> 
-    <value>Delvist betalt</value> 
+    <value>Delno plačano</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve"> 
-    <value>Ubetalt</value> 
+    <value>Neplačano</value> 
   </data> 
   <data name="GIZ_GEN_ERROR" xml:space="preserve"> 
-    <value>Fejl</value> 
+    <value>Napaka</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Utilstrækkelige point.</value> 
+    <value>Premalo točk.</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_POINTS" xml:space="preserve"> 
-    <value>Points</value> 
+    <value>Točke</value> 
   </data> 
   <data name="GIZ_GEN_CLEAR" xml:space="preserve"> 
-    <value>Ryd</value> 
+    <value>Počisti</value> 
   </data> 
   <data name="GIZ_GEN_NO" xml:space="preserve"> 
-    <value>Nej</value> 
+    <value>Ne</value> 
   </data> 
   <data name="GIZ_GEN_OK" xml:space="preserve"> 
-    <value>OK</value> 
+    <value>V redu</value> 
   </data> 
   <data name="GIZ_GEN_YES" xml:space="preserve"> 
-    <value>Ja</value> 
+    <value>Da</value> 
   </data> 
   <data name="GIZ_SHOP_VERIFY_CLEAR_CART" xml:space="preserve"> 
-    <value>Er du sikker på, at du vil rydde din indkøbskurv?</value> 
+    <value>Ste prepričani, da želite počistiti svojo košarico?</value> 
   </data> 
   <data name="GIZ_APPS_SHOW_MORE" xml:space="preserve"> 
-    <value>Vis mere</value> 
+    <value>Pokaži več</value> 
   </data> 
   <data name="GIZ_GEN_BACK" xml:space="preserve"> 
-    <value>Tilbage</value> 
+    <value>Nazaj</value> 
   </data> 
   <data name="GIZ_GEN_DETAILS" xml:space="preserve"> 
-    <value>Detaljer</value> 
+    <value>Podrobnosti</value> 
   </data> 
   <data name="GIZ_GEN_POPULAR_APPS" xml:space="preserve"> 
-    <value>Populære programmer</value> 
+    <value>Priljubljene aplikacije</value> 
   </data> 
   <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve"> 
-    <value>Populære produkter</value> 
+    <value>Priljubljeni izdelki</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve"> 
-    <value>Købshistorie</value> 
+    <value>Zgodovina nakupov</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve"> 
-    <value>Handlingstid</value> 
+    <value>Akcijski čas</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve"> 
-    <value>efter log ud</value> 
+    <value>po odjavi</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve"> 
-    <value>efter køb</value> 
+    <value>po nakupu</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve"> 
-    <value>efter brug</value> 
+    <value>po uporabi</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve"> 
-    <value>Køber tid</value> 
+    <value>Nakup časa</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve"> 
     <value>d.</value> 
@@ -879,10 +877,10 @@ Betalt</value>
     <value>d.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOUR_ABBREVIATED" xml:space="preserve"> 
-    <value>h.</value> 
+    <value>u.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED" xml:space="preserve"> 
-    <value>h.</value> 
+    <value>u.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve"> 
     <value>m.</value> 
@@ -894,377 +892,377 @@ Betalt</value>
     <value>min</value> 
   </data> 
   <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve"> 
-    <value>stk.</value> 
+    <value>ks.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve"> 
-    <value>Udløber</value> 
+    <value>Poteče</value> 
   </data> 
   <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve"> 
-    <value>{0} kunne ikke starte :(</value> 
+    <value>{0} ni uspelo zagnati :(</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION" xml:space="preserve"> 
-    <value>Beskrivelse:</value> 
+    <value>Opis paketa:</value> 
   </data> 
   <data name="GIZ_SHOP_CARD_PURCHASE_DETAILS" xml:space="preserve"> 
-    <value>Købsoplysninger:</value> 
+    <value>Podrobnosti nakupa:</value> 
   </data> 
   <data name="GIZ_GEN_FROM" xml:space="preserve"> 
-    <value>Fra</value> 
+    <value>Od</value> 
   </data> 
   <data name="GIZ_GEN_UNTIL" xml:space="preserve"> 
-    <value>Indtil</value> 
+    <value>Do</value> 
   </data> 
   <data name="GIZ_GEN_WARNING" xml:space="preserve"> 
-    <value>Advarsel</value> 
+    <value>Pozor</value> 
   </data> 
   <data name="GIZ_PRODUCT_CURRENTLY_NOT_AVAILABLE" xml:space="preserve"> 
-    <value>Ikke tilgængelig i øjeblikket.</value> 
+    <value>Trenutno ni na voljo.</value> 
   </data> 
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE" xml:space="preserve"> 
-    <value>Ikke tilgængelig længere.</value> 
+    <value>Ni več na voljo.</value> 
   </data> 
   <data name="GIZ_PRODUCT_NOT_YET_AVAILABLE" xml:space="preserve"> 
-    <value>Ikke tilgængelig endnu.</value> 
+    <value>Ni še na voljo.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve"> 
-    <value>Ikke tilgængelig på denne vært.</value> 
+    <value>Ni na voljo pri tem gostitelju.</value> 
   </data> 
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve"> 
-    <value>Du kan ikke bruge dette produkt i øjeblikket. Er du sikker på, at du vil købe dette produkt?</value> 
+    <value>Tega izdelka trenutno ne morete uporabljati. Ste prepričani, da želite kupiti ta izdelek?</value> 
   </data> 
   <data name="GIZ_GEN_NEVER" xml:space="preserve"> 
-    <value>Aldrig</value> 
+    <value>Nikoli</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_EARNED_POINTS" xml:space="preserve"> 
-    <value>Optjente point:</value> 
+    <value>Prislužene točke:</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve"> 
-    <value>Ordrekommentarer:</value> 
+    <value>Komentarji naročila:</value> 
   </data> 
   <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve"> 
-    <value>Denne konto har ikke en gyldig e-mail.</value> 
+    <value>Ta račun nima veljavnega e-poštnega naslova.</value> 
   </data> 
   <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve"> 
-    <value>Login er i øjeblikket blokeret.</value> 
+    <value>Prijava je trenutno blokirana.</value> 
   </data> 
   <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve"> 
-    <value>Login er i øjeblikket ophævet.</value> 
+    <value>Prijava je trenutno odblokirana.</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve"> 
-    <value>Kontant</value> 
+    <value>Gotovina</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_CREDIT_CARD" xml:space="preserve"> 
-    <value>Kreditkort</value> 
+    <value>Kreditna kartica</value> 
   </data> 
   <data name="GIZ_GEN_PAYMENT_METHOD_DEPOSIT" xml:space="preserve"> 
-    <value>Depositum</value> 
+    <value>Polog</value> 
   </data> 
   <data name="GIZ_GEN_SUCCESS" xml:space="preserve"> 
-    <value>Succes</value> 
+    <value>Uspeh</value> 
   </data> 
   <data name="GIZ_PRODUCT_DETAILS_LESS" xml:space="preserve"> 
-    <value>Mindre</value> 
+    <value>Manj</value> 
   </data> 
   <data name="GIZ_PRODUCT_DETAILS_MORE" xml:space="preserve"> 
-    <value>Mere</value> 
+    <value>Več</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED" xml:space="preserve"> 
-    <value>Bekræftelseskodefeltet er påkrævet.</value> 
+    <value>Polje s potrditveno kodo je obvezno.</value> 
   </data> 
   <data name="GIZ_USER_AGREEMENT_DIALOG_TITLE" xml:space="preserve"> 
-    <value>Privatlivspolitik og vilkår for brug</value> 
+    <value>Politika zasebnosti in pogoji uporabe</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_INCORRECT_PIN" xml:space="preserve"> 
-    <value>Forkert pinkode</value> 
+    <value>Napačen PIN</value> 
   </data> 
   <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve"> 
-    <value>Adgangskoden skal have 4 cifre!</value> 
+    <value>Geslo mora imeti 4 številke!</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve"> 
-    <value>Indtast mindst {0} tegn.</value> 
+    <value>Vnesite najmanj {0} znakov.</value> 
   </data> 
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE" xml:space="preserve"> 
-    <value>Ikke nok tegn</value> 
+    <value>Ni dovolj znakov</value> 
   </data> 
   <data name="GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED" xml:space="preserve"> 
-    <value>Gammel adgangskode er påkrævet.</value> 
+    <value>Potrebno je staro geslo.</value> 
   </data> 
   <data name="GIZ_APPS_CANCEL" xml:space="preserve"> 
-    <value>Afbryd</value> 
+    <value>Prekliči</value> 
   </data> 
   <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Er du sikker på, at du vil logge ud?</value> 
+    <value>Ste prepričani, da se želite odjaviti?</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Bestilling er i øjeblikket ikke tilladt</value> 
+    <value>Naročanje trenutno ni dovoljeno</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve"> 
-    <value>Din brugergruppe kan ikke købe dette produkt</value> 
+    <value>Vaša uporabniška skupina ne more kupiti tega izdelka</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Noget gik galt</value> 
+    <value>Nekaj je šlo narobe</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Kun medlemmer kan købe dette produkt</value> 
+    <value>Samo člani lahko kupijo ta izdelek</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve"> 
-    <value>Ugyldigt produkt-id</value> 
+    <value>Neveljaven ID izdelka</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve"> 
-    <value>Ugyldigt bruger-id</value> 
+    <value>Neveljaven ID uporabnika</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve"> 
-    <value>Produktet er udsolgt</value> 
+    <value>Izdelka ni na zalogi</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Produktkøb er ikke tilladt på nuværende tidspunkt</value> 
+    <value>Nakup izdelka trenutno ni dovoljen</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Produktsalg er i øjeblikket ikke tilladt</value> 
+    <value>Prodaja izdelkov trenutno ni dovoljena</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve"> 
-    <value>Succes</value> 
+    <value>Uspešno</value> 
   </data> 
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>Du er ikke gammel nok!</value> 
+    <value>Niste dovolj stari!</value> 
   </data> 
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve"> 
-    <value>Aldersvurdering</value> 
+    <value>Starostna ocena</value> 
   </data> 
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>Du kører allerede en applikation. Tryk på accept for at afslutte enhver kørende applikation og fortsætte.</value> 
+    <value>Aplikacija je že zagnana. Kliknite Sprejmi, da zaključite katero koli delujočo aplikacijo in nadaljujete.</value> 
   </data> 
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve"> 
-    <value>Maksimalt antal applikationer</value> 
+    <value>Največje število aplikacij</value> 
   </data> 
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Er du sikker på, at du vil afbryde dette program/spil?</value> 
+    <value>Ali ste prepričani, da želite prekiniti to izvršno datoteko?</value> 
   </data> 
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificere</value> 
+    <value>Preveri</value> 
   </data> 
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Er du sikker på, at du vil reparere denne eksekverbare?</value> 
+    <value>Ali ste prepričani, da želite popraviti to izvršno datoteko?</value> 
   </data> 
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificere</value> 
+    <value>Preveri</value> 
   </data> 
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Er du sikker på, at du vil afslutte dette program/spil?</value> 
+    <value>Ali ste prepričani, da želite prekiniti to izvršno datoteko?</value> 
   </data> 
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificere</value> 
+    <value>Preveri</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Der opstod en fejl. Ændring af adgangskode mislykkedes!</value> 
+    <value>Prišlo je do napake. Sprememba gesla ni uspela!</value> 
   </data> 
   <data name="GIZ_LOGOUT_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificere</value> 
+    <value>Preveri</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve"> 
-    <value>Du har ikke nok indskud til at foretage denne ordre.</value> 
+    <value>Nimate dovolj depozitov za to naročilo.</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve"> 
-    <value>Fejl</value> 
+    <value>Napaka</value> 
   </data> 
   <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve"> 
-    <value>Fejl</value> 
+    <value>Napaka</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Forkert kodeord</value> 
+    <value>Napačno geslo</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_ACCOUNT_DISABLED" xml:space="preserve"> 
-    <value>Din konto er deaktiveret</value> 
+    <value>Vaš račun je onemogočen</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_ALREADY_LOGGED_IN" xml:space="preserve"> 
-    <value>Allerede logget ind</value> 
+    <value>Ste že prijavljeni</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_DENIED" xml:space="preserve"> 
-    <value>Afvist</value> 
+    <value>Zavrnjeno</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve"> 
-    <value>Generel fejl</value> 
+    <value>Splošna napaka</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve"> 
-    <value>Utilstrækkelig balance</value> 
+    <value>Nezadostno stanje</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_CREDENTIALS" xml:space="preserve"> 
-    <value>Ugyldige legitimations oplysninger</value> 
+    <value>Neveljavne poverilnice</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_PARAMETERS" xml:space="preserve"> 
-    <value>Ugyldige parametre</value> 
+    <value>Neveljavni parametri</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve"> 
-    <value>Forkert kodeord</value> 
+    <value>Neveljavno geslo</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve"> 
-    <value>Ugyldigt brugernavn</value> 
+    <value>Neveljavno uporabniško ime</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_MAX_SESSIONS_REACHED" xml:space="preserve"> 
-    <value>Det maksimale antal sessioner er nået</value> 
+    <value>Doseženo največje število sej</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve"> 
-    <value>Ikke i ventekø</value> 
+    <value>Ni v čakalni vrsti</value> 
   </data> 
   <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve"> 
-    <value>Succes</value> 
+    <value>Uspeh</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve"> 
-    <value>bedømme</value> 
+    <value>Ocena</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve"> 
-    <value>Fast tid</value> 
+    <value>Določen čas</value> 
   </data> 
   <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve"> 
-    <value>Tidsprodukt</value> 
+    <value>Časovni izdelek</value> 
   </data> 
   <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve"> 
-    <value>Indtast venligst din e-mail for at oprette en konto.</value> 
+    <value>Vnesite svoj e-poštni naslov, da ustvarite račun.</value> 
   </data> 
   <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve"> 
-    <value>Log ud</value> 
+    <value>Odjava</value> 
   </data> 
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve"> 
-    <value>Din tid er udløbet.&lt;br&gt;Fyld på i receptionen eller&lt;br&gt;klik på "log ud" for at afslutte din session.</value> 
+    <value>Vaš čas je potekel.&lt;br&gt;Ponovno ga napolnite na recepciji ali &lt;br&gt;kliknite »odjava«, da končate sejo.</value> 
   </data> 
   <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve"> 
-    <value>Virker ikke</value> 
+    <value>Ne deluje</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_MAX_LENGTH" xml:space="preserve"> 
-    <value>Maksimalt {0} tegn</value> 
+    <value>Največ {0} znakov</value> 
   </data> 
   <data name="GIZ_PASSWORD_RULE_MIN_LENGTH" xml:space="preserve"> 
-    <value>Minimum {0} tegn</value> 
+    <value>Najmanj {0} znakov</value> 
   </data> 
   <data name="GIZ_PASSWORD_MESSAGE_TOO_LONG" xml:space="preserve"> 
-    <value>Adgangskoden er for lang</value> 
+    <value>Geslo je predolgo</value> 
   </data> 
   <data name="GIZ_PERSONAL_STORAGE_LABEL" xml:space="preserve"> 
-    <value>Personlig opbevaring</value> 
+    <value>Osebna shramba</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED" xml:space="preserve"> 
-    <value>Din ordre er blevet accepteret og venter på at blive leveret</value> 
+    <value>Vaše naročilo je bilo sprejeto in čaka na dostavo</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED_HEADER" xml:space="preserve"> 
-    <value>Din ordre er blevet accepteret</value> 
+    <value>Vaše naročilo je bilo sprejeto</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_CANCELED" xml:space="preserve"> 
-    <value>Din ordre er blevet annulleret, kontakt venligst en af ​​vores medarbejdere for mere info</value> 
+    <value>Vaše naročilo je bilo preklicano, za več informacij kontaktirajte enega od naših zaposlenih</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_CANCELED_HEADER" xml:space="preserve"> 
-    <value>Din ordre er blevet annulleret</value> 
+    <value>Vaše naročilo je bilo preklicano</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve"> 
-    <value>Din ordre er blevet gennemført</value> 
+    <value>Vaše naročilo je zaključeno</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve"> 
-    <value>Ordren gennemført</value> 
+    <value>Naročilo zaključeno</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve"> 
-    <value>Din ordre er i venteposition, du vil blive underrettet, når ordren er accepteret</value> 
+    <value>Vaše naročilo je na čakanju. Ko bo naročilo sprejeto, boste obveščeni</value> 
   </data> 
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD_HEADER" xml:space="preserve"> 
-    <value>Bestilling i venteposition</value> 
+    <value>Naročilo na čakanju</value> 
   </data> 
   <data name="GIZ_TIME_NOTIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Du har {0} minutter tilbage.
-Genoplad venligst din konto nu.</value> 
+    <value>Imate še {0} minut.
+Prosimo, napolnite svoj račun zdaj.</value> 
   </data> 
   <data name="GIZ_TIME_NOTIFICATION_TITLE" xml:space="preserve"> 
-    <value>Tiden løber ud</value> 
+    <value>Čas se izteka</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_EMAIL_INVALID" xml:space="preserve"> 
-    <value>E-mailen er ugyldig</value> 
+    <value>E-pošta je neveljavna</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID" xml:space="preserve"> 
-    <value>Mobiltelefonen er ugyldig</value> 
+    <value>Mobilni telefon ni veljaven</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER" xml:space="preserve"> 
-    <value>Bestille</value> 
+    <value>Naročilo</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_DATE" xml:space="preserve"> 
-    <value>Dato</value> 
+    <value>Datum</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_PRICE" xml:space="preserve"> 
-    <value>Ordrepris</value> 
+    <value>Cena naročila</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS" xml:space="preserve"> 
-    <value>Ordre status</value> 
+    <value>Status naročila</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_PAYMENT_METHOD" xml:space="preserve"> 
-    <value>Betalingsmetode</value> 
+    <value>Način plačila</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_PAYMENT_STATUS" xml:space="preserve"> 
-    <value>Payment status</value> 
+    <value>Stanje plačila</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS" xml:space="preserve"> 
-    <value>Login forsøg</value> 
+    <value>Poskusi prijave</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_PASSWORD" xml:space="preserve"> 
-    <value>Manager adgangskode</value> 
+    <value>Geslo upravitelja</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_ACCEPT" xml:space="preserve"> 
-    <value>Acceptere</value> 
+    <value>Sprejmi</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL" xml:space="preserve"> 
-    <value>Skift vindue</value> 
+    <value>Preklopi lupino</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE" xml:space="preserve"> 
-    <value>Skift til standard system vindue uden at afslutte klientapplikationen.</value> 
+    <value>Preklopite na privzeto sistemsko lupino brez prekinitve odjemalske aplikacije.</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_DEACTIVATE" xml:space="preserve"> 
-    <value>Deaktiver</value> 
+    <value>Deaktiviraj</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE" xml:space="preserve"> 
-    <value>Deaktiver klientmodul</value> 
+    <value>Deaktivirajte odjemalski modul</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL" xml:space="preserve"> 
-    <value>Afinstaller klient</value> 
+    <value>Odstrani odjemalca</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE" xml:space="preserve"> 
-    <value>Fjern klienten fra systemet og rengør enhver konfiguration.</value> 
+    <value>Odstranite odjemalca iz sistema in počistite vse konfiguracije.</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve"> 
-    <value>Afbryd</value> 
+    <value>Prekliči</value> 
   </data> 
   <data name="GIZ_SMA_STARTING_UI" xml:space="preserve"> 
-    <value>Start af brugergrænseflade</value> 
+    <value>Zagon uporabniškega vmesnika</value> 
   </data> 
   <data name="GIZ_SMA_INITIATING_CONNECTION" xml:space="preserve"> 
-    <value>Starter serverforbindelse</value> 
+    <value>Zagon povezave s strežnikom</value> 
   </data> 
   <data name="GIZ_SMA_CHECKING_DRIVER" xml:space="preserve"> 
-    <value>Kontrol af systemdrivere</value> 
+    <value>Preverjanje sistemskih gonilnikov</value> 
   </data> 
   <data name="GIZ_SMA_PROCESSING_TASKS" xml:space="preserve"> 
-    <value>Behandling af opgaver</value> 
+    <value>Obdelava nalog</value> 
   </data> 
   <data name="GIZ_SMA_INITIALIZING_PLUGINS" xml:space="preserve"> 
-    <value>Initialisering af plugins</value> 
+    <value>Inicializacija vtičnikov</value> 
   </data> 
   <data name="GIZ_SMA_RESOLVING_SERVER_IP" xml:space="preserve"> 
-    <value>Finder server ip</value> 
+    <value>Razreševanje IP-ja gostitelja strežnika</value> 
   </data> 
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve"> 
-    <value>Behandling af drevkortlægninger</value> 
+    <value>Obdelava preslikav pogonov</value> 
   </data> 
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
-    <value>Jeg har læst og accepterer servicevilkårene.</value> 
+    <value>Prebral sem in se strinjam s pogoji storitve.</value> 
   </data> 
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
-    <value>Feltet skal udfyldes</value> 
+    <value>Polje je obvezno.</value> 
   </data> 
   <data name="GIZ_GEN_VE_MAX_LENGTH" xml:space="preserve"> 
-    <value>Feltet må ikke være længere end {1} tegn.</value> 
+    <value>Polje ne sme biti daljše od {1} znaka.</value> 
   </data> 
   <data name="GIZ_COUNTRY_OTHER" xml:space="preserve"> 
-    <value>Andet</value> 
+    <value>Drugo</value> 
   </data> 
   <data name="GIZ_GEN_VE_INVALID_FIELD" xml:space="preserve"> 
-    <value>Feltet er ugyldigt.</value> 
+    <value>Polje je neveljavno.</value> 
   </data> 
   <data name="GIZ_USER_PROFILE_USERNAME_TIP" xml:space="preserve"> 
-    <value>Andre brugere vil se dit brugernavn</value> 
+    <value>Vaše uporabniško ime bo vidno drugim uporabnikom</value> 
   </data> 
   <data name="GIZ_GEN_LICENSE_RESERVATION_FAILED" xml:space="preserve"> 
     <value>License reservation failed for {0}.</value> 

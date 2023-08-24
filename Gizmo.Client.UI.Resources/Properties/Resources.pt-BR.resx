@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: pt-BR, Brazilian Portuguese
   Exported by: Oleg Savelos
-  Exported at: Fri, 21 Jul 2023 11:56:12 +0300 
+  Exported at: Thu, 24 Aug 2023 15:01:42 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -802,7 +802,7 @@
     <value>Foto do perfil e nome de usuário</value> 
   </data> 
   <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve"> 
-    <value>Atualizar senha</value> 
+    <value>Alterar senha</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve"> 
     <value>Pago</value> 
@@ -1205,7 +1205,7 @@ Por favor, recarregue sua conta agora.</value>
     <value>Aceitar</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL" xml:space="preserve"> 
-    <value>Alterar interface</value> 
+    <value>Modo Manutenção</value> 
   </data> 
   <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE" xml:space="preserve"> 
     <value>Alernar para a interface do sistema padrão sem encerrar o módulo cliente.</value> 
@@ -1263,5 +1263,17 @@ Por favor, recarregue sua conta agora.</value>
   </data> 
   <data name="GIZ_USER_PROFILE_USERNAME_TIP" xml:space="preserve"> 
     <value>Outros usuários vão ver seu nome de usuário</value> 
+  </data> 
+  <data name="GIZ_GEN_LICENSE_RESERVATION_FAILED" xml:space="preserve"> 
+    <value>Falha na reserva da licença para {0}. </value> 
+  </data> 
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE" xml:space="preserve"> 
+    <value>Não disponível. </value> 
+  </data> 
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve"> 
+    <value>Não disponível neste computador.</value> 
+  </data> 
+  <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve"> 
+    <value>Não é permitido espaços em branco</value> 
   </data> 
 </root>
