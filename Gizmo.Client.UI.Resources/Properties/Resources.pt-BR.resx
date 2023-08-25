@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: pt-BR, Brazilian Portuguese
   Exported by: Oleg Savelos
-  Exported at: Thu, 24 Aug 2023 15:01:42 +0300 
+  Exported at: Fri, 25 Aug 2023 15:06:13 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1039,25 +1039,25 @@
     <value>Tem certeza de que deseja cancelar a abertura desse aplicativo?</value> 
   </data> 
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificar</value> 
+    <value>Confirme</value> 
   </data> 
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve"> 
     <value>Tem certeza de que deseja reparar este aplicativo?</value> 
   </data> 
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificar</value> 
+    <value>Confirme</value> 
   </data> 
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve"> 
     <value>Tem certeza de que deseja encerrar este aplicativo?</value> 
   </data> 
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificar</value> 
+    <value>Confirme</value> 
   </data> 
   <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
     <value>Ocorreu um erro. A alteração da senha falhou!</value> 
   </data> 
   <data name="GIZ_LOGOUT_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Verificar</value> 
+    <value>Confirme</value> 
   </data> 
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve"> 
     <value>Você não tem depósitos suficientes para fazer este pedido.</value> 
