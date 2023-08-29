@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: ru-RU, Russian (Russia)
   Exported by: Oleg Savelos
-  Exported at: Fri, 25 Aug 2023 15:06:15 +0300 
+  Exported at: Tue, 29 Aug 2023 09:04:13 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1265,15 +1265,15 @@
     <value>Другие пользователи увидят ваше имя пользователя</value> 
   </data> 
   <data name="GIZ_GEN_LICENSE_RESERVATION_FAILED" xml:space="preserve"> 
-    <value>License reservation failed for {0}.</value> 
+    <value>Резервирование лицензии для {0} не удалось.</value> 
   </data> 
   <data name="GIZ_PRODUCT_NOT_AVAILABLE" xml:space="preserve"> 
-    <value>Not available.</value> 
+    <value>Не доступно.</value> 
   </data> 
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve"> 
-    <value>Not available on this host.</value> 
+    <value>Недоступно на данном хосте (ПК).</value> 
   </data> 
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve"> 
-    <value>Whitespaces not allowed</value> 
+    <value>Пробелы не допускаются</value> 
   </data> 
 </root>
