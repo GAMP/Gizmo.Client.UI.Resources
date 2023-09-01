@@ -1654,6 +1654,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to See all available time.
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_SEE_ALL_AVAILABLE_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_SEE_ALL_AVAILABLE_TIME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Game Time Sources.
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your order has been accepted and waiting for delivery.
         /// </summary>
         public static string GIZ_MESSAGE_ORDER_ACCEPTED {
@@ -2626,6 +2644,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Whitespaces not allowed.
+        /// </summary>
+        public static string GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add to cart.
         /// </summary>
         public static string GIZ_SHOP_ADD_TO_CART {
@@ -3446,6 +3473,42 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Store credit available.
+        /// </summary>
+        public static string GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit for playing time is available.
+        /// </summary>
+        public static string GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unlimited credit.
+        /// </summary>
+        public static string GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit.
+        /// </summary>
+        public static string GIZ_USER_PROFILE_HEADER_CREDIT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_PROFILE_HEADER_CREDIT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Profile picture and username.
         /// </summary>
         public static string GIZ_USER_PROFILE_PICTURE_AND_USERNAME {
@@ -3631,6 +3694,132 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_SETTINGS_TITLE {
             get {
                 return ResourceManager.GetString("GIZ_USER_SETTINGS_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Available.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_AVAILABLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_AVAILABLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to until {0}.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_CREDIT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_CREDIT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deposits.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_DEPOSIT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_DEPOSIT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fixed Time.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_FIXED_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_FIXED_TIME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hosts.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_HOSTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_HOSTS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} h {1} min.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} Minutes.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Purchase date.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rate {0}/hour.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_RATE_PER_HOUR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_RATE_PER_HOUR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hosts.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_SOURCE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_SOURCE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_TIME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Time product.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Available time.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_TITLE", resourceCulture);
             }
         }
         
