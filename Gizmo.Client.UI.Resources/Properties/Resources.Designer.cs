@@ -1654,6 +1654,33 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Don&apos;t forget to close your bill at the end of the session.
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Credit is available on the account.
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_CREDIT {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_CREDIT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Go to the Shop.
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_GO_TO_SHOP {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_GO_TO_SHOP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to See all available time.
         /// </summary>
         public static string GIZ_MENU_BALANCE_TOOLTIP_SEE_ALL_AVAILABLE_TIME {
@@ -1663,11 +1690,38 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to When the current time expires, the session will be ended.
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_EXPIRE_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_EXPIRE_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The session will not end while you have the unlimited time credit option enabled.
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Game Time Sources.
         /// </summary>
         public static string GIZ_MENU_BALANCE_TOOLTIP_TITLE {
             get {
                 return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Top up balance.
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_TOP_UP {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_TOP_UP", resourceCulture);
             }
         }
         
