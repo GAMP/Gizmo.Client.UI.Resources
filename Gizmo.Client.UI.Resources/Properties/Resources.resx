@@ -1405,4 +1405,7 @@ Please recharge your account now.</value>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TOP_UP" xml:space="preserve">
     <value>Top up balance</value>
   </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES" xml:space="preserve">
+    <value>Properties</value>
+  </data>
 </root>

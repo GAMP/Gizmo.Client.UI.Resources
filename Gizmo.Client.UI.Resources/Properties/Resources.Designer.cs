@@ -3824,6 +3824,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Properties.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_PROPERTIES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Purchase date.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE {
