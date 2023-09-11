@@ -1376,7 +1376,7 @@ Please recharge your account now.</value>
     <value>Rate {0}/hour</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve">
-    <value>Hosts</value>
+    <value>Source</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TIME" xml:space="preserve">
     <value>Time</value>
@@ -1407,5 +1407,20 @@ Please recharge your account now.</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES" xml:space="preserve">
     <value>Properties</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_DATE_TIME_DESCRIPTION" xml:space="preserve">
+    <value>Expires after a certain date and/or time.</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_FIRST_USE_DESCRIPTION" xml:space="preserve">
+    <value>Expires specific time after the first use the package.</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_LOGOUT_DESCRIPTION" xml:space="preserve">
+    <value>Expires after logout.</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION" xml:space="preserve">
+    <value>Expires specific time after purchase of the package.</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_EXPIRATION_COUNTDOWN_STARTED_DESCRIPTION" xml:space="preserve">
+    <value>The package is active.</value>
   </data>
 </root>
