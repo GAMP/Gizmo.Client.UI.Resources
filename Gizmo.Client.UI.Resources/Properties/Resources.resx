@@ -1423,4 +1423,16 @@ Please recharge your account now.</value>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_EXPIRATION_COUNTDOWN_STARTED_DESCRIPTION" xml:space="preserve">
     <value>The package is active.</value>
   </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve">
+    <value>from purchase</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE" xml:space="preserve">
+    <value>from use</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT" xml:space="preserve">
+    <value>logout</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve">
+    <value>Expires after</value>
+  </data>
 </root>

@@ -3879,6 +3879,42 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to from purchase.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to from use.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to logout.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Expires after.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Purchase date.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE {
