@@ -3833,6 +3833,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Activated {0}.
+        /// </summary>
+        public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Expires after a certain date and/or time..
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_DATE_TIME_DESCRIPTION {
@@ -3879,7 +3888,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} from purchase.
+        ///   Looks up a localized string similar to {0} after purchase.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE {
             get {
@@ -3888,7 +3897,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} from use.
+        ///   Looks up a localized string similar to {0} after use.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE {
             get {
@@ -3906,7 +3915,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Expires after.
+        ///   Looks up a localized string similar to Expires.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER {
             get {
