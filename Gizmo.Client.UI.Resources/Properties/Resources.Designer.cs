@@ -3879,7 +3879,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to from purchase.
+        ///   Looks up a localized string similar to {0} from purchase.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE {
             get {
@@ -3888,7 +3888,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to from use.
+        ///   Looks up a localized string similar to {0} from use.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE {
             get {
