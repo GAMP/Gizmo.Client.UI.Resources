@@ -1456,4 +1456,34 @@ Please recharge your account now.</value>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP" xml:space="preserve">
     <value>To continue playing top up your balance.</value>
   </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve">
+    <value>Failed to process assistance request.</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve">
+    <value>What can we help you with?</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve">
+    <value>What can we help you with?</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve">
+    <value>Select the reason for contact</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER" xml:space="preserve">
+    <value>Select something</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve">
+    <value>Decline request</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve">
+    <value>Wait until the operator accepts your request for work, the answer will be sent in the notification section</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_TITLE" xml:space="preserve">
+    <value>The request has been sent</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve">
+    <value>Select the reason for contact</value>
+  </data>
 </root>
