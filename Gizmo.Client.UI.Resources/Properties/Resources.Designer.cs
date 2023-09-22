@@ -1717,6 +1717,60 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to To continue playing buy a time pack..
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To continue playing buy a time pack or/and top up your balance..
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To continue playing, close your credit bill and buy a time pack..
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To continue playing, close your credit bill and buy a time pack or/and top up your balance..
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To continue playing, close your credit bill and top up your balance..
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To continue playing top up your balance..
+        /// </summary>
+        public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP {
+            get {
+                return ResourceManager.GetString("GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Top up balance.
         /// </summary>
         public static string GIZ_MENU_BALANCE_TOOLTIP_TOP_UP {

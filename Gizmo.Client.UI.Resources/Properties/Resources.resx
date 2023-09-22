@@ -1438,4 +1438,22 @@ Please recharge your account now.</value>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve">
     <value>Activated {0}</value>
   </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve">
+    <value>To continue playing buy a time pack.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve">
+    <value>To continue playing buy a time pack or/and top up your balance.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve">
+    <value>To continue playing, close your credit bill and buy a time pack.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve">
+    <value>To continue playing, close your credit bill and buy a time pack or/and top up your balance.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve">
+    <value>To continue playing, close your credit bill and top up your balance.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP" xml:space="preserve">
+    <value>To continue playing top up your balance.</value>
+  </data>
 </root>
