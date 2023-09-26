@@ -421,6 +421,96 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Failed to process assistance request..
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to What can we help you with?.
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_NOTE_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_NOTE_LABEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to What can we help you with?.
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the reason for contact.
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select something.
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send.
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_SEND {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_SEND", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Decline request.
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_SENT_CANCEL {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_SENT_CANCEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wait until the operator accepts your request for work, the answer will be sent in the notification section.
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The request has been sent.
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_SENT_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_SENT_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select the reason for contact.
+        /// </summary>
+        public static string GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED {
+            get {
+                return ResourceManager.GetString("GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Confirm new password.
         /// </summary>
         public static string GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD {
