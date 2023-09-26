@@ -5,8 +5,8 @@
   Project: Gizmo Client UI
   Release: Working copy
   Locale: el-GR, Greek (Greece)
-  Exported by: Oleg Savelos
-  Exported at: Tue, 29 Aug 2023 09:04:12 +0300 
+  Exported by: Dimitrios Klapsis
+  Exported at: Tue, 26 Sep 2023 13:26:31 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1275,5 +1275,170 @@
   </data> 
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve"> 
     <value>Κενά μη επιτρεπτά</value> 
+  </data> 
+  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve"> 
+    <value>Προέκυψε ένα σφάλμα.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve"> 
+    <value>Επιλέξτε τον λόγο επικοινωνίας</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER" xml:space="preserve"> 
+    <value>Επιλέξτε κάτι</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve"> 
+    <value>Επιλέξτε τον λόγο επικοινωνίας</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve"> 
+    <value>Πως μπορούμε να σας βοηθήσουμε;</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve"> 
+    <value>Πως μπορούμε να σας βοηθήσουμε;</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve"> 
+    <value>Αποστολή</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_TITLE" xml:space="preserve"> 
+    <value>Το αίτημα έχει αποσταλεί.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve"> 
+    <value /> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve"> 
+    <value>Απόρριψη αιτήματος</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve"> 
+    <value>Η επεξεργασία του αιτήματος βοήθειας απέτυχε.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP" xml:space="preserve"> 
+    <value>Για να συνεχίσετε να παίζεται κάντε κατάθεση.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve"> 
+    <value>Για να συνεχίσετε να παίζεται, εξοφλήστε και κάντε κατάθεση.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve"> 
+    <value>Για να συνεχίσετε να παίζεται αγοράστε ένα προϊόν χρόνου.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve"> 
+    <value>Για να συνεχίσετε να παίζεται, εξοφλήστε και αγοράστε ένα προϊόν χρόνου.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
+    <value>Για να συνεχίσετε να παίζεται αγοράστε ένα προϊόν χρόνου ή κάντε κατάθεση.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
+    <value>Για να συνεχίσετε να παίζεται, εξοφλήστε και αγοράστε ένα προϊόν χρόνου ή κάντε κατάθεση.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve"> 
+    <value>Ενεργοποιήθηκε {0}</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve"> 
+    <value>Λήγει μετά από</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve"> 
+    <value>{0} από την αγορά</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE" xml:space="preserve"> 
+    <value>{0} από την χρήση</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT" xml:space="preserve"> 
+    <value>έξοδο</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_EXPIRATION_COUNTDOWN_STARTED_DESCRIPTION" xml:space="preserve"> 
+    <value>Η προσφορά είναι ενεργή.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_LOGOUT_DESCRIPTION" xml:space="preserve"> 
+    <value>Λήγει μετά από την έξοδο.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_DATE_TIME_DESCRIPTION" xml:space="preserve"> 
+    <value /> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION" xml:space="preserve"> 
+    <value>Λήγει συγκεκριμένο χρόνο μετά από την αγορά της προσφοράς.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_FIRST_USE_DESCRIPTION" xml:space="preserve"> 
+    <value>Λήγει συγκεκριμένο χρόνο μετά από την πρώτη χρήση της προσφοράς.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES" xml:space="preserve"> 
+    <value>Ιδιότητες</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE" xml:space="preserve"> 
+    <value>Μην ξεχάσετε να εξοφλήσετε στο τέλος της συνεδρίας.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE" xml:space="preserve"> 
+    <value>Η συνεδρία δεν θα τερματιστεί καθώς έχετε ενεργή την απεριόριστη πίστωση.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_EXPIRE_MESSAGE" xml:space="preserve"> 
+    <value>Όταν λήξη ο χρόνος, η συνεδρία θα τερματιστεί.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TOP_UP" xml:space="preserve"> 
+    <value>Κατάθεση</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_GO_TO_SHOP" xml:space="preserve"> 
+    <value>Πήγαινε στο Κατάστημα</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_CREDIT" xml:space="preserve"> 
+    <value>Η πίστωση είναι διαθέσιμη στον λογαριασμό</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION" xml:space="preserve"> 
+    <value>Απεριόριστη πίστωση</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION" xml:space="preserve"> 
+    <value>Διαθέσιμη πίστωση για πωλήσεις</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve"> 
+    <value>Διαθέσιμη πίστωση για χρόνο</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve"> 
+    <value>Πίστωση</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SEE_ALL_AVAILABLE_TIME" xml:space="preserve"> 
+    <value>Προβολή όλου του διαθέσιμου χρόνου</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TITLE" xml:space="preserve"> 
+    <value>Πηγές Χρόνου</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_RATE_PER_HOUR" xml:space="preserve"> 
+    <value>Προφίλ χρέωσης {0}/ώρα</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES" xml:space="preserve"> 
+    <value>{0} ω {1} λεπτά</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_FIXED_TIME" xml:space="preserve"> 
+    <value>Προπληρωμένος χρόνος</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_DEPOSIT" xml:space="preserve"> 
+    <value>Καταθέσεις</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_CREDIT" xml:space="preserve"> 
+    <value>Πίστωση</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve"> 
+    <value>{0} Λεπτά</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve"> 
+    <value>Πηγή</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve"> 
+    <value>Τερματικά</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve"> 
+    <value>μέχρι {0}</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve"> 
+    <value>Διαθέσιμο</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve"> 
+    <value>Ημερομηνία αγοράς</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TIME" xml:space="preserve"> 
+    <value>Χρόνος</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT" xml:space="preserve"> 
+    <value>Προϊόν χρόνου</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve"> 
+    <value>Διαθέσιμος χρόνος</value> 
+  </data> 
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve"> 
+    <value>Ακυρώθηκε</value> 
   </data> 
 </root>
