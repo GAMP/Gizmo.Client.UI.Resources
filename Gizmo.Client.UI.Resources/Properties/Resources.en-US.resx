@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: en-US, English
   Exported by: Dimitrios Klapsis
-  Exported at: Tue, 26 Sep 2023 13:27:30 +0300 
+  Exported at: Tue, 26 Sep 2023 14:25:53 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1301,7 +1301,7 @@ Please recharge your account now.</value>
     <value>The request has been sent.</value> 
   </data> 
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve"> 
-    <value>Wait until the operator accepts your request for work, the answer will be sent in the notification section</value> 
+    <value>Please wait until the operator accepts your request.</value> 
   </data> 
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve"> 
     <value>Decline request</value> 
@@ -1347,9 +1347,6 @@ Please recharge your account now.</value>
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_LOGOUT_DESCRIPTION" xml:space="preserve"> 
     <value>Expires after logout.</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_DATE_TIME_DESCRIPTION" xml:space="preserve"> 
-    <value>Expires after a certain date and/or time.</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION" xml:space="preserve"> 
     <value>Expires specific time after purchase of the package.</value> 

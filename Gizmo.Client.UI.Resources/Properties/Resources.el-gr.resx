@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: el-GR, Greek (Greece)
   Exported by: Dimitrios Klapsis
-  Exported at: Tue, 26 Sep 2023 13:26:31 +0300 
+  Exported at: Tue, 26 Sep 2023 14:26:55 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1301,7 +1301,7 @@
     <value>Το αίτημα έχει αποσταλεί.</value> 
   </data> 
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve"> 
-    <value /> 
+    <value>Παρακαλώ περιμένετε μέχρι ο χειριστής να αποδεχτεί το αίτημα σας.</value> 
   </data> 
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve"> 
     <value>Απόρριψη αιτήματος</value> 
@@ -1347,9 +1347,6 @@
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_LOGOUT_DESCRIPTION" xml:space="preserve"> 
     <value>Λήγει μετά από την έξοδο.</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_DATE_TIME_DESCRIPTION" xml:space="preserve"> 
-    <value /> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION" xml:space="preserve"> 
     <value>Λήγει συγκεκριμένο χρόνο μετά από την αγορά της προσφοράς.</value> 
