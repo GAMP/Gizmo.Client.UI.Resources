@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: en-US, English
   Exported by: Dimitrios Klapsis
-  Exported at: Wed, 27 Sep 2023 14:44:34 +0300 
+  Exported at: Wed, 27 Sep 2023 12:29:02 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
