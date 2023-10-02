@@ -5,8 +5,8 @@
   Project: Gizmo Client UI
   Release: Working copy
   Locale: en-US, English
-  Exported by: Dimitrios Klapsis
-  Exported at: Wed, 27 Sep 2023 12:29:02 +0300 
+  Exported by: Oleg Savelos
+  Exported at: Mon, 02 Oct 2023 14:47:39 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1352,7 +1352,7 @@ Please recharge your account now.</value>
     <value>Expires specific time after purchase of the package.</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_FIRST_USE_DESCRIPTION" xml:space="preserve"> 
-    <value>Expires specific time after the first use the package.</value> 
+    <value>Expires specific time after the first use of the package.</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES" xml:space="preserve"> 
     <value>Properties</value> 

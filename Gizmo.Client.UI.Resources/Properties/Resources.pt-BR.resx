@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: pt-BR, Brazilian Portuguese
   Exported by: Oleg Savelos
-  Exported at: Tue, 29 Aug 2023 09:04:11 +0300 
+  Exported at: Mon, 02 Oct 2023 14:47:40 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1275,5 +1275,179 @@ Por favor, recarregue sua conta agora.</value>
   </data> 
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve"> 
     <value>Não é permitido espaços em branco</value> 
+  </data> 
+  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve"> 
+    <value>Ocorreu um erro.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve"> 
+    <value>Selecione o motivo do contato</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER" xml:space="preserve"> 
+    <value>Selecione algo</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve"> 
+    <value>Selecione o motivo do contato</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve"> 
+    <value>Em que podemos ajudá-lo?</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve"> 
+    <value>Em que podemos ajudá-lo?</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve"> 
+    <value>Enviar</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_TITLE" xml:space="preserve"> 
+    <value>A solicitação foi enviada.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve"> 
+    <value>Aguarde até que um atendente aceite sua solicitação.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve"> 
+    <value>Recusar solicitação</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve"> 
+    <value>Falha ao processar solicitação de suporte.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP" xml:space="preserve"> 
+    <value>Para continuar acessando, recarregue seu saldo.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve"> 
+    <value>Para continuar jogando, faça o pagamento do débito atual e recarregue seu saldo.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve"> 
+    <value>Para continuar jogando compre um pacote de tempo.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve"> 
+    <value>Para continuar acessando, faça o pagamento do débito atual e compre um pacote de tempo.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
+    <value>Para continuar acessando, compre um pacote de tempo e/ou recarregue seu saldo.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
+    <value>Para continuar acessando, faça o pagamento do débito atual e compre um pacote de tempo ou/ou recarregue seu saldo.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve"> 
+    <value>Ativado {0}</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve"> 
+    <value>Expira depois</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve"> 
+    <value>{0} da compra</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE" xml:space="preserve"> 
+    <value>{0} de uso</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT" xml:space="preserve"> 
+    <value>depois de sair</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_EXPIRATION_COUNTDOWN_STARTED_DESCRIPTION" xml:space="preserve"> 
+    <value>O pacote está ativo.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_LOGOUT_DESCRIPTION" xml:space="preserve"> 
+    <value>Expira após encerrar seu acesso.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION" xml:space="preserve"> 
+    <value>Expira em um determinado tempo após a compra do pacote.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_FIRST_USE_DESCRIPTION" xml:space="preserve"> 
+    <value>Expira em um determinado tempo após o primeiro uso do pacote.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES" xml:space="preserve"> 
+    <value>Propriedades</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE" xml:space="preserve"> 
+    <value>Não se esqueça de fechar sua conta no final da sessão.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE" xml:space="preserve"> 
+    <value>O acesso não terminará enquanto você tiver a opção de crédito por tempo ilimitado habilitada.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_EXPIRE_MESSAGE" xml:space="preserve"> 
+    <value>Quando o tempo atual expirar, o seu acesso será encerrado.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TOP_UP" xml:space="preserve"> 
+    <value>Recarregar saldo</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_GO_TO_SHOP" xml:space="preserve"> 
+    <value>Vá a loja</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_CREDIT" xml:space="preserve"> 
+    <value>O crédito está disponível na conta.</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION" xml:space="preserve"> 
+    <value>Crédito ilimitado </value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION" xml:space="preserve"> 
+    <value>Compra de produtos para pagar depois disponível</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve"> 
+    <value>Tempo para pagar depois disponível</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve"> 
+    <value>Crédito</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SEE_ALL_AVAILABLE_TIME" xml:space="preserve"> 
+    <value>Ver todo o tempo disponível</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TITLE" xml:space="preserve"> 
+    <value>Origem de Tempo</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_RATE_PER_HOUR" xml:space="preserve"> 
+    <value>Tarifa {0}/hora</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES" xml:space="preserve"> 
+    <value>{0} h {1} min</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_FIXED_TIME" xml:space="preserve"> 
+    <value>Tempo Fixo</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_DEPOSIT" xml:space="preserve"> 
+    <value>Depositos</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_CREDIT" xml:space="preserve"> 
+    <value>Credito</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve"> 
+    <value>{0} Minutos</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve"> 
+    <value>Origem</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve"> 
+    <value>Terminais</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve"> 
+    <value>até {0}</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve"> 
+    <value>Disponível </value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve"> 
+    <value>Data de compra</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TIME" xml:space="preserve"> 
+    <value>Tempo</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT" xml:space="preserve"> 
+    <value>Produto de tempo</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve"> 
+    <value>Tempo disponível </value> 
+  </data> 
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve"> 
+    <value>Cancelada</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_TITLE" xml:space="preserve"> 
+    <value>Pedido de Ajuda</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_ACCEPTED" xml:space="preserve"> 
+    <value>O atendente aceitou sua solicitação e estará disponível em breve para ajudá-lo.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED" xml:space="preserve"> 
+    <value>Seu pedido não pode ser processado.</value> 
+  </data> 
+  <data name="GIZ_GEN_GUEST" xml:space="preserve"> 
+    <value>Convidado</value> 
   </data> 
 </root>

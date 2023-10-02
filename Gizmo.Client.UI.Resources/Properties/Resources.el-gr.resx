@@ -5,8 +5,8 @@
   Project: Gizmo Client UI
   Release: Working copy
   Locale: el-GR, Greek (Greece)
-  Exported by: Dimitrios Klapsis
-  Exported at: Wed, 27 Sep 2023 14:44:16 +0300 
+  Exported by: Oleg Savelos
+  Exported at: Mon, 02 Oct 2023 14:47:41 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1310,22 +1310,22 @@
     <value>Η επεξεργασία του αιτήματος βοήθειας απέτυχε.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP" xml:space="preserve"> 
-    <value>Για να συνεχίσετε να παίζεται κάντε κατάθεση.</value> 
+    <value>Για να συνεχίσετε να παίζετε κάντε κατάθεση.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve"> 
-    <value>Για να συνεχίσετε να παίζεται, εξοφλήστε και κάντε κατάθεση.</value> 
+    <value>Για να συνεχίσετε να παίζετε, εξοφλήστε και κάντε κατάθεση.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve"> 
-    <value>Για να συνεχίσετε να παίζεται αγοράστε ένα προϊόν χρόνου.</value> 
+    <value>Για να συνεχίσετε να παίζετε αγοράστε ένα προϊόν χρόνου.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve"> 
-    <value>Για να συνεχίσετε να παίζεται, εξοφλήστε και αγοράστε ένα προϊόν χρόνου.</value> 
+    <value>Για να συνεχίσετε να παίζετε, εξοφλήστε και αγοράστε ένα προϊόν χρόνου.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
-    <value>Για να συνεχίσετε να παίζεται αγοράστε ένα προϊόν χρόνου ή κάντε κατάθεση.</value> 
+    <value>Για να συνεχίσετε να παίζετε αγοράστε ένα προϊόν χρόνου ή κάντε κατάθεση.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
-    <value>Για να συνεχίσετε να παίζεται, εξοφλήστε και αγοράστε ένα προϊόν χρόνου ή κάντε κατάθεση.</value> 
+    <value>Για να συνεχίσετε να παίζετε, εξοφλήστε και αγοράστε ένα προϊόν χρόνου ή κάντε κατάθεση.</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve"> 
     <value>Ενεργοποιήθηκε {0}</value> 
