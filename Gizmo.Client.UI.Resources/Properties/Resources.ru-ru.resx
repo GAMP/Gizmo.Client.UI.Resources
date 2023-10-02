@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: ru-RU, Russian (Russia)
   Exported by: Oleg Savelos
-  Exported at: Tue, 29 Aug 2023 09:04:13 +0300 
+  Exported at: Mon, 02 Oct 2023 14:47:41 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1275,5 +1275,179 @@
   </data> 
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve"> 
     <value>Пробелы не допускаются</value> 
+  </data> 
+  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve"> 
+    <value>Возникла ошибка.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve"> 
+    <value>Выберите причину обращения</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER" xml:space="preserve"> 
+    <value>Выберите что-нибудь</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve"> 
+    <value>Выберите причину обращения</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve"> 
+    <value>Чем мы можем вам помочь?</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve"> 
+    <value>Чем мы можем вам помочь?</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve"> 
+    <value>Отправить</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_TITLE" xml:space="preserve"> 
+    <value>Запрос отправлен.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve"> 
+    <value>Пожалуйста, дождитесь, пока оператор примет ваш запрос, ответ вы увидите в разделе уведомлений.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve"> 
+    <value>Отменить запрос</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve"> 
+    <value>Не удалось осуществить запрос о помощи. 🙁</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP" xml:space="preserve"> 
+    <value>Для продолжения игры пополните ваш баланс.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve"> 
+    <value>Чтобы продолжить игру, закройте кредит и пополните баланс.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve"> 
+    <value>Для продолжения игры приобретите пакет времени.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve"> 
+    <value>Чтобы продолжить игру, закройте кредит и купите пакет.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
+    <value>To continue playing buy a time pack or/and top up your balance</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
+    <value>Чтобы продолжить игру, закройте кредитный счет и купите пакет или/и пополните баланс.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve"> 
+    <value>Активирован {0}</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve"> 
+    <value>Сгорает</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve"> 
+    <value>{0} от покупки</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE" xml:space="preserve"> 
+    <value>{0} от использования</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT" xml:space="preserve"> 
+    <value>после выхода</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_EXPIRATION_COUNTDOWN_STARTED_DESCRIPTION" xml:space="preserve"> 
+    <value>Пакет активен.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_LOGOUT_DESCRIPTION" xml:space="preserve"> 
+    <value>Сгорает после выхода из системы.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION" xml:space="preserve"> 
+    <value>Сгорает  через определенное время с момента приобретения/покупки пакета.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_FIRST_USE_DESCRIPTION" xml:space="preserve"> 
+    <value>Сгорает через определенное время после активации пакета.</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES" xml:space="preserve"> 
+    <value>Свойства</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE" xml:space="preserve"> 
+    <value>Не забудьте закрыть свой счет в конце сессии.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE" xml:space="preserve"> 
+    <value>Сессия не завершится, пока включена опция неограниченного кредита времени.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_EXPIRE_MESSAGE" xml:space="preserve"> 
+    <value>По истечении текущего времени сессия будет завершена.</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TOP_UP" xml:space="preserve"> 
+    <value>Пополнить баланс</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_GO_TO_SHOP" xml:space="preserve"> 
+    <value>Перейти в магазин</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_CREDIT" xml:space="preserve"> 
+    <value>На данном аккаунте доступен кредит.</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION" xml:space="preserve"> 
+    <value>Неограниченный кредит</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION" xml:space="preserve"> 
+    <value>Доступен кредит для товаров</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve"> 
+    <value>Доступен кредит за игровое время</value> 
+  </data> 
+  <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve"> 
+    <value>Кредит</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SEE_ALL_AVAILABLE_TIME" xml:space="preserve"> 
+    <value>Посмотреть все доступное время</value> 
+  </data> 
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TITLE" xml:space="preserve"> 
+    <value>Информация об игровом времени</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_RATE_PER_HOUR" xml:space="preserve"> 
+    <value>Тариф {0}/час</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES" xml:space="preserve"> 
+    <value>{0} h {1} мин</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_FIXED_TIME" xml:space="preserve"> 
+    <value>Фиксированное время</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_DEPOSIT" xml:space="preserve"> 
+    <value>Deposits</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_CREDIT" xml:space="preserve"> 
+    <value>Кредит</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve"> 
+    <value>{0} минут</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve"> 
+    <value>Источник</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve"> 
+    <value>ПК</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve"> 
+    <value>до {0}</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve"> 
+    <value>Доступно</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve"> 
+    <value>Дата покупки</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TIME" xml:space="preserve"> 
+    <value>Время</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT" xml:space="preserve"> 
+    <value>Пакет</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve"> 
+    <value>Доступное время</value> 
+  </data> 
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve"> 
+    <value>Аннулированные</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_TITLE" xml:space="preserve"> 
+    <value>Запрос помощи</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_ACCEPTED" xml:space="preserve"> 
+    <value>Оператор принял Ваш запрос и в ближайшее время будет готов оказать Вам помощь.</value> 
+  </data> 
+  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED" xml:space="preserve"> 
+    <value>Ваш запрос не может быть обработан.</value> 
+  </data> 
+  <data name="GIZ_GEN_GUEST" xml:space="preserve"> 
+    <value>Гость</value> 
   </data> 
 </root>
