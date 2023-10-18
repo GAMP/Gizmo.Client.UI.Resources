@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: ru-RU, Russian (Russia)
   Exported by: Oleg Savelos
-  Exported at: Mon, 02 Oct 2023 14:47:41 +0300 
+  Exported at: Wed, 18 Oct 2023 10:02:28 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1030,7 +1030,7 @@
     <value>Возрастной рейтинг</value> 
   </data> 
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>У вас уже запущено какое-то приложение. Нажмите кнопку ПРИНЯТЬ, чтобы завершить работу запущенного приложения и продолжить.</value> 
+    <value>У вас уже запущено какое-то приложение. Нажмите кнопку ДА, чтобы завершить работу текущего приложения и запустить другое.</value> 
   </data> 
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve"> 
     <value>Максимальное количество приложений</value> 
@@ -1292,7 +1292,7 @@
     <value>Чем мы можем вам помочь?</value> 
   </data> 
   <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve"> 
-    <value>Чем мы можем вам помочь?</value> 
+    <value>Напишите чем мы можем вам помочь?</value> 
   </data> 
   <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve"> 
     <value>Отправить</value> 
@@ -1334,10 +1334,10 @@
     <value>Сгорает</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve"> 
-    <value>{0} от покупки</value> 
+    <value>{0} с момента покупки пакета</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE" xml:space="preserve"> 
-    <value>{0} от использования</value> 
+    <value>{0} с момента активации</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT" xml:space="preserve"> 
     <value>после выхода</value> 
