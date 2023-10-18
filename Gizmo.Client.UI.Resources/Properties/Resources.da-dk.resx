@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: da-DK, Danish (Denmark)
   Exported by: Oleg Savelos
-  Exported at: Mon, 02 Oct 2023 14:47:40 +0300 
+  Exported at: Wed, 18 Oct 2023 10:02:27 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1396,60 +1396,60 @@ Genoplad venligst din konto nu.</value>
     <value>Game Time Sources</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_RATE_PER_HOUR" xml:space="preserve"> 
-    <value>Rate {0}/hour</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_SATS_PR_TIME</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES" xml:space="preserve"> 
-    <value>{0} h {1} min</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_PRODUKT_TIMER_MINUTTER</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_FIXED_TIME" xml:space="preserve"> 
-    <value>Fixed Time</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_FAST_TID</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_DEPOSIT" xml:space="preserve"> 
-    <value>Deposits</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_DEPOSITUM</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_CREDIT" xml:space="preserve"> 
-    <value>Credit</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_KREDIT</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve"> 
-    <value>{0} Minutes</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_PRODUKT_MINUTTER</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve"> 
-    <value>Source</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_KILDE</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve"> 
-    <value>Hosts</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_VÆRTER</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve"> 
-    <value>until {0}</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_LEDIG_INDTIL</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve"> 
-    <value>Available</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_LEDIG</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve"> 
-    <value>Purchase date</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_KØBS_DATO</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_TIME" xml:space="preserve"> 
-    <value>Time</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_TID</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT" xml:space="preserve"> 
-    <value>Time product</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_TIME_PRODUKT</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve"> 
-    <value>Available time</value> 
+    <value>GIZ_BRUGER_TIDS_PRODUKT_TITEL</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve"> 
-    <value>Voided</value> 
+    <value>GIZ_BRUGER_KØBS_ORDER_STATUS_UGYLDIG</value> 
   </data> 
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_TITLE" xml:space="preserve"> 
-    <value>Assistance Request</value> 
+    <value>GIZ_ASSISTANCE_FORESPØRGSELS_SVAR_TITEL</value> 
   </data> 
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_ACCEPTED" xml:space="preserve"> 
-    <value>The operator has accepted your request and will be there soon to assist you.</value> 
+    <value>GIZ_ASSISTANCE_FORESPØRGSELS_SVAR_ACCEPTERET</value> 
   </data> 
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED" xml:space="preserve"> 
-    <value>Your request cannot be processed.</value> 
+    <value>GIZ_ASSISTANCE_FORESPØRGSELS_SVAR_AFVIST</value> 
   </data> 
   <data name="GIZ_GEN_GUEST" xml:space="preserve"> 
-    <value>Guest</value> 
+    <value>GIZ_GEN_GÆST</value> 
   </data> 
 </root>
