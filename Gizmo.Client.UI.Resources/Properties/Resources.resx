@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: en-US, English
   Exported by: Dimitrios Klapsis
-  Exported at: Thu, 26 Oct 2023 14:09:03 +0300 
+  Exported at: Fri, 27 Oct 2023 11:10:36 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1458,5 +1458,17 @@ Please recharge your account now.</value>
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve"> 
     <value>Usable time</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve"> 
+    <value>Time package</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_FIXED_TIME" xml:space="preserve"> 
+    <value>Fixed time package</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_RATE" xml:space="preserve"> 
+    <value>Rate</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve"> 
+    <value>Using credit</value> 
   </data> 
 </root>
