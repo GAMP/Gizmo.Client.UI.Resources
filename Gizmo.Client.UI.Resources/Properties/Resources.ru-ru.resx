@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: ru-RU, Russian (Russia)
   Exported by: Oleg Savelos
-  Exported at: Wed, 18 Oct 2023 10:02:28 +0300 
+  Exported at: Thu, 02 Nov 2023 11:12:41 +0200 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1449,5 +1449,26 @@
   </data> 
   <data name="GIZ_GEN_GUEST" xml:space="preserve"> 
     <value>Гость</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_EXPIRES" xml:space="preserve"> 
+    <value>Сгорит</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_REMAINING_TIME" xml:space="preserve"> 
+    <value>Оставшееся время</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve"> 
+    <value>Время работы</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve"> 
+    <value>Пакет времени</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_FIXED_TIME" xml:space="preserve"> 
+    <value>Пакет с фиксированным временем</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_RATE" xml:space="preserve"> 
+    <value>Тариф</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve"> 
+    <value>Использование кредита</value> 
   </data> 
 </root>

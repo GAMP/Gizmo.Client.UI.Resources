@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: pt-BR, Brazilian Portuguese
   Exported by: Oleg Savelos
-  Exported at: Wed, 18 Oct 2023 10:02:26 +0300 
+  Exported at: Thu, 02 Nov 2023 11:12:39 +0200 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1449,5 +1449,26 @@ Por favor, recarregue sua conta agora.</value>
   </data> 
   <data name="GIZ_GEN_GUEST" xml:space="preserve"> 
     <value>Convidado</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_EXPIRES" xml:space="preserve"> 
+    <value>Expirações</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_REMAINING_TIME" xml:space="preserve"> 
+    <value>Tempo restante</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve"> 
+    <value>Tempo utilizável</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve"> 
+    <value>Pacote de tempo</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_FIXED_TIME" xml:space="preserve"> 
+    <value>Pacote de tempo fixo</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_RATE" xml:space="preserve"> 
+    <value>Tarifa</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve"> 
+    <value>Usando crédito pós pago</value> 
   </data> 
 </root>
