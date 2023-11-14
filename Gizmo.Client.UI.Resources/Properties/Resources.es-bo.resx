@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: es-BO, Spanish (Bolivia)
   Exported by: Oleg Savelos
-  Exported at: Thu, 02 Nov 2023 11:12:42 +0200 
+  Exported at: Wed, 18 Oct 2023 10:02:29 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1449,26 +1449,5 @@ Por favor recarga tu cuenta.</value>
   </data> 
   <data name="GIZ_GEN_GUEST" xml:space="preserve"> 
     <value>Invitado</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_EXPIRES" xml:space="preserve"> 
-    <value>Expira</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_REMAINING_TIME" xml:space="preserve"> 
-    <value>Tiempo restante</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve"> 
-    <value>Tiempo utilizable</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve"> 
-    <value>Paquete de tiempo</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_FIXED_TIME" xml:space="preserve"> 
-    <value>Paquete de tiempo fijo</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_RATE" xml:space="preserve"> 
-    <value>Tarifa</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve"> 
-    <value>Usando crédito</value> 
   </data> 
 </root>

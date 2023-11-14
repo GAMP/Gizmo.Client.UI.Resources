@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: az-Latn-AZ, Azerbaijani
   Exported by: Oleg Savelos
-  Exported at: Thu, 02 Nov 2023 11:12:38 +0200 
+  Exported at: Wed, 18 Oct 2023 10:02:26 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1364,7 +1364,7 @@ Zəhmət olmasa balansınızı artırın.</value>
     <value>Limitsiz kredit seçimi aktiv olduğu müddətdə sessiya bitməyəcək.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_EXPIRE_MESSAGE" xml:space="preserve"> 
-    <value>Cari tarif başa çatdıqda, sessiya başa çatacaq.</value> 
+    <value>Cari vaxt başa çatdıqda, sessiya başa çatacaq.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TOP_UP" xml:space="preserve"> 
     <value>Balansı artırın</value> 
@@ -1412,7 +1412,7 @@ Zəhmət olmasa balansınızı artırın.</value>
     <value>{0} Dəqiqə</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve"> 
-    <value>Ümumi</value> 
+    <value>Mənbə</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve"> 
     <value>Kompüterlər</value> 
@@ -1427,13 +1427,13 @@ Zəhmət olmasa balansınızı artırın.</value>
     <value>Sifariş tarixi</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_TIME" xml:space="preserve"> 
-    <value>Qalıq</value> 
+    <value>Vaxt</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT" xml:space="preserve"> 
-    <value>Adı</value> 
+    <value>Vaxt tarifləri</value> 
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve"> 
-    <value>Mövcud tariflər</value> 
+    <value>Mövcud zaman</value> 
   </data> 
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve"> 
     <value>Ləğv edilib</value> 
@@ -1449,26 +1449,5 @@ Zəhmət olmasa balansınızı artırın.</value>
   </data> 
   <data name="GIZ_GEN_GUEST" xml:space="preserve"> 
     <value>Qonaq</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_EXPIRES" xml:space="preserve"> 
-    <value>Etibarlıdır</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_REMAINING_TIME" xml:space="preserve"> 
-    <value>Qalan vaxt</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve"> 
-    <value>İstifadə müddəti</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve"> 
-    <value>Vaxt paketi</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_FIXED_TIME" xml:space="preserve"> 
-    <value>Sabit vaxt paketi</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_RATE" xml:space="preserve"> 
-    <value>Tarif</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve"> 
-    <value>Kreditdən istifadə</value> 
   </data> 
 </root>
