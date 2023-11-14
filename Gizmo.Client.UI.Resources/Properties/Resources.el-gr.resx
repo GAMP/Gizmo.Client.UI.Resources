@@ -6,7 +6,7 @@
   Release: Working copy
   Locale: el-GR, Greek (Greece)
   Exported by: Oleg Savelos
-  Exported at: Wed, 18 Oct 2023 10:02:27 +0300 
+  Exported at: Tue, 14 Nov 2023 08:55:08 +0200 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1449,5 +1449,26 @@
   </data> 
   <data name="GIZ_GEN_GUEST" xml:space="preserve"> 
     <value>Επισκέπτης</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_EXPIRES" xml:space="preserve"> 
+    <value>Λήγει</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_REMAINING_TIME" xml:space="preserve"> 
+    <value>Υπολειπόμενος χρόνος</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve"> 
+    <value>Χρόνος χρήσης</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve"> 
+    <value>Προσφορά χρόνου</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_FIXED_TIME" xml:space="preserve"> 
+    <value>Προπληρωμένος χρόνος</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_RATE" xml:space="preserve"> 
+    <value>Προφίλ χρέωσης</value> 
+  </data> 
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve"> 
+    <value>Με πίστωση</value> 
   </data> 
 </root>
