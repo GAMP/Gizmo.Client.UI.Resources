@@ -1573,7 +1573,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Forgot you password?.
+        ///   Looks up a localized string similar to Forgot your password?.
         /// </summary>
         public static string GIZ_LOGIN_FORGOT_YOUR_PASSWORD {
             get {
