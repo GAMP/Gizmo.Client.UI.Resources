@@ -3,10 +3,9 @@
   <!--
   Loco xml export: ResX - .NET resources
   Project: Gizmo Client UI
-  Release: Working copy
   Locale: ru-RU, Russian (Russia)
   Exported by: Oleg Savelos
-  Exported at: Tue, 14 Nov 2023 08:55:08 +0200 
+  Exported at: Thu, 10 Oct 2024 10:16:00 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -88,7 +87,7 @@
     <value>Дате выхода</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve"> 
-    <value>Названиию</value> 
+    <value>Названию</value> 
   </data> 
   <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve"> 
     <value>Использование</value> 
@@ -100,7 +99,7 @@
     <value>На адрес {0} было отправлено электронное письмо. Проверьте электронную почту и введите код ниже.</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_FLASH_CALL_MESSAGE" xml:space="preserve"> 
-    <value>На номер {0} поступи звонок. Проверьте телефон  (пропущенного) вызова и введите последние {1} цифры номера вызова</value> 
+    <value>На номер {0} поступит звонок. Проверьте телефон  (пропущенного) вызова и введите последние {1} цифры номера вызова</value> 
   </data> 
   <data name="GIZ_USER_CONFIRMATION_SMS_MESSAGE" xml:space="preserve"> 
     <value>На номер {0} отправлено SMS. Введите код из sms ниже.</value> 
@@ -121,7 +120,7 @@
     <value>Кооператив онлайн</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve"> 
-    <value>Бесплтные</value> 
+    <value>Бесплатные</value> 
   </data> 
   <data name="GIZ_EXECUTABLE_MODE_FREE_TRIAL" xml:space="preserve"> 
     <value>Бесплатная пробная версия</value> 
@@ -547,7 +546,7 @@
     <value>Пополнить</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve"> 
-    <value>Будет оплачено:</value> 
+    <value>Пополнение на сумму:</value> 
   </data> 
   <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve"> 
     <value>будут зачислены на баланс вашего счёта</value> 
@@ -1322,7 +1321,7 @@
     <value>Чтобы продолжить игру, закройте кредит и купите пакет.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
-    <value>To continue playing buy a time pack or/and top up your balance</value> 
+    <value>Чтобы продолжить играть, купите пакет времени или/и пополните баланс.</value> 
   </data> 
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
     <value>Чтобы продолжить игру, закройте кредитный счет и купите пакет или/и пополните баланс.</value> 
@@ -1470,5 +1469,8 @@
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve"> 
     <value>Использование кредита</value> 
+  </data> 
+  <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve"> 
+    <value>Вход в систему в данный момент невозможен из-за возрастных ограничений.</value> 
   </data> 
 </root>

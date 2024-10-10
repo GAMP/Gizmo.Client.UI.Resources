@@ -3,10 +3,9 @@
   <!--
   Loco xml export: ResX - .NET resources
   Project: Gizmo Client UI
-  Release: Working copy
   Locale: az-Latn-AZ, Azerbaijani
   Exported by: Oleg Savelos
-  Exported at: Tue, 14 Nov 2023 08:55:07 +0200 
+  Exported at: Thu, 10 Oct 2024 10:15:58 +0300 
   --> 
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -1470,5 +1469,8 @@ Zəhmət olmasa balansınızı artırın.</value>
   </data> 
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve"> 
     <value>Kreditdən istifadə</value> 
+  </data> 
+  <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve"> 
+    <value>Login is not allowed at this time due to age restrictions configuration.</value> 
   </data> 
 </root>
