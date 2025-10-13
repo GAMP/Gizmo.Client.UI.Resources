@@ -1531,4 +1531,19 @@ Please recharge your account now.</value>
   <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
     <value>You have been banned until {0}!</value>
   </data>
+  <data name="GIZ_STEAM_PAYMENT_INTENT_TITLE" xml:space="preserve">
+    <value>STEAM payment</value>
+  </data>
+  <data name="GIZ_STEAM_PAYMENT_INTENT" xml:space="preserve">
+    <value>Pay</value>
+  </data>
+  <data name="GIZ_STEAM_PAYMENT_INTENT_AMOUNT" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="GIZ_STEAM_PAYMENT_INTENT_MAXIMUM_AMOUNT_ERROR" xml:space="preserve">
+    <value>The maximum amount is 14999 rubles.</value>
+  </data>
+  <data name="GIZ_STEAM_PAYMENT_INTENT_MINIMUM_AMOUNT_ERROR" xml:space="preserve">
+    <value>The minimum amount is 70 rubles.</value>
+  </data>
 </root>
