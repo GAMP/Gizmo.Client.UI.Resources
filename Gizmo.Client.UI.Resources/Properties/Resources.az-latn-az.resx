@@ -1,12 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<root> 
-  <!--
-  Loco xml export: ResX - .NET resources
-  Project: Gizmo Client UI
-  Locale: az-Latn-AZ, Azerbaijani
-  Exported by: Oleg Savelos
-  Exported at: Thu, 10 Oct 2024 10:15:58 +0300 
-  --> 
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
@@ -60,1417 +112,1417 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="locoLocaleCode">
+  <data name="locoLocaleCode" xml:space="preserve">
     <value>az-AZ</value>
-  </metadata>
-  <metadata name="locoLocaleName" xml:space="preserve">
+  </data>
+  <data name="locoLocaleName" xml:space="preserve">
     <value>Azerbaijani</value>
-  </metadata> 
-  <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve"> 
-    <value>Bütün oyunlar və proqramlar</value> 
-  </data> 
-  <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve"> 
-    <value>Tarixə görə</value> 
-  </data> 
-  <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve"> 
-    <value>Çox oynanılan</value> 
-  </data> 
-  <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve"> 
-    <value>Reytinq</value> 
-  </data> 
-  <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve"> 
-    <value>Buraxılış tarixi</value> 
-  </data> 
-  <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve"> 
-    <value>Başlıq</value> 
-  </data> 
-  <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve"> 
-    <value>İstifadə edin</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve"> 
-    <value>Təsdiq kodu doğru deyil.</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_EMAIL_MESSAGE" xml:space="preserve"> 
-    <value>{0} ünvanına e-poçt göndərildi. Təsdiq kodu üçün e-poçtunuzu yoxlayın və aşağıya qeyd edin</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_FLASH_CALL_MESSAGE" xml:space="preserve"> 
-    <value>{0} nömrəsinə zəng ettik. Telefonunuzda son edilmiş zənglərə baxın, son {1} rəqəmini qeyd edin</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_SMS_MESSAGE" xml:space="preserve"> 
-    <value>{0} telefon nömrəsinə sms göndərdik. Mesajları kontrol edin göndərdiyimiz kodu aşağıya qeyd edin</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_VE_EMAIL_IS_REQUIRED" xml:space="preserve"> 
-    <value>E-mail xanası boş buraxılmamalıdır.</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_ENTER_CONFIRMATION_CODE" xml:space="preserve"> 
-    <value>Kodu qeyd edin</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_APPLICATION" xml:space="preserve"> 
-    <value>Proqram</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_CO_OP" xml:space="preserve"> 
-    <value>Co-Op Lan</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_CO_OP_ONLINE" xml:space="preserve"> 
-    <value>Co-Op Online</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve"> 
-    <value>Ödənişsiz oyunlar</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_FREE_TRIAL" xml:space="preserve"> 
-    <value>Ödənişsiz sınaq</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_GAME" xml:space="preserve"> 
-    <value>Oyun</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_MULTIPLAYER" xml:space="preserve"> 
-    <value>Lan Multiplayer</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_ONE_TIME_PURCHASE" xml:space="preserve"> 
-    <value>Bir dəfəlik alış</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_ONLINE" xml:space="preserve"> 
-    <value>Online Multiplayer</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve"> 
-    <value>Abunəlik tələb edən</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_SETTINGS" xml:space="preserve"> 
-    <value>Parametrlər</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve"> 
-    <value>Tək oyunçu</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve"> 
-    <value>Bölünmüş ekran</value> 
-  </data> 
-  <data name="GIZ_EXECUTABLE_MODE_UTILITY" xml:space="preserve"> 
-    <value>Utility</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_GET_CONFIRMATION_CODE" xml:space="preserve"> 
-    <value>Kod al</value> 
-  </data> 
-  <data name="GIZ_GEN_SEARCH" xml:space="preserve"> 
-    <value>Axtarış</value> 
-  </data> 
-  <data name="GIZ_ACTIVE_APPS_TITLE" xml:space="preserve"> 
-    <value>Aktiv proqramlar</value> 
-  </data> 
-  <data name="GIZ_APPS_AUTO_START" xml:space="preserve"> 
-    <value>Avtostart</value> 
-  </data> 
-  <data name="GIZ_APPS_CATEGORY" xml:space="preserve"> 
-    <value>Kateqoriya:</value> 
-  </data> 
-  <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve"> 
-    <value>Əlavə edilib</value> 
-  </data> 
-  <data name="GIZ_APPS_LAUNCH" xml:space="preserve"> 
-    <value>Başlat</value> 
-  </data> 
-  <data name="GIZ_APPS_LINKS" xml:space="preserve"> 
-    <value>Linklər</value> 
-  </data> 
-  <data name="GIZ_APPS_LOADING" xml:space="preserve"> 
-    <value>Yüklənir</value> 
-  </data> 
-  <data name="GIZ_APPS_MEDIA" xml:space="preserve"> 
-    <value>Media</value> 
-  </data> 
-  <data name="GIZ_APPS_PARAMETERS" xml:space="preserve"> 
-    <value>Parametrlər:</value> 
-  </data> 
-  <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve"> 
-    <value>Şəxsi fayllar</value> 
-  </data> 
-  <data name="GIZ_APPS_PLAYER_MODE" xml:space="preserve"> 
-    <value>Oyunçu modu</value> 
-  </data> 
-  <data name="GIZ_APPS_PUBLISHER" xml:space="preserve"> 
-    <value>İstehsalçı</value> 
-  </data> 
-  <data name="GIZ_APPS_RELEASE_DATE" xml:space="preserve"> 
-    <value>Buraxılış tarixi</value> 
-  </data> 
-  <data name="GIZ_APPS_REPAIR" xml:space="preserve"> 
-    <value>Düzəlt</value> 
-  </data> 
-  <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve"> 
-    <value>Proqram versiyasını seçin</value> 
-  </data> 
-  <data name="GIZ_APPS_TERMINATE" xml:space="preserve"> 
-    <value>Dayandır</value> 
-  </data> 
-  <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Yeni şifrəni təsdiqlə</value> 
-  </data> 
-  <data name="GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD" xml:space="preserve"> 
-    <value>İndiki şifrə</value> 
-  </data> 
-  <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Yeni şifrə</value> 
-  </data> 
-  <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve"> 
-    <value>Təsdiq kodunun uzuluğu {0} simvoldan ibarət olmalıdır.</value> 
-  </data> 
-  <data name="GIZ_GEN_ADS" xml:space="preserve"> 
-    <value>Yeniliklər / For Gamer</value> 
-  </data> 
-  <data name="GIZ_GEN_ALL" xml:space="preserve"> 
-    <value>Hamısı</value> 
-  </data> 
-  <data name="GIZ_GEN_AND" xml:space="preserve"> 
-    <value>və</value> 
-  </data> 
-  <data name="GIZ_GEN_BACK_TO" xml:space="preserve"> 
-    <value>{0}'a geri qayıt</value> 
-  </data> 
-  <data name="GIZ_GEN_BALANCE" xml:space="preserve"> 
-    <value>Balans</value> 
-  </data> 
-  <data name="GIZ_GEN_CANCEL" xml:space="preserve"> 
-    <value>Ləğv et</value> 
-  </data> 
-  <data name="GIZ_GEN_CONFIRM" xml:space="preserve"> 
-    <value>Təsdiqlə</value> 
-  </data> 
-  <data name="GIZ_GEN_CONFIRM_PASSWORD" xml:space="preserve"> 
-    <value>Şifrəni təsdiqləyin</value> 
-  </data> 
-  <data name="GIZ_GEN_CONTINUE" xml:space="preserve"> 
-    <value>Giriş et</value> 
-  </data> 
-  <data name="GIZ_GEN_EMAIL" xml:space="preserve"> 
-    <value>E-poçt</value> 
-  </data> 
-  <data name="GIZ_GEN_EMAIL_ADDRESS" xml:space="preserve"> 
-    <value>E-poçt</value> 
-  </data> 
-  <data name="GIZ_GEN_ENTER_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Yeni şifrəni qeyd edin</value> 
-  </data> 
-  <data name="GIZ_GEN_MOBILE_PHONE" xml:space="preserve"> 
-    <value>Mobil nömrə</value> 
-  </data> 
-  <data name="GIZ_GEN_PASSWORD" xml:space="preserve"> 
-    <value>Şifrə</value> 
-  </data> 
-  <data name="GIZ_GEN_PHONE_NUMBER" xml:space="preserve"> 
-    <value>Mobil nömrə</value> 
-  </data> 
-  <data name="GIZ_GEN_POINTS" xml:space="preserve"> 
-    <value>Coin</value> 
-  </data> 
-  <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve"> 
-    <value>Ən çox işlədilən cihazlar</value> 
-  </data> 
-  <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve"> 
-    <value>Yeni şifrəni təkrarla</value> 
-  </data> 
-  <data name="GIZ_GEN_RESEND" xml:space="preserve"> 
-    <value>Təkrar Göndər</value> 
-  </data> 
-  <data name="GIZ_GEN_RESULTS_FOR" xml:space="preserve"> 
-    <value>üçün nəticələr</value> 
-  </data> 
-  <data name="GIZ_GEN_SAVE" xml:space="preserve"> 
-    <value>Yadda saxla</value> 
-  </data> 
-  <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve"> 
-    <value>Dəyişikliklər yadda saxlanıldı</value> 
-  </data> 
-  <data name="GIZ_GEN_SORT_BY" xml:space="preserve"> 
-    <value>Sırala:</value> 
-  </data> 
-  <data name="GIZ_GEN_TIME" xml:space="preserve"> 
-    <value>Vaxt</value> 
-  </data> 
-  <data name="GIZ_GEN_UPDATE" xml:space="preserve"> 
-    <value>Yenilə</value> 
-  </data> 
-  <data name="GIZ_GEN_USERNAME" xml:space="preserve"> 
-    <value>Login</value> 
-  </data> 
-  <data name="GIZ_GEN_VERIFY" xml:space="preserve"> 
-    <value>Sorğu</value> 
-  </data> 
-  <data name="GIZ_GEN_VIEW_DETAILS" xml:space="preserve"> 
-    <value>Ətraflı bax</value> 
-  </data> 
-  <data name="GIZ_GEN_ADD_TO_CART" xml:space="preserve"> 
-    <value>Sifarişə əlavə edin</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_GAMES_AND_APPS" xml:space="preserve"> 
-    <value>Oyunlar &amp; Proqramlar</value> 
-  </data> 
-  <data name="GIZ_GEN_LAUNCH" xml:space="preserve"> 
-    <value>Başlat</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE" xml:space="preserve"> 
-    <value>Heç nə tapmadıq</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve"> 
-    <value>Fərqli açar sözlər sınayın və ya hər şeyin düzgün yazıldığından əmin olun.</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_PLACEHOLDER" xml:space="preserve"> 
-    <value>Axtarın: oyunlar, proqramlar və.s</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_SHOP" xml:space="preserve"> 
-    <value>Kafeteriya</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_SHOW_ALL" xml:space="preserve"> 
-    <value>Hamsına bax</value> 
-  </data> 
-  <data name="GIZ_LOGIN_ALREADY_A_MEMBER" xml:space="preserve"> 
-    <value>Cluba artıq üzv olmusuz?</value> 
-  </data> 
-  <data name="GIZ_LOGIN_FORGOT_YOUR_PASSWORD" xml:space="preserve"> 
-    <value>Şifrənizi unutmusunuz?</value> 
-  </data> 
-  <data name="GIZ_LOGIN_NOT_A_MEMBER" xml:space="preserve"> 
-    <value>Cluba üzv deyilsiniz?</value> 
-  </data> 
-  <data name="GIZ_LOGIN_OR" xml:space="preserve"> 
-    <value>və ya</value> 
-  </data> 
-  <data name="GIZ_LOGIN_QR_MESSAGE" xml:space="preserve"> 
-    <value>Sürətli giriş üçün bunu Mobil versiyamız ilə skan edin</value> 
-  </data> 
-  <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve"> 
-    <value>QR kodla giriş</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>İndi giriş etsəniz, göstərilən vaxtda avtomatik olaraq sistemdən çıxacaqsınız.</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve"> 
-    <value>Bu kompüter {0}'da rezerv edilib.</value> 
-  </data> 
-  <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve"> 
-    <value>Giriş</value> 
-  </data> 
-  <data name="GIZ_LOGIN_SIGN_UP_NOW" xml:space="preserve"> 
-    <value>Üzv ol</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve"> 
-    <value>Balans məlumatları göstərilmir</value> 
-  </data> 
-  <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve"> 
-    <value>Hamsını oxundu olaraq işarələ</value> 
-  </data> 
-  <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve"> 
-    <value>Oxunmuş kimi işarələ</value> 
-  </data> 
-  <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve"> 
-    <value>Yeni bildirişiniz yoxdur.</value> 
-  </data> 
-  <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE" xml:space="preserve"> 
-    <value>Yeni bir şey baş verəndə onu burada tapa bilərsiniz.</value> 
-  </data> 
-  <data name="GIZ_NOTIFICATIONS_TITLE" xml:space="preserve"> 
-    <value>Bildirişlər</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_FOR" xml:space="preserve"> 
-    <value>üçün uyğun bir şey tapılmadı</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve"> 
-    <value>Sorğunuzu fərqli şəkildə formalaşdırmağa çalışın</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve"> 
-    <value>Təhlükəsiz Şifrə</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_MESSAGE_TOO_EASY" xml:space="preserve"> 
-    <value>Şifrə çox sadədir</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_MESSAGE_TOO_SHORT" xml:space="preserve"> 
-    <value>Şifrə çox qısadır</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_ENTER_EMAIL" xml:space="preserve"> 
-    <value>Hesabınıza bağlı olan e-poçtu qeyd edin</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_ENTER_PHONE_NUMBER" xml:space="preserve"> 
-    <value>Hesabınıza bağlı olan mobil nömrəni qeyd edin</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_ENTER_YOUR_CODE" xml:space="preserve"> 
-    <value>Kodu qeyd edin</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve"> 
-    <value>Şifrəni unutdum</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve"> 
-    <value>{0} nömrəsinə göndərdiyimiz kodu qeyd edin</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve"> 
-    <value>Şifrəni sıfırla</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve"> 
-    <value>Əlasan! İndi yeni şifrəni təyin et və hər şey hazırdır!</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RULE_RANGE_LENGTH" xml:space="preserve"> 
-    <value>{0}-{1} simvollar</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RULE_LOWER_CASE" xml:space="preserve"> 
-    <value>Ən az 1 kiçik hərf olmalıdır</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RULE_NUMBER" xml:space="preserve"> 
-    <value>Ən az 1 rəqəm olmalıdır</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve"> 
-    <value>Ən az 1 böyük hərf olmalıdır</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve"> 
-    <value>E-poçtunuzu qeyd edin</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve"> 
-    <value>Mobil nömrənizi qeyd edin</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve"> 
-    <value>Ölkə kodunu seçib, hesab yaratmaq üçün mobil nömrənizi daxil edin.</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_SIGN_UP_BUTTON" xml:space="preserve"> 
-    <value>Üzv ol</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_SIGN_UP_TITLE" xml:space="preserve"> 
-    <value>Üzv ol</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve"> 
-    <value>Giriş</value> 
-  </data> 
-  <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve"> 
-    <value>Sifarişə əlavə et</value> 
-  </data> 
-  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve"> 
-    <value>Paketə daxildir:</value> 
-  </data> 
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve"> 
-    <value>Fəaliyyət dövrü</value> 
-  </data> 
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve"> 
-    <value>Paketə daxildir:</value> 
-  </data> 
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve"> 
-    <value>Təklifin bitmə müddəti</value> 
-  </data> 
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve"> 
-    <value>Sifarişiniz üçün təşəkkürlər!</value> 
-  </data> 
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve"> 
-    <value>Qeyd: Bütün cari sifarişlərinizə Profil &gt; Sifarişlər bölməsindən baxa bilərsiniz</value> 
-  </data> 
-  <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve"> 
-    <value>Ödəniş et</value> 
-  </data> 
-  <data name="GIZ_SHOP_EARNED_POINTS" xml:space="preserve"> 
-    <value>Qazanacağınız Hədiyyə Coin</value> 
-  </data> 
-  <data name="GIZ_SHOP_NO_PRODUCTS_MESSAGE" xml:space="preserve"> 
-    <value>Boşdur</value> 
-  </data> 
-  <data name="GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE" xml:space="preserve"> 
-    <value>Başlamaq üçün məhsullar əlavə edin</value> 
-  </data> 
-  <data name="GIZ_SHOP_ORDER_NOTE" xml:space="preserve"> 
-    <value>Sifariş notu</value> 
-  </data> 
-  <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve"> 
-    <value>Not qeyd edin...</value> 
-  </data> 
-  <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve"> 
-    <value>Sifarişlərim</value> 
-  </data> 
-  <data name="GIZ_SHOP_PAYMENT_METHOD" xml:space="preserve"> 
-    <value>Ödəniş üsulu</value> 
-  </data> 
-  <data name="GIZ_SHOP_PLACE_ORDER" xml:space="preserve"> 
-    <value>Sifariş et</value> 
-  </data> 
-  <data name="GIZ_SHOP_PRICE" xml:space="preserve"> 
-    <value>Qiymət</value> 
-  </data> 
-  <data name="GIZ_SHOP_PRODUCT_NAME" xml:space="preserve"> 
-    <value>Məhsul adı</value> 
-  </data> 
-  <data name="GIZ_SHOP_QUANTITY" xml:space="preserve"> 
-    <value>Ədəd</value> 
-  </data> 
-  <data name="GIZ_SHOP_RELATED_PRODUCTS" xml:space="preserve"> 
-    <value>Əlaqəli təkliflər</value> 
-  </data> 
-  <data name="GIZ_SHOP_SUBTOTAL" xml:space="preserve"> 
-    <value>Son ödəniləcək</value> 
-  </data> 
-  <data name="GIZ_SHOP_TOTAL" xml:space="preserve"> 
-    <value>Yekun</value> 
-  </data> 
-  <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve"> 
-    <value>Kilidlənib</value> 
-  </data> 
-  <data name="GIZ_SYSTEM_VERSION" xml:space="preserve"> 
-    <value>Versiya</value> 
-  </data> 
-  <data name="GIZ_TIME_PRODUCT_HOUR" xml:space="preserve"> 
-    <value>Saat</value> 
-  </data> 
-  <data name="GIZ_TIME_PRODUCT_HOURS" xml:space="preserve"> 
-    <value>Saat</value> 
-  </data> 
-  <data name="GIZ_TIME_PRODUCT_MINUTES" xml:space="preserve"> 
-    <value>Dəqiqə</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_CLEAR" xml:space="preserve"> 
-    <value>Boşalt</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_OR" xml:space="preserve"> 
-    <value>və ya</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_OR_ENTER_AMOUNT" xml:space="preserve"> 
-    <value>və ya məbləği daxil edin*</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_PAY_FROM_PC" xml:space="preserve"> 
-    <value>Kompüterlə ödə</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve"> 
-    <value>Növbəti: Ödəniş məlumatları</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve"> 
-    <value>Mobil ödəniş üçün QR kod</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_QUICK_SELECT" xml:space="preserve"> 
-    <value>Sürətli seçim</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_TITLE" xml:space="preserve"> 
-    <value>Balans artır</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve"> 
-    <value>Ödəniləcək:</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve"> 
-    <value>Balansınıza köçürüləcək</value> 
-  </data> 
-  <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve"> 
-    <value>Əlavə məlumatlar</value> 
-  </data> 
-  <data name="GIZ_USER_ADDRESS" xml:space="preserve"> 
-    <value>Ünvan</value> 
-  </data> 
-  <data name="GIZ_USER_AVAILABLE_TIME" xml:space="preserve"> 
-    <value>Mövcud zaman</value> 
-  </data> 
-  <data name="GIZ_USER_BASIC_INFO" xml:space="preserve"> 
-    <value>Əsas məlumatlar</value> 
-  </data> 
-  <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve"> 
-    <value>Doğum tarixi</value> 
-  </data> 
-  <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve"> 
-    <value>Şifrəni dəyişdirin</value> 
-  </data> 
-  <data name="GIZ_USER_COUNTRY" xml:space="preserve"> 
-    <value>Ölkə</value> 
-  </data> 
-  <data name="GIZ_USER_COUNTRY_REGION" xml:space="preserve"> 
-    <value>Ölkə/Region</value> 
-  </data> 
-  <data name="GIZ_USER_DETAILS" xml:space="preserve"> 
-    <value>Istifadəçi məlumatları</value> 
-  </data> 
-  <data name="GIZ_USER_FIRST_NAME" xml:space="preserve"> 
-    <value>Ad</value> 
-  </data> 
-  <data name="GIZ_USER_GENDER" xml:space="preserve"> 
-    <value>Cins</value> 
-  </data> 
-  <data name="GIZ_USER_HOME_PHONE" xml:space="preserve"> 
-    <value>Telefon</value> 
-  </data> 
-  <data name="GIZ_USER_LAST_NAME" xml:space="preserve"> 
-    <value>Soyad</value> 
-  </data> 
-  <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve"> 
-    <value>E-poçt və mobil nömrə</value> 
-  </data> 
-  <data name="GIZ_USER_MENU_HELP" xml:space="preserve"> 
-    <value>Kömək</value> 
-  </data> 
-  <data name="GIZ_USER_MENU_LOCK_PC" xml:space="preserve"> 
-    <value>Kompüteri kilitlə</value> 
-  </data> 
-  <data name="GIZ_USER_MENU_LOGOUT" xml:space="preserve"> 
-    <value>Çıxış</value> 
-  </data> 
-  <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve"> 
-    <value>Profil</value> 
-  </data> 
-  <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve"> 
-    <value>Parametrlər</value> 
-  </data> 
-  <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve"> 
-    <value>Balans artır</value> 
-  </data> 
-  <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve"> 
-    <value>Şəxsi məlumatlar</value> 
-  </data> 
-  <data name="GIZ_USER_POST_CODE" xml:space="preserve"> 
-    <value>Poçt indeksi</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES" xml:space="preserve"> 
-    <value>Sifarişlərim</value> 
-  </data> 
-  <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve"> 
-    <value>İstifadəçi parametrlərini nizamla</value> 
-  </data> 
-  <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve"> 
-    <value>Əməliyyatlar</value> 
-  </data> 
-  <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve"> 
-    <value>Digər istifadəçilər logininizi görəcək</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve"> 
-    <value>Kodu göndər</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_APPS_DESCRIPTION" xml:space="preserve"> 
-    <value>Proqramlar</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve"> 
-    <value>Proqramlar</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve"> 
-    <value>Oyunlar</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve"> 
-    <value>Oyunlar</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve"> 
-    <value>Əsas səhifə</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve"> 
-    <value>Əsas səhifə</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve"> 
-    <value>Profil</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve"> 
-    <value>Profil</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve"> 
-    <value>Kafeteriya</value> 
-  </data> 
-  <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve"> 
-    <value>Kafeteriya</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve"> 
-    <value>Qəbul edildi</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_CANCELED" xml:space="preserve"> 
-    <value>Ləğv edildi</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_COMPLETED" xml:space="preserve"> 
-    <value>Tamamlandı</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD" xml:space="preserve"> 
-    <value>Gözləmədə</value> 
-  </data> 
-  <data name="GIZ_GEN_PASSWORDS_DO_NOT_MATCH" xml:space="preserve"> 
-    <value>Şifrələr uyğun gəlmir!</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_PASSWORD_RESET_FAILED_MESSAGE" xml:space="preserve"> 
-    <value>Şifrənin sıfırlanması mümkün olmadı.</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_MOBILE" xml:space="preserve"> 
-    <value>Bu hesaba aid mobil nömrə yoxdur.</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED" xml:space="preserve"> 
-    <value>Mobil nömrə xanası boş olmamalıdır.</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_ERROR_PROVIDER_NO_ROUTE_FOR_DELIVERY" xml:space="preserve"> 
-    <value>Mesajın çatdırılması mümkün olmadı, parametrləri yoxlayın.</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_FAILED_MESSAGE" xml:space="preserve"> 
-    <value>Nəsə xəta baş verdi. Məlumat üçün club əməkdaşımızla əlaqəyə keçin.</value> 
-  </data> 
-  <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve"> 
-    <value>Bir şey seçin</value> 
-  </data> 
-  <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve"> 
-    <value>Xanım</value> 
-  </data> 
-  <data name="GIZ_GEN_SEX_MALE" xml:space="preserve"> 
-    <value>Kişi</value> 
-  </data> 
-  <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve"> 
-    <value>Naməlum</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve"> 
-    <value>Minimum məbləğ {0} olmalıdır.</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_RETRY_WITH_SMS" xml:space="preserve"> 
-    <value>SMS ilə yenidən yoxla</value> 
-  </data> 
-  <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve"> 
-    <value>Dəqiqləşdirilməmiş dəyər</value> 
-  </data> 
-  <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve"> 
-    <value>Kilidi aç</value> 
-  </data> 
-  <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve"> 
-    <value>PIN kodu unuttum</value> 
-  </data> 
-  <data name="GIZ_USER_LOCK_SCREEN_LOCKED_SUBTITLE" xml:space="preserve"> 
-    <value>Profil Kilidi hazırda aktivdir</value> 
-  </data> 
-  <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve"> 
-    <value>Bu profilə giriş etmək üçün PIN kodu qeyd edin</value> 
-  </data> 
-  <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve"> 
-    <value>Bu profili 4 rəqəmli pin yaradaraq kilidləyin. Yadda saxlayın və ya bir yerə yazın.</value> 
-  </data> 
-  <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve"> 
-    <value>Profil kilidi</value> 
-  </data> 
-  <data name="GIZ_GEN_VE_REQUIRED_NAMED_FIELD" xml:space="preserve"> 
-    <value>{0} xanası boş olmamalıdır.</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve"> 
-    <value>Qeyd olunan e-poçt ünvanı artıq istifadə olunur</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve"> 
-    <value>E-poçtu təsdiqləmək mümkün olmadı.</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_PHONE" xml:space="preserve"> 
-    <value>Mobil nömrəni təsdiqləmək mümkün olmadı.</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve"> 
-    <value>Şifrənin bərpası tokeninin etibarlılıq müddəti xətası.</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve"> 
-    <value>Logini təsdiqləmək mümkün olmadı.</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve"> 
-    <value>Qeyd olunan mobil nömrə artıq istifadə olunur</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve"> 
-    <value>Qeyd olunan Login artıq istifadə olunur</value> 
-  </data> 
-  <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve"> 
-    <value>Maksimum məbləğ {0} olmalıdır.</value> 
-  </data> 
-  <data name="GIZ_APP_FILTERS_ALL_APPS" xml:space="preserve"> 
-    <value>Bütün təkliflər</value> 
-  </data> 
-  <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve"> 
-    <value>Yeni versiyalar</value> 
-  </data> 
-  <data name="GIZ_APP_FILTERS_POPULAR_APPS" xml:space="preserve"> 
-    <value>Ən çox istifadə edilən</value> 
-  </data> 
-  <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve"> 
-    <value>Son əlavə edilənlər</value> 
-  </data> 
-  <data name="GIZ_GEN_OR" xml:space="preserve"> 
-    <value>və ya</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve"> 
-    <value>və</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_PRICE_FREE" xml:space="preserve"> 
-    <value>Pulsuz</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_OR" xml:space="preserve"> 
-    <value>və ya</value> 
-  </data> 
-  <data name="GIZ_GEN_PHONE" xml:space="preserve"> 
-    <value>Mobil nömrə</value> 
-  </data> 
-  <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve"> 
-    <value>Əlaqə məlumatı</value> 
-  </data> 
-  <data name="GIZ_USER_SECURITY" xml:space="preserve"> 
-    <value>Təhlükəsizlik</value> 
-  </data> 
-  <data name="GIZ_GEN_CLOSE" xml:space="preserve"> 
-    <value>Bağla</value> 
-  </data> 
-  <data name="GIZ_USER_LOCATION" xml:space="preserve"> 
-    <value>Ünvan</value> 
-  </data> 
-  <data name="GIZ_USER_PROFILE_PICTURE_AND_USERNAME" xml:space="preserve"> 
-    <value>Profil şəkli və login</value> 
-  </data> 
-  <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve"> 
-    <value>Şifrəni yenilə</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve"> 
-    <value>Ödənildi</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve"> 
-    <value>Qismən ödənildi</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve"> 
-    <value>Ödənilmədi</value> 
-  </data> 
-  <data name="GIZ_GEN_ERROR" xml:space="preserve"> 
-    <value>Xəta</value> 
-  </data> 
-  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Coin kifayət qədər deyil.</value> 
-  </data> 
-  <data name="GIZ_GEN_PAYMENT_METHOD_POINTS" xml:space="preserve"> 
-    <value>Coin</value> 
-  </data> 
-  <data name="GIZ_GEN_CLEAR" xml:space="preserve"> 
-    <value>Boşalt</value> 
-  </data> 
-  <data name="GIZ_GEN_NO" xml:space="preserve"> 
-    <value>Xeyr</value> 
-  </data> 
-  <data name="GIZ_GEN_OK" xml:space="preserve"> 
-    <value>Tamam</value> 
-  </data> 
-  <data name="GIZ_GEN_YES" xml:space="preserve"> 
-    <value>Bəli</value> 
-  </data> 
-  <data name="GIZ_SHOP_VERIFY_CLEAR_CART" xml:space="preserve"> 
-    <value>Sifarişləri boşaltmaq istədiyinizdən əminsiniz?</value> 
-  </data> 
-  <data name="GIZ_APPS_SHOW_MORE" xml:space="preserve"> 
-    <value>Daha çox göstər</value> 
-  </data> 
-  <data name="GIZ_GEN_BACK" xml:space="preserve"> 
-    <value>Geri</value> 
-  </data> 
-  <data name="GIZ_GEN_DETAILS" xml:space="preserve"> 
-    <value>Başlat</value> 
-  </data> 
-  <data name="GIZ_GEN_POPULAR_APPS" xml:space="preserve"> 
-    <value>Ən çox istifadə edilən</value> 
-  </data> 
-  <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve"> 
-    <value>Ən çox sifariş edilən</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve"> 
-    <value>Sifariş tarixçəsi</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve"> 
-    <value>İstifadəsi mümkündür</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve"> 
-    <value>Profildən çıxdıqdan sonra</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve"> 
-    <value>Sifairşdən sonra</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve"> 
-    <value>İstifadədən sonra</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve"> 
-    <value>Satışı keçərlidir</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve"> 
-    <value>g.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAYS_ABBREVIATED" xml:space="preserve"> 
-    <value>g.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOUR_ABBREVIATED" xml:space="preserve"> 
-    <value>s.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED" xml:space="preserve"> 
-    <value>s.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve"> 
-    <value>d.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTES_ABBREVIATED" xml:space="preserve"> 
-    <value>d.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve"> 
-    <value>dəqiqə</value> 
-  </data> 
-  <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve"> 
-    <value>ədəd.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve"> 
-    <value>Son bitmə tarixi</value> 
-  </data> 
-  <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve"> 
-    <value>{0} başlamadı :(</value> 
-  </data> 
-  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION" xml:space="preserve"> 
-    <value>Paketə daxildir:</value> 
-  </data> 
-  <data name="GIZ_SHOP_CARD_PURCHASE_DETAILS" xml:space="preserve"> 
-    <value>Sifariş təfərrüatları:</value> 
-  </data> 
-  <data name="GIZ_GEN_FROM" xml:space="preserve"> 
-    <value>dan</value> 
-  </data> 
-  <data name="GIZ_GEN_UNTIL" xml:space="preserve"> 
-    <value>qədər</value> 
-  </data> 
-  <data name="GIZ_GEN_WARNING" xml:space="preserve"> 
-    <value>Xəbərdarlıq</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_CURRENTLY_NOT_AVAILABLE" xml:space="preserve"> 
-    <value>Hazırda mövcud deyil.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE" xml:space="preserve"> 
-    <value>Artıq mövcud deyil.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_NOT_YET_AVAILABLE" xml:space="preserve"> 
-    <value>Hələ mövcud deyil.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve"> 
-    <value>Bu kompüterdə istifadə edilə bilməz</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve"> 
-    <value>Hazırki vaxtda bu paketdən istifadə edə bilməzsiniz. Bu paketi almaq istədiyinizə əminsiniz?</value> 
-  </data> 
-  <data name="GIZ_GEN_NEVER" xml:space="preserve"> 
-    <value>Heç vaxt</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_EARNED_POINTS" xml:space="preserve"> 
-    <value>Hədiyyə coin:</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve"> 
-    <value>Sifariş qeydləri:</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve"> 
-    <value>Bu hesabın təsdiqlənmiş e-poçtu yoxdur.</value> 
-  </data> 
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve"> 
-    <value>Giriş hazırda bloklanıb.</value> 
-  </data> 
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve"> 
-    <value>Giriş hazırda blokdan çıxarılıb.</value> 
-  </data> 
-  <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve"> 
-    <value>Nağd</value> 
-  </data> 
-  <data name="GIZ_GEN_PAYMENT_METHOD_CREDIT_CARD" xml:space="preserve"> 
-    <value>Bank kartı</value> 
-  </data> 
-  <data name="GIZ_GEN_PAYMENT_METHOD_DEPOSIT" xml:space="preserve"> 
-    <value>Balans</value> 
-  </data> 
-  <data name="GIZ_GEN_SUCCESS" xml:space="preserve"> 
-    <value>Uğurlu</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_DETAILS_LESS" xml:space="preserve"> 
-    <value>Gizlət</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_DETAILS_MORE" xml:space="preserve"> 
-    <value>Ətraflı</value> 
-  </data> 
-  <data name="GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED" xml:space="preserve"> 
-    <value>Təsdiq kodu xanası boş olmamalıdır.</value> 
-  </data> 
-  <data name="GIZ_USER_AGREEMENT_DIALOG_TITLE" xml:space="preserve"> 
-    <value>Məxfilik Siyasəti və İstifadə Şərtləri</value> 
-  </data> 
-  <data name="GIZ_USER_LOCK_SCREEN_INCORRECT_PIN" xml:space="preserve"> 
-    <value>Yanlış PIN</value> 
-  </data> 
-  <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve"> 
-    <value>Şifrə 4 rəqəmdən ibarət olmalıdır!</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve"> 
-    <value>Ən azı {0} simvol qeyd edin.</value> 
-  </data> 
-  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE" xml:space="preserve"> 
-    <value>Kifayət qədər simvol yoxdur</value> 
-  </data> 
-  <data name="GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED" xml:space="preserve"> 
-    <value>Köhnə şifrə xanası boş olmamalıdır.</value> 
-  </data> 
-  <data name="GIZ_APPS_CANCEL" xml:space="preserve"> 
-    <value>Ləğv et</value> 
-  </data> 
-  <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Çıxmaq istədiyinizə əminsiniz?</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Hazırki vaxtda sifarişə icazə verilmir</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve"> 
-    <value>Hal-hazırda olduğunuz istifadəçi qrupu bu təklifi ala bilməz</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Nəsə xəta baş verdi</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Bu məhsulu yalnız cluba üzv olmuşlar ala bilər</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve"> 
-    <value>Yanlış məhsul id</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve"> 
-    <value>Yanlış istifadəçi identifikatoru</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve"> 
-    <value>Məhsul stokda bitib</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Hal-hazırda bu məhsulun alınmasına icazə verilmir</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve"> 
-    <value>Hal-hazırda bu məhsulun satışına icazə verilmir</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve"> 
-    <value>Uğurlu</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>Yaşınız bunun üçün uyğun deyil!</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve"> 
-    <value>Yaş reytinqi</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve"> 
-    <value>Siz artıq başlatmısınız. İşləyən proqramı, oyunu dayandırmaq və davam etmək üçün qəbul et düyməsini sıxın.</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve"> 
-    <value>Maksimum tətbiq sayı</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Dayandırmaq istədiyinizə əminsiniz?</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Sorğu</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Sıfırdan təkrar başlatmaq istəyirsiniz?</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Sorğu</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve"> 
-    <value>Dayandırmaq istədiyinizə əminsiniz?</value> 
-  </data> 
-  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Sorğu</value> 
-  </data> 
-  <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Şifrənin dəyişdirilməsi mümkün olmadı!</value> 
-  </data> 
-  <data name="GIZ_LOGOUT_VERIFICATION_TITLE" xml:space="preserve"> 
-    <value>Sorğu</value> 
-  </data> 
-  <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve"> 
-    <value>Bu sifarişi vermək üçün kifayət qədər balansınız yoxdur.</value> 
-  </data> 
-  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve"> 
-    <value>Xəta</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve"> 
-    <value>Xəta</value> 
-  </data> 
-  <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve"> 
-    <value>Şifrə səhvdir</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_ACCOUNT_DISABLED" xml:space="preserve"> 
-    <value>Hesabınız deaktiv edilib</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_ALREADY_LOGGED_IN" xml:space="preserve"> 
-    <value>Artıq giriş edilib.</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_DENIED" xml:space="preserve"> 
-    <value>Rədd edildi</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve"> 
-    <value>Ümumi problem var</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve"> 
-    <value>Balansınız kifayət qədər deyil</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_INVALID_CREDENTIALS" xml:space="preserve"> 
-    <value>Məlumatlar doğru deyil.</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_INVALID_PARAMETERS" xml:space="preserve"> 
-    <value>Parametrlər doğru deyil</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve"> 
-    <value>Şifrə doğru deyil</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve"> 
-    <value>Login doğru deyil</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_MAX_SESSIONS_REACHED" xml:space="preserve"> 
-    <value>Maksimum sessiya sayına çatdınız</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve"> 
-    <value>Gözləmə növbəsində deyil</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve"> 
-    <value>Uğurlu</value> 
-  </data> 
-  <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve"> 
-    <value>İstifadə olunur: Balans</value> 
-  </data> 
-  <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve"> 
-    <value>Sabit vaxt</value> 
-  </data> 
-  <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve"> 
-    <value>Vaxt paketi</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve"> 
-    <value>Hesab yaratmaq üçün e-poçt ünvanınızı qeyd edin.</value> 
-  </data> 
-  <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve"> 
-    <value>Çıxış</value> 
-  </data> 
-  <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve"> 
-    <value>Vaxtınız bitti.&lt;br&gt;Balansınızı artırın və ya&lt;br&gt; sessiyanı bitirmək üçün "çıxış" düyməsini sıxın.</value> 
-  </data> 
-  <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve"> 
-    <value>Xidmət göstərilmir</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RULE_MAX_LENGTH" xml:space="preserve"> 
-    <value>Maksimum {0} simvol olmalıdır.</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_RULE_MIN_LENGTH" xml:space="preserve"> 
-    <value>Minimum {0} simvol olmalıdır.</value> 
-  </data> 
-  <data name="GIZ_PASSWORD_MESSAGE_TOO_LONG" xml:space="preserve"> 
-    <value>Şifrə çox uzundur</value> 
-  </data> 
-  <data name="GIZ_PERSONAL_STORAGE_LABEL" xml:space="preserve"> 
-    <value>Şəxsi disk sahəsi</value> 
-  </data> 
-  <data name="GIZ_MESSAGE_ORDER_ACCEPTED" xml:space="preserve"> 
-    <value>Sifarişiniz qəbul edildi. Gözləməyinizi xahiş edirik.</value> 
-  </data> 
-  <data name="GIZ_MESSAGE_ORDER_ACCEPTED_HEADER" xml:space="preserve"> 
-    <value>Sifarişiniz qəbul edildi</value> 
-  </data> 
-  <data name="GIZ_MESSAGE_ORDER_CANCELED" xml:space="preserve"> 
-    <value>Sifarişiniz ləğv edildi, əlavə məlumat üçün əməkdaşlarımızdan biri ilə əlaqə saxlayın</value> 
-  </data> 
-  <data name="GIZ_MESSAGE_ORDER_CANCELED_HEADER" xml:space="preserve"> 
-    <value>Sifarişiniz ləğv edildi</value> 
-  </data> 
-  <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve"> 
-    <value>Sifarişiniz tamamlandı</value> 
-  </data> 
-  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve"> 
-    <value>Sifariş tamamlandı</value> 
-  </data> 
-  <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve"> 
-    <value>Sifarişiniz gözləmədədir, sifariş qəbul edildikdən sonra sizə məlumat veriləcək</value> 
-  </data> 
-  <data name="GIZ_MESSAGE_ORDER_ON_HOLD_HEADER" xml:space="preserve"> 
-    <value>Sifariş gözləmədədir</value> 
-  </data> 
-  <data name="GIZ_TIME_NOTIFICATION_MESSAGE" xml:space="preserve"> 
+  </data>
+  <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
+    <value>Bütün oyunlar və proqramlar</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve">
+    <value>Tarixə görə</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
+    <value>Çox oynanılan</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve">
+    <value>Reytinq</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve">
+    <value>Buraxılış tarixi</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve">
+    <value>Başlıq</value>
+  </data>
+  <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve">
+    <value>İstifadə edin</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
+    <value>Təsdiq kodu doğru deyil.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_EMAIL_MESSAGE" xml:space="preserve">
+    <value>{0} ünvanına e-poçt göndərildi. Təsdiq kodu üçün e-poçtunuzu yoxlayın və aşağıya qeyd edin</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_FLASH_CALL_MESSAGE" xml:space="preserve">
+    <value>{0} nömrəsinə zəng ettik. Telefonunuzda son edilmiş zənglərə baxın, son {1} rəqəmini qeyd edin</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_SMS_MESSAGE" xml:space="preserve">
+    <value>{0} telefon nömrəsinə sms göndərdik. Mesajları kontrol edin göndərdiyimiz kodu aşağıya qeyd edin</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_EMAIL_IS_REQUIRED" xml:space="preserve">
+    <value>E-mail xanası boş buraxılmamalıdır.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_ENTER_CONFIRMATION_CODE" xml:space="preserve">
+    <value>Kodu qeyd edin</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_APPLICATION" xml:space="preserve">
+    <value>Proqram</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_CO_OP" xml:space="preserve">
+    <value>Co-Op Lan</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_CO_OP_ONLINE" xml:space="preserve">
+    <value>Co-Op Online</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve">
+    <value>Ödənişsiz oyunlar</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_FREE_TRIAL" xml:space="preserve">
+    <value>Ödənişsiz sınaq</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_GAME" xml:space="preserve">
+    <value>Oyun</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_MULTIPLAYER" xml:space="preserve">
+    <value>Lan Multiplayer</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_ONE_TIME_PURCHASE" xml:space="preserve">
+    <value>Bir dəfəlik alış</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_ONLINE" xml:space="preserve">
+    <value>Online Multiplayer</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve">
+    <value>Abunəlik tələb edən</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_SETTINGS" xml:space="preserve">
+    <value>Parametrlər</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve">
+    <value>Tək oyunçu</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve">
+    <value>Bölünmüş ekran</value>
+  </data>
+  <data name="GIZ_EXECUTABLE_MODE_UTILITY" xml:space="preserve">
+    <value>Utility</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_GET_CONFIRMATION_CODE" xml:space="preserve">
+    <value>Kod al</value>
+  </data>
+  <data name="GIZ_GEN_SEARCH" xml:space="preserve">
+    <value>Axtarış</value>
+  </data>
+  <data name="GIZ_ACTIVE_APPS_TITLE" xml:space="preserve">
+    <value>Aktiv proqramlar</value>
+  </data>
+  <data name="GIZ_APPS_AUTO_START" xml:space="preserve">
+    <value>Avtostart</value>
+  </data>
+  <data name="GIZ_APPS_CATEGORY" xml:space="preserve">
+    <value>Kateqoriya:</value>
+  </data>
+  <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve">
+    <value>Əlavə edilib</value>
+  </data>
+  <data name="GIZ_APPS_LAUNCH" xml:space="preserve">
+    <value>Başlat</value>
+  </data>
+  <data name="GIZ_APPS_LINKS" xml:space="preserve">
+    <value>Linklər</value>
+  </data>
+  <data name="GIZ_APPS_LOADING" xml:space="preserve">
+    <value>Yüklənir</value>
+  </data>
+  <data name="GIZ_APPS_MEDIA" xml:space="preserve">
+    <value>Media</value>
+  </data>
+  <data name="GIZ_APPS_PARAMETERS" xml:space="preserve">
+    <value>Parametrlər:</value>
+  </data>
+  <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve">
+    <value>Şəxsi fayllar</value>
+  </data>
+  <data name="GIZ_APPS_PLAYER_MODE" xml:space="preserve">
+    <value>Oyunçu modu</value>
+  </data>
+  <data name="GIZ_APPS_PUBLISHER" xml:space="preserve">
+    <value>İstehsalçı</value>
+  </data>
+  <data name="GIZ_APPS_RELEASE_DATE" xml:space="preserve">
+    <value>Buraxılış tarixi</value>
+  </data>
+  <data name="GIZ_APPS_REPAIR" xml:space="preserve">
+    <value>Düzəlt</value>
+  </data>
+  <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve">
+    <value>Proqram versiyasını seçin</value>
+  </data>
+  <data name="GIZ_APPS_TERMINATE" xml:space="preserve">
+    <value>Dayandır</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_CONFIRM_PASSWORD" xml:space="preserve">
+    <value>Yeni şifrəni təsdiqlə</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_CURRENT_PASSWORD" xml:space="preserve">
+    <value>İndiki şifrə</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_NEW_PASSWORD" xml:space="preserve">
+    <value>Yeni şifrə</value>
+  </data>
+  <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve">
+    <value>Təsdiq kodunun uzuluğu {0} simvoldan ibarət olmalıdır.</value>
+  </data>
+  <data name="GIZ_GEN_ADS" xml:space="preserve">
+    <value>Yeniliklər / For Gamer</value>
+  </data>
+  <data name="GIZ_GEN_ALL" xml:space="preserve">
+    <value>Hamısı</value>
+  </data>
+  <data name="GIZ_GEN_AND" xml:space="preserve">
+    <value>və</value>
+  </data>
+  <data name="GIZ_GEN_BACK_TO" xml:space="preserve">
+    <value>{0}'a geri qayıt</value>
+  </data>
+  <data name="GIZ_GEN_BALANCE" xml:space="preserve">
+    <value>Balans</value>
+  </data>
+  <data name="GIZ_GEN_CANCEL" xml:space="preserve">
+    <value>Ləğv et</value>
+  </data>
+  <data name="GIZ_GEN_CONFIRM" xml:space="preserve">
+    <value>Təsdiqlə</value>
+  </data>
+  <data name="GIZ_GEN_CONFIRM_PASSWORD" xml:space="preserve">
+    <value>Şifrəni təsdiqləyin</value>
+  </data>
+  <data name="GIZ_GEN_CONTINUE" xml:space="preserve">
+    <value>Giriş et</value>
+  </data>
+  <data name="GIZ_GEN_EMAIL" xml:space="preserve">
+    <value>E-poçt</value>
+  </data>
+  <data name="GIZ_GEN_EMAIL_ADDRESS" xml:space="preserve">
+    <value>E-poçt</value>
+  </data>
+  <data name="GIZ_GEN_ENTER_NEW_PASSWORD" xml:space="preserve">
+    <value>Yeni şifrəni qeyd edin</value>
+  </data>
+  <data name="GIZ_GEN_MOBILE_PHONE" xml:space="preserve">
+    <value>Mobil nömrə</value>
+  </data>
+  <data name="GIZ_GEN_PASSWORD" xml:space="preserve">
+    <value>Şifrə</value>
+  </data>
+  <data name="GIZ_GEN_PHONE_NUMBER" xml:space="preserve">
+    <value>Mobil nömrə</value>
+  </data>
+  <data name="GIZ_GEN_POINTS" xml:space="preserve">
+    <value>Coin</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve">
+    <value>Ən çox işlədilən cihazlar</value>
+  </data>
+  <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve">
+    <value>Yeni şifrəni təkrarla</value>
+  </data>
+  <data name="GIZ_GEN_RESEND" xml:space="preserve">
+    <value>Təkrar Göndər</value>
+  </data>
+  <data name="GIZ_GEN_RESULTS_FOR" xml:space="preserve">
+    <value>üçün nəticələr</value>
+  </data>
+  <data name="GIZ_GEN_SAVE" xml:space="preserve">
+    <value>Yadda saxla</value>
+  </data>
+  <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve">
+    <value>Dəyişikliklər yadda saxlanıldı</value>
+  </data>
+  <data name="GIZ_GEN_SORT_BY" xml:space="preserve">
+    <value>Sırala:</value>
+  </data>
+  <data name="GIZ_GEN_TIME" xml:space="preserve">
+    <value>Vaxt</value>
+  </data>
+  <data name="GIZ_GEN_UPDATE" xml:space="preserve">
+    <value>Yenilə</value>
+  </data>
+  <data name="GIZ_GEN_USERNAME" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="GIZ_GEN_VERIFY" xml:space="preserve">
+    <value>Sorğu</value>
+  </data>
+  <data name="GIZ_GEN_VIEW_DETAILS" xml:space="preserve">
+    <value>Ətraflı bax</value>
+  </data>
+  <data name="GIZ_GEN_ADD_TO_CART" xml:space="preserve">
+    <value>Sifarişə əlavə edin</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_GAMES_AND_APPS" xml:space="preserve">
+    <value>Oyunlar &amp; Proqramlar</value>
+  </data>
+  <data name="GIZ_GEN_LAUNCH" xml:space="preserve">
+    <value>Başlat</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_TITLE" xml:space="preserve">
+    <value>Heç nə tapmadıq</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_RESULTS_MESSAGE" xml:space="preserve">
+    <value>Fərqli açar sözlər sınayın və ya hər şeyin düzgün yazıldığından əmin olun.</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_PLACEHOLDER" xml:space="preserve">
+    <value>Axtarın: oyunlar, proqramlar və.s</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_SHOP" xml:space="preserve">
+    <value>Kafeteriya</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_SHOW_ALL" xml:space="preserve">
+    <value>Hamsına bax</value>
+  </data>
+  <data name="GIZ_LOGIN_ALREADY_A_MEMBER" xml:space="preserve">
+    <value>Cluba artıq üzv olmusuz?</value>
+  </data>
+  <data name="GIZ_LOGIN_FORGOT_YOUR_PASSWORD" xml:space="preserve">
+    <value>Şifrənizi unutmusunuz?</value>
+  </data>
+  <data name="GIZ_LOGIN_NOT_A_MEMBER" xml:space="preserve">
+    <value>Cluba üzv deyilsiniz?</value>
+  </data>
+  <data name="GIZ_LOGIN_OR" xml:space="preserve">
+    <value>və ya</value>
+  </data>
+  <data name="GIZ_LOGIN_QR_MESSAGE" xml:space="preserve">
+    <value>Sürətli giriş üçün bunu Mobil versiyamız ilə skan edin</value>
+  </data>
+  <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve">
+    <value>QR kodla giriş</value>
+  </data>
+  <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve">
+    <value>İndi giriş etsəniz, göstərilən vaxtda avtomatik olaraq sistemdən çıxacaqsınız.</value>
+  </data>
+  <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
+    <value>Bu kompüter {0}'da rezerv edilib.</value>
+  </data>
+  <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve">
+    <value>Giriş</value>
+  </data>
+  <data name="GIZ_LOGIN_SIGN_UP_NOW" xml:space="preserve">
+    <value>Üzv ol</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve">
+    <value>Balans məlumatları göstərilmir</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
+    <value>Hamsını oxundu olaraq işarələ</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve">
+    <value>Oxunmuş kimi işarələ</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve">
+    <value>Yeni bildirişiniz yoxdur.</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS_MESSAGE" xml:space="preserve">
+    <value>Yeni bir şey baş verəndə onu burada tapa bilərsiniz.</value>
+  </data>
+  <data name="GIZ_NOTIFICATIONS_TITLE" xml:space="preserve">
+    <value>Bildirişlər</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_FOR" xml:space="preserve">
+    <value>üçün uyğun bir şey tapılmadı</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
+    <value>Sorğunuzu fərqli şəkildə formalaşdırmağa çalışın</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
+    <value>Təhlükəsiz Şifrə</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_EASY" xml:space="preserve">
+    <value>Şifrə çox sadədir</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_SHORT" xml:space="preserve">
+    <value>Şifrə çox qısadır</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_EMAIL" xml:space="preserve">
+    <value>Hesabınıza bağlı olan e-poçtu qeyd edin</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_PHONE_NUMBER" xml:space="preserve">
+    <value>Hesabınıza bağlı olan mobil nömrəni qeyd edin</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_YOUR_CODE" xml:space="preserve">
+    <value>Kodu qeyd edin</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
+    <value>Şifrəni unutdum</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
+    <value>{0} nömrəsinə göndərdiyimiz kodu qeyd edin</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
+    <value>Şifrəni sıfırla</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
+    <value>Əlasan! İndi yeni şifrəni təyin et və hər şey hazırdır!</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_RANGE_LENGTH" xml:space="preserve">
+    <value>{0}-{1} simvollar</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_LOWER_CASE" xml:space="preserve">
+    <value>Ən az 1 kiçik hərf olmalıdır</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_NUMBER" xml:space="preserve">
+    <value>Ən az 1 rəqəm olmalıdır</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve">
+    <value>Ən az 1 böyük hərf olmalıdır</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve">
+    <value>E-poçtunuzu qeyd edin</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve">
+    <value>Mobil nömrənizi qeyd edin</value>
+  </data>
+  <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve">
+    <value>Ölkə kodunu seçib, hesab yaratmaq üçün mobil nömrənizi daxil edin.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SIGN_UP_BUTTON" xml:space="preserve">
+    <value>Üzv ol</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SIGN_UP_TITLE" xml:space="preserve">
+    <value>Üzv ol</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve">
+    <value>Giriş</value>
+  </data>
+  <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
+    <value>Sifarişə əlavə et</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve">
+    <value>Paketə daxildir:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve">
+    <value>Fəaliyyət dövrü</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve">
+    <value>Paketə daxildir:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve">
+    <value>Təklifin bitmə müddəti</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve">
+    <value>Sifarişiniz üçün təşəkkürlər!</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve">
+    <value>Qeyd: Bütün cari sifarişlərinizə Profil &gt; Sifarişlər bölməsindən baxa bilərsiniz</value>
+  </data>
+  <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve">
+    <value>Ödəniş et</value>
+  </data>
+  <data name="GIZ_SHOP_EARNED_POINTS" xml:space="preserve">
+    <value>Qazanacağınız Hədiyyə Coin</value>
+  </data>
+  <data name="GIZ_SHOP_NO_PRODUCTS_MESSAGE" xml:space="preserve">
+    <value>Boşdur</value>
+  </data>
+  <data name="GIZ_SHOP_NO_PRODUCTS_RETRY_MESSAGE" xml:space="preserve">
+    <value>Başlamaq üçün məhsullar əlavə edin</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_NOTE" xml:space="preserve">
+    <value>Sifariş notu</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve">
+    <value>Not qeyd edin...</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve">
+    <value>Sifarişlərim</value>
+  </data>
+  <data name="GIZ_SHOP_PAYMENT_METHOD" xml:space="preserve">
+    <value>Ödəniş üsulu</value>
+  </data>
+  <data name="GIZ_SHOP_PLACE_ORDER" xml:space="preserve">
+    <value>Sifariş et</value>
+  </data>
+  <data name="GIZ_SHOP_PRICE" xml:space="preserve">
+    <value>Qiymət</value>
+  </data>
+  <data name="GIZ_SHOP_PRODUCT_NAME" xml:space="preserve">
+    <value>Məhsul adı</value>
+  </data>
+  <data name="GIZ_SHOP_QUANTITY" xml:space="preserve">
+    <value>Ədəd</value>
+  </data>
+  <data name="GIZ_SHOP_RELATED_PRODUCTS" xml:space="preserve">
+    <value>Əlaqəli təkliflər</value>
+  </data>
+  <data name="GIZ_SHOP_SUBTOTAL" xml:space="preserve">
+    <value>Son ödəniləcək</value>
+  </data>
+  <data name="GIZ_SHOP_TOTAL" xml:space="preserve">
+    <value>Yekun</value>
+  </data>
+  <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve">
+    <value>Kilidlənib</value>
+  </data>
+  <data name="GIZ_SYSTEM_VERSION" xml:space="preserve">
+    <value>Versiya</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_HOUR" xml:space="preserve">
+    <value>Saat</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_HOURS" xml:space="preserve">
+    <value>Saat</value>
+  </data>
+  <data name="GIZ_TIME_PRODUCT_MINUTES" xml:space="preserve">
+    <value>Dəqiqə</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_CLEAR" xml:space="preserve">
+    <value>Boşalt</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_OR" xml:space="preserve">
+    <value>və ya</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_OR_ENTER_AMOUNT" xml:space="preserve">
+    <value>və ya məbləği daxil edin*</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_PAY_FROM_PC" xml:space="preserve">
+    <value>Kompüterlə ödə</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve">
+    <value>Növbəti: Ödəniş məlumatları</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve">
+    <value>Mobil ödəniş üçün QR kod</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_QUICK_SELECT" xml:space="preserve">
+    <value>Sürətli seçim</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_TITLE" xml:space="preserve">
+    <value>Balans artır</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve">
+    <value>Ödəniləcək:</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve">
+    <value>Balansınıza köçürüləcək</value>
+  </data>
+  <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve">
+    <value>Əlavə məlumatlar</value>
+  </data>
+  <data name="GIZ_USER_ADDRESS" xml:space="preserve">
+    <value>Ünvan</value>
+  </data>
+  <data name="GIZ_USER_AVAILABLE_TIME" xml:space="preserve">
+    <value>Mövcud zaman</value>
+  </data>
+  <data name="GIZ_USER_BASIC_INFO" xml:space="preserve">
+    <value>Əsas məlumatlar</value>
+  </data>
+  <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve">
+    <value>Doğum tarixi</value>
+  </data>
+  <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
+    <value>Şifrəni dəyişdirin</value>
+  </data>
+  <data name="GIZ_USER_COUNTRY" xml:space="preserve">
+    <value>Ölkə</value>
+  </data>
+  <data name="GIZ_USER_COUNTRY_REGION" xml:space="preserve">
+    <value>Ölkə/Region</value>
+  </data>
+  <data name="GIZ_USER_DETAILS" xml:space="preserve">
+    <value>Istifadəçi məlumatları</value>
+  </data>
+  <data name="GIZ_USER_FIRST_NAME" xml:space="preserve">
+    <value>Ad</value>
+  </data>
+  <data name="GIZ_USER_GENDER" xml:space="preserve">
+    <value>Cins</value>
+  </data>
+  <data name="GIZ_USER_HOME_PHONE" xml:space="preserve">
+    <value>Telefon</value>
+  </data>
+  <data name="GIZ_USER_LAST_NAME" xml:space="preserve">
+    <value>Soyad</value>
+  </data>
+  <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve">
+    <value>E-poçt və mobil nömrə</value>
+  </data>
+  <data name="GIZ_USER_MENU_HELP" xml:space="preserve">
+    <value>Kömək</value>
+  </data>
+  <data name="GIZ_USER_MENU_LOCK_PC" xml:space="preserve">
+    <value>Kompüteri kilitlə</value>
+  </data>
+  <data name="GIZ_USER_MENU_LOGOUT" xml:space="preserve">
+    <value>Çıxış</value>
+  </data>
+  <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve">
+    <value>Parametrlər</value>
+  </data>
+  <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
+    <value>Balans artır</value>
+  </data>
+  <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">
+    <value>Şəxsi məlumatlar</value>
+  </data>
+  <data name="GIZ_USER_POST_CODE" xml:space="preserve">
+    <value>Poçt indeksi</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES" xml:space="preserve">
+    <value>Sifarişlərim</value>
+  </data>
+  <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve">
+    <value>İstifadəçi parametrlərini nizamla</value>
+  </data>
+  <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
+    <value>Əməliyyatlar</value>
+  </data>
+  <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve">
+    <value>Digər istifadəçilər logininizi görəcək</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve">
+    <value>Kodu göndər</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_APPS_DESCRIPTION" xml:space="preserve">
+    <value>Proqramlar</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve">
+    <value>Proqramlar</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve">
+    <value>Oyunlar</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve">
+    <value>Oyunlar</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve">
+    <value>Əsas səhifə</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve">
+    <value>Əsas səhifə</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve">
+    <value>Kafeteriya</value>
+  </data>
+  <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve">
+    <value>Kafeteriya</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve">
+    <value>Qəbul edildi</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_CANCELED" xml:space="preserve">
+    <value>Ləğv edildi</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_COMPLETED" xml:space="preserve">
+    <value>Tamamlandı</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD" xml:space="preserve">
+    <value>Gözləmədə</value>
+  </data>
+  <data name="GIZ_GEN_PASSWORDS_DO_NOT_MATCH" xml:space="preserve">
+    <value>Şifrələr uyğun gəlmir!</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_PASSWORD_RESET_FAILED_MESSAGE" xml:space="preserve">
+    <value>Şifrənin sıfırlanması mümkün olmadı.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_MOBILE" xml:space="preserve">
+    <value>Bu hesaba aid mobil nömrə yoxdur.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED" xml:space="preserve">
+    <value>Mobil nömrə xanası boş olmamalıdır.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_ERROR_PROVIDER_NO_ROUTE_FOR_DELIVERY" xml:space="preserve">
+    <value>Mesajın çatdırılması mümkün olmadı, parametrləri yoxlayın.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_FAILED_MESSAGE" xml:space="preserve">
+    <value>Nəsə xəta baş verdi. Məlumat üçün club əməkdaşımızla əlaqəyə keçin.</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve">
+    <value>Bir şey seçin</value>
+  </data>
+  <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve">
+    <value>Xanım</value>
+  </data>
+  <data name="GIZ_GEN_SEX_MALE" xml:space="preserve">
+    <value>Kişi</value>
+  </data>
+  <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve">
+    <value>Naməlum</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve">
+    <value>Minimum məbləğ {0} olmalıdır.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_RETRY_WITH_SMS" xml:space="preserve">
+    <value>SMS ilə yenidən yoxla</value>
+  </data>
+  <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve">
+    <value>Dəqiqləşdirilməmiş dəyər</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
+    <value>Kilidi aç</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve">
+    <value>PIN kodu unuttum</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_LOCKED_SUBTITLE" xml:space="preserve">
+    <value>Profil Kilidi hazırda aktivdir</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve">
+    <value>Bu profilə giriş etmək üçün PIN kodu qeyd edin</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
+    <value>Bu profili 4 rəqəmli pin yaradaraq kilidləyin. Yadda saxlayın və ya bir yerə yazın.</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve">
+    <value>Profil kilidi</value>
+  </data>
+  <data name="GIZ_GEN_VE_REQUIRED_NAMED_FIELD" xml:space="preserve">
+    <value>{0} xanası boş olmamalıdır.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
+    <value>Qeyd olunan e-poçt ünvanı artıq istifadə olunur</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
+    <value>E-poçtu təsdiqləmək mümkün olmadı.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_PHONE" xml:space="preserve">
+    <value>Mobil nömrəni təsdiqləmək mümkün olmadı.</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve">
+    <value>Şifrənin bərpası tokeninin etibarlılıq müddəti xətası.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve">
+    <value>Logini təsdiqləmək mümkün olmadı.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
+    <value>Qeyd olunan mobil nömrə artıq istifadə olunur</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
+    <value>Qeyd olunan Login artıq istifadə olunur</value>
+  </data>
+  <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
+    <value>Maksimum məbləğ {0} olmalıdır.</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_ALL_APPS" xml:space="preserve">
+    <value>Bütün təkliflər</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve">
+    <value>Yeni versiyalar</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_POPULAR_APPS" xml:space="preserve">
+    <value>Ən çox istifadə edilən</value>
+  </data>
+  <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve">
+    <value>Son əlavə edilənlər</value>
+  </data>
+  <data name="GIZ_GEN_OR" xml:space="preserve">
+    <value>və ya</value>
+  </data>
+  <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve">
+    <value>və</value>
+  </data>
+  <data name="GIZ_PRODUCT_PRICE_FREE" xml:space="preserve">
+    <value>Pulsuz</value>
+  </data>
+  <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_OR" xml:space="preserve">
+    <value>və ya</value>
+  </data>
+  <data name="GIZ_GEN_PHONE" xml:space="preserve">
+    <value>Mobil nömrə</value>
+  </data>
+  <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve">
+    <value>Əlaqə məlumatı</value>
+  </data>
+  <data name="GIZ_USER_SECURITY" xml:space="preserve">
+    <value>Təhlükəsizlik</value>
+  </data>
+  <data name="GIZ_GEN_CLOSE" xml:space="preserve">
+    <value>Bağla</value>
+  </data>
+  <data name="GIZ_USER_LOCATION" xml:space="preserve">
+    <value>Ünvan</value>
+  </data>
+  <data name="GIZ_USER_PROFILE_PICTURE_AND_USERNAME" xml:space="preserve">
+    <value>Profil şəkli və login</value>
+  </data>
+  <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve">
+    <value>Şifrəni yenilə</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve">
+    <value>Ödənildi</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve">
+    <value>Qismən ödənildi</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve">
+    <value>Ödənilmədi</value>
+  </data>
+  <data name="GIZ_GEN_ERROR" xml:space="preserve">
+    <value>Xəta</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_MESSAGE" xml:space="preserve">
+    <value>Coin kifayət qədər deyil.</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_POINTS" xml:space="preserve">
+    <value>Coin</value>
+  </data>
+  <data name="GIZ_GEN_CLEAR" xml:space="preserve">
+    <value>Boşalt</value>
+  </data>
+  <data name="GIZ_GEN_NO" xml:space="preserve">
+    <value>Xeyr</value>
+  </data>
+  <data name="GIZ_GEN_OK" xml:space="preserve">
+    <value>Tamam</value>
+  </data>
+  <data name="GIZ_GEN_YES" xml:space="preserve">
+    <value>Bəli</value>
+  </data>
+  <data name="GIZ_SHOP_VERIFY_CLEAR_CART" xml:space="preserve">
+    <value>Sifarişləri boşaltmaq istədiyinizdən əminsiniz?</value>
+  </data>
+  <data name="GIZ_APPS_SHOW_MORE" xml:space="preserve">
+    <value>Daha çox göstər</value>
+  </data>
+  <data name="GIZ_GEN_BACK" xml:space="preserve">
+    <value>Geri</value>
+  </data>
+  <data name="GIZ_GEN_DETAILS" xml:space="preserve">
+    <value>Başlat</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_APPS" xml:space="preserve">
+    <value>Ən çox istifadə edilən</value>
+  </data>
+  <data name="GIZ_GEN_POPULAR_PRODUCTS" xml:space="preserve">
+    <value>Ən çox sifariş edilən</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_HISTORY" xml:space="preserve">
+    <value>Sifariş tarixçəsi</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve">
+    <value>İstifadəsi mümkündür</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve">
+    <value>Profildən çıxdıqdan sonra</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_PURCHASE" xml:space="preserve">
+    <value>Sifairşdən sonra</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_USE" xml:space="preserve">
+    <value>İstifadədən sonra</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve">
+    <value>Satışı keçərlidir</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve">
+    <value>g.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAYS_ABBREVIATED" xml:space="preserve">
+    <value>g.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOUR_ABBREVIATED" xml:space="preserve">
+    <value>s.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_HOURS_ABBREVIATED" xml:space="preserve">
+    <value>s.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTE_ABBREVIATED" xml:space="preserve">
+    <value>d.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRATION_MINUTES_ABBREVIATED" xml:space="preserve">
+    <value>d.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve">
+    <value>dəqiqə</value>
+  </data>
+  <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve">
+    <value>ədəd.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve">
+    <value>Son bitmə tarixi</value>
+  </data>
+  <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve">
+    <value>{0} başlamadı :(</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION" xml:space="preserve">
+    <value>Paketə daxildir:</value>
+  </data>
+  <data name="GIZ_SHOP_CARD_PURCHASE_DETAILS" xml:space="preserve">
+    <value>Sifariş təfərrüatları:</value>
+  </data>
+  <data name="GIZ_GEN_FROM" xml:space="preserve">
+    <value>dan</value>
+  </data>
+  <data name="GIZ_GEN_UNTIL" xml:space="preserve">
+    <value>qədər</value>
+  </data>
+  <data name="GIZ_GEN_WARNING" xml:space="preserve">
+    <value>Xəbərdarlıq</value>
+  </data>
+  <data name="GIZ_PRODUCT_CURRENTLY_NOT_AVAILABLE" xml:space="preserve">
+    <value>Hazırda mövcud deyil.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_ANYMORE" xml:space="preserve">
+    <value>Artıq mövcud deyil.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_YET_AVAILABLE" xml:space="preserve">
+    <value>Hələ mövcud deyil.</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve">
+    <value>Bu kompüterdə istifadə edilə bilməz</value>
+  </data>
+  <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
+    <value>Hazırki vaxtda bu paketdən istifadə edə bilməzsiniz. Bu paketi almaq istədiyinizə əminsiniz?</value>
+  </data>
+  <data name="GIZ_GEN_NEVER" xml:space="preserve">
+    <value>Heç vaxt</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_EARNED_POINTS" xml:space="preserve">
+    <value>Hədiyyə coin:</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve">
+    <value>Sifariş qeydləri:</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve">
+    <value>Bu hesabın təsdiqlənmiş e-poçtu yoxdur.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve">
+    <value>Giriş hazırda bloklanıb.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve">
+    <value>Giriş hazırda blokdan çıxarılıb.</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve">
+    <value>Nağd</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_CREDIT_CARD" xml:space="preserve">
+    <value>Bank kartı</value>
+  </data>
+  <data name="GIZ_GEN_PAYMENT_METHOD_DEPOSIT" xml:space="preserve">
+    <value>Balans</value>
+  </data>
+  <data name="GIZ_GEN_SUCCESS" xml:space="preserve">
+    <value>Uğurlu</value>
+  </data>
+  <data name="GIZ_PRODUCT_DETAILS_LESS" xml:space="preserve">
+    <value>Gizlət</value>
+  </data>
+  <data name="GIZ_PRODUCT_DETAILS_MORE" xml:space="preserve">
+    <value>Ətraflı</value>
+  </data>
+  <data name="GIZ_USER_CONFIRMATION_VE_CONFIRMATION_CODE_IS_REQUIRED" xml:space="preserve">
+    <value>Təsdiq kodu xanası boş olmamalıdır.</value>
+  </data>
+  <data name="GIZ_USER_AGREEMENT_DIALOG_TITLE" xml:space="preserve">
+    <value>Məxfilik Siyasəti və İstifadə Şərtləri</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_INCORRECT_PIN" xml:space="preserve">
+    <value>Yanlış PIN</value>
+  </data>
+  <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve">
+    <value>Şifrə 4 rəqəmdən ibarət olmalıdır!</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve">
+    <value>Ən azı {0} simvol qeyd edin.</value>
+  </data>
+  <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_TITLE" xml:space="preserve">
+    <value>Kifayət qədər simvol yoxdur</value>
+  </data>
+  <data name="GIZ_USER_CHANGE_PASSWORD_VE_OLD_PASSWORD_IS_REQUIRED" xml:space="preserve">
+    <value>Köhnə şifrə xanası boş olmamalıdır.</value>
+  </data>
+  <data name="GIZ_APPS_CANCEL" xml:space="preserve">
+    <value>Ləğv et</value>
+  </data>
+  <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Çıxmaq istədiyinizə əminsiniz?</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Hazırki vaxtda sifarişə icazə verilmir</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve">
+    <value>Hal-hazırda olduğunuz istifadəçi qrupu bu təklifi ala bilməz</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve">
+    <value>Nəsə xəta baş verdi</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Bu məhsulu yalnız cluba üzv olmuşlar ala bilər</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve">
+    <value>Yanlış məhsul id</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve">
+    <value>Yanlış istifadəçi identifikatoru</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve">
+    <value>Məhsul stokda bitib</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Hal-hazırda bu məhsulun alınmasına icazə verilmir</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
+    <value>Hal-hazırda bu məhsulun satışına icazə verilmir</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve">
+    <value>Uğurlu</value>
+  </data>
+  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
+    <value>Yaşınız bunun üçün uyğun deyil!</value>
+  </data>
+  <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve">
+    <value>Yaş reytinqi</value>
+  </data>
+  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve">
+    <value>Siz artıq başlatmısınız. İşləyən proqramı, oyunu dayandırmaq və davam etmək üçün qəbul et düyməsini sıxın.</value>
+  </data>
+  <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve">
+    <value>Maksimum tətbiq sayı</value>
+  </data>
+  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Dayandırmaq istədiyinizə əminsiniz?</value>
+  </data>
+  <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Sorğu</value>
+  </data>
+  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Sıfırdan təkrar başlatmaq istəyirsiniz?</value>
+  </data>
+  <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Sorğu</value>
+  </data>
+  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve">
+    <value>Dayandırmaq istədiyinizə əminsiniz?</value>
+  </data>
+  <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Sorğu</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
+    <value>Şifrənin dəyişdirilməsi mümkün olmadı!</value>
+  </data>
+  <data name="GIZ_LOGOUT_VERIFICATION_TITLE" xml:space="preserve">
+    <value>Sorğu</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
+    <value>Bu sifarişi vermək üçün kifayət qədər balansınız yoxdur.</value>
+  </data>
+  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
+    <value>Xəta</value>
+  </data>
+  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve">
+    <value>Xəta</value>
+  </data>
+  <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
+    <value>Şifrə səhvdir</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_ACCOUNT_DISABLED" xml:space="preserve">
+    <value>Hesabınız deaktiv edilib</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_ALREADY_LOGGED_IN" xml:space="preserve">
+    <value>Artıq giriş edilib.</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_DENIED" xml:space="preserve">
+    <value>Rədd edildi</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve">
+    <value>Ümumi problem var</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve">
+    <value>Balansınız kifayət qədər deyil</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_CREDENTIALS" xml:space="preserve">
+    <value>Məlumatlar doğru deyil.</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_PARAMETERS" xml:space="preserve">
+    <value>Parametrlər doğru deyil</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve">
+    <value>Şifrə doğru deyil</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve">
+    <value>Login doğru deyil</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_MAX_SESSIONS_REACHED" xml:space="preserve">
+    <value>Maksimum sessiya sayına çatdınız</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve">
+    <value>Gözləmə növbəsində deyil</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve">
+    <value>Uğurlu</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve">
+    <value>İstifadə olunur: Balans</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve">
+    <value>Sabit vaxt</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve">
+    <value>Vaxt paketi</value>
+  </data>
+  <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve">
+    <value>Hesab yaratmaq üçün e-poçt ünvanınızı qeyd edin.</value>
+  </data>
+  <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve">
+    <value>Çıxış</value>
+  </data>
+  <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
+    <value>Vaxtınız bitti.&lt;br&gt;Balansınızı artırın və ya&lt;br&gt; sessiyanı bitirmək üçün "çıxış" düyməsini sıxın.</value>
+  </data>
+  <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve">
+    <value>Xidmət göstərilmir</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_MAX_LENGTH" xml:space="preserve">
+    <value>Maksimum {0} simvol olmalıdır.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RULE_MIN_LENGTH" xml:space="preserve">
+    <value>Minimum {0} simvol olmalıdır.</value>
+  </data>
+  <data name="GIZ_PASSWORD_MESSAGE_TOO_LONG" xml:space="preserve">
+    <value>Şifrə çox uzundur</value>
+  </data>
+  <data name="GIZ_PERSONAL_STORAGE_LABEL" xml:space="preserve">
+    <value>Şəxsi disk sahəsi</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ACCEPTED" xml:space="preserve">
+    <value>Sifarişiniz qəbul edildi. Gözləməyinizi xahiş edirik.</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ACCEPTED_HEADER" xml:space="preserve">
+    <value>Sifarişiniz qəbul edildi</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_CANCELED" xml:space="preserve">
+    <value>Sifarişiniz ləğv edildi, əlavə məlumat üçün əməkdaşlarımızdan biri ilə əlaqə saxlayın</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_CANCELED_HEADER" xml:space="preserve">
+    <value>Sifarişiniz ləğv edildi</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
+    <value>Sifarişiniz tamamlandı</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve">
+    <value>Sifariş tamamlandı</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
+    <value>Sifarişiniz gözləmədədir, sifariş qəbul edildikdən sonra sizə məlumat veriləcək</value>
+  </data>
+  <data name="GIZ_MESSAGE_ORDER_ON_HOLD_HEADER" xml:space="preserve">
+    <value>Sifariş gözləmədədir</value>
+  </data>
+  <data name="GIZ_TIME_NOTIFICATION_MESSAGE" xml:space="preserve">
     <value>{0} dəqiqəniz qalıb.
-Zəhmət olmasa balansınızı artırın.</value> 
-  </data> 
-  <data name="GIZ_TIME_NOTIFICATION_TITLE" xml:space="preserve"> 
-    <value>Vaxt bitir</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_VE_EMAIL_INVALID" xml:space="preserve"> 
-    <value>E-poçt yanlışdır</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID" xml:space="preserve"> 
-    <value>Mobil nömrə yanlışdır</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER" xml:space="preserve"> 
-    <value>Sifariş başlığı</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_DATE" xml:space="preserve"> 
-    <value>Tarix</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_PRICE" xml:space="preserve"> 
-    <value>Sifariş qiyməti</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_STATUS" xml:space="preserve"> 
-    <value>Sifariş statusu</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_PAYMENT_METHOD" xml:space="preserve"> 
-    <value>Ödəniş üsulu</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_PAYMENT_STATUS" xml:space="preserve"> 
-    <value>Ödəniş statusu</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS" xml:space="preserve"> 
-    <value>Giriş cəhdləri</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_PASSWORD" xml:space="preserve"> 
-    <value>Administrator şifrəsi</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_ACCEPT" xml:space="preserve"> 
-    <value>Qəbul et</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL" xml:space="preserve"> 
-    <value>Shell-i dəyişdirin</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE" xml:space="preserve"> 
-    <value>Client softunu dayandırmadan standart sistemə keç.</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_DEACTIVATE" xml:space="preserve"> 
-    <value>Deaktiv edin</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE" xml:space="preserve"> 
-    <value>Client modulunu deaktiv edin</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_UNINSTALL" xml:space="preserve"> 
-    <value>Client softu silin</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE" xml:space="preserve"> 
-    <value>Client softu bağlayın və istənilən konfiqurasiyanı təmizləyin.</value> 
-  </data> 
-  <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve"> 
-    <value>Ləğv et</value> 
-  </data> 
-  <data name="GIZ_SMA_STARTING_UI" xml:space="preserve"> 
-    <value>İstifadəçi interfeysi işə salınır</value> 
-  </data> 
-  <data name="GIZ_SMA_INITIATING_CONNECTION" xml:space="preserve"> 
-    <value>Server bağlantısı başladılır</value> 
-  </data> 
-  <data name="GIZ_SMA_CHECKING_DRIVER" xml:space="preserve"> 
-    <value>Sistem modulları yoxlanılır</value> 
-  </data> 
-  <data name="GIZ_SMA_PROCESSING_TASKS" xml:space="preserve"> 
-    <value>Tapşırıqlar emal olunur</value> 
-  </data> 
-  <data name="GIZ_SMA_INITIALIZING_PLUGINS" xml:space="preserve"> 
-    <value>Modullar işə salınır</value> 
-  </data> 
-  <data name="GIZ_SMA_RESOLVING_SERVER_IP" xml:space="preserve"> 
-    <value>Server Kompüter İP'si bağlantı yaradır</value> 
-  </data> 
-  <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve"> 
-    <value>Modullar yüklənir</value> 
-  </data> 
-  <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve"> 
-    <value>Xidmət şərtlərini oxudum və qəbul edirəm.</value> 
-  </data> 
-  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve"> 
-    <value>Bu xana boş olmamalıdır.</value> 
-  </data> 
-  <data name="GIZ_GEN_VE_MAX_LENGTH" xml:space="preserve"> 
-    <value>Bu xana {1} simvoldan uzun olmamalıdır.</value> 
-  </data> 
-  <data name="GIZ_COUNTRY_OTHER" xml:space="preserve"> 
-    <value>Digər</value> 
-  </data> 
-  <data name="GIZ_GEN_VE_INVALID_FIELD" xml:space="preserve"> 
-    <value>Bu xana doğru qeyd edilməyib</value> 
-  </data> 
-  <data name="GIZ_USER_PROFILE_USERNAME_TIP" xml:space="preserve"> 
-    <value>Digər istifadəçilər istifadəçi adınızı görəcəklər</value> 
-  </data> 
-  <data name="GIZ_GEN_LICENSE_RESERVATION_FAILED" xml:space="preserve"> 
-    <value>{0} üçün hesab rezervi mümkün olmadı.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_NOT_AVAILABLE" xml:space="preserve"> 
-    <value>Mövcud deyil.</value> 
-  </data> 
-  <data name="GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve"> 
-    <value>Bu kompüterdə mövcud deyil.</value> 
-  </data> 
-  <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve"> 
-    <value>Boşluq olmamalıfır</value> 
-  </data> 
-  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve"> 
-    <value>Səhv baş verdi.</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve"> 
-    <value>Əlaqənin səbəbini seçin</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER" xml:space="preserve"> 
-    <value>Bir şey seçin</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve"> 
-    <value>Əlaqənin səbəbini seçin</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve"> 
-    <value>Biz sizə necə kömək edə bilərik?</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve"> 
-    <value>Biz sizə necə kömək edə bilərik?</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve"> 
-    <value>Göndər</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_SENT_TITLE" xml:space="preserve"> 
-    <value>Sorğu göndərildi.</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve"> 
-    <value>Əməkdaşımız sorğunuzu qəbul edənə qədər gözləyin, cavab bildiriş bölməsində göndəriləcək.</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve"> 
-    <value>Sorğunu ləğv edin</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve"> 
-    <value>Yardım sorğusunu göndərmək alınmadı.</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP" xml:space="preserve"> 
-    <value>Oynamağa davam etmək üçün balansınızı artırın.</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve"> 
-    <value>Oynamağa davam etmək üçün kredit borcunuzu ödəyib, balansınızı artırın.</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve"> 
-    <value>Oynamağa davam etmək üçün vaxt paketi alın.</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve"> 
-    <value>Oynamağa davam etmək üçün kredit borcunuzu ödəyib, vaxt paketi alın.</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
-    <value>Oynamağa davam etmək üçün vaxt paketi alın və ya balansınızı artırın.</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve"> 
-    <value>Oynamağa davam etmək üçün kredit borcunuzu ödəyib, vaxt paketi ala və ya balansınızı artıra bilərsiz.</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve"> 
-    <value>{0} aktivləşdirildi</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve"> 
-    <value>Müddəti bitir</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve"> 
-    <value>alışdan {0}</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE" xml:space="preserve"> 
-    <value>{0} istifadədən</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT" xml:space="preserve"> 
-    <value>çıxışdan sonra</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_EXPIRATION_COUNTDOWN_STARTED_DESCRIPTION" xml:space="preserve"> 
-    <value>Paket aktivdir.</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_LOGOUT_DESCRIPTION" xml:space="preserve"> 
-    <value>Çıxışdan sonra müddəti bitir.</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION" xml:space="preserve"> 
-    <value>Paketin alınmasından müəyyən müddət sonra vaxt başa çatır.</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_FIRST_USE_DESCRIPTION" xml:space="preserve"> 
-    <value>Paketin ilk istifadəsindən müəyyən müddət sonra vaxt başa çatır.</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES" xml:space="preserve"> 
-    <value>Xüsusiyyətlər</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE" xml:space="preserve"> 
-    <value>Sessiya sonunda fakturanı sonlandırmağı unutmayın.</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE" xml:space="preserve"> 
-    <value>Limitsiz kredit seçimi aktiv olduğu müddətdə sessiya bitməyəcək.</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_EXPIRE_MESSAGE" xml:space="preserve"> 
-    <value>Cari tarif başa çatdıqda, sessiya başa çatacaq.</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_TOP_UP" xml:space="preserve"> 
-    <value>Balansı artırın</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_GO_TO_SHOP" xml:space="preserve"> 
-    <value>Sifariş edin</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_CREDIT" xml:space="preserve"> 
-    <value>Hesabda kredit xətti mövcuddur.</value> 
-  </data> 
-  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION" xml:space="preserve"> 
-    <value>Limitsiz kredit</value> 
-  </data> 
-  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION" xml:space="preserve"> 
-    <value>Mağazada kredit mövcuddur</value> 
-  </data> 
-  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve"> 
-    <value>Oynamaq üçün kredit xətti keçərlidir.</value> 
-  </data> 
-  <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve"> 
-    <value>Kredit</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_SEE_ALL_AVAILABLE_TIME" xml:space="preserve"> 
-    <value>Bütün mövcud tariflərə baxın</value> 
-  </data> 
-  <data name="GIZ_MENU_BALANCE_TOOLTIP_TITLE" xml:space="preserve"> 
-    <value>Tarif və paketlər</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_RATE_PER_HOUR" xml:space="preserve"> 
-    <value>Tarif 1saat/{0}</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES" xml:space="preserve"> 
-    <value>{0} s {1} dəq</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_FIXED_TIME" xml:space="preserve"> 
-    <value>Sabit vaxt</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_DEPOSIT" xml:space="preserve"> 
-    <value>Balans</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_CREDIT" xml:space="preserve"> 
-    <value>Kredit</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve"> 
-    <value>{0} Dəqiqə</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve"> 
-    <value>Ümumi</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve"> 
-    <value>Kompüterlər</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve"> 
-    <value>{0} tarixinədək</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve"> 
-    <value>Mövcuddur</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve"> 
-    <value>Sifariş tarixi</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TIME" xml:space="preserve"> 
-    <value>Qalıq</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT" xml:space="preserve"> 
-    <value>Adı</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve"> 
-    <value>Mövcud tariflər</value> 
-  </data> 
-  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve"> 
-    <value>Ləğv edilib</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_TITLE" xml:space="preserve"> 
-    <value>Yardım çağır</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_ACCEPTED" xml:space="preserve"> 
-    <value>Əməkdaşımız sorğunuzu qəbul etdi və tezliklə sizə kömək etmək üçün yanınızda olacaq.</value> 
-  </data> 
-  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED" xml:space="preserve"> 
-    <value>Sorğunuz emal edilə bilməz.</value> 
-  </data> 
-  <data name="GIZ_GEN_GUEST" xml:space="preserve"> 
-    <value>Qonaq</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_EXPIRES" xml:space="preserve"> 
-    <value>Etibarlıdır</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_REMAINING_TIME" xml:space="preserve"> 
-    <value>Qalan vaxt</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve"> 
-    <value>İstifadə müddəti</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve"> 
-    <value>Vaxt paketi</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_FIXED_TIME" xml:space="preserve"> 
-    <value>Sabit vaxt paketi</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_RATE" xml:space="preserve"> 
-    <value>Tarif</value> 
-  </data> 
-  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve"> 
-    <value>Kreditdən istifadə</value> 
-  </data> 
-  <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve"> 
-    <value>Login is not allowed at this time due to age restrictions configuration.</value> 
-  </data> 
+Zəhmət olmasa balansınızı artırın.</value>
+  </data>
+  <data name="GIZ_TIME_NOTIFICATION_TITLE" xml:space="preserve">
+    <value>Vaxt bitir</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_EMAIL_INVALID" xml:space="preserve">
+    <value>E-poçt yanlışdır</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID" xml:space="preserve">
+    <value>Mobil nömrə yanlışdır</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER" xml:space="preserve">
+    <value>Sifariş başlığı</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_DATE" xml:space="preserve">
+    <value>Tarix</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_PRICE" xml:space="preserve">
+    <value>Sifariş qiyməti</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS" xml:space="preserve">
+    <value>Sifariş statusu</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_PAYMENT_METHOD" xml:space="preserve">
+    <value>Ödəniş üsulu</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_PAYMENT_STATUS" xml:space="preserve">
+    <value>Ödəniş statusu</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS" xml:space="preserve">
+    <value>Giriş cəhdləri</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_PASSWORD" xml:space="preserve">
+    <value>Administrator şifrəsi</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_ACCEPT" xml:space="preserve">
+    <value>Qəbul et</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL" xml:space="preserve">
+    <value>Shell-i dəyişdirin</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SWITCH_SHELL_MESSAGE" xml:space="preserve">
+    <value>Client softunu dayandırmadan standart sistemə keç.</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_DEACTIVATE" xml:space="preserve">
+    <value>Deaktiv edin</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_DEACTIVATE_MESSAGE" xml:space="preserve">
+    <value>Client modulunu deaktiv edin</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_UNINSTALL" xml:space="preserve">
+    <value>Client softu silin</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_UNINSTALL_MESSAGE" xml:space="preserve">
+    <value>Client softu bağlayın və istənilən konfiqurasiyanı təmizləyin.</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve">
+    <value>Ləğv et</value>
+  </data>
+  <data name="GIZ_SMA_STARTING_UI" xml:space="preserve">
+    <value>İstifadəçi interfeysi işə salınır</value>
+  </data>
+  <data name="GIZ_SMA_INITIATING_CONNECTION" xml:space="preserve">
+    <value>Server bağlantısı başladılır</value>
+  </data>
+  <data name="GIZ_SMA_CHECKING_DRIVER" xml:space="preserve">
+    <value>Sistem modulları yoxlanılır</value>
+  </data>
+  <data name="GIZ_SMA_PROCESSING_TASKS" xml:space="preserve">
+    <value>Tapşırıqlar emal olunur</value>
+  </data>
+  <data name="GIZ_SMA_INITIALIZING_PLUGINS" xml:space="preserve">
+    <value>Modullar işə salınır</value>
+  </data>
+  <data name="GIZ_SMA_RESOLVING_SERVER_IP" xml:space="preserve">
+    <value>Server Kompüter İP'si bağlantı yaradır</value>
+  </data>
+  <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve">
+    <value>Modullar yüklənir</value>
+  </data>
+  <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
+    <value>Xidmət şərtlərini oxudum və qəbul edirəm.</value>
+  </data>
+  <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
+    <value>Bu xana boş olmamalıdır.</value>
+  </data>
+  <data name="GIZ_GEN_VE_MAX_LENGTH" xml:space="preserve">
+    <value>Bu xana {1} simvoldan uzun olmamalıdır.</value>
+  </data>
+  <data name="GIZ_COUNTRY_OTHER" xml:space="preserve">
+    <value>Digər</value>
+  </data>
+  <data name="GIZ_GEN_VE_INVALID_FIELD" xml:space="preserve">
+    <value>Bu xana doğru qeyd edilməyib</value>
+  </data>
+  <data name="GIZ_USER_PROFILE_USERNAME_TIP" xml:space="preserve">
+    <value>Digər istifadəçilər istifadəçi adınızı görəcəklər</value>
+  </data>
+  <data name="GIZ_GEN_LICENSE_RESERVATION_FAILED" xml:space="preserve">
+    <value>{0} üçün hesab rezervi mümkün olmadı.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE" xml:space="preserve">
+    <value>Mövcud deyil.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve">
+    <value>Bu kompüterdə mövcud deyil.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
+    <value>Boşluq olmamalıfır</value>
+  </data>
+  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve">
+    <value>Səhv baş verdi.</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve">
+    <value>Əlaqənin səbəbini seçin</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER" xml:space="preserve">
+    <value>Bir şey seçin</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve">
+    <value>Əlaqənin səbəbini seçin</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve">
+    <value>Biz sizə necə kömək edə bilərik?</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve">
+    <value>Biz sizə necə kömək edə bilərik?</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve">
+    <value>Göndər</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_TITLE" xml:space="preserve">
+    <value>Sorğu göndərildi.</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve">
+    <value>Əməkdaşımız sorğunuzu qəbul edənə qədər gözləyin, cavab bildiriş bölməsində göndəriləcək.</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve">
+    <value>Sorğunu ləğv edin</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve">
+    <value>Yardım sorğusunu göndərmək alınmadı.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP" xml:space="preserve">
+    <value>Oynamağa davam etmək üçün balansınızı artırın.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve">
+    <value>Oynamağa davam etmək üçün kredit borcunuzu ödəyib, balansınızı artırın.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve">
+    <value>Oynamağa davam etmək üçün vaxt paketi alın.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve">
+    <value>Oynamağa davam etmək üçün kredit borcunuzu ödəyib, vaxt paketi alın.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve">
+    <value>Oynamağa davam etmək üçün vaxt paketi alın və ya balansınızı artırın.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve">
+    <value>Oynamağa davam etmək üçün kredit borcunuzu ödəyib, vaxt paketi ala və ya balansınızı artıra bilərsiz.</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve">
+    <value>{0} aktivləşdirildi</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve">
+    <value>Müddəti bitir</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve">
+    <value>alışdan {0}</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE" xml:space="preserve">
+    <value>{0} istifadədən</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT" xml:space="preserve">
+    <value>çıxışdan sonra</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_EXPIRATION_COUNTDOWN_STARTED_DESCRIPTION" xml:space="preserve">
+    <value>Paket aktivdir.</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_LOGOUT_DESCRIPTION" xml:space="preserve">
+    <value>Çıxışdan sonra müddəti bitir.</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION" xml:space="preserve">
+    <value>Paketin alınmasından müəyyən müddət sonra vaxt başa çatır.</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_FIRST_USE_DESCRIPTION" xml:space="preserve">
+    <value>Paketin ilk istifadəsindən müəyyən müddət sonra vaxt başa çatır.</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES" xml:space="preserve">
+    <value>Xüsusiyyətlər</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE" xml:space="preserve">
+    <value>Sessiya sonunda fakturanı sonlandırmağı unutmayın.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE" xml:space="preserve">
+    <value>Limitsiz kredit seçimi aktiv olduğu müddətdə sessiya bitməyəcək.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_EXPIRE_MESSAGE" xml:space="preserve">
+    <value>Cari tarif başa çatdıqda, sessiya başa çatacaq.</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TOP_UP" xml:space="preserve">
+    <value>Balansı artırın</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_GO_TO_SHOP" xml:space="preserve">
+    <value>Sifariş edin</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_CREDIT" xml:space="preserve">
+    <value>Hesabda kredit xətti mövcuddur.</value>
+  </data>
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION" xml:space="preserve">
+    <value>Limitsiz kredit</value>
+  </data>
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION" xml:space="preserve">
+    <value>Mağazada kredit mövcuddur</value>
+  </data>
+  <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve">
+    <value>Oynamaq üçün kredit xətti keçərlidir.</value>
+  </data>
+  <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve">
+    <value>Kredit</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_SEE_ALL_AVAILABLE_TIME" xml:space="preserve">
+    <value>Bütün mövcud tariflərə baxın</value>
+  </data>
+  <data name="GIZ_MENU_BALANCE_TOOLTIP_TITLE" xml:space="preserve">
+    <value>Tarif və paketlər</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_RATE_PER_HOUR" xml:space="preserve">
+    <value>Tarif 1saat/{0}</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES" xml:space="preserve">
+    <value>{0} s {1} dəq</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_FIXED_TIME" xml:space="preserve">
+    <value>Sabit vaxt</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_DEPOSIT" xml:space="preserve">
+    <value>Balans</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_CREDIT" xml:space="preserve">
+    <value>Kredit</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve">
+    <value>{0} Dəqiqə</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve">
+    <value>Ümumi</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve">
+    <value>Kompüterlər</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve">
+    <value>{0} tarixinədək</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve">
+    <value>Mövcuddur</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve">
+    <value>Sifariş tarixi</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_TIME" xml:space="preserve">
+    <value>Qalıq</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT" xml:space="preserve">
+    <value>Adı</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve">
+    <value>Mövcud tariflər</value>
+  </data>
+  <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve">
+    <value>Ləğv edilib</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_TITLE" xml:space="preserve">
+    <value>Yardım çağır</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_ACCEPTED" xml:space="preserve">
+    <value>Əməkdaşımız sorğunuzu qəbul etdi və tezliklə sizə kömək etmək üçün yanınızda olacaq.</value>
+  </data>
+  <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED" xml:space="preserve">
+    <value>Sorğunuz emal edilə bilməz.</value>
+  </data>
+  <data name="GIZ_GEN_GUEST" xml:space="preserve">
+    <value>Qonaq</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_EXPIRES" xml:space="preserve">
+    <value>Etibarlıdır</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_REMAINING_TIME" xml:space="preserve">
+    <value>Qalan vaxt</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve">
+    <value>İstifadə müddəti</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve">
+    <value>Vaxt paketi</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_FIXED_TIME" xml:space="preserve">
+    <value>Sabit vaxt paketi</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_RATE" xml:space="preserve">
+    <value>Tarif</value>
+  </data>
+  <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve">
+    <value>Kreditdən istifadə</value>
+  </data>
+  <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve">
+    <value>Login is not allowed at this time due to age restrictions configuration.</value>
+  </data>
 </root>

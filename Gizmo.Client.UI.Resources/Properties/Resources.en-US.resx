@@ -1522,4 +1522,10 @@ Please recharge your account now.</value>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve">
     <value>Using credit</value>
   </data>
+  <data name="GIZ_SHOP_ORDER_PROMOCODE_PLACEHOLDER" xml:space="preserve">
+    <value>Discount code</value>
+  </data>
+  <data name="GIZ_SHOP_APPLY_PROMOCODE" xml:space="preserve">
+    <value>Apply</value>
+  </data>
 </root>

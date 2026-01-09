@@ -1531,4 +1531,10 @@ Please recharge your account now.</value>
   <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
     <value>You have been banned until {0}!</value>
   </data>
+  <data name="GIZ_SHOP_ORDER_PROMOCODE_PLACEHOLDER" xml:space="preserve">
+    <value>Discount code</value>
+  </data>
+  <data name="GIZ_SHOP_APPLY_PROMOCODE" xml:space="preserve">
+    <value>Apply</value>
+  </data>
 </root>

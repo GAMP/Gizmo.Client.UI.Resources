@@ -19,7 +19,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Resources {
@@ -2905,6 +2905,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Apply.
+        /// </summary>
+        public static string GIZ_SHOP_APPLY_PROMOCODE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_APPLY_PROMOCODE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Bundle description:.
         /// </summary>
         public static string GIZ_SHOP_CARD_BUNDLE_BUNDLE_DESCRIPTION {
@@ -3027,6 +3036,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_SHOP_ORDER_NOTE_PLACEHOLDER {
             get {
                 return ResourceManager.GetString("GIZ_SHOP_ORDER_NOTE_PLACEHOLDER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Discount code.
+        /// </summary>
+        public static string GIZ_SHOP_ORDER_PROMOCODE_PLACEHOLDER {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_ORDER_PROMOCODE_PLACEHOLDER", resourceCulture);
             }
         }
         
