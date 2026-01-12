@@ -61,6 +61,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Discount conditions not met.
+        /// </summary>
+        public static string DGIZ_SHOP_PROMOCODE_NOT_APPLIED {
+            get {
+                return ResourceManager.GetString("DGIZ_SHOP_PROMOCODE_NOT_APPLIED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Active applications.
         /// </summary>
         public static string GIZ_ACTIVE_APPS_TITLE {
@@ -3090,6 +3099,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_SHOP_PRODUCT_NAME {
             get {
                 return ResourceManager.GetString("GIZ_SHOP_PRODUCT_NAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Discount code applied.
+        /// </summary>
+        public static string GIZ_SHOP_PROMOCODE_APPLIED {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_PROMOCODE_APPLIED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Discount code cannot be used.
+        /// </summary>
+        public static string GIZ_SHOP_PROMOCODE_UNUSABLE {
+            get {
+                return ResourceManager.GetString("GIZ_SHOP_PROMOCODE_UNUSABLE", resourceCulture);
             }
         }
         

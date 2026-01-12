@@ -1528,4 +1528,13 @@ Please recharge your account now.</value>
   <data name="GIZ_SHOP_APPLY_PROMOCODE" xml:space="preserve">
     <value>Apply</value>
   </data>
+  <data name="GIZ_SHOP_PROMOCODE_UNUSABLE" xml:space="preserve">
+    <value>Discount code cannot be used</value>
+  </data>
+  <data name="GIZ_SHOP_PROMOCODE_APPLIED" xml:space="preserve">
+    <value>Discount code applied</value>
+  </data>
+  <data name="DGIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
+    <value>Discount conditions not met</value>
+  </data>
 </root>
