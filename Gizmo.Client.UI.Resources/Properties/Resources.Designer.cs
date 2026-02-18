@@ -1528,6 +1528,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Only reservation owner or guests with reservation pin can be loggined.
+        /// </summary>
+        public static string GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Login is currently blocked..
         /// </summary>
         public static string GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED {
@@ -1542,6 +1551,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED {
             get {
                 return ResourceManager.GetString("GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you log in now, you will be automatically logged out at the specified time.
+        /// </summary>
+        public static string GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE", resourceCulture);
             }
         }
         
@@ -1605,6 +1623,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_LOGIN_OR {
             get {
                 return ResourceManager.GetString("GIZ_LOGIN_OR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reservation code.
+        /// </summary>
+        public static string GIZ_LOGIN_PIN_INPUT_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_LOGIN_PIN_INPUT_LABEL", resourceCulture);
             }
         }
         
