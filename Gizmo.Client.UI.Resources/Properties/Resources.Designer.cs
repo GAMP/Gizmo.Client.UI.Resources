@@ -682,6 +682,141 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Verify session.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This host is reserved for another user.&lt;br&gt;Enter the reservation code to continue the session..
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Verify reservation.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Paid.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAID_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAID_LABEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Payment method.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAYMENT_METHOD_INPUT_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAYMENT_METHOD_INPUT_LABEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Complete payment to continue.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to To be paid.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TO_BE_PAID_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TO_BE_PAID_LABEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Total.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Verify session.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This host is reserved for another user.&lt;br/&gt;Enter the reservation code to continue the session..
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Verify reservation.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ignore.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Go to payment.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This reservation requires payment to continue.&lt;br/&gt;Continue the payment to unlock the session..
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Complete payment.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Confirmation code should have {0} digits!.
         /// </summary>
         public static string GIZ_CONFIRMATION_CODE_LENGTH_ERROR {
@@ -1623,15 +1758,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_LOGIN_OR {
             get {
                 return ResourceManager.GetString("GIZ_LOGIN_OR", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Reservation code.
-        /// </summary>
-        public static string GIZ_LOGIN_PIN_INPUT_LABEL {
-            get {
-                return ResourceManager.GetString("GIZ_LOGIN_PIN_INPUT_LABEL", resourceCulture);
             }
         }
         
@@ -2928,6 +3054,60 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED {
             get {
                 return ResourceManager.GetString("GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You can also complete the payment at the counter with the operator..
+        /// </summary>
+        public static string GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Available deposit:.
+        /// </summary>
+        public static string GIZ_RESERVATION_AVAILABLE_DEPOSITS_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_RESERVATION_AVAILABLE_DEPOSITS_LABEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Or.
+        /// </summary>
+        public static string GIZ_RESERVATION_OR {
+            get {
+                return ResourceManager.GetString("GIZ_RESERVATION_OR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reservation code.
+        /// </summary>
+        public static string GIZ_RESERVATION_PIN_INPUT_LABEL {
+            get {
+                return ResourceManager.GetString("GIZ_RESERVATION_PIN_INPUT_LABEL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scan the QR code below to complete the payment.&lt;br&gt;You’ll be signed in automatically once the payment is processed..
+        /// </summary>
+        public static string GIZ_RESERVATION_QR_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_RESERVATION_QR_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to QR-code for payment on phone.
+        /// </summary>
+        public static string GIZ_RESERVATION_QR_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_RESERVATION_QR_TITLE", resourceCulture);
             }
         }
         

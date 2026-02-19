@@ -1552,7 +1552,67 @@ Please recharge your account now.</value>
   <data name="GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE" xml:space="preserve">
     <value>If you log in now, you will be automatically logged out at the specified time</value>
   </data>
-  <data name="GIZ_LOGIN_PIN_INPUT_LABEL" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Complete payment to continue</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Verify reservation</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Verify session</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>This host is reserved for another user.&lt;br&gt;Enter the reservation code to continue the session.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAID_LABEL" xml:space="preserve">
+    <value>Paid</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TO_BE_PAID_LABEL" xml:space="preserve">
+    <value>To be paid</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAYMENT_METHOD_INPUT_LABEL" xml:space="preserve">
+    <value>Payment method</value>
+  </data>
+  <data name="GIZ_RESERVATION_PIN_INPUT_LABEL" xml:space="preserve">
     <value>Reservation code</value>
+  </data>
+  <data name="GIZ_RESERVATION_OR" xml:space="preserve">
+    <value>Or</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_TITLE" xml:space="preserve">
+    <value>QR-code for payment on phone</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_MESSAGE" xml:space="preserve">
+    <value>Scan the QR code below to complete the payment.&lt;br&gt;You’ll be signed in automatically once the payment is processed.</value>
+  </data>
+  <data name="GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE" xml:space="preserve">
+    <value>You can also complete the payment at the counter with the operator.</value>
+  </data>
+  <data name="GIZ_RESERVATION_AVAILABLE_DEPOSITS_LABEL" xml:space="preserve">
+    <value>Available deposit:</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Verify reservation</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>This host is reserved for another user.&lt;br/&gt;Enter the reservation code to continue the session.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Complete payment</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE" xml:space="preserve">
+    <value>This reservation requires payment to continue.&lt;br/&gt;Continue the payment to unlock the session.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON" xml:space="preserve">
+    <value>Ignore</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
+    <value>Go to payment</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Verify session</value>
   </data>
 </root>
