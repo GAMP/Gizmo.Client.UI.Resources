@@ -1615,4 +1615,7 @@ Please recharge your account now.</value>
   <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
     <value>Verify session</value>
   </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON" xml:space="preserve">
+    <value>Pay</value>
+  </data>
 </root>

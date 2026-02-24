@@ -709,6 +709,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Pay.
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Paid.
         /// </summary>
         public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAID_LABEL {
