@@ -709,6 +709,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your deposit balance is not enough to cover this payment..
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_DEPOSITS_NOT_ENOUGH_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_DEPOSITS_NOT_ENOUGH_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Pay.
         /// </summary>
         public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON {
