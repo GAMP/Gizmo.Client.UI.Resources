@@ -700,7 +700,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Verify reservation.
+        ///   Looks up a localized string similar to Confirm reservation.
         /// </summary>
         public static string GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_TITLE {
             get {
@@ -723,6 +723,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON {
             get {
                 return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please complete the payment at the counter with the operator to continue..
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_MESSAGE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Payments are not available..
+        /// </summary>
+        public static string GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_TITLE", resourceCulture);
             }
         }
         
@@ -772,7 +790,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Verify session.
+        ///   Looks up a localized string similar to Confirm session.
         /// </summary>
         public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON {
             get {
@@ -790,7 +808,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Verify reservation.
+        ///   Looks up a localized string similar to Confirm reservation.
         /// </summary>
         public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE {
             get {
