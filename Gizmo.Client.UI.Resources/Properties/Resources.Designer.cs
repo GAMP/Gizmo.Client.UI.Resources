@@ -1699,7 +1699,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Only reservation owner or guests with reservation pin can be loggined.
+        ///   Looks up a localized string similar to Only reservation owner or guests with reservation pin can be logged in..
         /// </summary>
         public static string GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE {
             get {

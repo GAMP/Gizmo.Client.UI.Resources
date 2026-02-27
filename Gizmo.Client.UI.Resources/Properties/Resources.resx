@@ -1547,7 +1547,7 @@ Please recharge your account now.</value>
     <value>Discount conditions not met</value>
   </data>
   <data name="GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE" xml:space="preserve">
-    <value>Only reservation owner or guests with reservation pin can be loggined</value>
+    <value>Only reservation owner or guests with reservation pin can be logged in.</value>
   </data>
   <data name="GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE" xml:space="preserve">
     <value>If you log in now, you will be automatically logged out at the specified time</value>
