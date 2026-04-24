@@ -1627,4 +1627,8 @@ Please recharge your account now.</value>
   <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_MESSAGE" xml:space="preserve">
     <value>Please complete the payment at the counter with the operator to continue.</value>
   </data>
+  <data name="GIZ_USAGE_TYPE_NONE" xml:space="preserve">
+    <value>Time</value>
+    <comment>None represents an unknow usage types, usually only possible with external plugin modules</comment>
+  </data>
 </root>

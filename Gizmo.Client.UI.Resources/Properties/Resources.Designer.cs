@@ -3545,6 +3545,15 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Time.
+        /// </summary>
+        public static string GIZ_USAGE_TYPE_NONE {
+            get {
+                return ResourceManager.GetString("GIZ_USAGE_TYPE_NONE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Rate.
         /// </summary>
         public static string GIZ_USAGE_TYPE_RATE {
