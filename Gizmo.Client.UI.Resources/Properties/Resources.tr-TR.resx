@@ -190,31 +190,7 @@
     <value>Çevrimiçi Çok Oyunculu</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve">
-    <value>Abonelik Gerektirir
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</value>
+    <value>Abonelik Gerektirir</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_SETTINGS" xml:space="preserve">
     <value>Ayarlar</value>
@@ -256,7 +232,7 @@
     <value>Yükleniyor</value>
   </data>
   <data name="GIZ_APPS_MEDIA" xml:space="preserve">
-    <value>Yükleniyor</value>
+    <value>Medya</value>
   </data>
   <data name="GIZ_APPS_PARAMETERS" xml:space="preserve">
     <value>Parametreler:</value>
@@ -433,7 +409,7 @@
     <value>Şimdi kaydolun</value>
   </data>
   <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve">
-    <value>Gizli Bakiye</value>
+    <value>Gizli</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
     <value>Hepsi okundu olarak işaretle</value>
@@ -619,7 +595,7 @@
     <value>Hızlı seçim</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_TITLE" xml:space="preserve">
-    <value>PC'den ödeme</value>
+    <value>Bakiye Yükle</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve">
     <value>Ödenecek:</value>
@@ -685,7 +661,7 @@
     <value>Ayarlar</value>
   </data>
   <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
-    <value>Top Up</value>
+    <value>Bakiye yükle</value>
   </data>
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">
     <value>Kişisel bilgiler</value>
@@ -790,7 +766,7 @@
     <value>Ayarlanmamış değer</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
-    <value>Devam Etmek için Kod Girin</value>
+    <value>Kilidi aç</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve">
     <value>PIN kodumu unuttum</value>
@@ -799,7 +775,7 @@
     <value>Profil Kilidi şu anda açık</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve">
-    <value>Bu profile erişmek için PIN kodunuzu girin</value>
+    <value>Kilidi açmak için PIN kodunuzu girin</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
     <value>Bu profili 4 haneli bir pin oluşturarak kilitleyin. Ezberleyin veya bir yere yazın.</value>
@@ -820,7 +796,7 @@
     <value>Telefon doğrulanamıyor.</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve">
-    <value>Parola kurtarma kodu geçerlilik hatası</value>
+    <value>Doğrulama kodu doğrulanamadı. Lütfen tekrar deneyin.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve">
     <value>Kullanıcı adı doğrulanamıyor.</value>
@@ -835,13 +811,13 @@
     <value>Maksimum miktar {0}'dır.</value>
   </data>
   <data name="GIZ_APP_FILTERS_ALL_APPS" xml:space="preserve">
-    <value>Tüm ürünler</value>
+    <value>Tüm uygulamalar</value>
   </data>
   <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve">
     <value>Yeni sürümler</value>
   </data>
   <data name="GIZ_APP_FILTERS_POPULAR_APPS" xml:space="preserve">
-    <value>Popüler ürünler</value>
+    <value>Popüler uygulamalar</value>
   </data>
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve">
     <value>Son Eklenenler</value>
@@ -904,7 +880,7 @@
     <value>Hayır</value>
   </data>
   <data name="GIZ_GEN_OK" xml:space="preserve">
-    <value>TAMAM.</value>
+    <value>Tamam</value>
   </data>
   <data name="GIZ_GEN_YES" xml:space="preserve">
     <value>Evet</value>
@@ -1003,7 +979,7 @@
     <value>Bu bilgisayarda kullanılamaz.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
-    <value>Bu ürünü şu an için kullanamazsınız. Bu ürünü satın almak istediğinizden emin misiniz?</value>
+    <value>Bu zaman ürünü şu anda kullanılamıyor. Sonra kullanmak için satın alınsın mı?</value>
   </data>
   <data name="GIZ_GEN_NEVER" xml:space="preserve">
     <value>Asla</value>
@@ -1051,7 +1027,7 @@
     <value>Hatalı PIN</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve">
-    <value>Parola 4 haneli olmalıdır!</value>
+    <value>PIN 4 haneli olmalıdır.</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve">
     <value>Lütfen en az {0} karakter girin.</value>
@@ -1105,28 +1081,28 @@
     <value>Yaş derecelendirmesi</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve">
-    <value>Zaten bir uygulama çalıştırıyorsunuz. Çalışan herhangi bir uygulamayı sonlandırmak ve devam etmek için kabul tuşuna basın.</value>
+    <value>Zaten bir uygulama çalıştırıyorsunuz. Sonlandırıp devam etmek ister misiniz?</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve">
     <value>Maksimum uygulama sayısı</value>
   </data>
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Bu yürütülebilir dosyayı iptal etmek istediğinizden emin misiniz?</value>
+    <value>Başlatmayı iptal etmek istediğinizden emin misiniz?</value>
   </data>
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Doğrulama</value>
+    <value>Başlatmayı iptal et</value>
   </data>
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Bu çalıştırılabilir dosyayı onarmak istediğinizden emin misiniz?</value>
+    <value>Bu uygulamayı onarmak istediğinizden emin misiniz?</value>
   </data>
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Doğrulama</value>
+    <value>Uygulamayı onar</value>
   </data>
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Bu yürütülebilir dosyayı sonlandırmak istediğinizden emin misiniz?</value>
+    <value>Bu uygulamayı sonlandırmak istediğinizden emin misiniz?</value>
   </data>
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Doğrulama</value>
+    <value>Uygulamayı sonlandır</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
     <value>Bir hata oluştu. Şifre değiştirme başarısız oldu!</value>
@@ -1135,7 +1111,7 @@
     <value>Doğrulama</value>
   </data>
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
-    <value>Bu siparişi vermek için yeterli mevduatınız yok.</value>
+    <value>Depozito bakiyeniz bu siparişi karşılamak için yeterli değil.</value>
   </data>
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
     <value>Hata</value>
@@ -1241,7 +1217,7 @@
   </data>
   <data name="GIZ_TIME_NOTIFICATION_MESSAGE" xml:space="preserve">
     <value>{0} dakikanız kaldı.
-</value>
+Lütfen hesabınıza şimdi bakiye yükleyin.</value>
   </data>
   <data name="GIZ_TIME_NOTIFICATION_TITLE" xml:space="preserve">
     <value>Zaman tükeniyor</value>
@@ -1361,7 +1337,7 @@
     <value>Bir şey seçin</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve">
-    <value>İletişim nedenini seçin</value>
+    <value>Neden gereklidir.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve">
     <value>Size nasıl yardımcı olabiliriz?</value>
@@ -1379,7 +1355,7 @@
     <value>Lütfen operatör talebinizi kabul edene kadar bekleyin, cevap bildirim bölümünde gönderilecektir.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve">
-    <value>Talebi reddet</value>
+    <value>Talebi iptal et</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve">
     <value>Yardım talebi işleme alınamadı.</value>
@@ -1388,25 +1364,25 @@
     <value>Oynamaya devam etmek için bakiyenizi doldurun.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve">
-    <value>Oynamaya devam etmek için kredi faturanızı kapatın ve bakiyenizi yükleyin.</value>
+    <value>Oynamaya devam etmek için bekleyen kredinizi ödeyip bakiyenizi yükleyin.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve">
     <value>Oynamaya devam etmek için bir zaman paketi satın alın.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve">
-    <value>Oynamaya devam etmek için kredi faturanızı kapatın ve bir zaman paketi satın alın.</value>
+    <value>Oynamaya devam etmek için bekleyen kredinizi ödeyip bir zaman paketi satın alın.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve">
     <value>Oynamaya devam etmek için bir zaman paketi satın alın ve/veya bakiyenizi doldurun.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve">
-    <value>Oynamaya devam etmek için kredi faturanızı kapatın ve bir zaman paketi satın alın ve/veya bakiyenizi doldurun.</value>
+    <value>Oynamaya devam etmek için bekleyen kredinizi ödeyip bir zaman paketi satın alın ve/veya bakiyenizi yükleyin.</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve">
     <value>Etkinleştirildi {0}</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve">
-    <value>Sona erdi</value>
+    <value>Bitiş</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve">
     <value>Satın alma işleminden {0}</value>
@@ -1433,7 +1409,7 @@
     <value>Özellikler</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE" xml:space="preserve">
-    <value>Oturum sonunda faturanızı kapatmayı unutmayın.</value>
+    <value>Oturumunuzun sonunda hesabınızı kapatmayı unutmayın.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE" xml:space="preserve">
     <value>Sınırsız zaman kredisi seçeneğini etkinleştirdiğiniz sürece oturum sona ermeyecektir.</value>
@@ -1442,22 +1418,22 @@
     <value>Geçerli süre sona erdiğinde oturum sonlandırılacaktır.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TOP_UP" xml:space="preserve">
-    <value>Üst bakiye</value>
+    <value>Bakiye yükle</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_GO_TO_SHOP" xml:space="preserve">
     <value>Mağazaya Git</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_CREDIT" xml:space="preserve">
-    <value>Hesapta kredi mevcuttur.</value>
+    <value>Kredi ile oynamaya devam edebilirsiniz.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION" xml:space="preserve">
     <value>Sınırsız kredi</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Mağaza kredisi mevcuttur</value>
+    <value>Mağaza ürünlerini kredi ile satın alabilirsiniz.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Oyun süresi için kredi mevcuttur</value>
+    <value>Süreyi kredi ile oynayabilirsiniz.</value>
   </data>
   <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve">
     <value>Kredi</value>
@@ -1472,7 +1448,7 @@
     <value>Ücret {0}/saat</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES" xml:space="preserve">
-    <value>{0} h {1} min</value>
+    <value>{0} sa {1} dk</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_FIXED_TIME" xml:space="preserve">
     <value>Sabit Zaman</value>
@@ -1547,6 +1523,114 @@
     <value>Kredi kullanımı</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve">
-    <value>Login is not allowed at this time due to age restrictions configuration.</value>
+    <value>Yaş kısıtlaması ayarları nedeniyle şu anda giriş izni yok.</value>
+  </data>
+  <data name="DGIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
+    <value>İndirim koşulları sağlanmadı</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Rezervasyonu onayla</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>Bu bilgisayar başka bir kullanıcı için rezerve edilmiştir.&lt;br&gt;Oturuma devam etmek için rezervasyon kodunu girin.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Rezervasyonu onayla</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_DEPOSITS_NOT_ENOUGH_MESSAGE" xml:space="preserve">
+    <value>Depozito bakiyeniz bu ödemeyi karşılamak için yeterli değil.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON" xml:space="preserve">
+    <value>Öde</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_MESSAGE" xml:space="preserve">
+    <value>Devam etmek için lütfen ödemeyi kasada operatörle tamamlayın.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_TITLE" xml:space="preserve">
+    <value>Ödemeler kullanılamıyor.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAID_LABEL" xml:space="preserve">
+    <value>Ödendi</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAYMENT_METHOD_INPUT_LABEL" xml:space="preserve">
+    <value>Ödeme yöntemi</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Devam etmek için ödemeyi tamamlayın</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TO_BE_PAID_LABEL" xml:space="preserve">
+    <value>Ödenecek</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL" xml:space="preserve">
+    <value>Toplam</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Rezervasyonu onayla</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>Bu bilgisayar başka bir kullanıcı için rezerve edilmiştir.&lt;br/&gt;Oturuma devam etmek için rezervasyon kodunu girin.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Rezervasyonu onayla</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON" xml:space="preserve">
+    <value>Yoksay</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
+    <value>Ödemeye git</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE" xml:space="preserve">
+    <value>Bu rezervasyonun devam edebilmesi için ödeme gerekiyor.&lt;br/&gt;Oturumun kilidini açmak için ödemeye devam edin.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Ödemeyi tamamlayın</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE" xml:space="preserve">
+    <value>Yalnızca rezervasyon sahibi veya rezervasyon kodu olan misafirler oturum açabilir.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE" xml:space="preserve">
+    <value>Şimdi oturum açarsanız, belirtilen zamanda otomatik olarak oturumunuz kapatılacaktır</value>
+  </data>
+  <data name="GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE" xml:space="preserve">
+    <value>Ödemeyi kasada operatörle de tamamlayabilirsiniz.</value>
+  </data>
+  <data name="GIZ_RESERVATION_AVAILABLE_DEPOSITS_LABEL" xml:space="preserve">
+    <value>Kullanılabilir depozito:</value>
+  </data>
+  <data name="GIZ_RESERVATION_OR" xml:space="preserve">
+    <value>Veya</value>
+  </data>
+  <data name="GIZ_RESERVATION_PIN_INPUT_LABEL" xml:space="preserve">
+    <value>Rezervasyon kodu</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_MESSAGE" xml:space="preserve">
+    <value>Ödemeyi tamamlamak için aşağıdaki QR kodunu tarayın.&lt;br&gt;Ödeme işlendikten sonra otomatik olarak oturum açılacaktır.</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_TITLE" xml:space="preserve">
+    <value>Telefonla ödeme için QR kodu</value>
+  </data>
+  <data name="GIZ_SHOP_APPLY_PROMOCODE" xml:space="preserve">
+    <value>Uygula</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_PROMOCODE_PLACEHOLDER" xml:space="preserve">
+    <value>İndirim kodu</value>
+  </data>
+  <data name="GIZ_SHOP_PROMOCODE_APPLIED" xml:space="preserve">
+    <value>İndirim kodu uygulandı</value>
+  </data>
+  <data name="GIZ_SHOP_PROMOCODE_UNUSABLE" xml:space="preserve">
+    <value>İndirim kodu kullanılamıyor</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_NONE" xml:space="preserve">
+    <value>Süre</value>
+  </data>
+  <data name="GIZ_USER_BAN_LOGOUT" xml:space="preserve">
+    <value>Çıkış</value>
+  </data>
+  <data name="GIZ_USER_BAN_MESSAGE" xml:space="preserve">
+    <value>Yasaklandınız!</value>
+  </data>
+  <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
+    <value>{0} tarihine kadar yasaklandınız!</value>
   </data>
 </root>

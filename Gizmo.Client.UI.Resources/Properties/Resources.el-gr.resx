@@ -166,10 +166,10 @@
     <value>Εφαρμογή</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_CO_OP" xml:space="preserve">
-    <value>Co-Op Lan</value>
+    <value>Συνεργατικό LAN</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_CO_OP_ONLINE" xml:space="preserve">
-    <value>Co-Op Online</value>
+    <value>Συνεργατικό Online</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_FREE_TO_PLAY" xml:space="preserve">
     <value>Δωρεάν</value>
@@ -181,13 +181,13 @@
     <value>Παιχνίδι</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_MULTIPLAYER" xml:space="preserve">
-    <value>Lan Multiplayer</value>
+    <value>Πολλαπλοί παίκτες LAN</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_ONE_TIME_PURCHASE" xml:space="preserve">
     <value>Απαιτεί Αγορά</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_ONLINE" xml:space="preserve">
-    <value>Online Multiplayer</value>
+    <value>Πολλαπλοί παίκτες Online</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION" xml:space="preserve">
     <value>Απαιτεί συνδρομή</value>
@@ -196,10 +196,10 @@
     <value>Ρυθμίσεις</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve">
-    <value>Single Player</value>
+    <value>Ένας παίκτης</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve">
-    <value>Split Screen</value>
+    <value>Διαχωρισμένη οθόνη</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_UTILITY" xml:space="preserve">
     <value>Βοήθημα</value>
@@ -214,7 +214,7 @@
     <value>Ενεργές εφαρμογές</value>
   </data>
   <data name="GIZ_APPS_AUTO_START" xml:space="preserve">
-    <value>Εκκίνηση!</value>
+    <value>Αυτόματη εκκίνηση</value>
   </data>
   <data name="GIZ_APPS_CATEGORY" xml:space="preserve">
     <value>Κατηγορία:</value>
@@ -241,7 +241,7 @@
     <value>Προσωπικά αρχεία</value>
   </data>
   <data name="GIZ_APPS_PLAYER_MODE" xml:space="preserve">
-    <value>Player Mode</value>
+    <value>Λειτουργία παίκτη</value>
   </data>
   <data name="GIZ_APPS_PUBLISHER" xml:space="preserve">
     <value>Εκδότης</value>
@@ -283,7 +283,7 @@
     <value>Πίσω σε {0}</value>
   </data>
   <data name="GIZ_GEN_BALANCE" xml:space="preserve">
-    <value>Ισοζύγιο</value>
+    <value>Υπόλοιπο</value>
   </data>
   <data name="GIZ_GEN_CANCEL" xml:space="preserve">
     <value>Ακύρωση</value>
@@ -409,10 +409,10 @@
     <value>Εγγραφή τώρα</value>
   </data>
   <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve">
-    <value>Κρυφό Ισοζύγιο</value>
+    <value>Κρυφό</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
-    <value>Επισήμανση όλων ως αναγνωσμένα</value>
+    <value>Επισήμανση όλων ως αναγνωσμένων</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve">
     <value>Επισήμανση ως αναγνωσμένο</value>
@@ -766,7 +766,7 @@
     <value>Μη ορισμένη τιμή</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
-    <value>Εισαγωγή κωδικού για συνέχεια</value>
+    <value>Ξεκλείδωμα</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve">
     <value>Ξέχασα το PIN</value>
@@ -775,7 +775,7 @@
     <value>Το κλείδωμα προφίλ είναι ενεργό</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve">
-    <value>Εισάγετε PIN για να ξεκλειδώσετε το προφίλ σας.</value>
+    <value>Εισάγετε το PIN για ξεκλείδωμα</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
     <value>Κλειδώστε το προφίλ σας με χρήση 4ψήφιου κωδικού. Απομνημονεύστε το ή γράψτε το.</value>
@@ -796,7 +796,7 @@
     <value>Αδυναμία επαλήθευσης τηλεφώνου.</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve">
-    <value>Σφάλμα ελέγχου εγκυρότητας κλειδιού επαναφοράς κωδικού.</value>
+    <value>Δεν ήταν δυνατή η επαλήθευση του κωδικού επιβεβαίωσης. Παρακαλώ δοκιμάστε ξανά.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve">
     <value>Αδυναμία επαλήθευσης ονόματος χρήστη.</value>
@@ -940,7 +940,7 @@
     <value>λ.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_MINUTES_ABBREVIATED" xml:space="preserve">
-    <value>λεπτά</value>
+    <value>λεπτ.</value>
   </data>
   <data name="GIZ_GEN_PIECES_ABBREVIATED" xml:space="preserve">
     <value>τμχ.</value>
@@ -979,7 +979,7 @@
     <value>Δεν είναι διαθέσιμο σε αυτό το τερματικό.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
-    <value>Δεν μπορείτε να χρησιμοποιήσετε το προϊόν αυτή τη στιγμή. Θέλετε σίγουρα να το αγοράσετε;</value>
+    <value>Αυτό το προϊόν χρόνου δεν μπορεί να χρησιμοποιηθεί αυτή τη στιγμή. Να το αγοράσετε για μελλοντική χρήση;</value>
   </data>
   <data name="GIZ_GEN_NEVER" xml:space="preserve">
     <value>Ποτέ</value>
@@ -1027,7 +1027,7 @@
     <value>Λάθος PIN</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve">
-    <value>Ο κωδικός πρέπει να έχει 4 ψηφία!</value>
+    <value>Το PIN πρέπει να έχει 4 ψηφία.</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve">
     <value>Παρακαλώ εισάγετε τουλάχιστον {0} χαρακτήρες.</value>
@@ -1081,29 +1081,29 @@
     <value>Περιορισμός λόγω ηλικίας</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve">
-    <value>Εκτελείται ήδη μια εφαρμογή. Πατήστε αποδοχή για να τερματιστεί και να συνεχίσετε.</value>
+    <value>Εκτελείται ήδη μια εφαρμογή. Θέλετε να τερματιστεί και να συνεχίσετε;</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve">
     <value>Μέγιστο πλήθος εφαρμογών</value>
   </data>
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Είστε βέβαιοι ότι θέλετε να ακυρώσετε την εφαρμογή;</value>
+    <value>Είστε βέβαιοι ότι θέλετε να ακυρώσετε την εκκίνηση;</value>
   </data>
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Επιβεβαίωση</value>
+    <value>Ακύρωση εκκίνησης</value>
   </data>
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Είστε βέβαιοι ότι θέλετε να επιδιορθώσετε την εφαρμογή;
+    <value>Είστε βέβαιοι ότι θέλετε να επιδιορθώσετε αυτή την εφαρμογή;
 Οι ρυθμίσεις/πρόοδος πιθανότατα να αντικατασταθούν με μία παλαιότερη έκδοση.</value>
   </data>
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Επιβεβαίωση</value>
+    <value>Επιδιόρθωση εφαρμογής</value>
   </data>
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Είστε βέβαιοι ότι θέλετε να τερματίσετε την εφαρμογή;</value>
+    <value>Είστε βέβαιοι ότι θέλετε να τερματίσετε αυτή την εφαρμογή;</value>
   </data>
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Επιβεβαίωση</value>
+    <value>Τερματισμός εφαρμογής</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
     <value>Παρουσιάστηκε ένα σφάλμα. Η αλλαγή κωδικού απέτυχε.</value>
@@ -1112,7 +1112,7 @@
     <value>Επιβεβαίωση</value>
   </data>
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
-    <value>Οι καταθέσεις σας δεν επαρκούν για την αγορά</value>
+    <value>Το υπόλοιπο καταθέσεών σας δεν επαρκεί για αυτή την παραγγελία.</value>
   </data>
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
     <value>Σφάλμα</value>
@@ -1175,7 +1175,7 @@
     <value>Αποσύνδεση</value>
   </data>
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
-    <value>Ο χρόνος σας έχει τελειώσει.&lt;br&gt;Ανανεώστε τον χρόνο σας στο ταμείο ή&lt;br&gt;πατήστε "αποσύνδεση" για να τερματίσετε τη σύνδεσή σας.</value>
+    <value>Ο χρόνος σας έχει τελειώσει.&lt;br&gt;Ανανεώστε τον χρόνο σας στο ταμείο ή&lt;br&gt;πατήστε "αποσύνδεση" για να τερματίσετε τη συνεδρία σας.</value>
   </data>
   <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve">
     <value>Εκτός λειτουργίας</value>
@@ -1217,7 +1217,8 @@
     <value>Παραγγελία σε αναμονή</value>
   </data>
   <data name="GIZ_TIME_NOTIFICATION_MESSAGE" xml:space="preserve">
-    <value>Απομένουν {0} λεπτά.&lt;br&gt;Παρακαλώ προσθέστε χρόνο στο λογαριασμό σας.</value>
+    <value>Απομένουν {0} λεπτά.
+Παρακαλώ προσθέστε χρόνο στο λογαριασμό σας.</value>
   </data>
   <data name="GIZ_TIME_NOTIFICATION_TITLE" xml:space="preserve">
     <value>Ο χρόνος τελειώνει</value>
@@ -1337,7 +1338,7 @@
     <value>Επιλέξτε κάτι</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve">
-    <value>Επιλέξτε τον λόγο επικοινωνίας</value>
+    <value>Ο λόγος είναι υποχρεωτικός.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve">
     <value>Πως μπορούμε να σας βοηθήσουμε;</value>
@@ -1355,7 +1356,7 @@
     <value>Παρακαλώ περιμένετε μέχρι ο χειριστής να αποδεχτεί το αίτημα σας, η απάντηση θα σας αποσταλεί στην περιοχή των ειδοποιήσεων.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve">
-    <value>Απόρριψη αιτήματος</value>
+    <value>Ακύρωση αιτήματος</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve">
     <value>Η επεξεργασία του αιτήματος βοήθειας απέτυχε.</value>
@@ -1364,19 +1365,19 @@
     <value>Για να συνεχίσετε να παίζετε κάντε κατάθεση.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve">
-    <value>Για να συνεχίσετε να παίζετε, εξοφλήστε και κάντε κατάθεση.</value>
+    <value>Για να συνεχίσετε να παίζετε, εξοφλήστε την οφειλή σας και κάντε κατάθεση.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve">
     <value>Για να συνεχίσετε να παίζετε αγοράστε ένα προϊόν χρόνου.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve">
-    <value>Για να συνεχίσετε να παίζετε, εξοφλήστε και αγοράστε ένα προϊόν χρόνου.</value>
+    <value>Για να συνεχίσετε να παίζετε, εξοφλήστε την οφειλή σας και αγοράστε ένα προϊόν χρόνου.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve">
     <value>Για να συνεχίσετε να παίζετε αγοράστε ένα προϊόν χρόνου ή κάντε κατάθεση.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve">
-    <value>Για να συνεχίσετε να παίζετε, εξοφλήστε και αγοράστε ένα προϊόν χρόνου ή κάντε κατάθεση.</value>
+    <value>Για να συνεχίσετε να παίζετε, εξοφλήστε την οφειλή σας και αγοράστε ένα προϊόν χρόνου ή/και κάντε κατάθεση.</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve">
     <value>Ενεργοποιήθηκε {0}</value>
@@ -1409,7 +1410,7 @@
     <value>Ιδιότητες</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE" xml:space="preserve">
-    <value>Μην ξεχάσετε να εξοφλήσετε στο τέλος της συνεδρίας.</value>
+    <value>Μην ξεχάσετε να εξοφλήσετε τον λογαριασμό σας στο τέλος της συνεδρίας.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE" xml:space="preserve">
     <value>Η συνεδρία δεν θα τερματιστεί καθώς έχετε ενεργή την απεριόριστη πίστωση.</value>
@@ -1424,16 +1425,16 @@
     <value>Πήγαινε στο Κατάστημα</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_CREDIT" xml:space="preserve">
-    <value>Η πίστωση είναι διαθέσιμη στον λογαριασμό.</value>
+    <value>Μπορείτε να συνεχίσετε να παίζετε με πίστωση.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION" xml:space="preserve">
     <value>Απεριόριστη πίστωση</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Διαθέσιμη πίστωση για πωλήσεις</value>
+    <value>Επιτρέπεται να αγοράζετε προϊόντα του καταστήματος με πίστωση.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Διαθέσιμη πίστωση για χρόνο</value>
+    <value>Επιτρέπεται να παίζετε με πίστωση χρόνου.</value>
   </data>
   <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve">
     <value>Πίστωση</value>
@@ -1487,7 +1488,7 @@
     <value>Διαθέσιμος χρόνος</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve">
-    <value>Ακυρώθηκε</value>
+    <value>Άκυρη</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_TITLE" xml:space="preserve">
     <value>Αίτημα Βοήθειας</value>
@@ -1508,7 +1509,7 @@
     <value>Υπολειπόμενος χρόνος</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve">
-    <value>Χρόνος χρήσης</value>
+    <value>Αξιοποιήσιμος χρόνος</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve">
     <value>Προσφορά χρόνου</value>
@@ -1524,5 +1525,113 @@
   </data>
   <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve">
     <value>Η είσοδος δεν επιτρέπεται αυτή την ώρα λόγω των ρυθμίσεων περιορισμών ηλικίας.</value>
+  </data>
+  <data name="DGIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
+    <value>Δεν πληρούνται οι προϋποθέσεις έκπτωσης</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Επιβεβαίωση κράτησης</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>Αυτός ο υπολογιστής είναι κρατημένος για άλλον χρήστη.&lt;br&gt;Πληκτρολογήστε τον κωδικό κράτησης για να συνεχίσετε.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Επιβεβαίωση κράτησης</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_DEPOSITS_NOT_ENOUGH_MESSAGE" xml:space="preserve">
+    <value>Η κατάθεσή σας δεν επαρκεί για αυτή την πληρωμή.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON" xml:space="preserve">
+    <value>Πληρωμή</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_MESSAGE" xml:space="preserve">
+    <value>Παρακαλώ ολοκληρώστε την πληρωμή στο ταμείο με τον υπεύθυνο για να συνεχίσετε.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_TITLE" xml:space="preserve">
+    <value>Οι πληρωμές δεν είναι διαθέσιμες.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAID_LABEL" xml:space="preserve">
+    <value>Πληρωμένο</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAYMENT_METHOD_INPUT_LABEL" xml:space="preserve">
+    <value>Μέθοδος πληρωμής</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Ολοκληρώστε την πληρωμή για να συνεχίσετε</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TO_BE_PAID_LABEL" xml:space="preserve">
+    <value>Προς πληρωμή</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL" xml:space="preserve">
+    <value>Σύνολο</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Επιβεβαίωση κράτησης</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>Αυτός ο υπολογιστής είναι κρατημένος για άλλον χρήστη.&lt;br/&gt;Πληκτρολογήστε τον κωδικό κράτησης για να συνεχίσετε.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Επιβεβαίωση κράτησης</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON" xml:space="preserve">
+    <value>Αγνόηση</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
+    <value>Μετάβαση στην πληρωμή</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE" xml:space="preserve">
+    <value>Αυτή η κράτηση απαιτεί πληρωμή για να συνεχίσει.&lt;br/&gt;Ολοκληρώστε την πληρωμή για να ξεκλειδώσετε τη συνεδρία.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Ολοκληρώστε την πληρωμή</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE" xml:space="preserve">
+    <value>Μόνο ο κάτοχος της κράτησης ή επισκέπτες με κωδικό κράτησης μπορούν να συνδεθούν.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE" xml:space="preserve">
+    <value>Αν συνδεθείτε τώρα, θα αποσυνδεθείτε αυτόματα στην καθορισμένη ώρα</value>
+  </data>
+  <data name="GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE" xml:space="preserve">
+    <value>Μπορείτε επίσης να ολοκληρώσετε την πληρωμή στο ταμείο με τον υπεύθυνο.</value>
+  </data>
+  <data name="GIZ_RESERVATION_AVAILABLE_DEPOSITS_LABEL" xml:space="preserve">
+    <value>Διαθέσιμη κατάθεση:</value>
+  </data>
+  <data name="GIZ_RESERVATION_OR" xml:space="preserve">
+    <value>Ή</value>
+  </data>
+  <data name="GIZ_RESERVATION_PIN_INPUT_LABEL" xml:space="preserve">
+    <value>Κωδικός κράτησης</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_MESSAGE" xml:space="preserve">
+    <value>Σαρώστε τον παρακάτω κωδικό QR για να ολοκληρώσετε την πληρωμή.&lt;br&gt;Θα συνδεθείτε αυτόματα μόλις γίνει επεξεργασία της πληρωμής.</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_TITLE" xml:space="preserve">
+    <value>QR-κωδικός για πληρωμή από κινητό</value>
+  </data>
+  <data name="GIZ_SHOP_APPLY_PROMOCODE" xml:space="preserve">
+    <value>Εφαρμογή</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_PROMOCODE_PLACEHOLDER" xml:space="preserve">
+    <value>Κωδικός έκπτωσης</value>
+  </data>
+  <data name="GIZ_SHOP_PROMOCODE_APPLIED" xml:space="preserve">
+    <value>Ο κωδικός έκπτωσης εφαρμόστηκε</value>
+  </data>
+  <data name="GIZ_SHOP_PROMOCODE_UNUSABLE" xml:space="preserve">
+    <value>Ο κωδικός έκπτωσης δεν μπορεί να χρησιμοποιηθεί</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_NONE" xml:space="preserve">
+    <value>Χρόνος</value>
+  </data>
+  <data name="GIZ_USER_BAN_LOGOUT" xml:space="preserve">
+    <value>Αποσύνδεση</value>
+  </data>
+  <data name="GIZ_USER_BAN_MESSAGE" xml:space="preserve">
+    <value>Έχετε αποκλειστεί!</value>
+  </data>
+  <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
+    <value>Έχετε αποκλειστεί έως τις {0}!</value>
   </data>
 </root>

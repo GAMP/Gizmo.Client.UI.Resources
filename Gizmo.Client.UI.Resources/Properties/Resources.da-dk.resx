@@ -283,7 +283,7 @@
     <value>Tilbage til {0}</value>
   </data>
   <data name="GIZ_GEN_BALANCE" xml:space="preserve">
-    <value>Balance</value>
+    <value>Saldo</value>
   </data>
   <data name="GIZ_GEN_CANCEL" xml:space="preserve">
     <value>Afbryde</value>
@@ -316,7 +316,7 @@
     <value>Telefon nummer</value>
   </data>
   <data name="GIZ_GEN_POINTS" xml:space="preserve">
-    <value>Points</value>
+    <value>Point</value>
   </data>
   <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve">
     <value>Populære varer</value>
@@ -388,8 +388,7 @@
     <value>Ikke medlem?</value>
   </data>
   <data name="GIZ_LOGIN_OR" xml:space="preserve">
-    <value>
-Eller</value>
+    <value>Eller</value>
   </data>
   <data name="GIZ_LOGIN_QR_MESSAGE" xml:space="preserve">
     <value>Scan dette med mobilappen for at logge ind med det samme</value>
@@ -410,10 +409,10 @@ Eller</value>
     <value>Tilmeld dig nu</value>
   </data>
   <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve">
-    <value>Balance skjult</value>
+    <value>Skjult</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
-    <value>Markér som alt læst</value>
+    <value>Markér alle som læste</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve">
     <value>Marker som læst</value>
@@ -461,7 +460,7 @@ Eller</value>
     <value>Nulstille kodeord</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
-    <value>Superb! Kom med et nyt Kodeord, også er du klar</value>
+    <value>Super! Vælg nu et nyt kodeord, så er du klar</value>
   </data>
   <data name="GIZ_PASSWORD_RULE_RANGE_LENGTH" xml:space="preserve">
     <value>{0}-{1} tegn</value>
@@ -515,7 +514,7 @@ Eller</value>
     <value>Bemærk: Du kan se alle dine aktuelle ordrer under Min profil &gt; Købt</value>
   </data>
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve">
-    <value>Checkout</value>
+    <value>Kasse</value>
   </data>
   <data name="GIZ_SHOP_EARNED_POINTS" xml:space="preserve">
     <value>Optjente point</value>
@@ -557,7 +556,7 @@ Eller</value>
     <value>Subtotal</value>
   </data>
   <data name="GIZ_SHOP_TOTAL" xml:space="preserve">
-    <value>Total</value>
+    <value>I alt</value>
   </data>
   <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve">
     <value>Låst</value>
@@ -578,7 +577,7 @@ Eller</value>
     <value>Ryd</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_OR" xml:space="preserve">
-    <value>Og</value>
+    <value>Eller</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_OR_ENTER_AMOUNT" xml:space="preserve">
     <value>Eller indtast beløb*</value>
@@ -596,7 +595,7 @@ Eller</value>
     <value>Hurtigt valg</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_TITLE" xml:space="preserve">
-    <value>Top Up</value>
+    <value>Fyld op</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_TO_BE_PAID" xml:space="preserve">
     <value>Skal betales:</value>
@@ -626,7 +625,7 @@ Eller</value>
     <value>Land</value>
   </data>
   <data name="GIZ_USER_COUNTRY_REGION" xml:space="preserve">
-    <value>Område</value>
+    <value>Land/Område</value>
   </data>
   <data name="GIZ_USER_DETAILS" xml:space="preserve">
     <value>Brugeroplysninger</value>
@@ -662,7 +661,7 @@ Eller</value>
     <value>Indstillinger</value>
   </data>
   <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
-    <value>Top Up</value>
+    <value>Fyld op</value>
   </data>
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">
     <value>Personlig information</value>
@@ -713,7 +712,7 @@ Eller</value>
     <value>Shop side</value>
   </data>
   <data name="GIZ_MODULE_PAGE_SHOP_TITLE" xml:space="preserve">
-    <value>Shop</value>
+    <value>Butik</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_ACCEPTED" xml:space="preserve">
     <value>Accepteret</value>
@@ -764,10 +763,10 @@ Eller</value>
     <value>Prøv igen med SMS</value>
   </data>
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve">
-    <value>Fra vælg værdi</value>
+    <value>Ingen værdi angivet</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
-    <value>Indtast kode for at fortsætte</value>
+    <value>Lås op</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve">
     <value>Glemt PIN</value>
@@ -776,7 +775,7 @@ Eller</value>
     <value>Profillås er i øjeblikket aktiveret</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve">
-    <value>Indtast din PIN-kode for at få adgang til denne profil</value>
+    <value>Indtast din PIN-kode for at låse op</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
     <value>Lås denne profil ved at oprette en 4-cifret pinkode. Husk eller skriv det venligst ned.</value>
@@ -797,7 +796,7 @@ Eller</value>
     <value>Telefonen kan ikke valideres.</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve">
-    <value>Kontroller gyldighedsfejl for adgangskode gendannelses token.</value>
+    <value>Bekræftelseskoden kunne ikke verificeres. Prøv venligst igen.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve">
     <value>Kan ikke validere brugernavn.</value>
@@ -812,13 +811,13 @@ Eller</value>
     <value>Det maksimale beløb er {0}.</value>
   </data>
   <data name="GIZ_APP_FILTERS_ALL_APPS" xml:space="preserve">
-    <value>Alle dele</value>
+    <value>Alle apps</value>
   </data>
   <data name="GIZ_APP_FILTERS_NEW_RELEASES" xml:space="preserve">
     <value>Nye udgivelser</value>
   </data>
   <data name="GIZ_APP_FILTERS_POPULAR_APPS" xml:space="preserve">
-    <value>Populære varer</value>
+    <value>Populære apps</value>
   </data>
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve">
     <value>Nylig tilføjet</value>
@@ -854,11 +853,10 @@ Eller</value>
     <value>Profilbillede og brugernavn</value>
   </data>
   <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve">
-    <value>Update password</value>
+    <value>Opdater adgangskode</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve">
-    <value>
-Betalt</value>
+    <value>Betalt</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve">
     <value>Delvist betalt</value>
@@ -873,7 +871,7 @@ Betalt</value>
     <value>Utilstrækkelige point.</value>
   </data>
   <data name="GIZ_GEN_PAYMENT_METHOD_POINTS" xml:space="preserve">
-    <value>Points</value>
+    <value>Point</value>
   </data>
   <data name="GIZ_GEN_CLEAR" xml:space="preserve">
     <value>Ryd</value>
@@ -981,7 +979,7 @@ Betalt</value>
     <value>Ikke tilgængelig på denne vært.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
-    <value>Du kan ikke bruge dette produkt i øjeblikket. Er du sikker på, at du vil købe dette produkt?</value>
+    <value>Dette tidsprodukt kan ikke bruges lige nu. Vil du købe det til senere brug?</value>
   </data>
   <data name="GIZ_GEN_NEVER" xml:space="preserve">
     <value>Aldrig</value>
@@ -1029,7 +1027,7 @@ Betalt</value>
     <value>Forkert pinkode</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve">
-    <value>Adgangskoden skal have 4 cifre!</value>
+    <value>PIN-koden skal være 4 cifre.</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve">
     <value>Indtast mindst {0} tegn.</value>
@@ -1083,28 +1081,28 @@ Betalt</value>
     <value>Aldersvurdering</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve">
-    <value>Du kører allerede en applikation. Tryk på accept for at afslutte enhver kørende applikation og fortsætte.</value>
+    <value>Du kører allerede en applikation. Vil du afslutte den og fortsætte?</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve">
     <value>Maksimalt antal applikationer</value>
   </data>
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Er du sikker på, at du vil afbryde dette program/spil?</value>
+    <value>Er du sikker på, at du vil afbryde opstarten?</value>
   </data>
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Verificere</value>
+    <value>Afbryd opstart</value>
   </data>
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Er du sikker på, at du vil reparere denne eksekverbare?</value>
+    <value>Er du sikker på, at du vil reparere denne applikation?</value>
   </data>
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Verificere</value>
+    <value>Reparer applikation</value>
   </data>
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Er du sikker på, at du vil afslutte dette program/spil?</value>
+    <value>Er du sikker på, at du vil afslutte denne applikation?</value>
   </data>
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Verificere</value>
+    <value>Afslut applikation</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
     <value>Der opstod en fejl. Ændring af adgangskode mislykkedes!</value>
@@ -1113,7 +1111,7 @@ Betalt</value>
     <value>Verificere</value>
   </data>
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
-    <value>Du har ikke nok indskud til at foretage denne ordre.</value>
+    <value>Din depositumssaldo er ikke nok til at dække denne ordre.</value>
   </data>
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
     <value>Fejl</value>
@@ -1161,7 +1159,7 @@ Betalt</value>
     <value>Succes</value>
   </data>
   <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve">
-    <value>bedømme</value>
+    <value>Sats</value>
   </data>
   <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve">
     <value>Fast tid</value>
@@ -1246,7 +1244,7 @@ Genoplad venligst din konto nu.</value>
     <value>Betalingsmetode</value>
   </data>
   <data name="GIZ_USER_PURCHASES_PAYMENT_STATUS" xml:space="preserve">
-    <value>Payment status</value>
+    <value>Betalingsstatus</value>
   </data>
   <data name="GIZ_CLIENT_MANAGER_LOGIN_ATTEMPTS" xml:space="preserve">
     <value>Login forsøg</value>
@@ -1318,213 +1316,321 @@ Genoplad venligst din konto nu.</value>
     <value>Andre brugere vil se dit brugernavn</value>
   </data>
   <data name="GIZ_GEN_LICENSE_RESERVATION_FAILED" xml:space="preserve">
-    <value>GIZ_GEN_LICENS_RESERVATION_FEJL</value>
+    <value>Licensreservation mislykkedes for {0}.</value>
   </data>
   <data name="GIZ_PRODUCT_NOT_AVAILABLE" xml:space="preserve">
-    <value>GIZ_PRODUKT_ER_IKKE_TILGÆNGELIG</value>
+    <value>Ikke tilgængelig.</value>
   </data>
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve">
-    <value>GIZ_PRODUKT_ER_IKKE_TILGÆNGELIG_PÅ_DENNE_VÆRT</value>
+    <value>Ikke tilgængelig på denne PC.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
-    <value>GIZ_REGISTRATION_VE_HVID_MELLEMRUM_IKKE_TILLADT</value>
+    <value>Mellemrum er ikke tilladt</value>
   </data>
   <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve">
-    <value>An error has occurred.</value>
+    <value>Der opstod en fejl.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve">
-    <value>Select the reason for contact</value>
+    <value>Vælg årsag til kontakt</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER" xml:space="preserve">
-    <value>Select something</value>
+    <value>Vælg noget</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve">
-    <value>Select the reason for contact</value>
+    <value>Årsag er påkrævet.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve">
-    <value>What can we help you with?</value>
+    <value>Hvad kan vi hjælpe dig med?</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve">
-    <value>What can we help you with?</value>
+    <value>Hvad kan vi hjælpe dig med?</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve">
     <value>Send</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_TITLE" xml:space="preserve">
-    <value>The request has been sent.</value>
+    <value>Anmodningen er sendt.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve">
-    <value>Please wait until the operator accepts your request, the answer will be sent in the notification section.</value>
+    <value>Vent venligst, indtil operatøren accepterer din anmodning. Svaret sendes til notifikationssektionen.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve">
-    <value>Decline request</value>
+    <value>Annullér anmodning</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve">
-    <value>Failed to process assistance request.</value>
+    <value>Behandling af hjælpeanmodningen mislykkedes.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP" xml:space="preserve">
-    <value>To continue playing top up your balance.</value>
+    <value>For at fortsætte med at spille, fyld din saldo op.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve">
-    <value>To continue playing, close your credit bill and top up your balance.</value>
+    <value>For at fortsætte med at spille skal du betale din udestående kredit og fylde din saldo op.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve">
-    <value>To continue playing buy a time pack.</value>
+    <value>For at fortsætte med at spille, køb en tidspakke.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve">
-    <value>To continue playing, close your credit bill and buy a time pack.</value>
+    <value>For at fortsætte med at spille skal du betale din udestående kredit og købe en tidspakke.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve">
-    <value>To continue playing buy a time pack or/and top up your balance.</value>
+    <value>For at fortsætte med at spille, køb en tidspakke og/eller fyld din saldo op.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve">
-    <value>To continue playing, close your credit bill and buy a time pack or/and top up your balance.</value>
+    <value>For at fortsætte med at spille skal du betale din udestående kredit og købe en tidspakke og/eller fylde din saldo op.</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve">
-    <value>Activated {0}</value>
+    <value>Aktiveret {0}</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve">
-    <value>Expires</value>
+    <value>Udløber</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve">
-    <value>{0} from purchase</value>
+    <value>{0} fra køb</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_USE" xml:space="preserve">
-    <value>{0} from use</value>
+    <value>{0} fra brug</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_LOGOUT" xml:space="preserve">
-    <value>after logout</value>
+    <value>efter logout</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_EXPIRATION_COUNTDOWN_STARTED_DESCRIPTION" xml:space="preserve">
-    <value>The package is active.</value>
+    <value>Pakken er aktiv.</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_LOGOUT_DESCRIPTION" xml:space="preserve">
-    <value>Expires after logout.</value>
+    <value>Udløber efter logout.</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION" xml:space="preserve">
-    <value>Expires specific time after purchase of the package.</value>
+    <value>Udløber bestemt tid efter køb af pakken.</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_FIRST_USE_DESCRIPTION" xml:space="preserve">
-    <value>Expires specific time after the first use of the package.</value>
+    <value>Udløber bestemt tid efter første brug af pakken.</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES" xml:space="preserve">
-    <value>Properties</value>
+    <value>Egenskaber</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE" xml:space="preserve">
-    <value>Don't forget to close your bill at the end of the session.</value>
+    <value>Glem ikke at gøre din konto op ved slutningen af din session.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE" xml:space="preserve">
-    <value>The session will not end while you have the unlimited time credit option enabled.</value>
+    <value>Sessionen slutter ikke, så længe du har ubegrænset tidskredit aktiveret.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_EXPIRE_MESSAGE" xml:space="preserve">
-    <value>When the current time expires, the session will be ended.</value>
+    <value>Når den nuværende tid udløber, afsluttes sessionen.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TOP_UP" xml:space="preserve">
-    <value>Top up balance</value>
+    <value>Fyld saldo op</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_GO_TO_SHOP" xml:space="preserve">
-    <value>Go to the Shop</value>
+    <value>Gå til butikken</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_CREDIT" xml:space="preserve">
-    <value>Credit is available on the account.</value>
+    <value>Du kan fortsætte med at spille på kredit.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Unlimited credit</value>
+    <value>Ubegrænset kredit</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Store credit is available</value>
+    <value>Du må købe butiksvarer på kredit.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Credit for playing time is available</value>
+    <value>Du har lov til at spille på kredit.</value>
   </data>
   <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve">
-    <value>Credit</value>
+    <value>Kredit</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_SEE_ALL_AVAILABLE_TIME" xml:space="preserve">
-    <value>See all available time</value>
+    <value>Se al tilgængelig tid</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TITLE" xml:space="preserve">
-    <value>Game Time Sources</value>
+    <value>Kilder til spilletid</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_RATE_PER_HOUR" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_SATS_PR_TIME</value>
+    <value>Sats {0}/time</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_HOURS_MINUTES" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_PRODUKT_TIMER_MINUTTER</value>
+    <value>{0} t {1} min</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_FIXED_TIME" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_FAST_TID</value>
+    <value>Fast tid</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_DEPOSIT" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_DEPOSITUM</value>
+    <value>Depositum</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_CREDIT" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_KREDIT</value>
+    <value>Kredit</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_PRODUKT_MINUTTER</value>
+    <value>{0} Minutter</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_KILDE</value>
+    <value>Kilde</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_VÆRTER</value>
+    <value>Værter</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_LEDIG_INDTIL</value>
+    <value>indtil {0}</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_LEDIG</value>
+    <value>Tilgængelig</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_KØBS_DATO</value>
+    <value>Købsdato</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TIME" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_TID</value>
+    <value>Tid</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TIME_PRODUCT" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_TIME_PRODUKT</value>
+    <value>Tidsprodukt</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve">
-    <value>GIZ_BRUGER_TIDS_PRODUKT_TITEL</value>
+    <value>Tilgængelig tid</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve">
-    <value>GIZ_BRUGER_KØBS_ORDER_STATUS_UGYLDIG</value>
+    <value>Annulleret</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_TITLE" xml:space="preserve">
-    <value>GIZ_ASSISTANCE_FORESPØRGSELS_SVAR_TITEL</value>
+    <value>Hjælpeanmodning</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_ACCEPTED" xml:space="preserve">
-    <value>GIZ_ASSISTANCE_FORESPØRGSELS_SVAR_ACCEPTERET</value>
+    <value>Operatøren har accepteret din anmodning og kommer snart for at hjælpe dig.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED" xml:space="preserve">
-    <value>GIZ_ASSISTANCE_FORESPØRGSELS_SVAR_AFVIST</value>
+    <value>Din anmodning kan ikke behandles.</value>
   </data>
   <data name="GIZ_GEN_GUEST" xml:space="preserve">
-    <value>GIZ_GEN_GÆST</value>
+    <value>Gæst</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_EXPIRES" xml:space="preserve">
-    <value>Expires</value>
+    <value>Udløber</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_REMAINING_TIME" xml:space="preserve">
-    <value>Remaining time</value>
+    <value>Resterende tid</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve">
-    <value>Usable time</value>
+    <value>Anvendelig tid</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve">
-    <value>Time package</value>
+    <value>Tidspakke</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_FIXED_TIME" xml:space="preserve">
-    <value>Fixed time package</value>
+    <value>Fast tidspakke</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_RATE" xml:space="preserve">
-    <value>Rate</value>
+    <value>Sats</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_USING_CREDIT" xml:space="preserve">
-    <value>Using credit</value>
+    <value>Bruger kredit</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve">
-    <value>Login is not allowed at this time due to age restrictions configuration.</value>
+    <value>Login er ikke tilladt på dette tidspunkt på grund af aldersbegrænsninger.</value>
+  </data>
+  <data name="DGIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
+    <value>Rabatbetingelser ikke opfyldt</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Bekræft reservation</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>Denne vært er reserveret til en anden bruger.&lt;br&gt;Indtast reservationskoden for at fortsætte sessionen.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Bekræft reservation</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_DEPOSITS_NOT_ENOUGH_MESSAGE" xml:space="preserve">
+    <value>Din depositumssaldo er ikke nok til at dække denne betaling.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON" xml:space="preserve">
+    <value>Betal</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_MESSAGE" xml:space="preserve">
+    <value>Gennemfør betalingen i skranken hos operatøren for at fortsætte.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_TITLE" xml:space="preserve">
+    <value>Betalinger er ikke tilgængelige.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAID_LABEL" xml:space="preserve">
+    <value>Betalt</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAYMENT_METHOD_INPUT_LABEL" xml:space="preserve">
+    <value>Betalingsmetode</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Gennemfør betaling for at fortsætte</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TO_BE_PAID_LABEL" xml:space="preserve">
+    <value>Skal betales</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL" xml:space="preserve">
+    <value>I alt</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Bekræft reservation</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>Denne vært er reserveret til en anden bruger.&lt;br/&gt;Indtast reservationskoden for at fortsætte sessionen.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Bekræft reservation</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON" xml:space="preserve">
+    <value>Ignorer</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
+    <value>Gå til betaling</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE" xml:space="preserve">
+    <value>Denne reservation kræver betaling for at fortsætte.&lt;br/&gt;Fortsæt betalingen for at låse sessionen op.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Gennemfør betaling</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE" xml:space="preserve">
+    <value>Kun reservationsejeren eller gæster med reservationskode kan logge ind.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE" xml:space="preserve">
+    <value>Hvis du logger ind nu, bliver du automatisk logget ud på det angivne tidspunkt</value>
+  </data>
+  <data name="GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE" xml:space="preserve">
+    <value>Du kan også gennemføre betalingen i skranken hos operatøren.</value>
+  </data>
+  <data name="GIZ_RESERVATION_AVAILABLE_DEPOSITS_LABEL" xml:space="preserve">
+    <value>Tilgængeligt depositum:</value>
+  </data>
+  <data name="GIZ_RESERVATION_OR" xml:space="preserve">
+    <value>Eller</value>
+  </data>
+  <data name="GIZ_RESERVATION_PIN_INPUT_LABEL" xml:space="preserve">
+    <value>Reservationskode</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_MESSAGE" xml:space="preserve">
+    <value>Scan QR-koden nedenfor for at gennemføre betalingen.&lt;br&gt;Du logges automatisk ind, når betalingen er behandlet.</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_TITLE" xml:space="preserve">
+    <value>QR-kode til betaling via telefon</value>
+  </data>
+  <data name="GIZ_SHOP_APPLY_PROMOCODE" xml:space="preserve">
+    <value>Anvend</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_PROMOCODE_PLACEHOLDER" xml:space="preserve">
+    <value>Rabatkode</value>
+  </data>
+  <data name="GIZ_SHOP_PROMOCODE_APPLIED" xml:space="preserve">
+    <value>Rabatkode anvendt</value>
+  </data>
+  <data name="GIZ_SHOP_PROMOCODE_UNUSABLE" xml:space="preserve">
+    <value>Rabatkode kan ikke bruges</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_NONE" xml:space="preserve">
+    <value>Tid</value>
+  </data>
+  <data name="GIZ_USER_BAN_LOGOUT" xml:space="preserve">
+    <value>Log ud</value>
+  </data>
+  <data name="GIZ_USER_BAN_MESSAGE" xml:space="preserve">
+    <value>Du er blevet bortvist!</value>
+  </data>
+  <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
+    <value>Du er bortvist indtil {0}!</value>
   </data>
 </root>

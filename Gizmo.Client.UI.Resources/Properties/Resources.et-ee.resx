@@ -310,7 +310,7 @@
     <value>Mobiiltelefon</value>
   </data>
   <data name="GIZ_GEN_PASSWORD" xml:space="preserve">
-    <value>Salasõna</value>
+    <value>Parool</value>
   </data>
   <data name="GIZ_GEN_PHONE_NUMBER" xml:space="preserve">
     <value>Telefoninumber</value>
@@ -409,7 +409,7 @@
     <value>Registreeru kohe</value>
   </data>
   <data name="GIZ_MENU_BALANCE_IS_HIDDEN" xml:space="preserve">
-    <value>Saldo peidetud</value>
+    <value>Peidetud</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
     <value>Märgi kõik loetuks</value>
@@ -619,7 +619,7 @@
     <value>Sünnikuupäev</value>
   </data>
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
-    <value>Muuda salasõna</value>
+    <value>Muuda parooli</value>
   </data>
   <data name="GIZ_USER_COUNTRY" xml:space="preserve">
     <value>Riik</value>
@@ -766,7 +766,7 @@
     <value>Väärtus määramata</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
-    <value>Sisesta kood jätkamiseks</value>
+    <value>Ava</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_FORGOT_PIN" xml:space="preserve">
     <value>Unustasite PIN-koodi</value>
@@ -775,7 +775,7 @@
     <value>Profiili lukustamine on praegu sisse lülitatud</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_LOCKED_TITLE" xml:space="preserve">
-    <value>Sisestage profiilile juurdepääsuks PIN-kood</value>
+    <value>Sisestage PIN avamiseks</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
     <value>Lukustage see profiil, luues 4-kohalise PIN-koodi. Mäletage või kirjutage see üles.</value>
@@ -796,7 +796,7 @@
     <value>Telefoni ei saa valideerida.</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_VE_CANNOT_VALIDATE_TOKEN" xml:space="preserve">
-    <value>Parooli taastamise kiibi kehtivuse kontrollimine ebaõnnestus.</value>
+    <value>Kinnituskoodi ei õnnestunud kinnitada. Palun proovige uuesti.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_USERNAME" xml:space="preserve">
     <value>Kasutajanime ei saa valideerida.</value>
@@ -853,7 +853,7 @@
     <value>Profiilipilt ja kasutajanimi</value>
   </data>
   <data name="GIZ_USER_UPDATE_PASSWORD" xml:space="preserve">
-    <value>Uuenda salasõna</value>
+    <value>Uuenda parooli</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve">
     <value>Makstud</value>
@@ -976,10 +976,10 @@
     <value>Veel ei ole saadaval.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve">
-    <value>Sellel hostil pole saadaval.</value>
+    <value>Selles arvutis pole saadaval.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
-    <value>Hetkel ei saa seda toodet kasutada. Olete kindel, et soovite seda toodet osta?</value>
+    <value>Seda ajatoodet ei saa praegu kasutada. Kas osta hilisemaks kasutamiseks?</value>
   </data>
   <data name="GIZ_GEN_NEVER" xml:space="preserve">
     <value>Kunagi</value>
@@ -1027,7 +1027,7 @@
     <value>Vale PIN-kood</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_VE_PASSWORD_LENGTH" xml:space="preserve">
-    <value>Parool peaks olema 4 numbrit!</value>
+    <value>PIN peab olema 4-kohaline.</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NOT_ENOUGH_CHARACTERS_MESSAGE" xml:space="preserve">
     <value>Palun sisestage vähemalt {0} tähemärki.</value>
@@ -1075,34 +1075,34 @@
     <value>Õnnestus</value>
   </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
-    <value>Sa ei ole piisavalt hoiuseid, et seda tellimust teha.</value>
+    <value>Sa ei ole piisavalt vana!</value>
   </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve">
     <value>Vanuse hinnang</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_MESSAGE" xml:space="preserve">
-    <value>Te jooksutate juba rakendust. Vajutage nõustumiseks, et lõpetada kõik käimasolevad rakendused ja jätkata.</value>
+    <value>Te jooksutate juba rakendust. Kas soovite selle lõpetada ja jätkata?</value>
   </data>
   <data name="GIZ_APP_EXE_MAX_LIMIT_WARNING_TITLE" xml:space="preserve">
     <value>Maksimaalsed rakendused</value>
   </data>
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Kas olete kindel, et soovite selle käivitatava faili katkestada?</value>
+    <value>Kas olete kindel, et soovite käivitamise katkestada?</value>
   </data>
   <data name="GIZ_APP_EXE_ABORT_LAUNCH_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Kinnitage</value>
+    <value>Katkesta käivitamine</value>
   </data>
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Kas olete kindel, et soovite selle käivitatava faili parandada?</value>
+    <value>Kas olete kindel, et soovite seda rakendust parandada?</value>
   </data>
   <data name="GIZ_APP_EXE_REPAIR_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Kinnitage</value>
+    <value>Paranda rakendus</value>
   </data>
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_MESSAGE" xml:space="preserve">
-    <value>Kas olete kindel, et soovite selle käivitatava faili lõpetada?</value>
+    <value>Kas olete kindel, et soovite selle rakenduse lõpetada?</value>
   </data>
   <data name="GIZ_APP_EXE_TERMINATE_VERIFICATION_TITLE" xml:space="preserve">
-    <value>Kinnitage</value>
+    <value>Lõpeta rakendus</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
     <value>Ilmnes viga. Parooli muutmine ebaõnnestus!</value>
@@ -1111,7 +1111,7 @@
     <value>Kinnitage</value>
   </data>
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
-    <value>Teil pole piisavalt hoiuseid selle tellimuse tegemiseks.</value>
+    <value>Teie deposiidi jääk ei kata seda tellimust.</value>
   </data>
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
     <value>Viga</value>
@@ -1144,7 +1144,7 @@
     <value>Vigased parameetrid</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_INVALID_PASSWORD" xml:space="preserve">
-    <value>Vigane salasõna</value>
+    <value>Vigane parool</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve">
     <value>Vigane kasutajanimi</value>
@@ -1159,11 +1159,10 @@
     <value>Õnnestus</value>
   </data>
   <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve">
-    <value>Hinnake</value>
+    <value>Tariif</value>
   </data>
   <data name="GIZ_USAGE_TYPE_TIME_FIXED" xml:space="preserve">
-    <value>Fikseeritud aeg
-</value>
+    <value>Fikseeritud aeg</value>
   </data>
   <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve">
     <value>Aja toode</value>
@@ -1175,7 +1174,7 @@
     <value>Logi välja</value>
   </data>
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
-    <value>Teie aeg on lõppenud. Täitke konto uuesti vastuvõtulauas või klõpsake "Logi välja", et lõpetada oma seanss.</value>
+    <value>Teie aeg on lõppenud.&lt;br&gt;Täitke konto uuesti vastuvõtulauas või&lt;br&gt;klõpsake "Logi välja", et lõpetada oma seanss.</value>
   </data>
   <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve">
     <value>Rikkis</value>
@@ -1322,7 +1321,7 @@
     <value>Pole saadaval.</value>
   </data>
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve">
-    <value>Sellel võõrustajal pole saadaval.</value>
+    <value>Selles arvutis pole saadaval.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
     <value>Tühikud pole lubatud</value>
@@ -1337,7 +1336,7 @@
     <value>Valige midagi</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_VE_TYPE_IS_REQUIRED" xml:space="preserve">
-    <value>Valige ühenduse põhjus</value>
+    <value>Põhjus on kohustuslik.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_NOTE_LABEL" xml:space="preserve">
     <value>Millega saame teid aidata?</value>
@@ -1355,7 +1354,7 @@
     <value>Oodake, kuni operaator võtab teie palve vastu; vastus saadetakse teile teavituste jaotises.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve">
-    <value>Palve tagasilükkamine</value>
+    <value>Tühista palve</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_FAILED_TO_PROCESS" xml:space="preserve">
     <value>Abipalve töötlemine ebaõnnestus.</value>
@@ -1364,19 +1363,19 @@
     <value>Mängimise jätkamiseks täiendage oma saldo.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_TOP_UP" xml:space="preserve">
-    <value>Mängimise jätkamiseks sulgege oma krediidiarve ja täiendage oma saldo.</value>
+    <value>Mängimise jätkamiseks tasuge oma võlgnetav krediit ja täiendage oma saldot.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME" xml:space="preserve">
     <value>Mängimise jätkamiseks ostke ajapakett.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME" xml:space="preserve">
-    <value>Mängimise jätkamiseks sulgege oma krediidiarve ja ostke ajapakett.</value>
+    <value>Mängimise jätkamiseks tasuge oma võlgnetav krediit ja ostke ajapakett.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP" xml:space="preserve">
     <value>Mängimise jätkamiseks ostke ajapakett või/ning täiendage oma saldo.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP" xml:space="preserve">
-    <value>Mängimise jätkamiseks sulgege oma krediidiarve ja ostke ajapakett või/ning täiendage oma saldo.</value>
+    <value>Mängimise jätkamiseks tasuge oma võlgnetav krediit ja ostke ajapakett ja/või täiendage oma saldot.</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_ACTIVATED" xml:space="preserve">
     <value>Aktiveeritud {0}</value>
@@ -1409,7 +1408,7 @@
     <value>Omadused</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_CLOSE_BALANCE_MESSAGE" xml:space="preserve">
-    <value>Ärge unustage seansi lõpus arvet sulgeda.</value>
+    <value>Ärge unustage oma seansi lõpus arvet tasuda.</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_SESSION_WILL_NOT_EXPIRE_MESSAGE" xml:space="preserve">
     <value>Seanss ei lõpe, kui teil on lubatud piiramatu aja krediidi valik.</value>
@@ -1424,16 +1423,16 @@
     <value>Mine poodi</value>
   </data>
   <data name="GIZ_MENU_BALANCE_TOOLTIP_CREDIT" xml:space="preserve">
-    <value>Krediit on kontol saadaval.</value>
+    <value>Saate krediidiga mängimist jätkata.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_UNLIMITED_CREDIT_DESCRIPTION" xml:space="preserve">
     <value>Piiramatu krediit</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_SALES_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Poe krediiti on saadaval</value>
+    <value>Teil on lubatud osta poetooteid krediidiga.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Mänguaega saab kasutada</value>
+    <value>Teil on lubatud mängida ajakrediidiga.</value>
   </data>
   <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve">
     <value>Krediit</value>
@@ -1460,14 +1459,13 @@
     <value>Krediit</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve">
-    <value>{0} minutit
-</value>
+    <value>{0} minutit</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve">
     <value>Allikas</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve">
-    <value>Võõrustajad</value>
+    <value>Arvutid</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve">
     <value>kuni {0}</value>
@@ -1525,5 +1523,113 @@
   </data>
   <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve">
     <value>Sisselogimine pole hetkel lubatud vanusepiirangute konfiguratsiooni tõttu.</value>
+  </data>
+  <data name="DGIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
+    <value>Soodustuse tingimused ei ole täidetud</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Kinnita broneering</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>See arvuti on broneeritud teisele kasutajale.&lt;br&gt;Seansi jätkamiseks sisestage broneeringu kood.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Kinnitage broneering</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_DEPOSITS_NOT_ENOUGH_MESSAGE" xml:space="preserve">
+    <value>Teie deposiidi jääk ei ole selle makse katmiseks piisav.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON" xml:space="preserve">
+    <value>Maksa</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_MESSAGE" xml:space="preserve">
+    <value>Jätkamiseks lõpetage makse letis operaatori juures.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_NO_PAYMENT_METHODS_TITLE" xml:space="preserve">
+    <value>Maksed pole saadaval.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAID_LABEL" xml:space="preserve">
+    <value>Makstud</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_PAYMENT_METHOD_INPUT_LABEL" xml:space="preserve">
+    <value>Maksemeetod</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Jätkamiseks lõpetage makse</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TO_BE_PAID_LABEL" xml:space="preserve">
+    <value>Maksta</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL" xml:space="preserve">
+    <value>Kokku</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+    <value>Kinnita broneering</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+    <value>See arvuti on broneeritud teisele kasutajale.&lt;br/&gt;Seansi jätkamiseks sisestage broneeringu kood.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+    <value>Kinnitage broneering</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON" xml:space="preserve">
+    <value>Eira</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
+    <value>Mine maksma</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE" xml:space="preserve">
+    <value>See broneering nõuab jätkamiseks tasu.&lt;br/&gt;Seansi avamiseks lõpetage makse.</value>
+  </data>
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE" xml:space="preserve">
+    <value>Lõpetage makse</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE" xml:space="preserve">
+    <value>Sisse saavad logida ainult broneeringu omanik või broneeringu koodiga külalised.</value>
+  </data>
+  <data name="GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE" xml:space="preserve">
+    <value>Kui logite praegu sisse, logitakse teid määratud ajal automaatselt välja</value>
+  </data>
+  <data name="GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE" xml:space="preserve">
+    <value>Makse võite lõpetada ka letis operaatori juures.</value>
+  </data>
+  <data name="GIZ_RESERVATION_AVAILABLE_DEPOSITS_LABEL" xml:space="preserve">
+    <value>Saadav deposiit:</value>
+  </data>
+  <data name="GIZ_RESERVATION_OR" xml:space="preserve">
+    <value>Või</value>
+  </data>
+  <data name="GIZ_RESERVATION_PIN_INPUT_LABEL" xml:space="preserve">
+    <value>Broneeringu kood</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_MESSAGE" xml:space="preserve">
+    <value>Makse lõpetamiseks skannige allolev QR-kood.&lt;br&gt;Makse töötlemise järel logitakse teid automaatselt sisse.</value>
+  </data>
+  <data name="GIZ_RESERVATION_QR_TITLE" xml:space="preserve">
+    <value>QR-kood telefonist maksmiseks</value>
+  </data>
+  <data name="GIZ_SHOP_APPLY_PROMOCODE" xml:space="preserve">
+    <value>Rakenda</value>
+  </data>
+  <data name="GIZ_SHOP_ORDER_PROMOCODE_PLACEHOLDER" xml:space="preserve">
+    <value>Sooduskood</value>
+  </data>
+  <data name="GIZ_SHOP_PROMOCODE_APPLIED" xml:space="preserve">
+    <value>Sooduskood rakendatud</value>
+  </data>
+  <data name="GIZ_SHOP_PROMOCODE_UNUSABLE" xml:space="preserve">
+    <value>Sooduskoodi ei saa kasutada</value>
+  </data>
+  <data name="GIZ_USAGE_TYPE_NONE" xml:space="preserve">
+    <value>Aeg</value>
+  </data>
+  <data name="GIZ_USER_BAN_LOGOUT" xml:space="preserve">
+    <value>Logi välja</value>
+  </data>
+  <data name="GIZ_USER_BAN_MESSAGE" xml:space="preserve">
+    <value>Teid on blokeeritud!</value>
+  </data>
+  <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
+    <value>Te olete blokeeritud kuni {0}!</value>
   </data>
 </root>
