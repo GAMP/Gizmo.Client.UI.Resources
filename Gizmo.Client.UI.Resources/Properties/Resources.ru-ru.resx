@@ -213,9 +213,6 @@
   <data name="GIZ_APPS_LINKS" xml:space="preserve">
     <value>Ссылки</value>
   </data>
-  <data name="GIZ_APPS_LOADING" xml:space="preserve">
-    <value>Загрузка</value>
-  </data>
   <data name="GIZ_APPS_MEDIA" xml:space="preserve">
     <value>Медиа</value>
   </data>
@@ -236,9 +233,6 @@
   </data>
   <data name="GIZ_APPS_REPAIR" xml:space="preserve">
     <value>Восстановить</value>
-  </data>
-  <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve">
-    <value>Выберите версию приложения</value>
   </data>
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve">
     <value>Завершить работу</value>
@@ -263,9 +257,6 @@
   </data>
   <data name="GIZ_GEN_AND" xml:space="preserve">
     <value>и</value>
-  </data>
-  <data name="GIZ_GEN_BACK_TO" xml:space="preserve">
-    <value>Вернуться к {0}</value>
   </data>
   <data name="GIZ_GEN_BALANCE" xml:space="preserve">
     <value>Баланс</value>
@@ -303,9 +294,6 @@
   <data name="GIZ_GEN_POINTS" xml:space="preserve">
     <value>Баллы</value>
   </data>
-  <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve">
-    <value>Популярные товары</value>
-  </data>
   <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve">
     <value>Повторите новый пароль</value>
   </data>
@@ -318,17 +306,11 @@
   <data name="GIZ_GEN_SAVE" xml:space="preserve">
     <value>Сохранить</value>
   </data>
-  <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve">
-    <value>Сохранить изменения</value>
-  </data>
   <data name="GIZ_GEN_SORT_BY" xml:space="preserve">
     <value>Сортировать по:</value>
   </data>
   <data name="GIZ_GEN_TIME" xml:space="preserve">
     <value>Время</value>
-  </data>
-  <data name="GIZ_GEN_UPDATE" xml:space="preserve">
-    <value>Обновить</value>
   </data>
   <data name="GIZ_GEN_USERNAME" xml:space="preserve">
     <value>Имя пользователя</value>
@@ -381,9 +363,6 @@
   <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve">
     <value>Войти с помощью QR-кода</value>
   </data>
-  <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve">
-    <value>Если вы авторизуетесь сейчас, вы автоматически выйдете из системы в указанное время.</value>
-  </data>
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
     <value>Этот компьютер забронирован с {0}.</value>
   </data>
@@ -398,9 +377,6 @@
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
     <value>Отметить все как прочитанные</value>
-  </data>
-  <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve">
-    <value>Отметить как прочитанное</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve">
     <value>Нет новых уведомлений.</value>
@@ -459,12 +435,6 @@
   <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve">
     <value>По крайней мере, 1 заглавная буква</value>
   </data>
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve">
-    <value>Введите свой e-mail</value>
-  </data>
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve">
-    <value>Введите свой мобильный номер</value>
-  </data>
   <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Пожалуйста, подтвердите код страны и введите номер телефона, чтобы создать учетную запись.</value>
   </data>
@@ -480,23 +450,8 @@
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
     <value>Добавить в корзину</value>
   </data>
-  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve">
-    <value>В комплект входит:</value>
-  </data>
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve">
-    <value>Срок действия</value>
-  </data>
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve">
     <value>Описание пакета:</value>
-  </data>
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve">
-    <value>Срок действия продукта</value>
-  </data>
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve">
-    <value>Спасибо за заказ!</value>
-  </data>
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve">
-    <value>Примечание: Вы можете увидеть все свои текущие заказы в разделе Мой профиль &gt; Покупки</value>
   </data>
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve">
     <value>Оформление заказа</value>
@@ -588,9 +543,6 @@
   <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve">
     <value>будут зачислены на баланс вашего счёта</value>
   </data>
-  <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve">
-    <value>Дополнительная информация</value>
-  </data>
   <data name="GIZ_USER_ADDRESS" xml:space="preserve">
     <value>Адрес</value>
   </data>
@@ -621,14 +573,8 @@
   <data name="GIZ_USER_GENDER" xml:space="preserve">
     <value>Пол</value>
   </data>
-  <data name="GIZ_USER_HOME_PHONE" xml:space="preserve">
-    <value>Домашний телефон</value>
-  </data>
   <data name="GIZ_USER_LAST_NAME" xml:space="preserve">
     <value>Фамилия</value>
-  </data>
-  <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve">
-    <value>Почта и номер телефона</value>
   </data>
   <data name="GIZ_USER_MENU_HELP" xml:space="preserve">
     <value>Помощь</value>
@@ -642,12 +588,6 @@
   <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve">
     <value>Мой профиль</value>
   </data>
-  <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve">
-    <value>Настройки</value>
-  </data>
-  <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
-    <value>Пополнить</value>
-  </data>
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">
     <value>Личная информация</value>
   </data>
@@ -657,14 +597,8 @@
   <data name="GIZ_USER_PURCHASES" xml:space="preserve">
     <value>Покупки</value>
   </data>
-  <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve">
-    <value>Редактировать настройки пользователя</value>
-  </data>
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
     <value>Транзакции</value>
-  </data>
-  <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve">
-    <value>Другие пользователи будут видеть Ваш логин</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve">
     <value>Отправить код</value>
@@ -675,23 +609,8 @@
   <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve">
     <value>Приложения</value>
   </data>
-  <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve">
-    <value>Страница игр</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve">
-    <value>Игры</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve">
-    <value>Главная страница</value>
-  </data>
   <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve">
     <value>Главная</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve">
-    <value>Страница профиля</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve">
-    <value>Профиль</value>
   </data>
   <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve">
     <value>Страница магазина</value>
@@ -806,9 +725,6 @@
   </data>
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve">
     <value>Недавно добавленные</value>
-  </data>
-  <data name="GIZ_GEN_OR" xml:space="preserve">
-    <value>или</value>
   </data>
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve">
     <value>и</value>
@@ -975,15 +891,6 @@
   <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve">
     <value>Комментарии к заказу:</value>
   </data>
-  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve">
-    <value>У этой учетной записи нет действующего e-mail.</value>
-  </data>
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve">
-    <value>Вход в настоящее время заблокирован.</value>
-  </data>
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve">
-    <value>В настоящее время вход не заблокирован.</value>
-  </data>
   <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve">
     <value>Наличные</value>
   </data>
@@ -1067,9 +974,6 @@
   </data>
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
     <value>Баланс депозита недостаточен для оплаты этого заказа.</value>
-  </data>
-  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
-    <value>Ошибка</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
     <value>Неверный пароль</value>
@@ -1157,9 +1061,6 @@
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
     <value>Ваш заказ выполнен</value>
-  </data>
-  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve">
-    <value>Заказ выполнен</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Ваш заказ находится в процессе обработки, вы будете уведомлены, как только заказ будет принят</value>
@@ -1414,17 +1315,8 @@
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve">
     <value>{0} минут</value>
   </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve">
-    <value>Источник</value>
-  </data>
   <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve">
     <value>ПК</value>
-  </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve">
-    <value>до {0}</value>
-  </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve">
-    <value>Доступно</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve">
     <value>Дата покупки</value>
@@ -1581,9 +1473,6 @@
   </data>
   <data name="GIZ_USER_BAN_MESSAGE" xml:space="preserve">
     <value>Вы заблокированы!</value>
-  </data>
-  <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
-    <value>Вы заблокированы до {0}!</value>
   </data>
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST" xml:space="preserve">
     <value>Доступно только участникам.</value>

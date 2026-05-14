@@ -213,9 +213,6 @@
   <data name="GIZ_APPS_LINKS" xml:space="preserve">
     <value>Povezave</value>
   </data>
-  <data name="GIZ_APPS_LOADING" xml:space="preserve">
-    <value>Nalaganje</value>
-  </data>
   <data name="GIZ_APPS_MEDIA" xml:space="preserve">
     <value>Večpredstavnost</value>
   </data>
@@ -236,9 +233,6 @@
   </data>
   <data name="GIZ_APPS_REPAIR" xml:space="preserve">
     <value>Popravi</value>
-  </data>
-  <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve">
-    <value>Izberite različico aplikacije</value>
   </data>
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve">
     <value>Prekini</value>
@@ -263,9 +257,6 @@
   </data>
   <data name="GIZ_GEN_AND" xml:space="preserve">
     <value>in</value>
-  </data>
-  <data name="GIZ_GEN_BACK_TO" xml:space="preserve">
-    <value>Nazaj na {0}</value>
   </data>
   <data name="GIZ_GEN_BALANCE" xml:space="preserve">
     <value>Stanje</value>
@@ -303,9 +294,6 @@
   <data name="GIZ_GEN_POINTS" xml:space="preserve">
     <value>Točke</value>
   </data>
-  <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve">
-    <value>Priljubljeni predmeti</value>
-  </data>
   <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve">
     <value>Ponovite novo geslo</value>
   </data>
@@ -318,17 +306,11 @@
   <data name="GIZ_GEN_SAVE" xml:space="preserve">
     <value>Shrani</value>
   </data>
-  <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve">
-    <value>Shrani spremembe</value>
-  </data>
   <data name="GIZ_GEN_SORT_BY" xml:space="preserve">
     <value>Razvrsti po:</value>
   </data>
   <data name="GIZ_GEN_TIME" xml:space="preserve">
     <value>Čas</value>
-  </data>
-  <data name="GIZ_GEN_UPDATE" xml:space="preserve">
-    <value>Posodobi</value>
   </data>
   <data name="GIZ_GEN_USERNAME" xml:space="preserve">
     <value>Uporabniško ime</value>
@@ -381,9 +363,6 @@
   <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve">
     <value>Prijavite se s kodo QR</value>
   </data>
-  <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve">
-    <value>Če se prijavite zdaj, boste ob določenem času samodejno odjavljeni.</value>
-  </data>
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
     <value>Ta računalnik je rezerviran od {0}.</value>
   </data>
@@ -398,9 +377,6 @@
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
     <value>Označi vse kot prebrano</value>
-  </data>
-  <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve">
-    <value>Označi kot prebrano</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve">
     <value>Ni novih obvestil.</value>
@@ -459,12 +435,6 @@
   <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve">
     <value>Vsaj 1 velika črka</value>
   </data>
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve">
-    <value>Vpišite svoj elektronski naslov</value>
-  </data>
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve">
-    <value>Vnesite svoj mobilni telefon</value>
-  </data>
   <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Prosimo, potrdite svojo kodo države in vnesite svojo telefonsko številko, da ustvarite račun.</value>
   </data>
@@ -480,23 +450,8 @@
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
     <value>Dodaj v košarico</value>
   </data>
-  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve">
-    <value>Paket vključuje:</value>
-  </data>
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve">
-    <value>Akcijsko obdobje</value>
-  </data>
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve">
     <value>Opis paketa:</value>
-  </data>
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve">
-    <value>Življenjska doba izdelka</value>
-  </data>
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve">
-    <value>Hvala za vaše naročilo!</value>
-  </data>
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve">
-    <value>Opomba: Vsa vaša trenutna naročila si lahko ogledate pod Moj profil &gt; Kupljeno</value>
   </data>
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve">
     <value>Na blagajno</value>
@@ -588,9 +543,6 @@
   <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve">
     <value>bo knjiženo v dobro stanje vašega računa</value>
   </data>
-  <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve">
-    <value>Dodatne informacije</value>
-  </data>
   <data name="GIZ_USER_ADDRESS" xml:space="preserve">
     <value>Naslov</value>
   </data>
@@ -621,14 +573,8 @@
   <data name="GIZ_USER_GENDER" xml:space="preserve">
     <value>Spol</value>
   </data>
-  <data name="GIZ_USER_HOME_PHONE" xml:space="preserve">
-    <value>Domači telefon</value>
-  </data>
   <data name="GIZ_USER_LAST_NAME" xml:space="preserve">
     <value>Priimek</value>
-  </data>
-  <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve">
-    <value>E-pošta in telefonske številke</value>
   </data>
   <data name="GIZ_USER_MENU_HELP" xml:space="preserve">
     <value>Pomoč</value>
@@ -642,12 +588,6 @@
   <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve">
     <value>Moj profil</value>
   </data>
-  <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve">
-    <value>Nastavitve</value>
-  </data>
-  <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
-    <value>Napolni</value>
-  </data>
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">
     <value>Osebne informacije</value>
   </data>
@@ -657,14 +597,8 @@
   <data name="GIZ_USER_PURCHASES" xml:space="preserve">
     <value>Nakupi</value>
   </data>
-  <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve">
-    <value>Uredi uporabniške nastavitve</value>
-  </data>
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
     <value>Transakcije</value>
-  </data>
-  <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve">
-    <value>Ostali uporabniki bodo videli vaše uporabniško ime</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve">
     <value>Pošlji kodo</value>
@@ -675,23 +609,8 @@
   <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve">
     <value>Aplikacije</value>
   </data>
-  <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve">
-    <value>Stran z igrami</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve">
-    <value>Igre</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve">
-    <value>Domača stran</value>
-  </data>
   <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve">
     <value>Domov</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve">
-    <value>Stran profila</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve">
-    <value>Profil</value>
   </data>
   <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve">
     <value>Stran trgovine</value>
@@ -806,9 +725,6 @@
   </data>
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve">
     <value>Nedavno dodano</value>
-  </data>
-  <data name="GIZ_GEN_OR" xml:space="preserve">
-    <value>ali</value>
   </data>
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve">
     <value>in</value>
@@ -975,15 +891,6 @@
   <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve">
     <value>Komentarji naročila:</value>
   </data>
-  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve">
-    <value>Ta račun nima veljavnega e-poštnega naslova.</value>
-  </data>
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve">
-    <value>Prijava je trenutno blokirana.</value>
-  </data>
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve">
-    <value>Prijava je trenutno odblokirana.</value>
-  </data>
   <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve">
     <value>Gotovina</value>
   </data>
@@ -1067,9 +974,6 @@
   </data>
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
     <value>Stanje na depozitu ne zadošča za to naročilo.</value>
-  </data>
-  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
-    <value>Napaka</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
     <value>Napačno geslo</value>
@@ -1157,9 +1061,6 @@
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
     <value>Vaše naročilo je zaključeno</value>
-  </data>
-  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve">
-    <value>Naročilo zaključeno</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Vaše naročilo je na čakanju. Ko bo naročilo sprejeto, boste obveščeni</value>
@@ -1414,17 +1315,8 @@ Prosimo, napolnite svoj račun zdaj.</value>
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve">
     <value>{0} minut</value>
   </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve">
-    <value>Vir</value>
-  </data>
   <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve">
     <value>Računalniki</value>
-  </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve">
-    <value>do {0}</value>
-  </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve">
-    <value>Na voljo</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve">
     <value>Datum nakupa</value>
@@ -1581,9 +1473,6 @@ Prosimo, napolnite svoj račun zdaj.</value>
   </data>
   <data name="GIZ_USER_BAN_MESSAGE" xml:space="preserve">
     <value>Bili ste izključeni!</value>
-  </data>
-  <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
-    <value>Izključeni ste do {0}!</value>
   </data>
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST" xml:space="preserve">
     <value>Na voljo samo članom.</value>

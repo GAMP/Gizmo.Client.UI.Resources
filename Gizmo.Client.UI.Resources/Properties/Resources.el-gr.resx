@@ -213,9 +213,6 @@
   <data name="GIZ_APPS_LINKS" xml:space="preserve">
     <value>Σύνδεσμοι</value>
   </data>
-  <data name="GIZ_APPS_LOADING" xml:space="preserve">
-    <value>Φόρτωση</value>
-  </data>
   <data name="GIZ_APPS_MEDIA" xml:space="preserve">
     <value>Πολυμέσα</value>
   </data>
@@ -236,9 +233,6 @@
   </data>
   <data name="GIZ_APPS_REPAIR" xml:space="preserve">
     <value>Επιδιόρθωση</value>
-  </data>
-  <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve">
-    <value>Επιλέξτε Έκδοση</value>
   </data>
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve">
     <value>Τερματισμός</value>
@@ -263,9 +257,6 @@
   </data>
   <data name="GIZ_GEN_AND" xml:space="preserve">
     <value>και</value>
-  </data>
-  <data name="GIZ_GEN_BACK_TO" xml:space="preserve">
-    <value>Πίσω σε {0}</value>
   </data>
   <data name="GIZ_GEN_BALANCE" xml:space="preserve">
     <value>Υπόλοιπο</value>
@@ -303,9 +294,6 @@
   <data name="GIZ_GEN_POINTS" xml:space="preserve">
     <value>Πόντοι</value>
   </data>
-  <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve">
-    <value>Δημοφιλή αντικείμενα</value>
-  </data>
   <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve">
     <value>Επανάληψη νέου κωδικού</value>
   </data>
@@ -318,17 +306,11 @@
   <data name="GIZ_GEN_SAVE" xml:space="preserve">
     <value>Αποθήκευση</value>
   </data>
-  <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve">
-    <value>Αποθήκευση Αλλαγών</value>
-  </data>
   <data name="GIZ_GEN_SORT_BY" xml:space="preserve">
     <value>Ταξινόμηση με:</value>
   </data>
   <data name="GIZ_GEN_TIME" xml:space="preserve">
     <value>Χρόνος</value>
-  </data>
-  <data name="GIZ_GEN_UPDATE" xml:space="preserve">
-    <value>Ενημέρωση</value>
   </data>
   <data name="GIZ_GEN_USERNAME" xml:space="preserve">
     <value>Όνομα χρήστη</value>
@@ -381,9 +363,6 @@
   <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve">
     <value>Είσοδος με QR</value>
   </data>
-  <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve">
-    <value>Εάν συνδεθείτε τώρα, θα αποσυνδεθείτε αυτόματα την συγκεκριμένη ώρα.</value>
-  </data>
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
     <value>Αυτός ο υπολογιστής είναι δεσμευμένος από τις {0}.</value>
   </data>
@@ -398,9 +377,6 @@
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
     <value>Επισήμανση όλων ως αναγνωσμένων</value>
-  </data>
-  <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve">
-    <value>Επισήμανση ως αναγνωσμένο</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve">
     <value>Δεν υπάρχουν νέες ειδοποιήσεις.</value>
@@ -459,12 +435,6 @@
   <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve">
     <value>Τουλάχιστον 1 κεφαλαίο γράμμα</value>
   </data>
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve">
-    <value>Εισάγετε το e-mail σας</value>
-  </data>
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve">
-    <value>Εισάγετε το κινητό τηλέφωνο σας</value>
-  </data>
   <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Παρακαλώ επιβεβαιώστε τον κωδικό χώρας σας και εισάγετε τον αριθμό τηλεφώνου σας για να δημιουργήσετε έναν λογαριασμό.</value>
   </data>
@@ -480,23 +450,8 @@
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
     <value>Προσθήκη στο καλάθι</value>
   </data>
-  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve">
-    <value>Περιεχόμενα πακέτου:</value>
-  </data>
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve">
-    <value>Περίοδος χρήσης</value>
-  </data>
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve">
     <value>Περιγραφή προσφοράς:</value>
-  </data>
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve">
-    <value>Χρόνος ζωής προσφοράς</value>
-  </data>
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve">
-    <value>Ευχαριστούμε για την παραγγελία σας!</value>
-  </data>
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve">
-    <value>Σημείωση: Μπορείτε να δείτε όλες τις παραγγελίες σας στο προφίλ μου &gt; αγορές</value>
   </data>
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve">
     <value>Ολοκλήρωση Αγοράς</value>
@@ -588,9 +543,6 @@
   <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve">
     <value>θα πιστωθεί στο ισοζύγιο του λογαριασμού σας</value>
   </data>
-  <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve">
-    <value>Πρόσθετες πληροφορίες</value>
-  </data>
   <data name="GIZ_USER_ADDRESS" xml:space="preserve">
     <value>Διεύθυνση</value>
   </data>
@@ -621,14 +573,8 @@
   <data name="GIZ_USER_GENDER" xml:space="preserve">
     <value>Φύλο</value>
   </data>
-  <data name="GIZ_USER_HOME_PHONE" xml:space="preserve">
-    <value>Σταθερό τηλέφωνο</value>
-  </data>
   <data name="GIZ_USER_LAST_NAME" xml:space="preserve">
     <value>Επώνυμο</value>
-  </data>
-  <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve">
-    <value>e-mail και τηλέφωνα</value>
   </data>
   <data name="GIZ_USER_MENU_HELP" xml:space="preserve">
     <value>Βοήθεια</value>
@@ -642,12 +588,6 @@
   <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve">
     <value>Το προφίλ μου</value>
   </data>
-  <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve">
-    <value>Ρυθμίσεις</value>
-  </data>
-  <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
-    <value>Κατάθεση</value>
-  </data>
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">
     <value>Προσωπικές πληροφορίες</value>
   </data>
@@ -657,14 +597,8 @@
   <data name="GIZ_USER_PURCHASES" xml:space="preserve">
     <value>Αγορές</value>
   </data>
-  <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve">
-    <value>Επεξεργασία Ρυθμίσεων Χρήστη</value>
-  </data>
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
     <value>Κινήσεις</value>
-  </data>
-  <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve">
-    <value>Οι άλλοι χρήστες θα βλέπουν το όνομα χρήστη σας</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve">
     <value>Αποστολή κωδικού</value>
@@ -675,23 +609,8 @@
   <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve">
     <value>Εφαρμογές</value>
   </data>
-  <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve">
-    <value>Σελίδα παιχνιδιών</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve">
-    <value>Παιχνίδια</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve">
-    <value>Αρχική σελίδα</value>
-  </data>
   <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve">
     <value>Αρχική</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve">
-    <value>Σελίδα προφίλ</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve">
-    <value>Προφίλ</value>
   </data>
   <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve">
     <value>Σελίδα καταστήματος</value>
@@ -806,9 +725,6 @@
   </data>
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve">
     <value>Προστέθηκαν πρόσφατα</value>
-  </data>
-  <data name="GIZ_GEN_OR" xml:space="preserve">
-    <value>ή</value>
   </data>
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve">
     <value>και</value>
@@ -975,15 +891,6 @@
   <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve">
     <value>Σχόλια παραγγελίας:</value>
   </data>
-  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve">
-    <value>Αυτός ο λογαριασμός δεν έχει έγκυρο email.</value>
-  </data>
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve">
-    <value>Δεν επιτρέπεται η είσοδος.</value>
-  </data>
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve">
-    <value>Επιτρέπεται η είσοδος.</value>
-  </data>
   <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve">
     <value>Μετρητά</value>
   </data>
@@ -1068,9 +975,6 @@
   </data>
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
     <value>Το υπόλοιπο καταθέσεών σας δεν επαρκεί για αυτή την παραγγελία.</value>
-  </data>
-  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
-    <value>Σφάλμα</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
     <value>Λάθος κωδικός</value>
@@ -1158,9 +1062,6 @@
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
     <value>Η παραγγελία σας ολοκληρώθηκε</value>
-  </data>
-  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve">
-    <value>Η παραγγελία ολοκληρώθηκε</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Η παραγγελία σας είναι σε αναμονή, θα ειδοποιηθείτε μόλις γίνει αποδεκτή</value>
@@ -1415,17 +1316,8 @@
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve">
     <value>{0} Λεπτά</value>
   </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve">
-    <value>Πηγή</value>
-  </data>
   <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve">
     <value>Τερματικά</value>
-  </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve">
-    <value>μέχρι {0}</value>
-  </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve">
-    <value>Διαθέσιμο</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve">
     <value>Ημερομηνία αγοράς</value>
@@ -1582,9 +1474,6 @@
   </data>
   <data name="GIZ_USER_BAN_MESSAGE" xml:space="preserve">
     <value>Έχετε αποκλειστεί!</value>
-  </data>
-  <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
-    <value>Έχετε αποκλειστεί έως τις {0}!</value>
   </data>
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST" xml:space="preserve">
     <value>Διαθέσιμο μόνο σε μέλη.</value>

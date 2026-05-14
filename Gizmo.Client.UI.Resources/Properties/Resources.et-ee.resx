@@ -213,9 +213,6 @@
   <data name="GIZ_APPS_LINKS" xml:space="preserve">
     <value>Lingid</value>
   </data>
-  <data name="GIZ_APPS_LOADING" xml:space="preserve">
-    <value>Laadimine</value>
-  </data>
   <data name="GIZ_APPS_MEDIA" xml:space="preserve">
     <value>Meedia</value>
   </data>
@@ -236,9 +233,6 @@
   </data>
   <data name="GIZ_APPS_REPAIR" xml:space="preserve">
     <value>Parandamine</value>
-  </data>
-  <data name="GIZ_APPS_SELECT_EXE" xml:space="preserve">
-    <value>Valige rakenduse versioon</value>
   </data>
   <data name="GIZ_APPS_TERMINATE" xml:space="preserve">
     <value>Lõpeta</value>
@@ -263,9 +257,6 @@
   </data>
   <data name="GIZ_GEN_AND" xml:space="preserve">
     <value>ja</value>
-  </data>
-  <data name="GIZ_GEN_BACK_TO" xml:space="preserve">
-    <value>Tagasi {0}</value>
   </data>
   <data name="GIZ_GEN_BALANCE" xml:space="preserve">
     <value>Saldo</value>
@@ -303,9 +294,6 @@
   <data name="GIZ_GEN_POINTS" xml:space="preserve">
     <value>Punktid</value>
   </data>
-  <data name="GIZ_GEN_POPULAR_ITEMS" xml:space="preserve">
-    <value>Populaarsed üksused</value>
-  </data>
   <data name="GIZ_GEN_REPEAT_NEW_PASSWORD" xml:space="preserve">
     <value>Korda uut parooli</value>
   </data>
@@ -318,17 +306,11 @@
   <data name="GIZ_GEN_SAVE" xml:space="preserve">
     <value>Salvesta</value>
   </data>
-  <data name="GIZ_GEN_SAVE_CHANGES" xml:space="preserve">
-    <value>Salvesta muudatused</value>
-  </data>
   <data name="GIZ_GEN_SORT_BY" xml:space="preserve">
     <value>Sorteeri:</value>
   </data>
   <data name="GIZ_GEN_TIME" xml:space="preserve">
     <value>Aeg</value>
-  </data>
-  <data name="GIZ_GEN_UPDATE" xml:space="preserve">
-    <value>Värskenda</value>
   </data>
   <data name="GIZ_GEN_USERNAME" xml:space="preserve">
     <value>Kasutajanimi</value>
@@ -381,9 +363,6 @@
   <data name="GIZ_LOGIN_QR_TITLE" xml:space="preserve">
     <value>Logige sisse QR-koodiga</value>
   </data>
-  <data name="GIZ_LOGIN_RESERVATION_WARNING_MESSAGE" xml:space="preserve">
-    <value>Kui logite nüüd sisse, logitakse teid automaatselt välja määratud ajal.</value>
-  </data>
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
     <value>See arvuti on reserveeritud alates {0}.</value>
   </data>
@@ -398,9 +377,6 @@
   </data>
   <data name="GIZ_NOTIFICATIONS_MARK_ALL_AS_READ" xml:space="preserve">
     <value>Märgi kõik loetuks</value>
-  </data>
-  <data name="GIZ_NOTIFICATIONS_MARK_AS_READ" xml:space="preserve">
-    <value>Märgi loetuks</value>
   </data>
   <data name="GIZ_NOTIFICATIONS_NO_NEW_NOTIFICATIONS" xml:space="preserve">
     <value>Uusi teavitusi pole.</value>
@@ -459,12 +435,6 @@
   <data name="GIZ_PASSWORD_RULE_UPPER_CASE" xml:space="preserve">
     <value>Vähemalt 1 suurtäht</value>
   </data>
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_EMAIL" xml:space="preserve">
-    <value>Sisesta oma e-post</value>
-  </data>
-  <data name="GIZ_REGISTRATION_ENTER_YOUR_MOBILE_PHONE" xml:space="preserve">
-    <value>Sisestage oma mobiiltelefon</value>
-  </data>
   <data name="GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Palun kinnitage oma riigikood ja sisestage oma telefoninumber konto loomiseks.</value>
   </data>
@@ -480,23 +450,8 @@
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
     <value>Lisa ostukorvi</value>
   </data>
-  <data name="GIZ_SHOP_CARD_BUNDLE_BUNDLE_INCLUDES" xml:space="preserve">
-    <value>Pakett sisaldab:</value>
-  </data>
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_ACTION_PERIOD" xml:space="preserve">
-    <value>Tegevusperiood</value>
-  </data>
   <data name="GIZ_SHOP_CARD_TIME_PRODUCT_DESCRIPTION" xml:space="preserve">
     <value>Pakendi kirjeldus:</value>
-  </data>
-  <data name="GIZ_SHOP_CARD_TIME_PRODUCT_LIFE_TIME" xml:space="preserve">
-    <value>Toote eluiga</value>
-  </data>
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_MESSAGE" xml:space="preserve">
-    <value>Täname tellimuse eest!</value>
-  </data>
-  <data name="GIZ_SHOP_CHECKOUT_COMPLETE_NOTE" xml:space="preserve">
-    <value>Märkus: Kõiki teie praeguseid tellimusi saate vaadata jaotises Minu profiil &gt; Ostetud</value>
   </data>
   <data name="GIZ_SHOP_CHECKOUT_TITLE" xml:space="preserve">
     <value>Maksmine</value>
@@ -588,9 +543,6 @@
   <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve">
     <value>kantakse teie kontosaldole</value>
   </data>
-  <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve">
-    <value>Lisateave</value>
-  </data>
   <data name="GIZ_USER_ADDRESS" xml:space="preserve">
     <value>Aadress</value>
   </data>
@@ -621,14 +573,8 @@
   <data name="GIZ_USER_GENDER" xml:space="preserve">
     <value>Sugu</value>
   </data>
-  <data name="GIZ_USER_HOME_PHONE" xml:space="preserve">
-    <value>Kodu telefon</value>
-  </data>
   <data name="GIZ_USER_LAST_NAME" xml:space="preserve">
     <value>Perekonnanimi</value>
-  </data>
-  <data name="GIZ_USER_MAIL_AND_PHONE_NUMBERS" xml:space="preserve">
-    <value>E-post ja telefoninumbrid</value>
   </data>
   <data name="GIZ_USER_MENU_HELP" xml:space="preserve">
     <value>Abi</value>
@@ -642,12 +588,6 @@
   <data name="GIZ_USER_MENU_PROFILE" xml:space="preserve">
     <value>Minu profiil</value>
   </data>
-  <data name="GIZ_USER_MENU_SETTINGS" xml:space="preserve">
-    <value>Seaded</value>
-  </data>
-  <data name="GIZ_USER_MENU_USER_ONLINE_DEPOSIT" xml:space="preserve">
-    <value>Krediidi täiendamine</value>
-  </data>
   <data name="GIZ_USER_PERSONAL_INFORMATION" xml:space="preserve">
     <value>Isiklik info</value>
   </data>
@@ -657,14 +597,8 @@
   <data name="GIZ_USER_PURCHASES" xml:space="preserve">
     <value>Ostud</value>
   </data>
-  <data name="GIZ_USER_SETTINGS_TITLE" xml:space="preserve">
-    <value>Muuda kasutaja seadeid</value>
-  </data>
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
     <value>Tehingud</value>
-  </data>
-  <data name="GIZ_USER_USERNAME_MESSAGE" xml:space="preserve">
-    <value>Teised kasutajad näevad teie kasutajanime</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_SEND_CODE" xml:space="preserve">
     <value>Saada kood</value>
@@ -675,23 +609,8 @@
   <data name="GIZ_MODULE_PAGE_APPS_TITLE" xml:space="preserve">
     <value>Rakendused</value>
   </data>
-  <data name="GIZ_MODULE_PAGE_GAMES_DESCRIPTION" xml:space="preserve">
-    <value>Mängude leht</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_GAMES_TITLE" xml:space="preserve">
-    <value>Mängud</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_HOME_DESCRIPTION" xml:space="preserve">
-    <value>Koduleht</value>
-  </data>
   <data name="GIZ_MODULE_PAGE_HOME_TITLE" xml:space="preserve">
     <value>Kodu</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_PROFILE_DESCRIPTION" xml:space="preserve">
-    <value>Profiili leht</value>
-  </data>
-  <data name="GIZ_MODULE_PAGE_PROFILE_TITLE" xml:space="preserve">
-    <value>Profiil</value>
   </data>
   <data name="GIZ_MODULE_PAGE_SHOP_DESCRIPTION" xml:space="preserve">
     <value>Poodi leht</value>
@@ -806,9 +725,6 @@
   </data>
   <data name="GIZ_APP_FILTERS_RECENTLY_ADDED" xml:space="preserve">
     <value>Hiljuti lisatud</value>
-  </data>
-  <data name="GIZ_GEN_OR" xml:space="preserve">
-    <value>või</value>
   </data>
   <data name="GIZ_PRODUCT_PRICE_PURCHASE_OPTION_AND" xml:space="preserve">
     <value>ja</value>
@@ -975,15 +891,6 @@
   <data name="GIZ_USER_PURCHASES_ORDER_NOTE" xml:space="preserve">
     <value>Tellimuse kommentaarid:</value>
   </data>
-  <data name="GIZ_PASSWORD_RECOVERY_NO_VALID_EMAIL" xml:space="preserve">
-    <value>Sellel kontol pole kehtivat e-posti aadressi.</value>
-  </data>
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_BLOCKED" xml:space="preserve">
-    <value>Sisselogimine on hetkel blokeeritud.</value>
-  </data>
-  <data name="GIZ_HOST_RESERVATION_LOGIN_IS_CURRENTLY_UNBLOCKED" xml:space="preserve">
-    <value>Sisselogimine on hetkel lubatud.</value>
-  </data>
   <data name="GIZ_GEN_PAYMENT_METHOD_CASH" xml:space="preserve">
     <value>Sularaha</value>
   </data>
@@ -1067,9 +974,6 @@
   </data>
   <data name="GIZ_INSUFFICIENT_DEPOSITS_MESSAGE" xml:space="preserve">
     <value>Teie deposiidi jääk ei kata seda tellimust.</value>
-  </data>
-  <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
-    <value>Viga</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
     <value>Vale parool</value>
@@ -1157,9 +1061,6 @@
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
     <value>Teie tellimus on täidetud</value>
-  </data>
-  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve">
-    <value>Tellimus täidetud</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Teie tellimus on ootel, teavitatakse, kui tellimus on vastu võetud</value>
@@ -1413,17 +1314,8 @@
   <data name="GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES" xml:space="preserve">
     <value>{0} minutit</value>
   </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_SOURCE" xml:space="preserve">
-    <value>Allikas</value>
-  </data>
   <data name="GIZ_USER_TIME_PRODUCTS_HOSTS" xml:space="preserve">
     <value>Arvutid</value>
-  </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE_UNTIL" xml:space="preserve">
-    <value>kuni {0}</value>
-  </data>
-  <data name="GIZ_USER_TIME_PRODUCTS_AVAILABLE" xml:space="preserve">
-    <value>Saadaval</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PURCHASE_DATE" xml:space="preserve">
     <value>Ostu kuupäev</value>
@@ -1580,9 +1472,6 @@
   </data>
   <data name="GIZ_USER_BAN_MESSAGE" xml:space="preserve">
     <value>Teid on blokeeritud!</value>
-  </data>
-  <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
-    <value>Te olete blokeeritud kuni {0}!</value>
   </data>
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST" xml:space="preserve">
     <value>Saadaval ainult liikmetele.</value>
