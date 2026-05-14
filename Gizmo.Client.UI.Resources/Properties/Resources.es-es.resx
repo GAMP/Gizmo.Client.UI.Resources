@@ -124,10 +124,10 @@
     <value>Spanish</value>
   </data>
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
-    <value>Todos los juegos y aplicaciones</value>
+    <value>Todas las categorías</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve">
-    <value>Añadir fecha</value>
+    <value>Fecha de adición</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
     <value>Popularidad</value>
@@ -214,16 +214,13 @@
     <value>Aplicaciones activas</value>
   </data>
   <data name="GIZ_APPS_AUTO_START" xml:space="preserve">
-    <value>Iniciar automáticamente</value>
+    <value>Abrir automáticamente</value>
   </data>
   <data name="GIZ_APPS_CATEGORY" xml:space="preserve">
     <value>Categoría:</value>
   </data>
   <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve">
     <value>Fecha de adición</value>
-  </data>
-  <data name="GIZ_APPS_LAUNCH" xml:space="preserve">
-    <value>Iniciar</value>
   </data>
   <data name="GIZ_APPS_LINKS" xml:space="preserve">
     <value>Enlaces</value>
@@ -235,7 +232,7 @@
     <value>Medios</value>
   </data>
   <data name="GIZ_APPS_PARAMETERS" xml:space="preserve">
-    <value>Parámetros:</value>
+    <value>Filtrar por:</value>
   </data>
   <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve">
     <value>Archivos personales</value>
@@ -400,7 +397,7 @@
     <value>Si inicia sesión ahora, la sesión se cerrará automáticamente a la hora especificada.</value>
   </data>
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
-    <value>Esta computadora está reservada a las {0}.</value>
+    <value>Esta computadora está reservada desde las {0}.</value>
   </data>
   <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve">
     <value>Iniciar sesión</value>
@@ -586,7 +583,7 @@
     <value>Pagar desde el computador</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve">
-    <value>A continuación coloque: Información de pago</value>
+    <value>Continuar con el pago</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve">
     <value>Código QR para pago con el móvil</value>
@@ -745,7 +742,7 @@
     <value>Algo salió mal. Comuníquese con alguien del personal para obtener más información.</value>
   </data>
   <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve">
-    <value>Seleccione alguno</value>
+    <value>Cualquiera</value>
   </data>
   <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve">
     <value>Femenino</value>
@@ -763,7 +760,7 @@
     <value>Reintentar con mensaje de texto</value>
   </data>
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve">
-    <value>Valor no establecido</value>
+    <value>(Sin título)</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
     <value>Desbloquear</value>
@@ -778,7 +775,7 @@
     <value>Introduzca su PIN para desbloquear</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
-    <value>Bloquee este perfil creando un PIN de 4 dígitos. Memorízelo o escríbalo.</value>
+    <value>Bloquee este perfil creando un PIN de 4 dígitos. Memorícelo o escríbalo en un lugar seguro.</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve">
     <value>Bloqueo de perfil</value>
@@ -858,7 +855,7 @@
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve">
     <value>Pagado</value>
   </data>
-  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve">
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALLY_PAID" xml:space="preserve">
     <value>Parcialmente pagado</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve">
@@ -907,7 +904,7 @@
     <value>Historial de compras</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve">
-    <value>Tiempo de acción</value>
+    <value>Disponible para usar</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve">
     <value>Después de cerrar sesión</value>
@@ -919,7 +916,7 @@
     <value>después de su uso</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve">
-    <value>Tiempo de compra</value>
+    <value>Disponible para comprar</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve">
     <value>d.</value>
@@ -946,7 +943,7 @@
     <value>piezas</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve">
-    <value>Expira</value>
+    <value>Caducidad</value>
   </data>
   <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve">
     <value>{0} no pudo iniciarse :(</value>
@@ -979,7 +976,7 @@
     <value>No disponible en este ordenador.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
-    <value>Este producto de tiempo no se puede usar ahora. ¿Comprarlo para usarlo más tarde?</value>
+    <value>Este producto de tiempo no se puede usar ahora. ¿Comprarlo para más tarde?</value>
   </data>
   <data name="GIZ_GEN_NEVER" xml:space="preserve">
     <value>Nunca</value>
@@ -1075,7 +1072,7 @@
     <value>Éxito</value>
   </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
-    <value>¡No eres lo suficientemente mayor!</value>
+    <value>Su cuenta no cumple la clasificación de edad requerida para abrir esta aplicación.</value>
   </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve">
     <value>Clasificación de edad</value>
@@ -1132,7 +1129,7 @@
     <value>Denegado</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve">
-    <value>Error general</value>
+    <value>Falló el inicio de sesión (error del servidor). Inténtelo de nuevo.</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve">
     <value>Saldo insuficiente</value>
@@ -1153,9 +1150,9 @@
     <value>Número máximo de sesiones alcanzado</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve">
-    <value>No está en la fila de espera</value>
+    <value>No está en la fila de espera.</value>
   </data>
-  <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve">
+  <data name="GIZ_LOGIN_RESULT_SUCCESS" xml:space="preserve">
     <value>Éxito</value>
   </data>
   <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve">
@@ -1174,7 +1171,7 @@
     <value>Cerrar sesión</value>
   </data>
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
-    <value>Su tiempo se ha agotado.&lt;br&gt;Recargue en recepción o&lt;br&gt;haga clic en "cerrar sesión" para finalizar la sesión.</value>
+    <value>Su tiempo se ha agotado.&lt;br&gt;Recargue en el mostrador, o&lt;br&gt;haga clic en "Cerrar sesión" para finalizar la sesión.</value>
   </data>
   <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve">
     <value>Fuera de servicio</value>
@@ -1325,7 +1322,7 @@ Por favor recargue su cuenta ahora.</value>
     <value>No disponible en este ordenador.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
-    <value>Los espacios en blanco no están permitidos</value>
+    <value>El nombre de usuario no puede contener espacios.</value>
   </data>
   <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve">
     <value>Se ha producido un error.</value>
@@ -1343,7 +1340,7 @@ Por favor recargue su cuenta ahora.</value>
     <value>¿En qué le podemos ayudar?</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve">
-    <value>¿En qué le podemos ayudar?</value>
+    <value>Describa el problema…</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve">
     <value>Enviar</value>
@@ -1352,7 +1349,7 @@ Por favor recargue su cuenta ahora.</value>
     <value>La solicitud fue enviada</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve">
-    <value>Por favor espere a que el operador acepte su solicitud, la respuesta se enviará a la sección de notificaciones.</value>
+    <value>Espere mientras el operador revisa su solicitud. Recibirá la respuesta en Notificaciones.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve">
     <value>Cancelar la solicitud</value>
@@ -1382,7 +1379,7 @@ Por favor recargue su cuenta ahora.</value>
     <value>Activado {0}</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve">
-    <value>Expira</value>
+    <value>Caducidad</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve">
     <value>{0} de compra</value>
@@ -1433,7 +1430,7 @@ Por favor recargue su cuenta ahora.</value>
     <value>Puede comprar artículos de la tienda a crédito.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Puede jugar a crédito.</value>
+    <value>Puede seguir jugando a crédito incluso cuando se acabe su tiempo.</value>
   </data>
   <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve">
     <value>Crédito</value>
@@ -1484,7 +1481,7 @@ Por favor recargue su cuenta ahora.</value>
     <value>Producto de tiempo</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve">
-    <value>Tiempo disponible</value>
+    <value>Sus paquetes de tiempo</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve">
     <value>Anulado</value>
@@ -1496,19 +1493,19 @@ Por favor recargue su cuenta ahora.</value>
     <value>El operador ha aceptado su solicitud y en breve estará allí para atenderle.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED" xml:space="preserve">
-    <value>Su solicitud no puede ser procesada.</value>
+    <value>El operador ha rechazado su solicitud.</value>
   </data>
   <data name="GIZ_GEN_GUEST" xml:space="preserve">
     <value>Invitado</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_EXPIRES" xml:space="preserve">
-    <value>Expira</value>
+    <value>Expira el</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_REMAINING_TIME" xml:space="preserve">
     <value>Tiempo restante</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve">
-    <value>Tiempo utilizable</value>
+    <value>Disponible en este PC</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve">
     <value>Paquete de tiempo</value>
@@ -1589,7 +1586,7 @@ Por favor recargue su cuenta ahora.</value>
     <value>Solo pueden iniciar sesión el propietario de la reserva o los invitados con el código de reserva.</value>
   </data>
   <data name="GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE" xml:space="preserve">
-    <value>Si inicias sesión ahora, se cerrará automáticamente a la hora especificada</value>
+    <value>Si inicia sesión ahora, su sesión se cerrará automáticamente cuando comience la reserva.</value>
   </data>
   <data name="GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE" xml:space="preserve">
     <value>También puedes completar el pago en el mostrador con el operador.</value>
@@ -1632,5 +1629,14 @@ Por favor recargue su cuenta ahora.</value>
   </data>
   <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
     <value>¡Estás baneado hasta el {0}!</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST" xml:space="preserve">
+    <value>Disponible solo para miembros.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_USER_GROUP" xml:space="preserve">
+    <value>No disponible para su grupo de usuarios.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_PURCHASE" xml:space="preserve">
+    <value>No disponible para la compra en este momento.</value>
   </data>
 </root>

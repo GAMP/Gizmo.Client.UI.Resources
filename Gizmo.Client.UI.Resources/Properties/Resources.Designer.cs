@@ -97,7 +97,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are not old enough!.
+        ///   Looks up a localized string similar to Your account does not meet the age rating required to launch this application..
         /// </summary>
         public static string GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE {
             get {
@@ -178,7 +178,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All games and apps.
+        ///   Looks up a localized string similar to All categories.
         /// </summary>
         public static string GIZ_APP_FILTERS_ALL_GAMES_AND_APPS {
             get {
@@ -214,7 +214,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Select something.
+        ///   Looks up a localized string similar to Any.
         /// </summary>
         public static string GIZ_APP_FILTERS_SELECT_SOMETHING {
             get {
@@ -223,7 +223,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add date.
+        ///   Looks up a localized string similar to Date added.
         /// </summary>
         public static string GIZ_APP_SORTING_OPTION_ADD_DATE {
             get {
@@ -277,7 +277,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Autostart.
+        ///   Looks up a localized string similar to Auto-launch.
         /// </summary>
         public static string GIZ_APPS_AUTO_START {
             get {
@@ -311,17 +311,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
                 return ResourceManager.GetString("GIZ_APPS_DATE_ADDED", resourceCulture);
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Launch.
-        /// </summary>
-        public static string GIZ_APPS_LAUNCH {
-            get {
-                return ResourceManager.GetString("GIZ_APPS_LAUNCH", resourceCulture);
-            }
-        }
-        
-        /// <summary>
+                /// <summary>
         ///   Looks up a localized string similar to Links.
         /// </summary>
         public static string GIZ_APPS_LINKS {
@@ -349,7 +339,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Parameters:.
+        ///   Looks up a localized string similar to Filter by:.
         /// </summary>
         public static string GIZ_APPS_PARAMETERS {
             get {
@@ -448,7 +438,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to What can we help you with?.
+        ///   Looks up a localized string similar to Describe the issue….
         /// </summary>
         public static string GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER {
             get {
@@ -466,7 +456,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your request cannot be processed..
+        ///   Looks up a localized string similar to Your request has been declined by the operator..
         /// </summary>
         public static string GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED {
             get {
@@ -493,7 +483,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Select something.
+        ///   Looks up a localized string similar to Any.
         /// </summary>
         public static string GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_PLACEHOLDER {
             get {
@@ -520,7 +510,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please wait until the operator accepts your request, the answer will be sent in the notification section..
+        ///   Looks up a localized string similar to Please wait while the operator reviews your request. You’ll receive the reply in Notifications..
         /// </summary>
         public static string GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE {
             get {
@@ -880,7 +870,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Co-Op Lan.
+        ///   Looks up a localized string similar to Co-op (LAN).
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_CO_OP {
             get {
@@ -889,7 +879,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Co-Op Online.
+        ///   Looks up a localized string similar to Co-op (online).
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_CO_OP_ONLINE {
             get {
@@ -898,7 +888,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Free To Play.
+        ///   Looks up a localized string similar to Free to play.
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_FREE_TO_PLAY {
             get {
@@ -907,7 +897,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Free Trial.
+        ///   Looks up a localized string similar to Free trial.
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_FREE_TRIAL {
             get {
@@ -925,7 +915,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Lan Multiplayer.
+        ///   Looks up a localized string similar to LAN multiplayer.
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_MULTIPLAYER {
             get {
@@ -934,7 +924,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to One Time Purchase.
+        ///   Looks up a localized string similar to One-time purchase.
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_ONE_TIME_PURCHASE {
             get {
@@ -943,7 +933,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Online Multiplayer.
+        ///   Looks up a localized string similar to Online multiplayer.
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_ONLINE {
             get {
@@ -952,7 +942,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Requires Subscription.
+        ///   Looks up a localized string similar to Requires subscription.
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_REQUIRES_SUBSCRIPTION {
             get {
@@ -1483,7 +1473,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Unset value.
+        ///   Looks up a localized string similar to (Untitled).
         /// </summary>
         public static string GIZ_GEN_UNSET_STRING_VALUE {
             get {
@@ -1690,7 +1680,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your time has expired.&lt;br&gt;Refill at the front desk or&lt;br&gt;click &quot;logout&quot; to end your session..
+        ///   Looks up a localized string similar to Your time has expired.&lt;br&gt;Top up at the counter, or&lt;br&gt;click &quot;Logout&quot; to end your session..
         /// </summary>
         public static string GIZ_GRACE_PERIOD_MESSAGE {
             get {
@@ -1699,7 +1689,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Only reservation owner or guests with reservation pin can be logged in..
+        ///   Looks up a localized string similar to Only the reservation owner, or guests with the reservation code, can log in now..
         /// </summary>
         public static string GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE {
             get {
@@ -1726,7 +1716,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you log in now, you will be automatically logged out at the specified time.
+        ///   Looks up a localized string similar to If you log in now, your session will end automatically when the reservation begins..
         /// </summary>
         public static string GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE {
             get {
@@ -1798,7 +1788,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Scan this with the Mobile app to sign in instantly.
+        ///   Looks up a localized string similar to Scan this with the Mobile app to log in instantly.
         /// </summary>
         public static string GIZ_LOGIN_QR_MESSAGE {
             get {
@@ -1807,7 +1797,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign in with QR Code.
+        ///   Looks up a localized string similar to Log in with QR Code.
         /// </summary>
         public static string GIZ_LOGIN_QR_TITLE {
             get {
@@ -1816,7 +1806,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you log in now, you will be automatically logged out at the specified time..
+        ///   Looks up a localized string similar to If you log in now, your session will end automatically when the reservation begins...
         /// </summary>
         public static string GIZ_LOGIN_RESERVATION_WARNING_MESSAGE {
             get {
@@ -1825,7 +1815,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This computer is reserved at {0}..
+        ///   Looks up a localized string similar to This computer is reserved starting {0}..
         /// </summary>
         public static string GIZ_LOGIN_RESERVATION_WARNING_TITLE {
             get {
@@ -1861,7 +1851,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to General failure.
+        ///   Looks up a localized string similar to Login failed (server error). Please try again.
         /// </summary>
         public static string GIZ_LOGIN_RESULT_FAILED {
             get {
@@ -1924,7 +1914,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Not in waiting line.
+        ///   Looks up a localized string similar to You are not in the queue.
         /// </summary>
         public static string GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE {
             get {
@@ -1944,14 +1934,14 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Success.
         /// </summary>
-        public static string GIZ_LOGIN_RESULT_SUCESS {
+        public static string GIZ_LOGIN_RESULT_SUCCESS {
             get {
-                return ResourceManager.GetString("GIZ_LOGIN_RESULT_SUCESS", resourceCulture);
+                return ResourceManager.GetString("GIZ_LOGIN_RESULT_SUCCESS", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign in.
+        ///   Looks up a localized string similar to Log in.
         /// </summary>
         public static string GIZ_LOGIN_SIGN_IN_TITLE {
             get {
@@ -2059,7 +2049,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To continue playing buy a time pack..
+        ///   Looks up a localized string similar to To continue playing, buy a time pack..
         /// </summary>
         public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME {
             get {
@@ -2068,7 +2058,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To continue playing buy a time pack or/and top up your balance..
+        ///   Looks up a localized string similar to To continue playing, buy a time pack and/or top up your balance..
         /// </summary>
         public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_BUY_TIME_OR_TOP_UP {
             get {
@@ -2086,7 +2076,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To continue playing, pay off your outstanding credit and buy a time pack and/or top up your balance..
+        ///   Looks up a localized string similar to To continue playing, pay off your outstanding credit, then buy a time pack and/or top up your balance..
         /// </summary>
         public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_CLOSE_BALANCE_AND_BUY_TIME_OR_TOP_UP {
             get {
@@ -2104,7 +2094,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To continue playing top up your balance..
+        ///   Looks up a localized string similar to To continue playing, top up your balance..
         /// </summary>
         public static string GIZ_MENU_BALANCE_TOOLTIP_TO_CONTINUE_TOP_UP {
             get {
@@ -2383,7 +2373,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Place Next: Payment informaition.
+        ///   Looks up a localized string similar to Continue to payment.
         /// </summary>
         public static string GIZ_ONLINE_DEPOSIT_PLACE_NEXT {
             get {
@@ -2660,7 +2650,34 @@ namespace Gizmo.Client.UI.Resources.Properties {
                 return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE", resourceCulture);
             }
         }
-        
+
+        /// <summary>
+        ///   Looks up a localized string similar to Available to members only..
+        /// </summary>
+        public static string GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Not available for your user group..
+        /// </summary>
+        public static string GIZ_PRODUCT_NOT_AVAILABLE_FOR_USER_GROUP {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE_FOR_USER_GROUP", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Not available for purchase right now..
+        /// </summary>
+        public static string GIZ_PRODUCT_NOT_AVAILABLE_FOR_PURCHASE {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE_FOR_PURCHASE", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to Not available anymore..
         /// </summary>
@@ -2815,7 +2832,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This time product cannot be used right now. Buy it for use later?.
+        ///   Looks up a localized string similar to This time product cannot be used right now. Buy it for later?.
         /// </summary>
         public static string GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY {
             get {
@@ -2824,7 +2841,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Action time.
+        ///   Looks up a localized string similar to Available for use.
         /// </summary>
         public static string GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME {
             get {
@@ -2860,7 +2877,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Buying time.
+        ///   Looks up a localized string similar to Available for purchase.
         /// </summary>
         public static string GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME {
             get {
@@ -2923,7 +2940,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Expires.
+        ///   Looks up a localized string similar to Expiration.
         /// </summary>
         public static string GIZ_PRODUCT_TIME_EXPIRES {
             get {
@@ -2995,7 +3012,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign in.
+        ///   Looks up a localized string similar to Log in.
         /// </summary>
         public static string GIZ_REGISTRATION_SIGN_IN {
             get {
@@ -3094,7 +3111,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Whitespaces not allowed.
+        ///   Looks up a localized string similar to Username cannot contain spaces..
         /// </summary>
         public static string GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED {
             get {
@@ -3139,7 +3156,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Scan the QR code below to complete the payment.&lt;br&gt;You’ll be signed in automatically once the payment is processed..
+        ///   Looks up a localized string similar to Scan the QR code below to complete the payment.&lt;br&gt;You’ll be logged in automatically once the payment is processed..
         /// </summary>
         public static string GIZ_RESERVATION_QR_MESSAGE {
             get {
@@ -3626,7 +3643,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Available time.
+        ///   Looks up a localized string similar to Your time products.
         /// </summary>
         public static string GIZ_USER_AVAILABLE_TIME {
             get {
@@ -3941,7 +3958,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Lock this profile by creating a 4-digit pin. Memorize or write it down..
+        ///   Looks up a localized string similar to Lock this profile by creating a 4-digit PIN. Remember it or write it down somewhere safe..
         /// </summary>
         public static string GIZ_USER_LOCK_SCREEN_SUBTITLE {
             get {
@@ -4058,7 +4075,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are allowed to play time on credit..
+        ///   Looks up a localized string similar to You can keep playing on credit even after your time runs out..
         /// </summary>
         public static string GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION {
             get {
@@ -4157,11 +4174,11 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Partialy paid.
+        ///   Looks up a localized string similar to Partially paid.
         /// </summary>
-        public static string GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID {
+        public static string GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALLY_PAID {
             get {
-                return ResourceManager.GetString("GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID", resourceCulture);
+                return ResourceManager.GetString("GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALLY_PAID", resourceCulture);
             }
         }
         
@@ -4319,7 +4336,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Expires.
+        ///   Looks up a localized string similar to Expires on.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_EXPIRES {
             get {
@@ -4382,7 +4399,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Expires specific time after the first use of the package..
+        ///   Looks up a localized string similar to Expires a set time after the package is first used..
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_FIRST_USE_DESCRIPTION {
             get {
@@ -4400,7 +4417,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Expires specific time after purchase of the package..
+        ///   Looks up a localized string similar to Expires a set time after the package is purchased..
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_AFTER_PURCHASE_DESCRIPTION {
             get {
@@ -4446,7 +4463,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Expires.
+        ///   Looks up a localized string similar to Expiration.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER {
             get {
@@ -4509,7 +4526,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Available time.
+        ///   Looks up a localized string similar to Your time products.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_TITLE {
             get {
@@ -4554,7 +4571,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Usable time.
+        ///   Looks up a localized string similar to Usable on this PC.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_USABLE_TIME {
             get {

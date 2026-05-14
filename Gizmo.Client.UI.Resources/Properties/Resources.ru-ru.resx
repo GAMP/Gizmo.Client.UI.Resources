@@ -124,10 +124,10 @@
     <value>Russian (Russia)</value>
   </data>
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
-    <value>Все игры и приложения</value>
+    <value>Все категории</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve">
-    <value>Дате добавления</value>
+    <value>Дата добавления</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
     <value>Популярности</value>
@@ -222,9 +222,6 @@
   <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve">
     <value>Дата добавления</value>
   </data>
-  <data name="GIZ_APPS_LAUNCH" xml:space="preserve">
-    <value>Запустить</value>
-  </data>
   <data name="GIZ_APPS_LINKS" xml:space="preserve">
     <value>Ссылки</value>
   </data>
@@ -235,7 +232,7 @@
     <value>Медиа</value>
   </data>
   <data name="GIZ_APPS_PARAMETERS" xml:space="preserve">
-    <value>Параметры:</value>
+    <value>Фильтр:</value>
   </data>
   <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve">
     <value>Личные файлы</value>
@@ -400,7 +397,7 @@
     <value>Если вы авторизуетесь сейчас, вы автоматически выйдете из системы в указанное время.</value>
   </data>
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
-    <value>Этот компьютер забронирован на {0}.</value>
+    <value>Этот компьютер забронирован с {0}.</value>
   </data>
   <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve">
     <value>Войти</value>
@@ -559,7 +556,7 @@
     <value>Итого</value>
   </data>
   <data name="GIZ_SYSTEM_LOCKED" xml:space="preserve">
-    <value>Заблокированный</value>
+    <value>Заблокировано</value>
   </data>
   <data name="GIZ_SYSTEM_VERSION" xml:space="preserve">
     <value>Версия</value>
@@ -586,7 +583,7 @@
     <value>Оплата с ПК</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve">
-    <value>Оплатить</value>
+    <value>Перейти к оплате</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve">
     <value>QR-код для оплаты</value>
@@ -745,7 +742,7 @@
     <value>Что-то пошло не так. Свяжитесь со стойкой администратора для получения информации.</value>
   </data>
   <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve">
-    <value>Выберите что-либо</value>
+    <value>Любые</value>
   </data>
   <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve">
     <value>Женщина</value>
@@ -763,7 +760,7 @@
     <value>Повторный запрос с помощью SMS</value>
   </data>
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve">
-    <value>Сброс значения</value>
+    <value>(Без названия)</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
     <value>Разблокировать</value>
@@ -778,7 +775,7 @@
     <value>Введите PIN-код для разблокировки</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
-    <value>Заблокируйте этот профиль, создав 4-значный PIN-код. Запомните или запишите его.</value>
+    <value>Заблокируйте этот профиль, создав 4-значный PIN-код. Запомните его или запишите в надёжном месте.</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve">
     <value>Блокировка профиля</value>
@@ -858,7 +855,7 @@
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve">
     <value>Оплачено</value>
   </data>
-  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve">
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALLY_PAID" xml:space="preserve">
     <value>Частично оплачено</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve">
@@ -907,7 +904,7 @@
     <value>История покупок</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve">
-    <value>Время действия</value>
+    <value>Доступен для использования</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve">
     <value>после выхода</value>
@@ -919,7 +916,7 @@
     <value>от активации</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve">
-    <value>Время покупки</value>
+    <value>Доступен для покупки</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve">
     <value>д.</value>
@@ -946,7 +943,7 @@
     <value>шт.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve">
-    <value>Истекает</value>
+    <value>Срок действия</value>
   </data>
   <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve">
     <value>{0} не удалось запустить 🙁</value>
@@ -979,7 +976,7 @@
     <value>Недоступно на данном ПК.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
-    <value>Этот пакет времени сейчас нельзя использовать. Купить его для использования позже?</value>
+    <value>Этот пакет времени сейчас нельзя использовать. Купить его на потом?</value>
   </data>
   <data name="GIZ_GEN_NEVER" xml:space="preserve">
     <value>Никогда</value>
@@ -1075,7 +1072,7 @@
     <value>Успех</value>
   </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
-    <value>Вам ещё рано!</value>
+    <value>Ваша учётная запись не соответствует возрастному ограничению этого приложения.</value>
   </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve">
     <value>Возрастной рейтинг</value>
@@ -1132,7 +1129,7 @@
     <value>Отказано</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve">
-    <value>Общая ошибка</value>
+    <value>Не удалось войти (ошибка сервера). Повторите попытку.</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve">
     <value>Недостаточный баланс</value>
@@ -1153,9 +1150,9 @@
     <value>Достигнуто максимальное число сеансов</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve">
-    <value>Не стоит в очереди</value>
+    <value>Вы не стоите в очереди.</value>
   </data>
-  <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve">
+  <data name="GIZ_LOGIN_RESULT_SUCCESS" xml:space="preserve">
     <value>Успех</value>
   </data>
   <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve">
@@ -1174,7 +1171,7 @@
     <value>Выход</value>
   </data>
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
-    <value>Ваше время истекло.&lt;br&gt; Пополните счет на стойке администратора или&lt;br&gt; нажмите кнопку "Выход", чтобы завершить сеанс.</value>
+    <value>Ваше время истекло.&lt;br&gt;Пополните счёт на стойке администратора, или&lt;br&gt;нажмите кнопку "Выход", чтобы завершить сеанс.</value>
   </data>
   <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve">
     <value>Неисправен</value>
@@ -1325,7 +1322,7 @@
     <value>Недоступно на данном хосте (ПК).</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
-    <value>Пробелы не допускаются</value>
+    <value>Имя пользователя не может содержать пробелы.</value>
   </data>
   <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve">
     <value>Возникла ошибка.</value>
@@ -1343,7 +1340,7 @@
     <value>Чем мы можем вам помочь?</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve">
-    <value>Напишите чем мы можем вам помочь?</value>
+    <value>Опишите проблему…</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve">
     <value>Отправить</value>
@@ -1352,7 +1349,7 @@
     <value>Запрос отправлен.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve">
-    <value>Пожалуйста, дождитесь, пока оператор примет ваш запрос, ответ вы увидите в разделе уведомлений.</value>
+    <value>Подождите, пока оператор рассмотрит ваш запрос. Ответ появится в разделе «Уведомления».</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve">
     <value>Отменить запрос</value>
@@ -1382,7 +1379,7 @@
     <value>Активирован {0}</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve">
-    <value>Истекает</value>
+    <value>Срок действия</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve">
     <value>{0} с момента покупки пакета</value>
@@ -1433,7 +1430,7 @@
     <value>Вы можете покупать товары в кредит.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Вам разрешено играть время в кредит.</value>
+    <value>Вы можете продолжать играть в кредит даже после того, как закончится ваше время.</value>
   </data>
   <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve">
     <value>Кредит</value>
@@ -1484,7 +1481,7 @@
     <value>Пакет</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve">
-    <value>Доступное время</value>
+    <value>Ваши пакеты времени</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve">
     <value>Аннулировано</value>
@@ -1496,7 +1493,7 @@
     <value>Оператор принял Ваш запрос и в ближайшее время будет готов оказать Вам помощь.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED" xml:space="preserve">
-    <value>Ваш запрос не может быть обработан.</value>
+    <value>Оператор отклонил ваш запрос.</value>
   </data>
   <data name="GIZ_GEN_GUEST" xml:space="preserve">
     <value>Гость</value>
@@ -1508,7 +1505,7 @@
     <value>Оставшееся время</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve">
-    <value>Доступно к использованию</value>
+    <value>Доступно на этом ПК</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve">
     <value>Пакет времени</value>
@@ -1589,7 +1586,7 @@
     <value>Войти могут только владелец бронирования или гости с кодом бронирования.</value>
   </data>
   <data name="GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE" xml:space="preserve">
-    <value>Если вы войдёте сейчас, вы будете автоматически выведены из системы в указанное время</value>
+    <value>Если вы войдёте сейчас, ваша сессия завершится автоматически, когда начнётся бронирование.</value>
   </data>
   <data name="GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE" xml:space="preserve">
     <value>Вы также можете завершить оплату на стойке у оператора.</value>
@@ -1632,5 +1629,14 @@
   </data>
   <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
     <value>Вы заблокированы до {0}!</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST" xml:space="preserve">
+    <value>Доступно только участникам.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_USER_GROUP" xml:space="preserve">
+    <value>Недоступно для вашей группы пользователей.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_PURCHASE" xml:space="preserve">
+    <value>Сейчас недоступно для покупки.</value>
   </data>
 </root>

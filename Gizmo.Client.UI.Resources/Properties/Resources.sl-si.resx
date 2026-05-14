@@ -124,10 +124,10 @@
     <value>Slovenian (Slovenia)</value>
   </data>
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
-    <value>Vse igre in aplikacije</value>
+    <value>Vse kategorije</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_ADD_DATE" xml:space="preserve">
-    <value>Dodaj datum</value>
+    <value>Datum dodajanja</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
     <value>Priljubljenost</value>
@@ -222,9 +222,6 @@
   <data name="GIZ_APPS_DATE_ADDED" xml:space="preserve">
     <value>Datum dodajanja</value>
   </data>
-  <data name="GIZ_APPS_LAUNCH" xml:space="preserve">
-    <value>Zagon</value>
-  </data>
   <data name="GIZ_APPS_LINKS" xml:space="preserve">
     <value>Povezave</value>
   </data>
@@ -235,7 +232,7 @@
     <value>Večpredstavnost</value>
   </data>
   <data name="GIZ_APPS_PARAMETERS" xml:space="preserve">
-    <value>Parametri:</value>
+    <value>Filtriraj po:</value>
   </data>
   <data name="GIZ_APPS_PERSONAL_FILES" xml:space="preserve">
     <value>Osebne datoteke</value>
@@ -400,7 +397,7 @@
     <value>Če se prijavite zdaj, boste ob določenem času samodejno odjavljeni.</value>
   </data>
   <data name="GIZ_LOGIN_RESERVATION_WARNING_TITLE" xml:space="preserve">
-    <value>Ta računalnik je rezerviran ob {0}.</value>
+    <value>Ta računalnik je rezerviran od {0}.</value>
   </data>
   <data name="GIZ_LOGIN_SIGN_IN_TITLE" xml:space="preserve">
     <value>Prijava</value>
@@ -586,7 +583,7 @@
     <value>Plačajte iz računalnika</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_PLACE_NEXT" xml:space="preserve">
-    <value>Naslednji korak: informacije o plačilu</value>
+    <value>Nadaljuj na plačilo</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve">
     <value>QR koda za plačilo preko telefona</value>
@@ -745,7 +742,7 @@
     <value>Nekaj ​​je šlo narobe. Za informacije se obrnite na recepcijo.</value>
   </data>
   <data name="GIZ_APP_FILTERS_SELECT_SOMETHING" xml:space="preserve">
-    <value>Izberite nekaj</value>
+    <value>Vse</value>
   </data>
   <data name="GIZ_GEN_SEX_FEMALE" xml:space="preserve">
     <value>Ženska</value>
@@ -763,7 +760,7 @@
     <value>Poskusite znova s SMS-om</value>
   </data>
   <data name="GIZ_GEN_UNSET_STRING_VALUE" xml:space="preserve">
-    <value>Nenastavljena vrednost</value>
+    <value>(Brez naslova)</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_ENTER_CODE" xml:space="preserve">
     <value>Odkleni</value>
@@ -778,7 +775,7 @@
     <value>Vnesite PIN za odklepanje</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_SUBTITLE" xml:space="preserve">
-    <value>Zaklenite ta profil tako, da ustvarite 4-mestni PIN. Zapomnite si ga ali ga nekam zapišite.</value>
+    <value>Zaklenite ta profil tako, da ustvarite 4-mestni PIN. Zapomnite si ga ali ga zapišite na varno mesto.</value>
   </data>
   <data name="GIZ_USER_LOCK_SCREEN_TITLE" xml:space="preserve">
     <value>Zaklep profila</value>
@@ -858,7 +855,7 @@
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PAID" xml:space="preserve">
     <value>Plačano</value>
   </data>
-  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALY_PAID" xml:space="preserve">
+  <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_PARTIALLY_PAID" xml:space="preserve">
     <value>Delno plačano</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_INVOICE_STATUS_UNPAID" xml:space="preserve">
@@ -907,7 +904,7 @@
     <value>Zgodovina nakupov</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_ACTION_TIME" xml:space="preserve">
-    <value>Akcijski čas</value>
+    <value>Na voljo za uporabo</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_AFTER_LOGOUT" xml:space="preserve">
     <value>po odjavi</value>
@@ -919,7 +916,7 @@
     <value>po uporabi</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_BUYING_TIME" xml:space="preserve">
-    <value>Nakup časa</value>
+    <value>Na voljo za nakup</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRATION_DAY_ABBREVIATED" xml:space="preserve">
     <value>d.</value>
@@ -946,7 +943,7 @@
     <value>ks.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_EXPIRES" xml:space="preserve">
-    <value>Poteče</value>
+    <value>Veljavnost</value>
   </data>
   <data name="GIZ_FN_APP_EXE_FAILURE" xml:space="preserve">
     <value>{0} ni uspelo zagnati :(</value>
@@ -979,7 +976,7 @@
     <value>Ni na voljo pri tem gostitelju.</value>
   </data>
   <data name="GIZ_PRODUCT_TIME_CURRENTLY_UNAVAILABLE_VERIFY" xml:space="preserve">
-    <value>Tega časovnega paketa trenutno ni mogoče uporabiti. Ga želite kupiti za uporabo kasneje?</value>
+    <value>Tega časovnega paketa trenutno ni mogoče uporabiti. Ga želite kupiti za kasneje?</value>
   </data>
   <data name="GIZ_GEN_NEVER" xml:space="preserve">
     <value>Nikoli</value>
@@ -1075,7 +1072,7 @@
     <value>Uspešno</value>
   </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
-    <value>Niste dovolj stari!</value>
+    <value>Vaš račun ne ustreza starostni omejitvi za zagon te aplikacije.</value>
   </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_TITLE" xml:space="preserve">
     <value>Starostna ocena</value>
@@ -1132,7 +1129,7 @@
     <value>Zavrnjeno</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_FAILED" xml:space="preserve">
-    <value>Splošna napaka</value>
+    <value>Prijava ni uspela (napaka strežnika). Poskusite znova.</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_INSUFFICIENT_BALANCE" xml:space="preserve">
     <value>Nezadostno stanje</value>
@@ -1153,9 +1150,9 @@
     <value>Doseženo največje število sej</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_NOT_IN_WAITING_LINE" xml:space="preserve">
-    <value>Ni v čakalni vrsti</value>
+    <value>Niste v čakalni vrsti.</value>
   </data>
-  <data name="GIZ_LOGIN_RESULT_SUCESS" xml:space="preserve">
+  <data name="GIZ_LOGIN_RESULT_SUCCESS" xml:space="preserve">
     <value>Uspeh</value>
   </data>
   <data name="GIZ_USAGE_TYPE_RATE" xml:space="preserve">
@@ -1174,7 +1171,7 @@
     <value>Odjava</value>
   </data>
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
-    <value>Vaš čas je potekel.&lt;br&gt;Ponovno ga napolnite na recepciji ali &lt;br&gt;kliknite »odjava«, da končate sejo.</value>
+    <value>Vaš čas je potekel.&lt;br&gt;Napolnite stanje na recepciji, ali&lt;br&gt;kliknite »Odjava«, da končate sejo.</value>
   </data>
   <data name="GIZ_SYSTEM_OUT_OF_ORDER" xml:space="preserve">
     <value>Ne deluje</value>
@@ -1325,7 +1322,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>Ni na voljo na tem računalniku.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
-    <value>Presledki niso dovoljeni</value>
+    <value>Uporabniško ime ne sme vsebovati presledkov.</value>
   </data>
   <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve">
     <value>Prišlo je do napake.</value>
@@ -1343,7 +1340,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>S čim vam lahko pomagamo?</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_NOTE_PLACEHOLDER" xml:space="preserve">
-    <value>S čim vam lahko pomagamo?</value>
+    <value>Opišite težavo…</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SEND" xml:space="preserve">
     <value>Pošlji</value>
@@ -1352,7 +1349,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>Prošnja je bila poslana.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_MESSAGE" xml:space="preserve">
-    <value>Počakajte, da operater sprejme vašo prošnjo. Odgovor bo poslan v razdelek z obvestili.</value>
+    <value>Počakajte, da operater pregleda vašo prošnjo. Odgovor boste prejeli v razdelku Obvestila.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SENT_CANCEL" xml:space="preserve">
     <value>Prekliči prošnjo</value>
@@ -1382,7 +1379,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>Aktivirano {0}</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_TOOLTIP_HEADER" xml:space="preserve">
-    <value>Poteče</value>
+    <value>Veljavnost</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_PROPERTIES_EXPIRES_FROM_PURCHASE" xml:space="preserve">
     <value>{0} od nakupa</value>
@@ -1433,7 +1430,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>Izdelke v trgovini lahko kupujete na kredit.</value>
   </data>
   <data name="GIZ_USER_PROFILE_CREDIT_TOOLTIP_TIME_CREDIT_DESCRIPTION" xml:space="preserve">
-    <value>Igrate lahko čas na kredit.</value>
+    <value>Lahko nadaljujete z igranjem na kredit tudi po tem, ko se vam izteče čas.</value>
   </data>
   <data name="GIZ_USER_PROFILE_HEADER_CREDIT" xml:space="preserve">
     <value>Dobropis</value>
@@ -1484,7 +1481,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>Časovni izdelek</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE" xml:space="preserve">
-    <value>Razpoložljiv čas</value>
+    <value>Vaši časovni paketi</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER_STATUS_VOIDED" xml:space="preserve">
     <value>Razveljavljeno</value>
@@ -1496,7 +1493,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>Operater je sprejel vašo prošnjo in vam bo kmalu pomagal.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_RESPONSE_REJECTED" xml:space="preserve">
-    <value>Vaše prošnje ni mogoče obdelati.</value>
+    <value>Operater je zavrnil vašo prošnjo.</value>
   </data>
   <data name="GIZ_GEN_GUEST" xml:space="preserve">
     <value>Gost</value>
@@ -1508,7 +1505,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>Preostali čas</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_USABLE_TIME" xml:space="preserve">
-    <value>Uporaben čas</value>
+    <value>Uporabno na tem računalniku</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_TITLE_TIME_OFFER" xml:space="preserve">
     <value>Časovni paket</value>
@@ -1589,7 +1586,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>Prijavi se lahko le lastnik rezervacije ali gosti s kodo rezervacije.</value>
   </data>
   <data name="GIZ_HOST_RESERVATION_LOGIN_NOTIFICATION_TIME_REACHED_MESSAGE" xml:space="preserve">
-    <value>Če se prijavite zdaj, vas bo sistem samodejno odjavil ob določenem času</value>
+    <value>Če se prijavite zdaj, se bo vaša seja samodejno končala, ko se začne rezervacija.</value>
   </data>
   <data name="GIZ_RESERVATION_ALTERNATIVE_PAYMENT_MESSAGE" xml:space="preserve">
     <value>Plačilo lahko dokončate tudi na pultu pri operaterju.</value>
@@ -1632,5 +1629,14 @@ Prosimo, napolnite svoj račun zdaj.</value>
   </data>
   <data name="GIZ_USER_BAN_UNTIL_MESSAGE" xml:space="preserve">
     <value>Izključeni ste do {0}!</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST" xml:space="preserve">
+    <value>Na voljo samo članom.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_USER_GROUP" xml:space="preserve">
+    <value>Ni na voljo za vašo uporabniško skupino.</value>
+  </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_PURCHASE" xml:space="preserve">
+    <value>Trenutno ni na voljo za nakup.</value>
   </data>
 </root>
