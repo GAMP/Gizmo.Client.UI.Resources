@@ -1122,7 +1122,7 @@
   <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Пожалуйста, введите свой e-mail для создания учетной записи.</value>
   </data>
-  <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve">
+  <data name="GIZ_GRACE_PERIOD_LOGOUT" xml:space="preserve">
     <value>Выход</value>
   </data>
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
@@ -1279,7 +1279,7 @@
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
     <value>Имя пользователя не может содержать пробелы.</value>
   </data>
-  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve">
+  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURRED" xml:space="preserve">
     <value>Возникла ошибка.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve">
@@ -1477,7 +1477,7 @@
   <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve">
     <value>Вход в систему в данный момент невозможен из-за возрастных ограничений.</value>
   </data>
-  <data name="DGIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
+  <data name="GIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
     <value>Условия скидки не выполнены</value>
   </data>
   <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
@@ -1516,25 +1516,25 @@
   <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL" xml:space="preserve">
     <value>Итого</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
     <value>Подтвердить бронирование</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
     <value>Этот компьютер забронирован другим пользователем.&lt;br/&gt;Введите код бронирования, чтобы продолжить сеанс.</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_TITLE" xml:space="preserve">
     <value>Подтверждение бронирования</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_IGNORE_BUTTON" xml:space="preserve">
     <value>Игнорировать</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
     <value>Перейти к оплате</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_MESSAGE" xml:space="preserve">
     <value>Для продолжения брони требуется оплата.&lt;br/&gt;Завершите оплату, чтобы разблокировать сеанс.</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_TITLE" xml:space="preserve">
     <value>Завершите оплату</value>
   </data>
   <data name="GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE" xml:space="preserve">

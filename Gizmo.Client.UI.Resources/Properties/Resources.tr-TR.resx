@@ -1122,7 +1122,7 @@
   <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Hesap oluşturmak için lütfen e-postanızı girin.</value>
   </data>
-  <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve">
+  <data name="GIZ_GRACE_PERIOD_LOGOUT" xml:space="preserve">
     <value>Oturumu Kapat</value>
   </data>
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
@@ -1279,7 +1279,7 @@ Lütfen hesabınıza şimdi bakiye yükleyin.</value>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
     <value>Kullanıcı adı boşluk içeremez.</value>
   </data>
-  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve">
+  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURRED" xml:space="preserve">
     <value>Bir hata oluştu.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve">
@@ -1475,9 +1475,9 @@ Lütfen hesabınıza şimdi bakiye yükleyin.</value>
     <value>Kredi kullanımı</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve">
-    <value>Yaş kısıtlaması ayarları nedeniyle şu anda giriş izni yok.</value>
+    <value>Yaş kısıtlamaları nedeniyle şu anda giriş izni yok.</value>
   </data>
-  <data name="DGIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
+  <data name="GIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
     <value>İndirim koşulları sağlanmadı</value>
   </data>
   <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
@@ -1516,25 +1516,25 @@ Lütfen hesabınıza şimdi bakiye yükleyin.</value>
   <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL" xml:space="preserve">
     <value>Toplam</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
     <value>Rezervasyonu onayla</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
     <value>Bu bilgisayar başka bir kullanıcı için rezerve edilmiştir.&lt;br/&gt;Oturuma devam etmek için rezervasyon kodunu girin.</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_TITLE" xml:space="preserve">
     <value>Rezervasyonu onayla</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_IGNORE_BUTTON" xml:space="preserve">
     <value>Yoksay</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
     <value>Ödemeye git</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_MESSAGE" xml:space="preserve">
     <value>Bu rezervasyonun devam edebilmesi için ödeme gerekiyor.&lt;br/&gt;Oturumun kilidini açmak için ödemeye devam edin.</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_TITLE" xml:space="preserve">
     <value>Ödemeyi tamamlayın</value>
   </data>
   <data name="GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE" xml:space="preserve">

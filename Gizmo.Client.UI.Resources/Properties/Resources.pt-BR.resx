@@ -1122,7 +1122,7 @@
   <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Por favor, digite seu e-mail para criar uma conta.</value>
   </data>
-  <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve">
+  <data name="GIZ_GRACE_PERIOD_LOGOUT" xml:space="preserve">
     <value>Sair</value>
   </data>
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
@@ -1279,7 +1279,7 @@ Por favor, recarregue sua conta agora.</value>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
     <value>O nome de usuário não pode conter espaços.</value>
   </data>
-  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve">
+  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURRED" xml:space="preserve">
     <value>Ocorreu um erro.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve">
@@ -1477,7 +1477,7 @@ Por favor, recarregue sua conta agora.</value>
   <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve">
     <value>O login não é permitido neste momento devido à restrições de idade.</value>
   </data>
-  <data name="DGIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
+  <data name="GIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
     <value>Condições de desconto não atendidas</value>
   </data>
   <data name="GIZ_CONFIRM_RESERVATION_DIALOG_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
@@ -1516,25 +1516,25 @@ Por favor, recarregue sua conta agora.</value>
   <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAYMENT_STEP_TOTAL_LABEL" xml:space="preserve">
     <value>Total</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
     <value>Confirmar reserva</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
     <value>Este computador está reservado para outro usuário.&lt;br/&gt;Digite o código da reserva para continuar a sessão.</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_TITLE" xml:space="preserve">
     <value>Confirmar reserva</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_IGNORE_BUTTON" xml:space="preserve">
     <value>Ignorar</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
     <value>Ir para pagamento</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_MESSAGE" xml:space="preserve">
     <value>Esta reserva exige pagamento para continuar.&lt;br/&gt;Continue o pagamento para desbloquear a sessão.</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_TITLE" xml:space="preserve">
     <value>Concluir pagamento</value>
   </data>
   <data name="GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE" xml:space="preserve">

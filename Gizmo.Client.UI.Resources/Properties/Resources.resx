@@ -184,10 +184,10 @@
     <value>Settings</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_SINGLE_PLAYER" xml:space="preserve">
-    <value>Single Player</value>
+    <value>Single player</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER" xml:space="preserve">
-    <value>Split Screen</value>
+    <value>Split screen</value>
   </data>
   <data name="GIZ_EXECUTABLE_MODE_UTILITY" xml:space="preserve">
     <value>Utility</value>
@@ -445,7 +445,7 @@
     <value>Reset password</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
-    <value>Great! Now come up with a new password and you're all set</value>
+    <value>Great! Now come up with a new password and you're all set.</value>
   </data>
   <data name="GIZ_PASSWORD_RULE_RANGE_LENGTH" xml:space="preserve">
     <value>{0}-{1} characters</value>
@@ -469,10 +469,10 @@
     <value>Please confirm your country code and enter your phone number to create an account.</value>
   </data>
   <data name="GIZ_REGISTRATION_SIGN_UP_BUTTON" xml:space="preserve">
-    <value>Sign Up</value>
+    <value>Sign up</value>
   </data>
   <data name="GIZ_REGISTRATION_SIGN_UP_TITLE" xml:space="preserve">
-    <value>Sign Up</value>
+    <value>Sign up</value>
   </data>
   <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve">
     <value>Log in</value>
@@ -574,7 +574,7 @@
     <value>Continue to payment</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_QR_CODE" xml:space="preserve">
-    <value>QR-code for payment on phone</value>
+    <value>QR code for mobile payment</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_QUICK_SELECT" xml:space="preserve">
     <value>Quick select</value>
@@ -586,7 +586,7 @@
     <value>To be paid:</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED" xml:space="preserve">
-    <value>will be credited to your Account balance</value>
+    <value>will be credited to your account balance</value>
   </data>
   <data name="GIZ_USER_ADDITIONAL_INFORMATION" xml:space="preserve">
     <value>Additional Information</value>
@@ -1099,7 +1099,7 @@
     <value>Invalid password</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_INVALID_USERNAME" xml:space="preserve">
-    <value>Invalid user name</value>
+    <value>Invalid username</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_MAX_SESSIONS_REACHED" xml:space="preserve">
     <value>Maximum sessions reached</value>
@@ -1108,7 +1108,7 @@
     <value>You are not in the queue.</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE" xml:space="preserve">
-    <value>Login is not allowed at this time due to age restrictions configuration.</value>
+    <value>Login is not allowed at this time due to age restrictions.</value>
   </data>
   <data name="GIZ_LOGIN_RESULT_SUCCESS" xml:space="preserve">
     <value>Success</value>
@@ -1125,7 +1125,7 @@
   <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Please enter your e-mail to create an account.</value>
   </data>
-  <data name="GIZ_GRACE_PERDIOD_LOGOUT" xml:space="preserve">
+  <data name="GIZ_GRACE_PERIOD_LOGOUT" xml:space="preserve">
     <value>Logout</value>
   </data>
   <data name="GIZ_GRACE_PERIOD_MESSAGE" xml:space="preserve">
@@ -1147,13 +1147,13 @@
     <value>Personal storage</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED" xml:space="preserve">
-    <value>Your order has been accepted and waiting for delivery</value>
+    <value>Your order has been accepted and is awaiting delivery.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ACCEPTED_HEADER" xml:space="preserve">
     <value>Your order has been accepted</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_CANCELED" xml:space="preserve">
-    <value>Your order has been canceled, please contact one of our employees for more info</value>
+    <value>Your order has been canceled. Please contact one of our employees for more information.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_CANCELED_HEADER" xml:space="preserve">
     <value>Your order has been canceled</value>
@@ -1165,7 +1165,7 @@
     <value>Order completed</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
-    <value>Your order is on hold, you will be notified once order is accepted</value>
+    <value>Your order is on hold. You will be notified once it is accepted.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD_HEADER" xml:space="preserve">
     <value>Order on hold</value>
@@ -1282,7 +1282,7 @@ Please recharge your account now.</value>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
     <value>Username cannot contain spaces.</value>
   </data>
-  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURED" xml:space="preserve">
+  <data name="GIZ_GEN_AN_ERROR_HAS_OCCURRED" xml:space="preserve">
     <value>An error has occurred.</value>
   </data>
   <data name="GIZ_ASSISTANCE_REQUEST_SELECT_TYPE_LABEL" xml:space="preserve">
@@ -1406,7 +1406,7 @@ Please recharge your account now.</value>
     <value>{0} h {1} min</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_FIXED_TIME" xml:space="preserve">
-    <value>Fixed Time</value>
+    <value>Fixed time</value>
   </data>
   <data name="GIZ_USER_TIME_PRODUCTS_DEPOSIT" xml:space="preserve">
     <value>Deposits</value>
@@ -1498,7 +1498,7 @@ Please recharge your account now.</value>
   <data name="GIZ_SHOP_PROMOCODE_APPLIED" xml:space="preserve">
     <value>Discount code applied</value>
   </data>
-  <data name="DGIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
+  <data name="GIZ_SHOP_PROMOCODE_NOT_APPLIED" xml:space="preserve">
     <value>Discount conditions not met</value>
   </data>
   <data name="GIZ_HOST_RESERVATION_LOGIN_BLOCK_TIME_REACHED_MESSAGE" xml:space="preserve">
@@ -1538,7 +1538,7 @@ Please recharge your account now.</value>
     <value>Or</value>
   </data>
   <data name="GIZ_RESERVATION_QR_TITLE" xml:space="preserve">
-    <value>QR-code for payment on phone</value>
+    <value>QR code for mobile payment</value>
   </data>
   <data name="GIZ_RESERVATION_QR_MESSAGE" xml:space="preserve">
     <value>Scan the QR code below to complete the payment.&lt;br&gt;You’ll be logged in automatically once the payment is processed.</value>
@@ -1549,25 +1549,25 @@ Please recharge your account now.</value>
   <data name="GIZ_RESERVATION_AVAILABLE_DEPOSITS_LABEL" xml:space="preserve">
     <value>Available deposit:</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_TITLE" xml:space="preserve">
     <value>Confirm reservation</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_MESSAGE" xml:space="preserve">
     <value>This host is reserved for another user.&lt;br/&gt;Enter the reservation code to continue the session.</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_TITLE" xml:space="preserve">
     <value>Complete payment</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_MESSAGE" xml:space="preserve">
     <value>This reservation requires payment to continue.&lt;br/&gt;Continue the payment to unlock the session.</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_IGNORE_BUTTON" xml:space="preserve">
     <value>Ignore</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_GO_TO_PAYMENT_BUTTON" xml:space="preserve">
     <value>Go to payment</value>
   </data>
-  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
+  <data name="GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_CONFIRM_BUTTON" xml:space="preserve">
     <value>Confirm reservation</value>
   </data>
   <data name="GIZ_CONFIRM_RESERVATION_DIALOG_PAY_BUTTON" xml:space="preserve">
@@ -1584,7 +1584,7 @@ Please recharge your account now.</value>
   </data>
   <data name="GIZ_USAGE_TYPE_NONE" xml:space="preserve">
     <value>Time</value>
-    <comment>None represents an unknow usage types, usually only possible with external plugin modules</comment>
+    <comment>None represents an unknown usage type, usually only possible with external plugin modules.</comment>
   </data>
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_GUEST" xml:space="preserve">
     <value>Available to members only.</value>

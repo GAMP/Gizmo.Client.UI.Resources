@@ -63,9 +63,9 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Discount conditions not met.
         /// </summary>
-        public static string DGIZ_SHOP_PROMOCODE_NOT_APPLIED {
+        public static string GIZ_SHOP_PROMOCODE_NOT_APPLIED {
             get {
-                return ResourceManager.GetString("DGIZ_SHOP_PROMOCODE_NOT_APPLIED", resourceCulture);
+                return ResourceManager.GetString("GIZ_SHOP_PROMOCODE_NOT_APPLIED", resourceCulture);
             }
         }
         
@@ -764,63 +764,63 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Confirm reservation.
         /// </summary>
-        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON {
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_CONFIRM_BUTTON {
             get {
-                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_CONFIRM_BUTTON", resourceCulture);
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_CONFIRM_BUTTON", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to This host is reserved for another user.&lt;br/&gt;Enter the reservation code to continue the session..
         /// </summary>
-        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE {
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_MESSAGE {
             get {
-                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Confirm reservation.
         /// </summary>
-        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE {
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_TITLE {
             get {
-                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_CONFIRMATION_STEP_TITLE", resourceCulture);
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATION_CONFIRMATION_STEP_TITLE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Ignore.
         /// </summary>
-        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON {
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATION_IGNORE_BUTTON {
             get {
-                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_IGNORE_BUTTON", resourceCulture);
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATION_IGNORE_BUTTON", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Go to payment.
         /// </summary>
-        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON {
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_GO_TO_PAYMENT_BUTTON {
             get {
-                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_GO_TO_PAYMENT_BUTTON", resourceCulture);
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_GO_TO_PAYMENT_BUTTON", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to This reservation requires payment to continue.&lt;br/&gt;Continue the payment to unlock the session..
         /// </summary>
-        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE {
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_MESSAGE {
             get {
-                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_MESSAGE", resourceCulture);
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_MESSAGE", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Complete payment.
         /// </summary>
-        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE {
+        public static string GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_TITLE {
             get {
-                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATON_PAYMENT_STEP_TITLE", resourceCulture);
+                return ResourceManager.GetString("GIZ_CONFIRM_RESERVATION_NOTIFICATION_PAYMENT_STEP_TITLE", resourceCulture);
             }
         }
         
@@ -942,7 +942,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Single Player.
+        ///   Looks up a localized string similar to Single player.
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_SINGLE_PLAYER {
             get {
@@ -951,7 +951,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Split Screen.
+        ///   Looks up a localized string similar to Split screen.
         /// </summary>
         public static string GIZ_EXECUTABLE_MODE_SPLIT_SCREEN_MULTIPLAYER {
             get {
@@ -1007,9 +1007,9 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to An error has occurred..
         /// </summary>
-        public static string GIZ_GEN_AN_ERROR_HAS_OCCURED {
+        public static string GIZ_GEN_AN_ERROR_HAS_OCCURRED {
             get {
-                return ResourceManager.GetString("GIZ_GEN_AN_ERROR_HAS_OCCURED", resourceCulture);
+                return ResourceManager.GetString("GIZ_GEN_AN_ERROR_HAS_OCCURRED", resourceCulture);
             }
         }
         
@@ -1655,9 +1655,9 @@ namespace Gizmo.Client.UI.Resources.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Logout.
         /// </summary>
-        public static string GIZ_GRACE_PERDIOD_LOGOUT {
+        public static string GIZ_GRACE_PERIOD_LOGOUT {
             get {
-                return ResourceManager.GetString("GIZ_GRACE_PERDIOD_LOGOUT", resourceCulture);
+                return ResourceManager.GetString("GIZ_GRACE_PERIOD_LOGOUT", resourceCulture);
             }
         }
         
@@ -1878,7 +1878,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Invalid user name.
+        ///   Looks up a localized string similar to Invalid username.
         /// </summary>
         public static string GIZ_LOGIN_RESULT_INVALID_USERNAME {
             get {
@@ -1905,7 +1905,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
 
         /// <summary>
-        ///   Looks up a localized string similar to Login is not allowed at this time due to age restrictions configuration..
+        ///   Looks up a localized string similar to Login is not allowed at this time due to age restrictions..
         /// </summary>
         public static string GIZ_LOGIN_RESULT_RESTRICTED_BY_AGE {
             get {
@@ -2094,7 +2094,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your order has been accepted and waiting for delivery.
+        ///   Looks up a localized string similar to Your order has been accepted and is awaiting delivery..
         /// </summary>
         public static string GIZ_MESSAGE_ORDER_ACCEPTED {
             get {
@@ -2112,7 +2112,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your order has been canceled, please contact one of our employees for more info.
+        ///   Looks up a localized string similar to Your order has been canceled. Please contact one of our employees for more information..
         /// </summary>
         public static string GIZ_MESSAGE_ORDER_CANCELED {
             get {
@@ -2148,7 +2148,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your order is on hold, you will be notified once order is accepted.
+        ///   Looks up a localized string similar to Your order is on hold. You will be notified once it is accepted..
         /// </summary>
         public static string GIZ_MESSAGE_ORDER_ON_HOLD {
             get {
@@ -2364,7 +2364,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to QR-code for payment on phone.
+        ///   Looks up a localized string similar to QR code for mobile payment.
         /// </summary>
         public static string GIZ_ONLINE_DEPOSIT_QR_CODE {
             get {
@@ -2400,7 +2400,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to will be credited to your Account balance.
+        ///   Looks up a localized string similar to will be credited to your account balance.
         /// </summary>
         public static string GIZ_ONLINE_DEPOSIT_WILL_BE_CREDITED {
             get {
@@ -2904,7 +2904,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign Up.
+        ///   Looks up a localized string similar to Sign up.
         /// </summary>
         public static string GIZ_REGISTRATION_SIGN_UP_BUTTON {
             get {
@@ -2913,7 +2913,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign Up.
+        ///   Looks up a localized string similar to Sign up.
         /// </summary>
         public static string GIZ_REGISTRATION_SIGN_UP_TITLE {
             get {
@@ -3048,7 +3048,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to QR-code for payment on phone.
+        ///   Looks up a localized string similar to QR code for mobile payment.
         /// </summary>
         public static string GIZ_RESERVATION_QR_TITLE {
             get {
@@ -4228,7 +4228,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fixed Time.
+        ///   Looks up a localized string similar to Fixed time.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_FIXED_TIME {
             get {
