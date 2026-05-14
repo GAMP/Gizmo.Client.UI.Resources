@@ -709,7 +709,7 @@
     <value>Qeyd olunan mobil nömrə artıq istifadə olunur.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
-    <value>Qeyd olunan Login artıq istifadə olunur.</value>
+    <value>Qeyd olunan istifadəçi adı artıq istifadə olunur.</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Maksimum məbləğ {0} olmalıdır.</value>

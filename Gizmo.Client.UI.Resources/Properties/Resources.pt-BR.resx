@@ -691,7 +691,7 @@
     <value>O campo {0} é obrigatório.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
-    <value>O e-mail informado ja está em uso.</value>
+    <value>O e-mail informado já está em uso.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
     <value>Não é possível validar o e-mail.</value>
