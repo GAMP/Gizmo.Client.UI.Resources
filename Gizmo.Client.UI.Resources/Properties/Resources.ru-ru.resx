@@ -391,7 +391,7 @@
     <value>Не найдено совпадений для</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
-    <value>Попробуйте иначе составить свой запрос</value>
+    <value>Попробуйте иначе составить свой запрос.</value>
   </data>
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
     <value>Безопасный пароль</value>
@@ -691,7 +691,7 @@
     <value>Поле {0} обязательно для заполнения.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
-    <value>Указанный e-mail уже используется</value>
+    <value>Указанный e-mail уже используется.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
     <value>Не удается подтвердить e-mail.</value>
@@ -706,10 +706,10 @@
     <value>Не удается подтвердить имя пользователя.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
-    <value>Указанный номер мобильного телефона уже используется</value>
+    <value>Указанный номер мобильного телефона уже используется.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
-    <value>Указанное имя пользователя уже используется</value>
+    <value>Указанное имя пользователя уже используется.</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Максимальная сумма - {0}.</value>
@@ -1060,7 +1060,7 @@
     <value>Ваш заказ был отменен</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
-    <value>Ваш заказ выполнен</value>
+    <value>Ваш заказ выполнен.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Ваш заказ находится в процессе обработки, вы будете уведомлены, как только заказ будет принят</value>
@@ -1151,7 +1151,7 @@
     <value>Процесс подключения дисков</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
-    <value>Я ознакомился с условиями обслуживания и принимаю их.</value>
+    <value>Я ознакомился с Политикой конфиденциальности и условиями использования и принимаю их.</value>
   </data>
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
     <value>Поле является обязательным.</value>

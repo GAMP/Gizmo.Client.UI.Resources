@@ -391,7 +391,7 @@
     <value>Der blev ikke fundet noget match for</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
-    <value>Prøv at formulere dig anderledes</value>
+    <value>Prøv at formulere dig anderledes.</value>
   </data>
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
     <value>Sikker adgangskode</value>
@@ -469,7 +469,7 @@
     <value>Bestillingskommentarer</value>
   </data>
   <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve">
-    <value>Tilføj din note..</value>
+    <value>Tilføj din note...</value>
   </data>
   <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve">
     <value>Min bestilling</value>
@@ -691,7 +691,7 @@
     <value>Feltet {0} er påkrævet.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
-    <value>Den angivne e-mailadresse er allerede i brug</value>
+    <value>Den angivne e-mailadresse er allerede i brug.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
     <value>Kan ikke validere e-mail.</value>
@@ -706,10 +706,10 @@
     <value>Kan ikke validere brugernavn.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
-    <value>Det angivne mobiltelefonnummer er allerede i brug</value>
+    <value>Det angivne mobiltelefonnummer er allerede i brug.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
-    <value>Det angivne brugernavn er allerede i brug</value>
+    <value>Det angivne brugernavn er allerede i brug.</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Det maksimale beløb er {0}.</value>
@@ -1060,7 +1060,7 @@
     <value>Din ordre er blevet annulleret</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
-    <value>Din ordre er blevet gennemført</value>
+    <value>Din ordre er blevet gennemført.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Din ordre er i venteposition, du vil blive underrettet, når ordren er accepteret</value>
@@ -1151,7 +1151,7 @@ Genoplad venligst din konto nu.</value>
     <value>Behandling af drevkortlægninger</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
-    <value>Jeg har læst og accepterer servicevilkårene.</value>
+    <value>Jeg har læst og accepterer Privatlivspolitik og vilkår for brug.</value>
   </data>
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
     <value>Feltet skal udfyldes</value>

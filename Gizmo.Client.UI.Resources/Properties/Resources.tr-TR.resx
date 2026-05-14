@@ -391,7 +391,7 @@
     <value>Eşleşen bulunamadı</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
-    <value>Talebinizi farklı bir şekilde oluşturmayı deneyin</value>
+    <value>Talebinizi farklı bir şekilde oluşturmayı deneyin.</value>
   </data>
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
     <value>Güvenli Parola</value>
@@ -469,7 +469,7 @@
     <value>Sipariş yorumu</value>
   </data>
   <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve">
-    <value>Notunuzu ekleyin..</value>
+    <value>Notunuzu ekleyin...</value>
   </data>
   <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve">
     <value>Siparişim</value>
@@ -691,7 +691,7 @@
     <value>{0} alanı zorunludur.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
-    <value>Belirtilen e-posta adresi zaten kullanılıyor</value>
+    <value>Belirtilen e-posta adresi zaten kullanılıyor.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
     <value>E-posta doğrulanamıyor.</value>
@@ -706,10 +706,10 @@
     <value>Kullanıcı adı doğrulanamıyor.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
-    <value>Belirtilen cep telefonu numarası zaten kullanılıyor</value>
+    <value>Belirtilen cep telefonu numarası zaten kullanılıyor.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
-    <value>Belirtilen kullanıcı adı zaten kullanılıyor</value>
+    <value>Belirtilen kullanıcı adı zaten kullanılıyor.</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Maksimum miktar {0}'dır.</value>
@@ -1060,7 +1060,7 @@
     <value>Siparişiniz iptal edildi</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
-    <value>Siparişiniz tamamlandı</value>
+    <value>Siparişiniz tamamlandı.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Siparişiniz beklemede, sipariş kabul edildiğinde size bilgi verilecektir</value>
@@ -1151,7 +1151,7 @@ Lütfen hesabınıza şimdi bakiye yükleyin.</value>
     <value>Sürücü eşlemelerini işleniyor</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
-    <value>Hizmet şartlarını okudum ve kabul ediyorum.</value>
+    <value>Gizlilik Politikası ve Kullanım Koşullarını okudum ve kabul ediyorum.</value>
   </data>
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
     <value>Bu alan gereklidir.</value>

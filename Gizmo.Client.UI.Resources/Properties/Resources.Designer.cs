@@ -286,7 +286,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Date Added.
+        ///   Looks up a localized string similar to Date added.
         /// </summary>
         public static string GIZ_APPS_DATE_ADDED {
             get {
@@ -321,7 +321,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Personal Files.
+        ///   Looks up a localized string similar to Personal files.
         /// </summary>
         public static string GIZ_APPS_PERSONAL_FILES {
             get {
@@ -330,7 +330,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Player Mode.
+        ///   Looks up a localized string similar to Player mode.
         /// </summary>
         public static string GIZ_APPS_PLAYER_MODE {
             get {
@@ -348,7 +348,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Release Date.
+        ///   Looks up a localized string similar to Release date.
         /// </summary>
         public static string GIZ_APPS_RELEASE_DATE {
             get {
@@ -429,7 +429,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Assistance Request.
+        ///   Looks up a localized string similar to Assistance request.
         /// </summary>
         public static string GIZ_ASSISTANCE_REQUEST_RESPONSE_TITLE {
             get {
@@ -1221,7 +1221,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Credit Card.
+        ///   Looks up a localized string similar to Credit card.
         /// </summary>
         public static string GIZ_GEN_PAYMENT_METHOD_CREDIT_CARD {
             get {
@@ -1689,7 +1689,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Log in with QR Code.
+        ///   Looks up a localized string similar to Log in with QR code.
         /// </summary>
         public static string GIZ_LOGIN_QR_TITLE {
             get {
@@ -1923,7 +1923,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Game Time Sources.
+        ///   Looks up a localized string similar to Game time sources.
         /// </summary>
         public static string GIZ_MENU_BALANCE_TOOLTIP_TITLE {
             get {
@@ -2247,7 +2247,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Secure Password.
+        ///   Looks up a localized string similar to Secure password.
         /// </summary>
         public static string GIZ_PASSWORD_MESSAGE_SECURE {
             get {
@@ -2310,7 +2310,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Forgot Password.
+        ///   Looks up a localized string similar to Forgot password.
         /// </summary>
         public static string GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD {
             get {
@@ -3265,7 +3265,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I have read and agree to the terms of service..
+        ///   Looks up a localized string similar to I have read and agree to the Privacy Policy and Terms of Use..
         /// </summary>
         public static string GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX {
             get {
@@ -3391,7 +3391,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Get Code.
+        ///   Looks up a localized string similar to Get code.
         /// </summary>
         public static string GIZ_USER_CONFIRMATION_GET_CONFIRMATION_CODE {
             get {
@@ -3562,7 +3562,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Profile Lock is currently on.
+        ///   Looks up a localized string similar to Profile lock is currently on.
         /// </summary>
         public static string GIZ_USER_LOCK_SCREEN_LOCKED_SUBTITLE {
             get {
@@ -3733,7 +3733,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Purchase History.
+        ///   Looks up a localized string similar to Purchase history.
         /// </summary>
         public static string GIZ_USER_PURCHASES_HISTORY {
             get {
@@ -3841,7 +3841,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to On Hold.
+        ///   Looks up a localized string similar to On hold.
         /// </summary>
         public static string GIZ_USER_PURCHASES_ORDER_STATUS_ON_HOLD {
             get {
@@ -3940,7 +3940,7 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} Minutes.
+        ///   Looks up a localized string similar to {0} minutes.
         /// </summary>
         public static string GIZ_USER_TIME_PRODUCTS_PRODUCT_MINUTES {
             get {

@@ -391,7 +391,7 @@
     <value>Ühtegi vastet ei leitud</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
-    <value>Proovige oma päringut teisiti sõnastada</value>
+    <value>Proovige oma päringut teisiti sõnastada.</value>
   </data>
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
     <value>Turvaline parool</value>
@@ -469,7 +469,7 @@
     <value>Tellimuse kommentaarid</value>
   </data>
   <data name="GIZ_SHOP_ORDER_NOTE_PLACEHOLDER" xml:space="preserve">
-    <value>Lisa oma märkus..</value>
+    <value>Lisa oma märkus...</value>
   </data>
   <data name="GIZ_SHOP_ORDER_TITLE" xml:space="preserve">
     <value>Minu tellimus</value>
@@ -691,7 +691,7 @@
     <value>Väli {0} on kohustuslik.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
-    <value>Määratud e-posti aadress on juba kasutusel</value>
+    <value>Määratud e-posti aadress on juba kasutusel.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
     <value>E-posti ei saa valideerida.</value>
@@ -706,10 +706,10 @@
     <value>Kasutajanime ei saa valideerida.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
-    <value>Määratud mobiiltelefoninumber on juba kasutusel</value>
+    <value>Määratud mobiiltelefoninumber on juba kasutusel.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
-    <value>Määratud kasutajanimi on juba kasutusel</value>
+    <value>Määratud kasutajanimi on juba kasutusel.</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Maksimaalne summa on {0}.</value>
@@ -1060,7 +1060,7 @@
     <value>Teie tellimus on tühistatud</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
-    <value>Teie tellimus on täidetud</value>
+    <value>Teie tellimus on täidetud.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Teie tellimus on ootel, teavitatakse, kui tellimus on vastu võetud</value>
@@ -1150,7 +1150,7 @@
     <value>Võrgukäitluste töötlemine</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
-    <value>Olen lugenud ja nõustun kasutustingimustega.</value>
+    <value>Olen lugenud Privaatsuspoliitika ja kasutustingimused ning nõustun nendega.</value>
   </data>
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
     <value>Väli on kohustuslik.</value>

@@ -391,7 +391,7 @@
     <value>No se encontró ninguna coincidencia para</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
-    <value>Intenta formular tu búsqueda de otra manera</value>
+    <value>Intenta formular tu búsqueda de otra manera.</value>
   </data>
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
     <value>Contraseña segura</value>
@@ -691,7 +691,7 @@
     <value>El campo {0} es requerido</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
-    <value>La dirección de correo electrónico especificada ya está en uso</value>
+    <value>La dirección de correo electrónico especificada ya está en uso.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
     <value>No se puede validar el correo electrónico.</value>
@@ -706,10 +706,10 @@
     <value>No se puede validar el nombre de usuario.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
-    <value>El número de teléfono móvil especificado ya está en uso</value>
+    <value>El número de teléfono móvil especificado ya está en uso.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
-    <value>El nombre de usuario especificado ya está en uso</value>
+    <value>El nombre de usuario especificado ya está en uso.</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
     <value>El monto máximo es {0}</value>
@@ -1060,7 +1060,7 @@
     <value>Su pedido ha sido cancelado</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
-    <value>Su pedido ha sido completado</value>
+    <value>Su pedido ha sido completado.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Su orden se encuentra en espera. será notificado cuando sea aceptado</value>
@@ -1151,7 +1151,7 @@ Por favor recargue su cuenta ahora.</value>
     <value>Procesando la asignación de discos</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
-    <value>He leído y acepto los términos de servicio.</value>
+    <value>He leído y acepto la Política de privacidad y condiciones de uso.</value>
   </data>
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
     <value>El campo es obligatorio.</value>

@@ -391,7 +391,7 @@
     <value>üçün uyğun bir şey tapılmadı</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
-    <value>Sorğunuzu fərqli şəkildə formalaşdırmağa çalışın</value>
+    <value>Sorğunuzu fərqli şəkildə formalaşdırmağa çalışın.</value>
   </data>
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
     <value>Təhlükəsiz Şifrə</value>
@@ -691,7 +691,7 @@
     <value>{0} xanası boş olmamalıdır.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
-    <value>Qeyd olunan e-poçt ünvanı artıq istifadə olunur</value>
+    <value>Qeyd olunan e-poçt ünvanı artıq istifadə olunur.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
     <value>E-poçtu təsdiqləmək mümkün olmadı.</value>
@@ -706,10 +706,10 @@
     <value>Logini təsdiqləmək mümkün olmadı.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
-    <value>Qeyd olunan mobil nömrə artıq istifadə olunur</value>
+    <value>Qeyd olunan mobil nömrə artıq istifadə olunur.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
-    <value>Qeyd olunan Login artıq istifadə olunur</value>
+    <value>Qeyd olunan Login artıq istifadə olunur.</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Maksimum məbləğ {0} olmalıdır.</value>
@@ -1060,7 +1060,7 @@
     <value>Sifarişiniz ləğv edildi</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
-    <value>Sifarişiniz tamamlandı</value>
+    <value>Sifarişiniz tamamlandı.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Sifarişiniz gözləmədədir, sifariş qəbul edildikdən sonra sizə məlumat veriləcək</value>
@@ -1151,7 +1151,7 @@ Zəhmət olmasa balansınızı artırın.</value>
     <value>Modullar yüklənir</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
-    <value>Xidmət şərtlərini oxudum və qəbul edirəm.</value>
+    <value>Məxfilik Siyasəti və İstifadə Şərtlərini oxudum və qəbul edirəm.</value>
   </data>
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
     <value>Bu xana boş olmamalıdır.</value>

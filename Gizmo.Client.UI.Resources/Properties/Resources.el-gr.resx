@@ -391,7 +391,7 @@
     <value>Δεν βρέθηκαν αποτελέσματα για</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
-    <value>Δοκιμάστε να σχηματίστε διαφορετικά την αναζήτηση σας</value>
+    <value>Δοκιμάστε να σχηματίστε διαφορετικά την αναζήτηση σας.</value>
   </data>
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
     <value>Ασφαλής κωδικός</value>
@@ -691,7 +691,7 @@
     <value>Το πεδίο {0} είναι υποχρεωτικό.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
-    <value>Η διεύθυνση e-mail χρησιμοποιείται ήδη</value>
+    <value>Η διεύθυνση e-mail χρησιμοποιείται ήδη.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
     <value>Αδυναμία επαλήθευσης e-mail.</value>
@@ -706,10 +706,10 @@
     <value>Αδυναμία επαλήθευσης ονόματος χρήστη.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
-    <value>Ο αριθμός κινητού χρησιμοποιείται ήδη</value>
+    <value>Ο αριθμός κινητού χρησιμοποιείται ήδη.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
-    <value>Το όνομα χρήστη χρησιμοποιείται ήδη</value>
+    <value>Το όνομα χρήστη χρησιμοποιείται ήδη.</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Το μέγιστο ποσό είναι {0}.</value>
@@ -1061,7 +1061,7 @@
     <value>Η παραγγελίας σας ακυρώθηκε</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
-    <value>Η παραγγελία σας ολοκληρώθηκε</value>
+    <value>Η παραγγελία σας ολοκληρώθηκε.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Η παραγγελία σας είναι σε αναμονή, θα ειδοποιηθείτε μόλις γίνει αποδεκτή</value>
@@ -1152,7 +1152,7 @@
     <value>Επεξεργασία δικτυακών δίσκων</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
-    <value>Έχω διαβάσει και αποδέχομαι τους όρους χρήσης.</value>
+    <value>Έχω διαβάσει και αποδέχομαι την Πολιτική Απορρήτου και τους Όρους Χρήσης.</value>
   </data>
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
     <value>Το πεδίο είναι υποχρεωτικό.</value>

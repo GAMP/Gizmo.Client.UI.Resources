@@ -391,7 +391,7 @@
     <value>Ni zadetkov za</value>
   </data>
   <data name="GIZ_GLOBAL_SEARCH_NO_MATCH_FOUND_MESSAGE" xml:space="preserve">
-    <value>Poskusite svojo zahtevo oblikovati drugače</value>
+    <value>Poskusite svojo zahtevo oblikovati drugače.</value>
   </data>
   <data name="GIZ_PASSWORD_MESSAGE_SECURE" xml:space="preserve">
     <value>Varno geslo</value>
@@ -691,7 +691,7 @@
     <value>Polje {0} je obvezno.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_EMAIL_ADDRESS_USED" xml:space="preserve">
-    <value>Ta e-poštni naslov je že v uporabi</value>
+    <value>Ta e-poštni naslov je že v uporabi.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_CANNOT_VALIDATE_EMAIL" xml:space="preserve">
     <value>E-pošte ni mogoče potrditi.</value>
@@ -706,10 +706,10 @@
     <value>Uporabniškega imena ni mogoče potrditi.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_USED" xml:space="preserve">
-    <value>Navedena številka mobilnega telefona je že v uporabi</value>
+    <value>Navedena številka mobilnega telefona je že v uporabi.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_USERNAME_IN_USE" xml:space="preserve">
-    <value>Navedeno uporabniško ime je že v uporabi</value>
+    <value>Navedeno uporabniško ime je že v uporabi.</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MAXIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Največji znesek je {0}.</value>
@@ -1060,7 +1060,7 @@
     <value>Vaše naročilo je bilo preklicano</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
-    <value>Vaše naročilo je zaključeno</value>
+    <value>Vaše naročilo je zaključeno.</value>
   </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Vaše naročilo je na čakanju. Ko bo naročilo sprejeto, boste obveščeni</value>
@@ -1151,7 +1151,7 @@ Prosimo, napolnite svoj račun zdaj.</value>
     <value>Obdelava preslikav pogonov</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
-    <value>Prebral sem in se strinjam s pogoji storitve.</value>
+    <value>Prebral sem in se strinjam s Politiko zasebnosti in pogoji uporabe.</value>
   </data>
   <data name="GIZ_GEN_VE_REQUIRED_FIELD" xml:space="preserve">
     <value>Polje je obvezno.</value>
