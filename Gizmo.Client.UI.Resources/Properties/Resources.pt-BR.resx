@@ -117,12 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="locoLocaleCode" xml:space="preserve">
-    <value>pt-BR</value>
-  </data>
-  <data name="locoLocaleName" xml:space="preserve">
-    <value>Brazilian Portuguese</value>
-  </data>
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
     <value>Todas as categorias</value>
   </data>
@@ -132,17 +126,11 @@
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
     <value>Popularidade</value>
   </data>
-  <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve">
-    <value>Avaliação</value>
-  </data>
   <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve">
     <value>Data de Lançamento</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve">
     <value>Título</value>
-  </data>
-  <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve">
-    <value>Usar</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
     <value>O código de confirmação é inválido.</value>
@@ -1041,36 +1029,6 @@
   <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve">
     <value>Tem certeza que deseja encerrar seu acesso?</value>
   </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Pedido não é está permitido no momento</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve">
-    <value>Seu grupo de usuários não pode comprar este produto</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve">
-    <value>Algo deu errado</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Somente membros cadastrados podem comprar esse produto</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve">
-    <value>Código do produto inválido</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve">
-    <value>Código do usuário inválido</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve">
-    <value>O produto está sem estoque</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>A compra do produto não é permitida neste momento</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>A venda do produto está atualmente proibida</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve">
-    <value>Sucesso</value>
-  </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
     <value>Sua conta não atende à classificação etária exigida para abrir este aplicativo.</value>
   </data>
@@ -1111,9 +1069,6 @@
     <value>Seu saldo de depósito não é suficiente para cobrir este pedido.</value>
   </data>
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
-    <value>Erro</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve">
     <value>Erro</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">

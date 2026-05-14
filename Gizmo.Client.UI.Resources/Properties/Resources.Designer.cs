@@ -241,15 +241,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rating.
-        /// </summary>
-        public static string GIZ_APP_SORTING_OPTION_RATING {
-            get {
-                return ResourceManager.GetString("GIZ_APP_SORTING_OPTION_RATING", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Release date.
         /// </summary>
         public static string GIZ_APP_SORTING_OPTION_RELEASE_DATE {
@@ -264,15 +255,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_APP_SORTING_OPTION_TITLE {
             get {
                 return ResourceManager.GetString("GIZ_APP_SORTING_OPTION_TITLE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Use.
-        /// </summary>
-        public static string GIZ_APP_SORTING_OPTION_USE {
-            get {
-                return ResourceManager.GetString("GIZ_APP_SORTING_OPTION_USE", resourceCulture);
             }
         }
         
@@ -2706,105 +2688,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ordering is currently disallowed.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Your usergroup cannot purchase this product.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Something went wrong.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Error.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Only members can purchase this product.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Invalid product id.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Invalid user id.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to The product is out of stock.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Product purchase is not allowed at this time.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Product sale is currently disallowed.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Success.
-        /// </summary>
-        public static string GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE {
-            get {
-                return ResourceManager.GetString("GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Free.
         /// </summary>
         public static string GIZ_PRODUCT_PRICE_FREE {
@@ -4603,24 +4486,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_USERNAME_MESSAGE {
             get {
                 return ResourceManager.GetString("GIZ_USER_USERNAME_MESSAGE", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to en-US.
-        /// </summary>
-        public static string locoLocaleCode {
-            get {
-                return ResourceManager.GetString("locoLocaleCode", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to English.
-        /// </summary>
-        public static string locoLocaleName {
-            get {
-                return ResourceManager.GetString("locoLocaleName", resourceCulture);
             }
         }
     }

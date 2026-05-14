@@ -117,12 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="locoLocaleCode" xml:space="preserve">
-    <value>ru-RU</value>
-  </data>
-  <data name="locoLocaleName" xml:space="preserve">
-    <value>Russian (Russia)</value>
-  </data>
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
     <value>Все категории</value>
   </data>
@@ -132,17 +126,11 @@
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
     <value>Популярности</value>
   </data>
-  <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve">
-    <value>Рейтингу</value>
-  </data>
   <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve">
     <value>Дате выхода</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve">
     <value>Названию</value>
-  </data>
-  <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve">
-    <value>Использование</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
     <value>Код подтверждения неверен.</value>
@@ -1041,36 +1029,6 @@
   <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve">
     <value>Вы уверены, что хотите выйти?</value>
   </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Заказ в данный момент запрещен</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve">
-    <value>Ваша группа пользователей не может приобрести этот товар</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve">
-    <value>Что-то пошло не так</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Только зарегистрированные пользователи могут приобрести этот товар</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve">
-    <value>Неверный id товара</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve">
-    <value>Неверный id пользователя</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve">
-    <value>Товар закончился</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Покупка товара в данный момент не доступна</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Продажа товара в настоящее время запрещена</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve">
-    <value>Успех</value>
-  </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
     <value>Ваша учётная запись не соответствует возрастному ограничению этого приложения.</value>
   </data>
@@ -1111,9 +1069,6 @@
     <value>Баланс депозита недостаточен для оплаты этого заказа.</value>
   </data>
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
-    <value>Ошибка</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve">
     <value>Ошибка</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">

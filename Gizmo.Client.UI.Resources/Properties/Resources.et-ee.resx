@@ -117,12 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="locoLocaleCode" xml:space="preserve">
-    <value>et-EE</value>
-  </data>
-  <data name="locoLocaleName" xml:space="preserve">
-    <value>Estonian (Estonia)</value>
-  </data>
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
     <value>Kõik kategooriad</value>
   </data>
@@ -132,17 +126,11 @@
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
     <value>Populaarsus</value>
   </data>
-  <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve">
-    <value>Hinnang</value>
-  </data>
   <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve">
     <value>Väljalaske kuupäev</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve">
     <value>Pealkiri</value>
-  </data>
-  <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve">
-    <value>Kasutamine</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
     <value>Kinnituskood on kehtetu.</value>
@@ -1041,36 +1029,6 @@
   <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve">
     <value>Kas olete kindel, et soovite välja logida?</value>
   </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Tellimine on hetkel keelatud</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve">
-    <value>Teie kasutajagrupp ei saa seda toodet osta</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve">
-    <value>Midagi läks valesti</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Seda toodet saavad osta ainult liikmed</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve">
-    <value>Vigane toote ID</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve">
-    <value>Vigane kasutaja ID</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve">
-    <value>Toode on otsas</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Toote ost pole praegu lubatud</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Toote müük on hetkel keelatud</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve">
-    <value>Õnnestus</value>
-  </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
     <value>Teie konto ei vasta selle rakenduse käivitamiseks vajalikule vanusepiirangule.</value>
   </data>
@@ -1111,9 +1069,6 @@
     <value>Teie deposiidi jääk ei kata seda tellimust.</value>
   </data>
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
-    <value>Viga</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve">
     <value>Viga</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">

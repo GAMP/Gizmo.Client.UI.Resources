@@ -117,12 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="locoLocaleCode" xml:space="preserve">
-    <value>az-AZ</value>
-  </data>
-  <data name="locoLocaleName" xml:space="preserve">
-    <value>Azerbaijani</value>
-  </data>
   <data name="GIZ_APP_FILTERS_ALL_GAMES_AND_APPS" xml:space="preserve">
     <value>Bütün kateqoriyalar</value>
   </data>
@@ -132,17 +126,11 @@
   <data name="GIZ_APP_SORTING_OPTION_POPULARITY" xml:space="preserve">
     <value>Çox oynanılan</value>
   </data>
-  <data name="GIZ_APP_SORTING_OPTION_RATING" xml:space="preserve">
-    <value>Reytinq</value>
-  </data>
   <data name="GIZ_APP_SORTING_OPTION_RELEASE_DATE" xml:space="preserve">
     <value>Buraxılış tarixi</value>
   </data>
   <data name="GIZ_APP_SORTING_OPTION_TITLE" xml:space="preserve">
     <value>Başlıq</value>
-  </data>
-  <data name="GIZ_APP_SORTING_OPTION_USE" xml:space="preserve">
-    <value>İstifadə edin</value>
   </data>
   <data name="GIZ_USER_CONFIRMATION_CONFIRMATION_CODE_IS_INVALID" xml:space="preserve">
     <value>Təsdiq kodu doğru deyil.</value>
@@ -1041,36 +1029,6 @@
   <data name="GIZ_LOGOUT_VERIFICATION_MESSAGE" xml:space="preserve">
     <value>Çıxmaq istədiyinizə əminsiniz?</value>
   </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_CLIENT_ORDER_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Hazırki vaxtda sifarişə icazə verilmir</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_DISALLOWED_USER_GROUP_MESSAGE" xml:space="preserve">
-    <value>Hal-hazırda olduğunuz istifadəçi qrupu bu təklifi ala bilməz</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_MESSAGE" xml:space="preserve">
-    <value>Nəsə xəta baş verdi</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_GUEST_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Bu məhsulu yalnız cluba üzv olmuşlar ala bilər</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_PRODUCT_ID_MESSAGE" xml:space="preserve">
-    <value>Yanlış məhsul id</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_INVALID_USER_ID_MESSAGE" xml:space="preserve">
-    <value>Yanlış istifadəçi identifikatoru</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_OUT_OF_STOCK_MESSAGE" xml:space="preserve">
-    <value>Məhsul stokda bitib</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_PURCHASE_PERIOD_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Hal-hazırda bu məhsulun alınmasına icazə verilmir</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SALE_DISALLOWED_MESSAGE" xml:space="preserve">
-    <value>Hal-hazırda bu məhsulun satışına icazə verilmir</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_SUCESS_MESSAGE" xml:space="preserve">
-    <value>Uğurlu</value>
-  </data>
   <data name="GIZ_APP_EXE_AGE_RATING_WARNING_MESSAGE" xml:space="preserve">
     <value>Hesabınız bu tətbiqi başlatmaq üçün tələb olunan yaş reytinqinə uyğun deyil.</value>
   </data>
@@ -1111,9 +1069,6 @@
     <value>Bu sifarişi ödəmək üçün depozit balansınız kifayət deyil.</value>
   </data>
   <data name="GIZ_INSUFFICIENT_POINTS_ERROR_TITLE" xml:space="preserve">
-    <value>Xəta</value>
-  </data>
-  <data name="GIZ_PRODUCT_ORDER_PASS_RESULT_ERROR_TITLE" xml:space="preserve">
     <value>Xəta</value>
   </data>
   <data name="GIZ_CHANGE_PASSWORD_WRONG_PASSWORD_ERROR_MESSAGE" xml:space="preserve">
