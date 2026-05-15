@@ -447,6 +447,39 @@
   <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve">
     <value>Log in</value>
   </data>
+  <data name="GIZ_REGISTRATION_CREATE_ACCOUNT" xml:space="preserve">
+    <value>Create account</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SELECT_METHOD" xml:space="preserve">
+    <value>Choose a registration method</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
+    <value>Choose another registration method</value>
+  </data>
+  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
+    <value>Continue with {0}</value>
+  </data>
+  <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
+    <value>Other methods</value>
+  </data>
+  <data name="GIZ_REGISTRATION_TRY_ALTERNATIVES" xml:space="preserve">
+    <value>Try one of the alternative methods:</value>
+  </data>
+  <data name="GIZ_REGISTRATION_TERMS_PREFIX" xml:space="preserve">
+    <value>By registering, you agree to the </value>
+  </data>
+  <data name="GIZ_REGISTRATION_TERMS_OF_USE" xml:space="preserve">
+    <value>Terms of Use</value>
+  </data>
+  <data name="GIZ_REGISTRATION_TERMS_AND" xml:space="preserve">
+    <value> and </value>
+  </data>
+  <data name="GIZ_REGISTRATION_PRIVACY_POLICY" xml:space="preserve">
+    <value>Privacy Policy</value>
+  </data>
+  <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
+    <value>Registration via this method is not available yet. Please try another method below.</value>
+  </data>
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
     <value>Add to cart</value>
   </data>
