@@ -480,6 +480,12 @@
   <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
     <value>Registration via this method is not available yet. Please try another method below.</value>
   </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_TITLE" xml:space="preserve">
+    <value>Scan QR code</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_WAITING_SCAN" xml:space="preserve">
+    <value>Waiting for scan</value>
+  </data>
   <data name="GIZ_REGISTRATION_ERROR_TITLE" xml:space="preserve">
     <value>Authorization Failed</value>
   </data>

@@ -771,6 +771,18 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
         
+        public static string GIZ_REGISTRATION_REDIRECT_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_TITLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_REGISTRATION_REDIRECT_WAITING_SCAN {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_WAITING_SCAN", resourceCulture);
+            }
+        }
+
         public static string GIZ_SHOP_ADD_TO_CART {
             get {
                 return ResourceManager.GetString("GIZ_SHOP_ADD_TO_CART", resourceCulture);
