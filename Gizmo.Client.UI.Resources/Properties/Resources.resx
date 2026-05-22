@@ -481,10 +481,31 @@
     <value>Registration via this method is not available yet. Please try another method below.</value>
   </data>
   <data name="GIZ_REGISTRATION_REDIRECT_TITLE" xml:space="preserve">
-    <value>Scan QR code</value>
+    <value>Sign in via {0}</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_SUBTITLE" xml:space="preserve">
+    <value>No redirect, right in your browser</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_SCAN_HINT" xml:space="preserve">
+    <value>Scan this QR code with your mobile device to continue authorization.</value>
   </data>
   <data name="GIZ_REGISTRATION_REDIRECT_WAITING_SCAN" xml:space="preserve">
-    <value>Waiting for scan</value>
+    <value>Waiting for scan…</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_QR_EXPIRED" xml:space="preserve">
+    <value>QR code expired</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_QR_EXPIRED_OVERLAY" xml:space="preserve">
+    <value>QR expired</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_SESSION_EXPIRED" xml:space="preserve">
+    <value>Session time has expired. Please try again or choose another sign-in method.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_BACK_TO_MAIN" xml:space="preserve">
+    <value>Return to main screen</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_REFRESH_QR" xml:space="preserve">
+    <value>Refresh QR code</value>
   </data>
   <data name="GIZ_REGISTRATION_ERROR_TITLE" xml:space="preserve">
     <value>Authorization Failed</value>

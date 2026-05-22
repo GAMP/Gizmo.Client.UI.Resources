@@ -777,9 +777,51 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
+        public static string GIZ_REGISTRATION_REDIRECT_SUBTITLE {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_SUBTITLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_REGISTRATION_REDIRECT_SCAN_HINT {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_SCAN_HINT", resourceCulture);
+            }
+        }
+
         public static string GIZ_REGISTRATION_REDIRECT_WAITING_SCAN {
             get {
                 return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_WAITING_SCAN", resourceCulture);
+            }
+        }
+
+        public static string GIZ_REGISTRATION_REDIRECT_QR_EXPIRED {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_QR_EXPIRED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_REGISTRATION_REDIRECT_QR_EXPIRED_OVERLAY {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_QR_EXPIRED_OVERLAY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_REGISTRATION_REDIRECT_SESSION_EXPIRED {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_SESSION_EXPIRED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_REGISTRATION_REDIRECT_BACK_TO_MAIN {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_BACK_TO_MAIN", resourceCulture);
+            }
+        }
+
+        public static string GIZ_REGISTRATION_REDIRECT_REFRESH_QR {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_REDIRECT_REFRESH_QR", resourceCulture);
             }
         }
 
