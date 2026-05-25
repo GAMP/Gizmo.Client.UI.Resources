@@ -309,6 +309,12 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
         
+        public static string GIZ_GEN_ACCEPT {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_ACCEPT", resourceCulture);
+            }
+        }
+
         public static string GIZ_GEN_ADS {
             get {
                 return ResourceManager.GetString("GIZ_GEN_ADS", resourceCulture);
@@ -681,6 +687,12 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
         
+        public static string GIZ_REGISTRATION_AGREEMENTS_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_AGREEMENTS_TITLE", resourceCulture);
+            }
+        }
+
         public static string GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE {
             get {
                 return ResourceManager.GetString("GIZ_REGISTRATION_MOBILE_CONFIRMATION_MESSAGE", resourceCulture);

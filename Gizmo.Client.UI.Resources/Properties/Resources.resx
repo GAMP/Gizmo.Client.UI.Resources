@@ -249,6 +249,9 @@
   <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve">
     <value>Confirmation code should have {0} digits!</value>
   </data>
+  <data name="GIZ_GEN_ACCEPT" xml:space="preserve">
+    <value>Accept</value>
+  </data>
   <data name="GIZ_GEN_ADS" xml:space="preserve">
     <value>Ads</value>
   </data>
@@ -1100,6 +1103,9 @@
   </data>
   <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve">
     <value>Time product</value>
+  </data>
+  <data name="GIZ_REGISTRATION_AGREEMENTS_TITLE" xml:space="preserve">
+    <value>Privacy Policy and Terms of Use</value>
   </data>
   <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Please enter your e-mail to create an account.</value>
