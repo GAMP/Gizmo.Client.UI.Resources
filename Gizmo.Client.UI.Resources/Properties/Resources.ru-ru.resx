@@ -1147,6 +1147,9 @@
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID" xml:space="preserve">
     <value>Мобильный телефон недействителен</value>
   </data>
+  <data name="GIZ_REGISTRATION_VE_SELECT_COUNTRY" xml:space="preserve">
+    <value>Пожалуйста, выберите страну</value>
+  </data>
   <data name="GIZ_USER_PURCHASES_ORDER" xml:space="preserve">
     <value>Заказ</value>
   </data>

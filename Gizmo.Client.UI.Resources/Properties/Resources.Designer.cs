@@ -2108,7 +2108,13 @@ namespace Gizmo.Client.UI.Resources.Properties {
                 return ResourceManager.GetString("GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID", resourceCulture);
             }
         }
-        
+
+        public static string GIZ_REGISTRATION_VE_SELECT_COUNTRY {
+            get {
+                return ResourceManager.GetString("GIZ_REGISTRATION_VE_SELECT_COUNTRY", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_PURCHASES_ORDER {
             get {
                 return ResourceManager.GetString("GIZ_USER_PURCHASES_ORDER", resourceCulture);
