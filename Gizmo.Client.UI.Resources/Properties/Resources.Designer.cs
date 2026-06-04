@@ -644,19 +644,31 @@ namespace Gizmo.Client.UI.Resources.Properties {
                 return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD", resourceCulture);
             }
         }
-        
+
+        public static string GIZ_PASSWORD_RECOVERY_NEW_PASSWORD {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_NEW_PASSWORD", resourceCulture);
+            }
+        }
+
         public static string GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE {
             get {
                 return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE", resourceCulture);
             }
         }
-        
+
+        public static string GIZ_PASSWORD_RECOVERY_REENTER_CONFIRM {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_REENTER_CONFIRM", resourceCulture);
+            }
+        }
+
         public static string GIZ_PASSWORD_RECOVERY_RESET_PASSWORD {
             get {
                 return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_RESET_PASSWORD", resourceCulture);
             }
         }
-        
+
         public static string GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE {
             get {
                 return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE", resourceCulture);

@@ -417,8 +417,14 @@
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
     <value>Forgot password</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NEW_PASSWORD" xml:space="preserve">
+    <value>New password</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
     <value>Please enter the code from the text message we sent to {0}</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_REENTER_CONFIRM" xml:space="preserve">
+    <value>Re-enter to confirm</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
     <value>Reset password</value>
