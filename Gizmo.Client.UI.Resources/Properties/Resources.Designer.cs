@@ -1065,6 +1065,12 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
         
+        public static string GIZ_USER_CITY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CITY", resourceCulture);
+            }
+        }
+        
         public static string GIZ_USER_CHANGE_PASSWORD {
             get {
                 return ResourceManager.GetString("GIZ_USER_CHANGE_PASSWORD", resourceCulture);

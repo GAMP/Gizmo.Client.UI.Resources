@@ -555,6 +555,9 @@
   <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve">
     <value>Data de nascimento</value>
   </data>
+  <data name="GIZ_USER_CITY" xml:space="preserve">
+    <value>City</value>
+  </data>
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
     <value>Alterar senha</value>
   </data>
