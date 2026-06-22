@@ -1486,4 +1486,94 @@ Por favor recarga tu cuenta.</value>
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_FOR_PURCHASE" xml:space="preserve">
     <value>No disponible para la compra en este momento.</value>
   </data>
+  <data name="GIZ_GEN_ACCEPT" xml:space="preserve">
+    <value>Aceptar</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NEW_PASSWORD" xml:space="preserve">
+    <value>Nueva contraseña</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_REENTER_CONFIRM" xml:space="preserve">
+    <value>Vuelve a introducirla para confirmar</value>
+  </data>
+  <data name="GIZ_REGISTRATION_AGREEMENTS_TITLE" xml:space="preserve">
+    <value>Política de Privacidad y Condiciones de Uso</value>
+  </data>
+  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
+    <value>Continuar con {0}</value>
+  </data>
+  <data name="GIZ_REGISTRATION_CREATE_ACCOUNT" xml:space="preserve">
+    <value>Crear cuenta</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_ALERT" xml:space="preserve">
+    <value>Prueba otro método de registro o vuelve atrás y elige un método alternativo.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_BACK" xml:space="preserve">
+    <value>Vuelve atrás y elige otro método</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_RETRY" xml:space="preserve">
+    <value>Intentar de nuevo</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_SUBTITLE" xml:space="preserve">
+    <value>No se pudo completar el registro. Esto puede deberse a una cancelación o a problemas técnicos.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_TITLE" xml:space="preserve">
+    <value>Error de autorización</value>
+  </data>
+  <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
+    <value>Otros métodos</value>
+  </data>
+  <data name="GIZ_REGISTRATION_PRIVACY_POLICY" xml:space="preserve">
+    <value>Política de Privacidad</value>
+  </data>
+  <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
+    <value>El registro con este método aún no está disponible. Prueba otro método a continuación.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_BACK_TO_MAIN" xml:space="preserve">
+    <value>Volver a la pantalla principal</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_QR_EXPIRED" xml:space="preserve">
+    <value>El código QR ha caducado</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_QR_EXPIRED_OVERLAY" xml:space="preserve">
+    <value>QR caducado</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_REFRESH_QR" xml:space="preserve">
+    <value>Actualizar código QR</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_SCAN_HINT" xml:space="preserve">
+    <value>Escanea este código QR con tu dispositivo móvil para continuar con la autorización.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_SESSION_EXPIRED" xml:space="preserve">
+    <value>La sesión ha caducado. Inténtalo de nuevo o elige otro método de inicio de sesión.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_SUBTITLE" xml:space="preserve">
+    <value>Sin redirección, directamente en tu navegador</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_TITLE" xml:space="preserve">
+    <value>Iniciar sesión con {0}</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_WAITING_SCAN" xml:space="preserve">
+    <value>Esperando escaneo…</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SELECT_METHOD" xml:space="preserve">
+    <value>Elige un método de registro</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
+    <value>Elige otro método de registro</value>
+  </data>
+  <data name="GIZ_REGISTRATION_TERMS_AND" xml:space="preserve">
+    <value> y </value>
+  </data>
+  <data name="GIZ_REGISTRATION_TERMS_OF_USE" xml:space="preserve">
+    <value>Condiciones de Uso</value>
+  </data>
+  <data name="GIZ_REGISTRATION_TERMS_PREFIX" xml:space="preserve">
+    <value>Al registrarte, aceptas la </value>
+  </data>
+  <data name="GIZ_REGISTRATION_TRY_ALTERNATIVES" xml:space="preserve">
+    <value>Prueba uno de los métodos alternativos:</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_SELECT_COUNTRY" xml:space="preserve">
+    <value>Por favor, selecciona un país</value>
+  </data>
 </root>
