@@ -1522,9 +1522,6 @@ Prosimo, napolnite svoj račun zdaj.</value>
   <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
     <value>Drugi načini</value>
   </data>
-  <data name="GIZ_REGISTRATION_PRIVACY_POLICY" xml:space="preserve">
-    <value>Pravilnik o zasebnosti</value>
-  </data>
   <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
     <value>Registracija na ta način še ni na voljo. Poskusite z drugim načinom spodaj.</value>
   </data>
@@ -1560,15 +1557,6 @@ Prosimo, napolnite svoj račun zdaj.</value>
   </data>
   <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
     <value>Izberite drug način registracije</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_AND" xml:space="preserve">
-    <value> in </value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_OF_USE" xml:space="preserve">
-    <value>Pogoji uporabe</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_PREFIX" xml:space="preserve">
-    <value>Z registracijo se strinjate s </value>
   </data>
   <data name="GIZ_REGISTRATION_TRY_ALTERNATIVES" xml:space="preserve">
     <value>Poskusite z enim od nadomestnih načinov:</value>

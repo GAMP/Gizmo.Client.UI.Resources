@@ -1522,9 +1522,6 @@ Lütfen hesabınıza şimdi bakiye yükleyin.</value>
   <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
     <value>Diğer yöntemler</value>
   </data>
-  <data name="GIZ_REGISTRATION_PRIVACY_POLICY" xml:space="preserve">
-    <value>Gizlilik Politikası</value>
-  </data>
   <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
     <value>Bu yöntemle kayıt henüz kullanılamıyor. Lütfen aşağıdaki başka bir yöntemi deneyin.</value>
   </data>
@@ -1560,15 +1557,6 @@ Lütfen hesabınıza şimdi bakiye yükleyin.</value>
   </data>
   <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
     <value>Başka bir kayıt yöntemi seçin</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_AND" xml:space="preserve">
-    <value> ve </value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_OF_USE" xml:space="preserve">
-    <value>Kullanım Koşulları</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_PREFIX" xml:space="preserve">
-    <value>Kayıt olarak şunları kabul edersiniz: </value>
   </data>
   <data name="GIZ_REGISTRATION_TRY_ALTERNATIVES" xml:space="preserve">
     <value>Alternatif yöntemlerden birini deneyin:</value>

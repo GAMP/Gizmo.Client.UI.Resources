@@ -1522,9 +1522,6 @@ Por favor recarga tu cuenta.</value>
   <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
     <value>Otros métodos</value>
   </data>
-  <data name="GIZ_REGISTRATION_PRIVACY_POLICY" xml:space="preserve">
-    <value>Política de Privacidad</value>
-  </data>
   <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
     <value>El registro con este método aún no está disponible. Prueba otro método a continuación.</value>
   </data>
@@ -1560,15 +1557,6 @@ Por favor recarga tu cuenta.</value>
   </data>
   <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
     <value>Elige otro método de registro</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_AND" xml:space="preserve">
-    <value> y </value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_OF_USE" xml:space="preserve">
-    <value>Condiciones de Uso</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_PREFIX" xml:space="preserve">
-    <value>Al registrarte, aceptas la </value>
   </data>
   <data name="GIZ_REGISTRATION_TRY_ALTERNATIVES" xml:space="preserve">
     <value>Prueba uno de los métodos alternativos:</value>

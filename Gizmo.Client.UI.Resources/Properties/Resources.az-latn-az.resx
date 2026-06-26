@@ -1522,9 +1522,6 @@ Zəhmət olmasa balansınızı artırın.</value>
   <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
     <value>Digər üsullar</value>
   </data>
-  <data name="GIZ_REGISTRATION_PRIVACY_POLICY" xml:space="preserve">
-    <value>Məxfilik Siyasəti</value>
-  </data>
   <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
     <value>Bu üsulla qeydiyyat hələ mövcud deyil. Zəhmət olmasa aşağıdakı başqa üsulu sınayın.</value>
   </data>
@@ -1560,15 +1557,6 @@ Zəhmət olmasa balansınızı artırın.</value>
   </data>
   <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
     <value>Başqa qeydiyyat üsulu seçin</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_AND" xml:space="preserve">
-    <value> və </value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_OF_USE" xml:space="preserve">
-    <value>İstifadə Şərtləri</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_PREFIX" xml:space="preserve">
-    <value>Qeydiyyatdan keçməklə siz aşağıdakıları qəbul edirsiniz: </value>
   </data>
   <data name="GIZ_REGISTRATION_TRY_ALTERNATIVES" xml:space="preserve">
     <value>Alternativ üsullardan birini sınayın:</value>

@@ -1522,9 +1522,6 @@ Genoplad venligst din konto nu.</value>
   <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
     <value>Andre metoder</value>
   </data>
-  <data name="GIZ_REGISTRATION_PRIVACY_POLICY" xml:space="preserve">
-    <value>Privatlivspolitik</value>
-  </data>
   <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
     <value>Registrering via denne metode er endnu ikke tilgængelig. Prøv en anden metode nedenfor.</value>
   </data>
@@ -1560,15 +1557,6 @@ Genoplad venligst din konto nu.</value>
   </data>
   <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
     <value>Vælg en anden registreringsmetode</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_AND" xml:space="preserve">
-    <value> og </value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_OF_USE" xml:space="preserve">
-    <value>Brugsvilkår</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_PREFIX" xml:space="preserve">
-    <value>Ved at registrere dig accepterer du </value>
   </data>
   <data name="GIZ_REGISTRATION_TRY_ALTERNATIVES" xml:space="preserve">
     <value>Prøv en af de alternative metoder:</value>

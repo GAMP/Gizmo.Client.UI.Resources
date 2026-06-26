@@ -1521,9 +1521,6 @@
   <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
     <value>Muud viisid</value>
   </data>
-  <data name="GIZ_REGISTRATION_PRIVACY_POLICY" xml:space="preserve">
-    <value>Privaatsuspoliitika</value>
-  </data>
   <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
     <value>Selle viisiga registreerimine pole veel saadaval. Proovi allpool muud viisi.</value>
   </data>
@@ -1559,15 +1556,6 @@
   </data>
   <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
     <value>Vali muu registreerimisviis</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_AND" xml:space="preserve">
-    <value> ja </value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_OF_USE" xml:space="preserve">
-    <value>Kasutustingimused</value>
-  </data>
-  <data name="GIZ_REGISTRATION_TERMS_PREFIX" xml:space="preserve">
-    <value>Registreerudes nõustud </value>
   </data>
   <data name="GIZ_REGISTRATION_TRY_ALTERNATIVES" xml:space="preserve">
     <value>Proovi mõnda alternatiivset viisi:</value>
