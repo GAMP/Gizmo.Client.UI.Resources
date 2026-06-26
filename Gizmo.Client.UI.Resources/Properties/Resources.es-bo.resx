@@ -661,7 +661,7 @@
     <value>Hombre</value>
   </data>
   <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve">
-    <value>Prefiero no decirlo</value>
+    <value>No seleccionado</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve">
     <value>El monto mínimo es {0}</value>

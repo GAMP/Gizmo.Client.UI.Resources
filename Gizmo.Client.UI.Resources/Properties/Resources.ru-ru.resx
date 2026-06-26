@@ -712,7 +712,7 @@
     <value>Мужчина</value>
   </data>
   <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve">
-    <value>Неопределенный</value>
+    <value>Не выбрано</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Минимальная сумма  {0}.</value>

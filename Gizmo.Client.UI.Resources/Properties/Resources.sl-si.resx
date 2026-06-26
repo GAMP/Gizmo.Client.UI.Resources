@@ -661,7 +661,7 @@
     <value>Moški</value>
   </data>
   <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve">
-    <value>Nedoločeno</value>
+    <value>Ni izbrano</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Najmanjši znesek je {0}.</value>

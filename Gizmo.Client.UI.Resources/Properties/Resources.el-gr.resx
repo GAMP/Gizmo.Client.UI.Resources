@@ -661,7 +661,7 @@
     <value>Άντρας</value>
   </data>
   <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve">
-    <value>Απροσδιόριστο</value>
+    <value>Δεν επιλέχθηκε</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Το ελάχιστο ποσό είναι {0}.</value>
