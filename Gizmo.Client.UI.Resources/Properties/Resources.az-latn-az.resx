@@ -741,6 +741,9 @@
   <data name="GIZ_GEN_PHONE" xml:space="preserve">
     <value>Mobil nömrə</value>
   </data>
+  <data name="GIZ_GEN_ADDITIONAL_PHONE" xml:space="preserve">
+    <value>Əlavə telefon</value>
+  </data>
   <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve">
     <value>Əlaqə məlumatı</value>
   </data>

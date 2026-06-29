@@ -1436,7 +1436,13 @@ namespace Gizmo.Client.UI.Resources.Properties {
                 return ResourceManager.GetString("GIZ_GEN_PHONE", resourceCulture);
             }
         }
-        
+
+        public static string GIZ_GEN_ADDITIONAL_PHONE {
+            get {
+                return ResourceManager.GetString("GIZ_GEN_ADDITIONAL_PHONE", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_CONTACT_INFO {
             get {
                 return ResourceManager.GetString("GIZ_USER_CONTACT_INFO", resourceCulture);
