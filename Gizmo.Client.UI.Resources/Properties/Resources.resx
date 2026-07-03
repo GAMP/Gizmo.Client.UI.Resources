@@ -249,6 +249,9 @@
   <data name="GIZ_CONFIRMATION_CODE_LENGTH_ERROR" xml:space="preserve">
     <value>Confirmation code should have {0} digits!</value>
   </data>
+  <data name="GIZ_GEN_ACCEPT" xml:space="preserve">
+    <value>Accept</value>
+  </data>
   <data name="GIZ_GEN_ADS" xml:space="preserve">
     <value>Ads</value>
   </data>
@@ -414,8 +417,14 @@
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
     <value>Forgot password</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NEW_PASSWORD" xml:space="preserve">
+    <value>New password</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
     <value>Please enter the code from the text message we sent to {0}</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_REENTER_CONFIRM" xml:space="preserve">
+    <value>Re-enter to confirm</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
     <value>Reset password</value>
@@ -445,7 +454,70 @@
     <value>Sign up</value>
   </data>
   <data name="GIZ_REGISTRATION_SIGN_IN" xml:space="preserve">
-    <value>Log in</value>
+    <value>Sign In</value>
+  </data>
+  <data name="GIZ_REGISTRATION_CREATE_ACCOUNT" xml:space="preserve">
+    <value>Create account</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SELECT_METHOD" xml:space="preserve">
+    <value>Choose a registration method</value>
+  </data>
+  <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
+    <value>Choose another registration method</value>
+  </data>
+  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
+    <value>Continue with {0}</value>
+  </data>
+  <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
+    <value>Other methods</value>
+  </data>
+  <data name="GIZ_REGISTRATION_TRY_ALTERNATIVES" xml:space="preserve">
+    <value>Try one of the alternative methods:</value>
+  </data>
+  <data name="GIZ_REGISTRATION_PROVIDER_REDIRECT_NOT_IMPLEMENTED" xml:space="preserve">
+    <value>Registration via this method is not available yet. Please try another method below.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_TITLE" xml:space="preserve">
+    <value>Sign in via {0}</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_SUBTITLE" xml:space="preserve">
+    <value>No redirect, right in your browser</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_SCAN_HINT" xml:space="preserve">
+    <value>Scan this QR code with your mobile device to continue authorization.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_WAITING_SCAN" xml:space="preserve">
+    <value>Waiting for scan…</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_QR_EXPIRED" xml:space="preserve">
+    <value>QR code expired</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_QR_EXPIRED_OVERLAY" xml:space="preserve">
+    <value>QR expired</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_SESSION_EXPIRED" xml:space="preserve">
+    <value>Session time has expired. Please try again or choose another sign-in method.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_BACK_TO_MAIN" xml:space="preserve">
+    <value>Return to main screen</value>
+  </data>
+  <data name="GIZ_REGISTRATION_REDIRECT_REFRESH_QR" xml:space="preserve">
+    <value>Refresh QR code</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_TITLE" xml:space="preserve">
+    <value>Authorization Failed</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_SUBTITLE" xml:space="preserve">
+    <value>Failed to complete registration. This may have happened due to cancellation or technical issues.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_ALERT" xml:space="preserve">
+    <value>Try another registration method or go back and choose an alternative method.</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_BACK" xml:space="preserve">
+    <value>Go back and choose another method</value>
+  </data>
+  <data name="GIZ_REGISTRATION_ERROR_RETRY" xml:space="preserve">
+    <value>Try again</value>
   </data>
   <data name="GIZ_SHOP_ADD_TO_CART" xml:space="preserve">
     <value>Add to cart</value>
@@ -555,6 +627,9 @@
   <data name="GIZ_USER_BIRTH_DATE" xml:space="preserve">
     <value>Date of birth</value>
   </data>
+  <data name="GIZ_USER_CITY" xml:space="preserve">
+    <value>City</value>
+  </data>
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
     <value>Change password</value>
   </data>
@@ -658,7 +733,7 @@
     <value>Male</value>
   </data>
   <data name="GIZ_GEN_SEX_UNSPECIFIED" xml:space="preserve">
-    <value>Unspecified</value>
+    <value>Not selected</value>
   </data>
   <data name="GIZ_ONLINE_DEPOSIT_MINIMUM_AMOUNT_IS" xml:space="preserve">
     <value>Minimum amount is {0}.</value>
@@ -737,6 +812,9 @@
   </data>
   <data name="GIZ_GEN_PHONE" xml:space="preserve">
     <value>Phone</value>
+  </data>
+  <data name="GIZ_GEN_ADDITIONAL_PHONE" xml:space="preserve">
+    <value>Additional phone</value>
   </data>
   <data name="GIZ_USER_CONTACT_INFO" xml:space="preserve">
     <value>Contact info</value>
@@ -1026,6 +1104,9 @@
   <data name="GIZ_USAGE_TYPE_TIME_PRODUCT" xml:space="preserve">
     <value>Time product</value>
   </data>
+  <data name="GIZ_REGISTRATION_AGREEMENTS_TITLE" xml:space="preserve">
+    <value>Privacy Policy and Terms of Use</value>
+  </data>
   <data name="GIZ_REGISTRATION_EMAIL_CONFIRMATION_MESSAGE" xml:space="preserve">
     <value>Please enter your e-mail to create an account.</value>
   </data>
@@ -1083,6 +1164,9 @@ Please recharge your account now.</value>
   </data>
   <data name="GIZ_REGISTRATION_VE_MOBILE_PHONE_INVALID" xml:space="preserve">
     <value>Mobile phone is invalid</value>
+  </data>
+  <data name="GIZ_REGISTRATION_VE_SELECT_COUNTRY" xml:space="preserve">
+    <value>Please select a country</value>
   </data>
   <data name="GIZ_USER_PURCHASES_ORDER" xml:space="preserve">
     <value>Order</value>
