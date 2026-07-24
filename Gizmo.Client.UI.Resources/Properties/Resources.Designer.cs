@@ -669,6 +669,18 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
+        public static string GIZ_PASSWORD_RECOVERY_SELECT_METHOD {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_SELECT_METHOD", resourceCulture);
+            }
+        }
+
+        public static string GIZ_PASSWORD_RECOVERY_SELECT_OTHER_METHOD {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_SELECT_OTHER_METHOD", resourceCulture);
+            }
+        }
+
         public static string GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE {
             get {
                 return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE", resourceCulture);

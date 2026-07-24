@@ -429,6 +429,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
     <value>Reset password</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_METHOD" xml:space="preserve">
+    <value>Choose a recovery method</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_OTHER_METHOD" xml:space="preserve">
+    <value>Choose another recovery method</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
     <value>Great! Now come up with a new password and you're all set.</value>
   </data>

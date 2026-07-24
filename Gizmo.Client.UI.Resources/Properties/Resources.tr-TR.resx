@@ -420,6 +420,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
     <value>Parolayı sıfırla</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_METHOD" xml:space="preserve">
+    <value>Bir kurtarma yöntemi seçin</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_OTHER_METHOD" xml:space="preserve">
+    <value>Başka bir kurtarma yöntemi seçin</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
     <value>Harika! Şimdi yeni bir parola oluşturun ve her şey hazır!</value>
   </data>

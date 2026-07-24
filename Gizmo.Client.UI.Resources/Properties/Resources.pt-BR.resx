@@ -420,6 +420,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
     <value>Resetar senha</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_METHOD" xml:space="preserve">
+    <value>Escolha um método de recuperação</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_OTHER_METHOD" xml:space="preserve">
+    <value>Escolha outro método de recuperação</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
     <value>Ótimo! Agora crie uma nova senha e estará tudo pronto</value>
   </data>

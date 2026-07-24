@@ -420,6 +420,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
     <value>Restablecer la contraseña</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_METHOD" xml:space="preserve">
+    <value>Elige un método de recuperación</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_OTHER_METHOD" xml:space="preserve">
+    <value>Elige otro método de recuperación</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
     <value>¡Genial! Ahora inventa una nueva contraseña y listo.</value>
   </data>

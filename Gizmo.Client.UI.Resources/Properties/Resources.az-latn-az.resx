@@ -420,6 +420,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_RESET_PASSWORD" xml:space="preserve">
     <value>Şifrəni sıfırla</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_METHOD" xml:space="preserve">
+    <value>Bərpa üsulu seçin</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_SELECT_OTHER_METHOD" xml:space="preserve">
+    <value>Başqa bərpa üsulu seçin</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_SET_PASSWORD_MESSAGE" xml:space="preserve">
     <value>Əlasan! İndi yeni şifrəni təyin et və hər şey hazırdır!</value>
   </data>
