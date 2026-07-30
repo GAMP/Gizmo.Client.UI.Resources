@@ -1197,6 +1197,9 @@
   <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
     <value>Serveriga ühendatud</value>
   </data>
+  <data name="GIZ_SMA_WAITING_CONNECTION_SETTINGS" xml:space="preserve">
+    <value>Serveriühenduse ootamine</value>
+  </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>Olen lugenud Privaatsuspoliitika ja kasutustingimused ning nõustun nendega.</value>
   </data>

@@ -1198,6 +1198,9 @@ Zəhmət olmasa balansınızı artırın.</value>
   <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
     <value>Serverə qoşuldu</value>
   </data>
+  <data name="GIZ_SMA_WAITING_CONNECTION_SETTINGS" xml:space="preserve">
+    <value>Server bağlantısı gözlənilir</value>
+  </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>Məxfilik Siyasəti və İstifadə Şərtlərini oxudum və qəbul edirəm.</value>
   </data>

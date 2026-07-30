@@ -1198,6 +1198,9 @@ Genoplad venligst din konto nu.</value>
   <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
     <value>Forbundet til serveren</value>
   </data>
+  <data name="GIZ_SMA_WAITING_CONNECTION_SETTINGS" xml:space="preserve">
+    <value>Venter på serverforbindelse</value>
+  </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>Jeg har læst og accepterer Privatlivspolitik og vilkår for brug.</value>
   </data>

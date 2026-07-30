@@ -2361,6 +2361,12 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
+        public static string GIZ_SMA_WAITING_CONNECTION_SETTINGS {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_WAITING_CONNECTION_SETTINGS", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX {
             get {
                 return ResourceManager.GetString("GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX", resourceCulture);

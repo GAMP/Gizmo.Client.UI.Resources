@@ -1279,6 +1279,9 @@ Please recharge your account now.</value>
   <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
     <value>Connected to the server</value>
   </data>
+  <data name="GIZ_SMA_WAITING_CONNECTION_SETTINGS" xml:space="preserve">
+    <value>Waiting for server connection</value>
+  </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>I have read and agree to the Privacy Policy and Terms of Use.</value>
   </data>

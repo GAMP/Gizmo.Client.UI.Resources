@@ -1198,6 +1198,9 @@ Lütfen hesabınıza şimdi bakiye yükleyin.</value>
   <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
     <value>Sunucuya bağlanıldı</value>
   </data>
+  <data name="GIZ_SMA_WAITING_CONNECTION_SETTINGS" xml:space="preserve">
+    <value>Sunucu bağlantısı bekleniyor</value>
+  </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>Gizlilik Politikası ve Kullanım Koşullarını okudum ve kabul ediyorum.</value>
   </data>

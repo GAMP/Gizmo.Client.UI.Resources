@@ -1255,6 +1255,9 @@
   <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
     <value>Подключено к серверу</value>
   </data>
+  <data name="GIZ_SMA_WAITING_CONNECTION_SETTINGS" xml:space="preserve">
+    <value>Ожидание подключения к серверу</value>
+  </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>Я ознакомился с Политикой конфиденциальности и условиями использования и принимаю их.</value>
   </data>
