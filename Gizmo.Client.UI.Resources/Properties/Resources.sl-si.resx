@@ -1135,6 +1135,45 @@ Prosimo, napolnite svoj račun zdaj.</value>
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve">
     <value>Prekliči</value>
   </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION" xml:space="preserve">
+    <value>Povezava s strežnikom</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION_MESSAGE" xml:space="preserve">
+    <value>Nastavite strežnik, s katerim se povezuje ta odjemalec. Ob shranjevanju se odjemalec znova poveže z izbranim strežnikom.</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST" xml:space="preserve">
+    <value>Gostitelj ali naslov IP</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST_HINT" xml:space="preserve">
+    <value>server.example.com</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_PORT" xml:space="preserve">
+    <value>Vrata</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE" xml:space="preserve">
+    <value>Vrsta povezave</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_SOCKET" xml:space="preserve">
+    <value>Vtičnica (TCP)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET" xml:space="preserve">
+    <value>WebSocket</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET_SECURE" xml:space="preserve">
+    <value>WebSocket (varno)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_SAVE" xml:space="preserve">
+    <value>Shrani povezavo</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTED" xml:space="preserve">
+    <value>Povezano</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTING" xml:space="preserve">
+    <value>Povezovanje…</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_DISCONNECTED" xml:space="preserve">
+    <value>Prekinjeno</value>
+  </data>
   <data name="GIZ_SMA_STARTING_UI" xml:space="preserve">
     <value>Zagon uporabniškega vmesnika</value>
   </data>
@@ -1155,6 +1194,9 @@ Prosimo, napolnite svoj račun zdaj.</value>
   </data>
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve">
     <value>Obdelava preslikav pogonov</value>
+  </data>
+  <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
+    <value>Povezano s strežnikom</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>Prebral sem in se strinjam s Politiko zasebnosti in pogoji uporabe.</value>

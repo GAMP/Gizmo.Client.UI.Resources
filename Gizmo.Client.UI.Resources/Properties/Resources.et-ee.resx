@@ -1134,6 +1134,45 @@
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve">
     <value>Tühista</value>
   </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION" xml:space="preserve">
+    <value>Serveriühendus</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION_MESSAGE" xml:space="preserve">
+    <value>Määrake server, millega see klient ühendub. Salvestamine ühendab kliendi valitud serveriga uuesti.</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST" xml:space="preserve">
+    <value>Host või IP-aadress</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST_HINT" xml:space="preserve">
+    <value>server.example.com</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_PORT" xml:space="preserve">
+    <value>Port</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE" xml:space="preserve">
+    <value>Ühenduse tüüp</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_SOCKET" xml:space="preserve">
+    <value>Pistikupesa (TCP)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET" xml:space="preserve">
+    <value>WebSocket</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET_SECURE" xml:space="preserve">
+    <value>WebSocket (turvaline)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_SAVE" xml:space="preserve">
+    <value>Salvesta ühendus</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTED" xml:space="preserve">
+    <value>Ühendatud</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTING" xml:space="preserve">
+    <value>Ühendumine…</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_DISCONNECTED" xml:space="preserve">
+    <value>Ühendus katkestatud</value>
+  </data>
   <data name="GIZ_SMA_STARTING_UI" xml:space="preserve">
     <value>Kasutajaliidese käivitamine</value>
   </data>
@@ -1154,6 +1193,9 @@
   </data>
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve">
     <value>Võrgukäitluste töötlemine</value>
+  </data>
+  <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
+    <value>Serveriga ühendatud</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>Olen lugenud Privaatsuspoliitika ja kasutustingimused ning nõustun nendega.</value>

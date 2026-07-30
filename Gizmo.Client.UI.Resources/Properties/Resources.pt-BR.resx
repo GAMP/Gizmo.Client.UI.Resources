@@ -1135,6 +1135,45 @@ Por favor, recarregue sua conta agora.</value>
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve">
     <value>Cancelar</value>
   </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION" xml:space="preserve">
+    <value>Conexão com o servidor</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION_MESSAGE" xml:space="preserve">
+    <value>Configure o servidor ao qual este cliente se conecta. Salvar reconecta o cliente ao servidor selecionado.</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST" xml:space="preserve">
+    <value>Host ou endereço IP</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST_HINT" xml:space="preserve">
+    <value>server.example.com</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_PORT" xml:space="preserve">
+    <value>Porta</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE" xml:space="preserve">
+    <value>Tipo de conexão</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_SOCKET" xml:space="preserve">
+    <value>Soquete (TCP)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET" xml:space="preserve">
+    <value>WebSocket</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET_SECURE" xml:space="preserve">
+    <value>WebSocket (seguro)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_SAVE" xml:space="preserve">
+    <value>Salvar conexão</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTED" xml:space="preserve">
+    <value>Conectado</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTING" xml:space="preserve">
+    <value>Conectando…</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_DISCONNECTED" xml:space="preserve">
+    <value>Desconectado</value>
+  </data>
   <data name="GIZ_SMA_STARTING_UI" xml:space="preserve">
     <value>Iniciando a interface do usuário</value>
   </data>
@@ -1155,6 +1194,9 @@ Por favor, recarregue sua conta agora.</value>
   </data>
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve">
     <value>Processando o mapa de unidades</value>
+  </data>
+  <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
+    <value>Conectado ao servidor</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>Eu li e concordo com a Política de Privacidade e Termos de Uso.</value>

@@ -2234,7 +2234,85 @@ namespace Gizmo.Client.UI.Resources.Properties {
                 return ResourceManager.GetString("GIZ_CLIENT_MANAGER_CANCEL", resourceCulture);
             }
         }
-        
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_CONNECTION {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_CONNECTION", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_CONNECTION_MESSAGE {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_CONNECTION_MESSAGE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_HOST {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_HOST", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_HOST_HINT {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_HOST_HINT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_PORT {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_PORT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_TYPE {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_TYPE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_TYPE_SOCKET {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_TYPE_SOCKET", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET_SECURE {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET_SECURE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_SAVE {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_SAVE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTED {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTING {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_CLIENT_MANAGER_SERVER_STATUS_DISCONNECTED {
+            get {
+                return ResourceManager.GetString("GIZ_CLIENT_MANAGER_SERVER_STATUS_DISCONNECTED", resourceCulture);
+            }
+        }
+
         public static string GIZ_SMA_STARTING_UI {
             get {
                 return ResourceManager.GetString("GIZ_SMA_STARTING_UI", resourceCulture);
@@ -2276,7 +2354,13 @@ namespace Gizmo.Client.UI.Resources.Properties {
                 return ResourceManager.GetString("GIZ_SMA_PROCESSING_DRIVE_MAPPINGS", resourceCulture);
             }
         }
-        
+
+        public static string GIZ_SMA_CONNECTION_ESTABLISHED {
+            get {
+                return ResourceManager.GetString("GIZ_SMA_CONNECTION_ESTABLISHED", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX {
             get {
                 return ResourceManager.GetString("GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX", resourceCulture);
