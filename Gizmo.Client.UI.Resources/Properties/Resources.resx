@@ -1240,6 +1240,45 @@ Please recharge your account now.</value>
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION" xml:space="preserve">
+    <value>Server connection</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION_MESSAGE" xml:space="preserve">
+    <value>Configure the server this client connects to. Saving reconnects the client to the selected server.</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST" xml:space="preserve">
+    <value>Host or IP address</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST_HINT" xml:space="preserve">
+    <value>server.example.com</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_PORT" xml:space="preserve">
+    <value>Port</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE" xml:space="preserve">
+    <value>Connection type</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_SOCKET" xml:space="preserve">
+    <value>Socket (TCP)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET" xml:space="preserve">
+    <value>WebSocket</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET_SECURE" xml:space="preserve">
+    <value>WebSocket (secure)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_SAVE" xml:space="preserve">
+    <value>Save connection</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTED" xml:space="preserve">
+    <value>Connected</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTING" xml:space="preserve">
+    <value>Connecting…</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_DISCONNECTED" xml:space="preserve">
+    <value>Disconnected</value>
+  </data>
   <data name="GIZ_SMA_STARTING_UI" xml:space="preserve">
     <value>Starting user interface</value>
   </data>
@@ -1260,6 +1299,12 @@ Please recharge your account now.</value>
   </data>
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve">
     <value>Processing drive mappings</value>
+  </data>
+  <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
+    <value>Connected to the server</value>
+  </data>
+  <data name="GIZ_SMA_WAITING_CONNECTION_SETTINGS" xml:space="preserve">
+    <value>Waiting for server connection</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>I have read and agree to the Privacy Policy and Terms of Use.</value>

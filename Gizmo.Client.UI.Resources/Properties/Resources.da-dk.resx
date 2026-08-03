@@ -1141,6 +1141,45 @@ Genoplad venligst din konto nu.</value>
   <data name="GIZ_CLIENT_MANAGER_CANCEL" xml:space="preserve">
     <value>Afbryd</value>
   </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION" xml:space="preserve">
+    <value>Serverforbindelse</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_CONNECTION_MESSAGE" xml:space="preserve">
+    <value>Konfigurer den server, som denne klient opretter forbindelse til. Ved at gemme genopretter klienten forbindelsen til den valgte server.</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST" xml:space="preserve">
+    <value>Vært eller IP-adresse</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_HOST_HINT" xml:space="preserve">
+    <value>server.example.com</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_PORT" xml:space="preserve">
+    <value>Port</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE" xml:space="preserve">
+    <value>Forbindelsestype</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_SOCKET" xml:space="preserve">
+    <value>Sokkel (TCP)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET" xml:space="preserve">
+    <value>WebSocket</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_TYPE_WEBSOCKET_SECURE" xml:space="preserve">
+    <value>WebSocket (sikker)</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_SAVE" xml:space="preserve">
+    <value>Gem forbindelse</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTED" xml:space="preserve">
+    <value>Forbundet</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_CONNECTING" xml:space="preserve">
+    <value>Opretter forbindelse…</value>
+  </data>
+  <data name="GIZ_CLIENT_MANAGER_SERVER_STATUS_DISCONNECTED" xml:space="preserve">
+    <value>Afbrudt</value>
+  </data>
   <data name="GIZ_SMA_STARTING_UI" xml:space="preserve">
     <value>Start af brugergrænseflade</value>
   </data>
@@ -1161,6 +1200,12 @@ Genoplad venligst din konto nu.</value>
   </data>
   <data name="GIZ_SMA_PROCESSING_DRIVE_MAPPINGS" xml:space="preserve">
     <value>Behandling af drevkortlægninger</value>
+  </data>
+  <data name="GIZ_SMA_CONNECTION_ESTABLISHED" xml:space="preserve">
+    <value>Forbundet til serveren</value>
+  </data>
+  <data name="GIZ_SMA_WAITING_CONNECTION_SETTINGS" xml:space="preserve">
+    <value>Venter på serverforbindelse</value>
   </data>
   <data name="GIZ_USER_AGREEMENT_DIALOG_AGREE_CHECKBOX" xml:space="preserve">
     <value>Jeg har læst og accepterer Privatlivspolitik og vilkår for brug.</value>
