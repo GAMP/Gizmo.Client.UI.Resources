@@ -1573,4 +1573,25 @@ Prosimo, napolnite svoj račun zdaj.</value>
   <data name="GIZ_REGISTRATION_VE_SELECT_COUNTRY" xml:space="preserve">
     <value>Izberite državo</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_USERNAME" xml:space="preserve">
+    <value>Vnesite uporabniško ime, ki je povezano z vašim računom</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
+    <value>Ta vrednost ustreza več kot enemu računu. Namesto tega uporabite uporabniško ime.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
+    <value>Noben račun se ne ujema z vneseno vrednostjo.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_TITLE" xml:space="preserve">
+    <value>Potrditev s klicem</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_SUBTITLE" xml:space="preserve">
+    <value>Za nadaljevanje obnovitve gesla dokončajte klic.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_HINT" xml:space="preserve">
+    <value>Pokličite {0} in pustite ta zaslon odprt, dokler poteka potrjevanje.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_WAITING_CONFIRMATION" xml:space="preserve">
+    <value>Čakanje na potrditev...</value>
+  </data>
 </root>

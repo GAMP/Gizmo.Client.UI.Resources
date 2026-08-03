@@ -1574,4 +1574,25 @@
   <data name="GIZ_REGISTRATION_VE_SELECT_COUNTRY" xml:space="preserve">
     <value>Παρακαλώ επιλέξτε χώρα</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_USERNAME" xml:space="preserve">
+    <value>Εισάγετε το όνομα χρήστη που είναι συνδεμένο με τον λογαριασμό σας</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
+    <value>Αυτή η τιμή αντιστοιχεί σε περισσότερους από έναν λογαριασμούς. Χρησιμοποιήστε το όνομα χρήστη.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
+    <value>Δεν βρέθηκε λογαριασμός που να αντιστοιχεί στην τιμή που εισαγάγατε.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_TITLE" xml:space="preserve">
+    <value>Επιβεβαίωση με κλήση</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_SUBTITLE" xml:space="preserve">
+    <value>Ολοκληρώστε τη διαδικασία κλήσης για να συνεχίσετε την ανάκτηση κωδικού πρόσβασης.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_HINT" xml:space="preserve">
+    <value>Καλέστε το {0} και κρατήστε αυτή την οθόνη ανοιχτή όσο γίνεται η επιβεβαίωση.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_WAITING_CONFIRMATION" xml:space="preserve">
+    <value>Αναμονή επιβεβαίωσης...</value>
+  </data>
 </root>

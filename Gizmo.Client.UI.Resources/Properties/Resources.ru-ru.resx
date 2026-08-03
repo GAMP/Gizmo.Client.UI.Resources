@@ -1573,4 +1573,25 @@
   <data name="GIZ_REGISTRATION_ERROR_TITLE" xml:space="preserve">
     <value>Ошибка авторизации</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_USERNAME" xml:space="preserve">
+    <value>Введите имя пользователя, привязанное к вашей учетной записи</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
+    <value>Это значение соответствует нескольким учетным записям. Используйте имя пользователя.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
+    <value>Учетная запись с указанным значением не найдена.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_TITLE" xml:space="preserve">
+    <value>Подтверждение звонком</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_SUBTITLE" xml:space="preserve">
+    <value>Завершите звонок, чтобы продолжить восстановление пароля.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_HINT" xml:space="preserve">
+    <value>Позвоните по номеру {0} и не закрывайте эту страницу до подтверждения.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_WAITING_CONFIRMATION" xml:space="preserve">
+    <value>Ожидание подтверждения...</value>
+  </data>
 </root>

@@ -1251,6 +1251,48 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
         
+        public static string GIZ_PASSWORD_RECOVERY_ENTER_USERNAME {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_ENTER_USERNAME", resourceCulture);
+            }
+        }
+        
+        public static string GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT", resourceCulture);
+            }
+        }
+        
+        public static string GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND", resourceCulture);
+            }
+        }
+        
+        public static string GIZ_PASSWORD_RECOVERY_CALL_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_CALL_TITLE", resourceCulture);
+            }
+        }
+        
+        public static string GIZ_PASSWORD_RECOVERY_CALL_SUBTITLE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_CALL_SUBTITLE", resourceCulture);
+            }
+        }
+        
+        public static string GIZ_PASSWORD_RECOVERY_CALL_HINT {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_CALL_HINT", resourceCulture);
+            }
+        }
+        
+        public static string GIZ_PASSWORD_RECOVERY_WAITING_CONFIRMATION {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_WAITING_CONFIRMATION", resourceCulture);
+            }
+        }
+        
         public static string GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED {
             get {
                 return ResourceManager.GetString("GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED", resourceCulture);

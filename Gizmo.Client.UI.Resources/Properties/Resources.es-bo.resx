@@ -1573,4 +1573,25 @@ Por favor recarga tu cuenta.</value>
   <data name="GIZ_REGISTRATION_VE_SELECT_COUNTRY" xml:space="preserve">
     <value>Por favor, selecciona un país</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_USERNAME" xml:space="preserve">
+    <value>Ingresa el nombre de usuario enlazado a tu cuenta</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
+    <value>Este valor coincide con más de una cuenta. Usa el nombre de usuario.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
+    <value>Ninguna cuenta coincide con el valor ingresado.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_TITLE" xml:space="preserve">
+    <value>Confirmar mediante llamada</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_SUBTITLE" xml:space="preserve">
+    <value>Completa la llamada para continuar con la recuperación de la contraseña.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_HINT" xml:space="preserve">
+    <value>Llama al {0} y mantén esta pantalla abierta mientras se procesa la confirmación.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_WAITING_CONFIRMATION" xml:space="preserve">
+    <value>Esperando confirmación...</value>
+  </data>
 </root>

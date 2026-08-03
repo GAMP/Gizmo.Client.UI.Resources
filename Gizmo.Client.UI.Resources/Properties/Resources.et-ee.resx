@@ -1572,4 +1572,25 @@
   <data name="GIZ_REGISTRATION_VE_SELECT_COUNTRY" xml:space="preserve">
     <value>Palun vali riik</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_USERNAME" xml:space="preserve">
+    <value>Sisestage kasutajanimi, mis on teie kontoga seotud</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
+    <value>See väärtus vastab rohkem kui ühele kontole. Kasutage selle asemel kasutajanime.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
+    <value>Sisestatud väärtusele vastavat kontot ei leitud.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_TITLE" xml:space="preserve">
+    <value>Kinnitamine kõnega</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_SUBTITLE" xml:space="preserve">
+    <value>Parooli taastamise jätkamiseks lõpetage kõne.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_HINT" xml:space="preserve">
+    <value>Helistage numbrile {0} ja hoidke see ekraan avatuna, kuni kinnitust töödeldakse.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_WAITING_CONFIRMATION" xml:space="preserve">
+    <value>Kinnituse ootel...</value>
+  </data>
 </root>

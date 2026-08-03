@@ -1573,4 +1573,25 @@ Lütfen hesabınıza şimdi bakiye yükleyin.</value>
   <data name="GIZ_REGISTRATION_VE_SELECT_COUNTRY" xml:space="preserve">
     <value>Lütfen bir ülke seçin</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_ENTER_USERNAME" xml:space="preserve">
+    <value>Hesabınıza bağlı kullanıcı adını girin</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
+    <value>Bu değer birden fazla hesapla eşleşiyor. Bunun yerine kullanıcı adını kullanın.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
+    <value>Girdiğiniz değerle eşleşen bir hesap bulunamadı.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_TITLE" xml:space="preserve">
+    <value>Aramayla doğrula</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_SUBTITLE" xml:space="preserve">
+    <value>Parola kurtarmaya devam etmek için arama akışını tamamlayın.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_CALL_HINT" xml:space="preserve">
+    <value>{0} numarasını arayın ve doğrulama işlenirken bu ekranı açık tutun.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_WAITING_CONFIRMATION" xml:space="preserve">
+    <value>Onay bekleniyor...</value>
+  </data>
 </root>
