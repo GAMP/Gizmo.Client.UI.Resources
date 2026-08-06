@@ -1558,9 +1558,6 @@ Genoplad venligst din konto nu.</value>
   <data name="GIZ_REGISTRATION_AGREEMENTS_TITLE" xml:space="preserve">
     <value>Privatlivspolitik og Brugsvilkår</value>
   </data>
-  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
-    <value>Fortsæt med {0}</value>
-  </data>
   <data name="GIZ_REGISTRATION_CREATE_ACCOUNT" xml:space="preserve">
     <value>Opret konto</value>
   </data>

@@ -1558,9 +1558,6 @@ Por favor recargue su cuenta ahora.</value>
   <data name="GIZ_REGISTRATION_AGREEMENTS_TITLE" xml:space="preserve">
     <value>Política de Privacidad y Condiciones de Uso</value>
   </data>
-  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
-    <value>Continuar con {0}</value>
-  </data>
   <data name="GIZ_REGISTRATION_CREATE_ACCOUNT" xml:space="preserve">
     <value>Crear cuenta</value>
   </data>

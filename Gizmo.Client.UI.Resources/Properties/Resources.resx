@@ -498,9 +498,6 @@
   <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
     <value>Choose another registration method</value>
   </data>
-  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
-    <value>Continue with {0}</value>
-  </data>
   <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
     <value>Other methods</value>
   </data>

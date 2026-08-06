@@ -1557,9 +1557,6 @@
   <data name="GIZ_REGISTRATION_AGREEMENTS_TITLE" xml:space="preserve">
     <value>Privaatsuspoliitika ja Kasutustingimused</value>
   </data>
-  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
-    <value>Jätka teenusega {0}</value>
-  </data>
   <data name="GIZ_REGISTRATION_CREATE_ACCOUNT" xml:space="preserve">
     <value>Loo konto</value>
   </data>

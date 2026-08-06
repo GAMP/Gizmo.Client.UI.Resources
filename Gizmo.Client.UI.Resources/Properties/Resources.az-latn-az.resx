@@ -1558,9 +1558,6 @@ Zəhmət olmasa balansınızı artırın.</value>
   <data name="GIZ_REGISTRATION_AGREEMENTS_TITLE" xml:space="preserve">
     <value>Məxfilik Siyasəti və İstifadə Şərtləri</value>
   </data>
-  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
-    <value>{0} ilə davam et</value>
-  </data>
   <data name="GIZ_REGISTRATION_CREATE_ACCOUNT" xml:space="preserve">
     <value>Hesab yarat</value>
   </data>

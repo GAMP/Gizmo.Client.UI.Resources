@@ -1558,9 +1558,6 @@ Prosimo, napolnite svoj račun zdaj.</value>
   <data name="GIZ_REGISTRATION_AGREEMENTS_TITLE" xml:space="preserve">
     <value>Pravilnik o zasebnosti in Pogoji uporabe</value>
   </data>
-  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
-    <value>Nadaljuj z {0}</value>
-  </data>
   <data name="GIZ_REGISTRATION_CREATE_ACCOUNT" xml:space="preserve">
     <value>Ustvari račun</value>
   </data>

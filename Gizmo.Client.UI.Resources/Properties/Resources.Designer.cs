@@ -759,12 +759,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
         
-        public static string GIZ_REGISTRATION_CONTINUE_WITH {
-            get {
-                return ResourceManager.GetString("GIZ_REGISTRATION_CONTINUE_WITH", resourceCulture);
-            }
-        }
-        
         public static string GIZ_REGISTRATION_OTHER_METHODS {
             get {
                 return ResourceManager.GetString("GIZ_REGISTRATION_OTHER_METHODS", resourceCulture);

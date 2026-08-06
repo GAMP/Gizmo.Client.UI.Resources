@@ -1559,9 +1559,6 @@
   <data name="GIZ_REGISTRATION_AGREEMENTS_TITLE" xml:space="preserve">
     <value>Πολιτική Απορρήτου και Όροι Χρήσης</value>
   </data>
-  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
-    <value>Συνέχεια με {0}</value>
-  </data>
   <data name="GIZ_REGISTRATION_CREATE_ACCOUNT" xml:space="preserve">
     <value>Δημιουργία λογαριασμού</value>
   </data>

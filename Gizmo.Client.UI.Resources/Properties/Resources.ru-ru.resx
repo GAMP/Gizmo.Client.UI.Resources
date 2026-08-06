@@ -471,9 +471,6 @@
   <data name="GIZ_REGISTRATION_SELECT_OTHER_METHOD" xml:space="preserve">
     <value>Выберите другой способ регистрации</value>
   </data>
-  <data name="GIZ_REGISTRATION_CONTINUE_WITH" xml:space="preserve">
-    <value>Продолжить с {0}</value>
-  </data>
   <data name="GIZ_REGISTRATION_OTHER_METHODS" xml:space="preserve">
     <value>Другие способы</value>
   </data>
