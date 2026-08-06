@@ -414,6 +414,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
     <value>Pozabljeno geslo</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_TITLE" xml:space="preserve">
+    <value>Pozabljeno geslo</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_SUBTITLE" xml:space="preserve">
+    <value>Kako želite identificirati svoj račun?</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
     <value>Vnesite kodo iz besedilnega sporočila, ki smo ga poslali na {0}</value>
   </data>
@@ -1623,6 +1629,9 @@ Prosimo, napolnite svoj račun zdaj.</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
     <value>Ta vrednost ustreza več kot enemu računu. Namesto tega uporabite uporabniško ime.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_METHODS_AVAILABLE" xml:space="preserve">
+    <value>Obnovitev s tem načinom ni na voljo</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
     <value>Noben račun se ne ujema z vneseno vrednostjo.</value>

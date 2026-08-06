@@ -417,6 +417,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
     <value>Забыли пароль</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_TITLE" xml:space="preserve">
+    <value>Забыли пароль</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_SUBTITLE" xml:space="preserve">
+    <value>Как вы хотите идентифицировать свою учётную запись?</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
     <value>Пожалуйста, введите код из SMS, который отправили на {0}</value>
   </data>
@@ -1623,6 +1629,9 @@
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
     <value>Это значение соответствует нескольким учетным записям. Используйте имя пользователя.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_METHODS_AVAILABLE" xml:space="preserve">
+    <value>Восстановление этим способом недоступно</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
     <value>Учетная запись с указанным значением не найдена.</value>

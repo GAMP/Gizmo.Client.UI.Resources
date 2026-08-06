@@ -414,6 +414,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
     <value>Forgot password</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_TITLE" xml:space="preserve">
+    <value>Forgot password</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_SUBTITLE" xml:space="preserve">
+    <value>How would you like to identify your account?</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
     <value>Please enter the code from the text message we sent to {0}</value>
   </data>
@@ -1545,6 +1551,9 @@ Please recharge your account now.</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
     <value>This value matches more than one account. Use username instead.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_METHODS_AVAILABLE" xml:space="preserve">
+    <value>Password recovery isn't available for this value</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
     <value>No account matches the value you entered.</value>

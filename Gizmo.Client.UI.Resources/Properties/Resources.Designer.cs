@@ -1292,7 +1292,25 @@ namespace Gizmo.Client.UI.Resources.Properties {
                 return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_WAITING_CONFIRMATION", resourceCulture);
             }
         }
-        
+
+        public static string GIZ_PASSWORD_RECOVERY_KIND_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_KIND_TITLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_PASSWORD_RECOVERY_KIND_SUBTITLE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_KIND_SUBTITLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_PASSWORD_RECOVERY_NO_METHODS_AVAILABLE {
+            get {
+                return ResourceManager.GetString("GIZ_PASSWORD_RECOVERY_NO_METHODS_AVAILABLE", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED {
             get {
                 return ResourceManager.GetString("GIZ_USER_CONFIRMATION_VE_PHONE_IS_REQUIRED", resourceCulture);

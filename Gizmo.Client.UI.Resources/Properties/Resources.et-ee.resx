@@ -414,6 +414,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
     <value>Unustatud parool</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_TITLE" xml:space="preserve">
+    <value>Unustatud parool</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_SUBTITLE" xml:space="preserve">
+    <value>Kuidas soovite oma kontot tuvastada?</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
     <value>Palun sisestage SMS-i saadetud kood aadressile {0}</value>
   </data>
@@ -1622,6 +1628,9 @@
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
     <value>See väärtus vastab rohkem kui ühele kontole. Kasutage selle asemel kasutajanime.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_METHODS_AVAILABLE" xml:space="preserve">
+    <value>Taastamine ei ole selle valikuga saadaval</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
     <value>Sisestatud väärtusele vastavat kontot ei leitud.</value>

@@ -414,6 +414,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
     <value>Glemt kodeord</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_TITLE" xml:space="preserve">
+    <value>Glemt kodeord</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_SUBTITLE" xml:space="preserve">
+    <value>Hvordan vil du identificere din konto?</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
     <value>Indtast venligst koden fra den sms, vi sendte til {0}</value>
   </data>
@@ -1623,6 +1629,9 @@ Genoplad venligst din konto nu.</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
     <value>Denne værdi matcher mere end én konto. Brug brugernavn i stedet.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_METHODS_AVAILABLE" xml:space="preserve">
+    <value>Gendannelse er ikke tilgængelig på denne måde</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
     <value>Ingen konto matcher den værdi, du indtastede.</value>

@@ -414,6 +414,12 @@
   <data name="GIZ_PASSWORD_RECOVERY_FORGOT_PASSWORD" xml:space="preserve">
     <value>Parolamı Unuttum</value>
   </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_TITLE" xml:space="preserve">
+    <value>Parolamı Unuttum</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_KIND_SUBTITLE" xml:space="preserve">
+    <value>Hesabınızı nasıl tanımlamak istersiniz?</value>
+  </data>
   <data name="GIZ_PASSWORD_RECOVERY_PLEASE_ENTER_RECOVERY_CODE" xml:space="preserve">
     <value>Lütfen {0} adresine gönderdiğimiz kısa mesajdaki kodu girin.</value>
   </data>
@@ -1623,6 +1629,9 @@ Lütfen hesabınıza şimdi bakiye yükleyin.</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_NON_UNIQUE_INPUT" xml:space="preserve">
     <value>Bu değer birden fazla hesapla eşleşiyor. Bunun yerine kullanıcı adını kullanın.</value>
+  </data>
+  <data name="GIZ_PASSWORD_RECOVERY_NO_METHODS_AVAILABLE" xml:space="preserve">
+    <value>Bu yöntemle kurtarma kullanılamıyor</value>
   </data>
   <data name="GIZ_PASSWORD_RECOVERY_USER_NOT_FOUND" xml:space="preserve">
     <value>Girdiğiniz değerle eşleşen bir hesap bulunamadı.</value>
