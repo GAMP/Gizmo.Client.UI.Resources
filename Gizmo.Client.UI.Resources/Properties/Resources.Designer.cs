@@ -2481,6 +2481,12 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
         
+        public static string GIZ_PRODUCT_NOT_AVAILABLE_AT_THIS_LOCATION {
+            get {
+                return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE_AT_THIS_LOCATION", resourceCulture);
+            }
+        }
+        
         public static string GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST {
             get {
                 return ResourceManager.GetString("GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST", resourceCulture);

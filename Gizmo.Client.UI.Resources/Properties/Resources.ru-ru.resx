@@ -1294,6 +1294,9 @@
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve">
     <value>Недоступно на данном хосте (ПК).</value>
   </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_AT_THIS_LOCATION" xml:space="preserve">
+    <value>Недоступно в этом заведении.</value>
+  </data>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
     <value>Имя пользователя не может содержать пробелы.</value>
   </data>

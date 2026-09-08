@@ -1239,6 +1239,9 @@
   <data name="GIZ_PRODUCT_NOT_AVAILABLE_ON_THIS_HOST" xml:space="preserve">
     <value>Selles arvutis pole saadaval.</value>
   </data>
+  <data name="GIZ_PRODUCT_NOT_AVAILABLE_AT_THIS_LOCATION" xml:space="preserve">
+    <value>Selles asukohas pole saadaval.</value>
+  </data>
   <data name="GIZ_REGISTRATION_VE_WHITE_SPACE_NOT_ALLOWED" xml:space="preserve">
     <value>Kasutajanimi ei tohi sisaldada tühikuid.</value>
   </data>
