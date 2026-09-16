@@ -1185,9 +1185,171 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
-        public static string GIZ_USER_CHALLENGES_COMING_SOON {
+        public static string GIZ_USER_CHALLENGES_LOADING {
             get {
-                return ResourceManager.GetString("GIZ_USER_CHALLENGES_COMING_SOON", resourceCulture);
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_LOADING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_EMPTY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_EMPTY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_COMPLETED_COUNT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_COMPLETED_COUNT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_COUNT_PILL {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_COUNT_PILL", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_ENDS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_ENDS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_POPUP_ENDS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_POPUP_ENDS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_ENDED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_ENDED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REQUIREMENTS_LINE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REQUIREMENTS_LINE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_POPUP_REQUIREMENTS_COUNT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_POPUP_REQUIREMENTS_COUNT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_NOT_COLLECTED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_NOT_COLLECTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_CHIP_COMPLETED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_CHIP_COMPLETED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_NOT_STARTED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_NOT_STARTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_UNMEASURABLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_UNMEASURABLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_BLOCKED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_BLOCKED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_PAUSED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_PAUSED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_UNREACHABLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_UNREACHABLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_INELIGIBLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_INELIGIBLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_POOL_EXHAUSTED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_POOL_EXHAUSTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_ARCHIVED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_ARCHIVED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_POPUP_ACHIEVEMENTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_POPUP_ACHIEVEMENTS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_POPUP_REWARDS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_POPUP_REWARDS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_POINTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_POINTS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_TIME", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_AWAITING_CLAIM {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_AWAITING_CLAIM", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_DELIVERED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_DELIVERED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_DECLINED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_DECLINED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_CLAIMED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_CLAIMED", resourceCulture);
             }
         }
 
