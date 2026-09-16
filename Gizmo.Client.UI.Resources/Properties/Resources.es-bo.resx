@@ -738,6 +738,12 @@
   <data name="GIZ_USER_ACHIEVEMENTS_UNIT_DAYS" xml:space="preserve">
     <value>días</value>
   </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_HOURS" xml:space="preserve">
+    <value>h</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES" xml:space="preserve">
+    <value>min</value>
+  </data>
   <data name="GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED" xml:space="preserve">
     <value>{0} / {1} {2}</value>
   </data>

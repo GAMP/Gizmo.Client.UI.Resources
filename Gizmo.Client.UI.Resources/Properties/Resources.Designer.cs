@@ -1413,6 +1413,18 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
+        public static string GIZ_USER_ACHIEVEMENTS_UNIT_HOURS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_UNIT_HOURS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED {
             get {
                 return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED", resourceCulture);
