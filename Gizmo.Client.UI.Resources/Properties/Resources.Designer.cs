@@ -1179,9 +1179,159 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
-        public static string GIZ_USER_LADDER_COMING_SOON {
+        public static string GIZ_USER_LADDER_LOADING {
             get {
-                return ResourceManager.GetString("GIZ_USER_LADDER_COMING_SOON", resourceCulture);
+                return ResourceManager.GetString("GIZ_USER_LADDER_LOADING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_EMPTY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_EMPTY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_DAY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_DAY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_WEEK {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_WEEK", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_MONTH {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_MONTH", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_QUARTER {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_QUARTER", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_YEAR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_YEAR", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_ENDS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_ENDS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_DAYS_LEFT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_DAYS_LEFT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_ENDS_TODAY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_ENDS_TODAY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_DAY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_DAY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_WEEK {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_WEEK", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_MONTH {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_MONTH", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_QUARTER {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_QUARTER", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_YEAR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_YEAR", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_GOAL_RETAIN {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_GOAL_RETAIN", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_GOAL_REACH {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_GOAL_REACH", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_BANNER_SECURED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_BANNER_SECURED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_BANNER_TOP {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_BANNER_TOP", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_BANNER_NEXT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_BANNER_NEXT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_ALL_LEVELS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_ALL_LEVELS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_CURRENT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_CURRENT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_LEVEL_POINTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_LEVEL_POINTS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_HISTORY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_HISTORY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_HISTORY_SINCE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_HISTORY_SINCE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_HISTORY_EMPTY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_HISTORY_EMPTY", resourceCulture);
             }
         }
 
