@@ -747,6 +747,30 @@
   <data name="GIZ_USER_LADDER_HISTORY_EMPTY" xml:space="preserve">
     <value>Изменений уровня пока нет</value>
   </data>
+  <data name="GIZ_USER_LADDER_STATUS_LEFT" xml:space="preserve">
+    <value>Осталось достижений до {1}: {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_AWAITING" xml:space="preserve">
+    <value>{0} достигнут · повышение в конце периода</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO" xml:space="preserve">
+    <value>Прогресс до {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_MET_COUNT" xml:space="preserve">
+    <value>{0}/{1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ACHIEVEMENTS_UNIT" xml:space="preserve">
+    <value>достижений</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
+    <value>Требования для {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
+    <value>СЛЕДУЮЩИЙ</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
+    <value>ЗАКРЫТ</value>
+  </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Загрузка испытаний…</value>
   </data>

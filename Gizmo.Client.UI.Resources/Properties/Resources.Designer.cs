@@ -1335,6 +1335,54 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
+        public static string GIZ_USER_LADDER_STATUS_LEFT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_STATUS_LEFT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_STATUS_AWAITING {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_STATUS_AWAITING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PROGRESS_TO {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PROGRESS_TO", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_MET_COUNT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_MET_COUNT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_ACHIEVEMENTS_UNIT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_ACHIEVEMENTS_UNIT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_REQUIREMENTS_FOR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_REQUIREMENTS_FOR", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_NEXT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_NEXT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_LOCKED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_LOCKED", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_CHALLENGES_LOADING {
             get {
                 return ResourceManager.GetString("GIZ_USER_CHALLENGES_LOADING", resourceCulture);

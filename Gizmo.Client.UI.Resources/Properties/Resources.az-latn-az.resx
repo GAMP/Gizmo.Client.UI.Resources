@@ -699,6 +699,30 @@
   <data name="GIZ_USER_LADDER_HISTORY_EMPTY" xml:space="preserve">
     <value>Hələ səviyyə dəyişikliyi yoxdur</value>
   </data>
+  <data name="GIZ_USER_LADDER_STATUS_LEFT" xml:space="preserve">
+    <value>{1} səviyyəsinə {0} nailiyyət qalıb</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_AWAITING" xml:space="preserve">
+    <value>{0} əldə edildi · yüksəliş dövrün sonunda</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO" xml:space="preserve">
+    <value>{0} səviyyəsinə irəliləyiş</value>
+  </data>
+  <data name="GIZ_USER_LADDER_MET_COUNT" xml:space="preserve">
+    <value>{0}/{1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ACHIEVEMENTS_UNIT" xml:space="preserve">
+    <value>nailiyyət</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
+    <value>{0} üçün tələblər</value>
+  </data>
+  <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
+    <value>NÖVBƏTİ</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
+    <value>KİLİDLİ</value>
+  </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Çağırışlar yüklənir…</value>
   </data>
