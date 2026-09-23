@@ -726,6 +726,18 @@
   <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
     <value>Napredek se posodablja</value>
   </data>
+  <data name="GIZ_USER_LADDER_KEEP_LEFT" xml:space="preserve">
+    <value>Za ohranitev {1} do {2} manjka še {0} dosežkov</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
+    <value>Ugodnosti ravni</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
+    <value>{0} · {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_QUEUE_PRIORITY" xml:space="preserve">
+    <value>Prednost v čakalni vrsti {0}</value>
+  </data>
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{0} točk do ravni {1}</value>
   </data>
@@ -797,6 +809,12 @@
   </data>
   <data name="GIZ_USER_CHALLENGES_REWARD_TIME" xml:space="preserve">
     <value>{0} časa</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT" xml:space="preserve">
+    <value>{0} ×{1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN" xml:space="preserve">
+    <value>Izdelek</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING" xml:space="preserve">
     <value>V obravnavi</value>

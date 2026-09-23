@@ -726,6 +726,18 @@
   <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
     <value>Progress is updating</value>
   </data>
+  <data name="GIZ_USER_LADDER_KEEP_LEFT" xml:space="preserve">
+    <value>{0} achievements left to keep {1} until {2}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
+    <value>Level perks</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
+    <value>{0} · {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_QUEUE_PRIORITY" xml:space="preserve">
+    <value>Waiting line priority {0}</value>
+  </data>
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{0} pts to {1}</value>
   </data>
@@ -797,6 +809,12 @@
   </data>
   <data name="GIZ_USER_CHALLENGES_REWARD_TIME" xml:space="preserve">
     <value>{0} Time</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT" xml:space="preserve">
+    <value>{0} ×{1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN" xml:space="preserve">
+    <value>Product</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING" xml:space="preserve">
     <value>Pending</value>

@@ -1389,6 +1389,30 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
+        public static string GIZ_USER_LADDER_KEEP_LEFT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_KEEP_LEFT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERKS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERKS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERK_DISCOUNT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERK_DISCOUNT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERK_QUEUE_PRIORITY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERK_QUEUE_PRIORITY", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_LADDER_HEADER_REACH {
             get {
                 return ResourceManager.GetString("GIZ_USER_LADDER_HEADER_REACH", resourceCulture);
@@ -1530,6 +1554,18 @@ namespace Gizmo.Client.UI.Resources.Properties {
         public static string GIZ_USER_CHALLENGES_REWARD_TIME {
             get {
                 return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_TIME", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_PRODUCT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_PRODUCT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN", resourceCulture);
             }
         }
 

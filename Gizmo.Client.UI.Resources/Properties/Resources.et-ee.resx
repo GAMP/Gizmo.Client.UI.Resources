@@ -726,6 +726,18 @@
   <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
     <value>Edenemine uueneb</value>
   </data>
+  <data name="GIZ_USER_LADDER_KEEP_LEFT" xml:space="preserve">
+    <value>Taseme {1} säilitamiseks kuni {2} on jäänud {0} saavutust</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
+    <value>Taseme eelised</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
+    <value>{0} · {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_QUEUE_PRIORITY" xml:space="preserve">
+    <value>Ootejärjekorra prioriteet {0}</value>
+  </data>
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{0} punkti, et jõuda tasemele {1}</value>
   </data>
@@ -797,6 +809,12 @@
   </data>
   <data name="GIZ_USER_CHALLENGES_REWARD_TIME" xml:space="preserve">
     <value>{0} aega</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT" xml:space="preserve">
+    <value>{0} ×{1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN" xml:space="preserve">
+    <value>Toode</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING" xml:space="preserve">
     <value>Ootel</value>

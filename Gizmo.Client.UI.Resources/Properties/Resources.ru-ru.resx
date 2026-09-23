@@ -774,6 +774,18 @@
   <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
     <value>Прогресс обновляется</value>
   </data>
+  <data name="GIZ_USER_LADDER_KEEP_LEFT" xml:space="preserve">
+    <value>Осталось достижений для сохранения {1} до {2}: {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
+    <value>Привилегии уровня</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
+    <value>{0} · {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_QUEUE_PRIORITY" xml:space="preserve">
+    <value>Приоритет в очереди {0}</value>
+  </data>
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{0} очк. до {1}</value>
   </data>
@@ -845,6 +857,12 @@
   </data>
   <data name="GIZ_USER_CHALLENGES_REWARD_TIME" xml:space="preserve">
     <value>{0} времени</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT" xml:space="preserve">
+    <value>{0} ×{1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN" xml:space="preserve">
+    <value>Товар</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING" xml:space="preserve">
     <value>Ожидает</value>
