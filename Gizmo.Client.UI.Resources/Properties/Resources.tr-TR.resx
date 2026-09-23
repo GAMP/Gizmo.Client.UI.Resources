@@ -685,7 +685,7 @@
     <value>Tüm seviyeler</value>
   </data>
   <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
-    <value>MEVCUT</value>
+    <value>Mevcut</value>
   </data>
   <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
     <value>{0} puan</value>
@@ -718,10 +718,31 @@
     <value>{0} için gereksinimler</value>
   </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
-    <value>SONRAKİ</value>
+    <value>Sonraki</value>
   </data>
   <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
-    <value>KİLİTLİ</value>
+    <value>Kilitli</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>İlerleme güncelleniyor</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_NEXT" xml:space="preserve">
+    <value>Güvence altında · {1} için {0} puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_TOP" xml:space="preserve">
+    <value>Güvence altında · En yüksek seviyeye ulaşıldı</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_RETAIN" xml:space="preserve">
+    <value>{1} seviyesini korumak için {0} puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{1} seviyesine ulaşmak için {0} puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_MET" xml:space="preserve">
+    <value>Sıradaki: {0} · {1}/{2}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_POINTS" xml:space="preserve">
+    <value>Sıradaki: {0} · {1}/{2} puan</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Meydan okumalar yükleniyor…</value>

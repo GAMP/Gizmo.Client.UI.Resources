@@ -733,7 +733,7 @@
     <value>Все уровни</value>
   </data>
   <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
-    <value>ТЕКУЩИЙ</value>
+    <value>Текущий</value>
   </data>
   <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
     <value>{0} очков</value>
@@ -766,10 +766,31 @@
     <value>Требования для {0}</value>
   </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
-    <value>СЛЕДУЮЩИЙ</value>
+    <value>Следующий</value>
   </data>
   <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
-    <value>ЗАКРЫТ</value>
+    <value>Закрыт</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>Прогресс обновляется</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_NEXT" xml:space="preserve">
+    <value>Закреплён · {0} очк. до {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_TOP" xml:space="preserve">
+    <value>Закреплён · Достигнут высший уровень</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_RETAIN" xml:space="preserve">
+    <value>{0} очк. до сохранения {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{0} очк. до {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_MET" xml:space="preserve">
+    <value>Далее: {0} · {1}/{2}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_POINTS" xml:space="preserve">
+    <value>Далее: {0} · {1}/{2} очк.</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Загрузка испытаний…</value>

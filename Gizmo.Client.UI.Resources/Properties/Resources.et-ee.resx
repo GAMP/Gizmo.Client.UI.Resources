@@ -685,7 +685,7 @@
     <value>Kõik tasemed</value>
   </data>
   <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
-    <value>PRAEGUNE</value>
+    <value>Praegune</value>
   </data>
   <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
     <value>{0} punkti</value>
@@ -718,10 +718,31 @@
     <value>{0} nõuded</value>
   </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
-    <value>JÄRGMINE</value>
+    <value>Järgmine</value>
   </data>
   <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
-    <value>LUKUS</value>
+    <value>Lukus</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>Edenemine uueneb</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_NEXT" xml:space="preserve">
+    <value>Kindlustatud · {0} punkti tasemeni {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_TOP" xml:space="preserve">
+    <value>Kindlustatud · Kõrgeim tase saavutatud</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_RETAIN" xml:space="preserve">
+    <value>{0} punkti, et säilitada tase {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{0} punkti, et jõuda tasemele {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_MET" xml:space="preserve">
+    <value>Järgmine: {0} · {1}/{2}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_POINTS" xml:space="preserve">
+    <value>Järgmine: {0} · {1}/{2} punkti</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Väljakutsete laadimine…</value>

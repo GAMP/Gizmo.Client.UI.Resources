@@ -685,7 +685,7 @@
     <value>Όλα τα επίπεδα</value>
   </data>
   <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
-    <value>ΤΡΕΧΟΝ</value>
+    <value>Τρέχον</value>
   </data>
   <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
     <value>{0} πόντοι</value>
@@ -718,10 +718,31 @@
     <value>Απαιτήσεις για {0}</value>
   </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
-    <value>ΕΠΟΜΕΝΟ</value>
+    <value>Επόμενο</value>
   </data>
   <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
-    <value>ΚΛΕΙΔΩΜΕΝΟ</value>
+    <value>Κλειδωμένο</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>Η πρόοδος ενημερώνεται</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_NEXT" xml:space="preserve">
+    <value>Κατοχυρωμένο · {0} πόντοι μέχρι το {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_TOP" xml:space="preserve">
+    <value>Κατοχυρωμένο · Επιτεύχθηκε το υψηλότερο επίπεδο</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_RETAIN" xml:space="preserve">
+    <value>{0} πόντοι για διατήρηση του {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{0} πόντοι για να φτάσετε στο {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_MET" xml:space="preserve">
+    <value>Επόμενο: {0} · {1}/{2}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_POINTS" xml:space="preserve">
+    <value>Επόμενο: {0} · {1}/{2} πόντοι</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Φόρτωση προκλήσεων…</value>

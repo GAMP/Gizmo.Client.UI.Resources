@@ -685,7 +685,7 @@
     <value>All levels</value>
   </data>
   <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
-    <value>CURRENT</value>
+    <value>Current</value>
   </data>
   <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
     <value>{0} pts</value>
@@ -718,10 +718,31 @@
     <value>Requirements for {0}</value>
   </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
-    <value>NEXT</value>
+    <value>Next</value>
   </data>
   <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
-    <value>LOCKED</value>
+    <value>Locked</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>Progress is updating</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_NEXT" xml:space="preserve">
+    <value>Secured · {0} pts to {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_SECURED_TOP" xml:space="preserve">
+    <value>Secured · Highest level reached</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_RETAIN" xml:space="preserve">
+    <value>{0} pts to retain {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{0} pts to {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_MET" xml:space="preserve">
+    <value>Next: {0} · {1}/{2}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_POINTS" xml:space="preserve">
+    <value>Next: {0} · {1}/{2} pts</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Loading challenges…</value>
