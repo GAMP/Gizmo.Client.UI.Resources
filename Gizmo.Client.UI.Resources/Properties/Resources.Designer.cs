@@ -1389,39 +1389,9 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
-        public static string GIZ_USER_LADDER_HEADER_SECURED_NEXT {
-            get {
-                return ResourceManager.GetString("GIZ_USER_LADDER_HEADER_SECURED_NEXT", resourceCulture);
-            }
-        }
-
-        public static string GIZ_USER_LADDER_HEADER_SECURED_TOP {
-            get {
-                return ResourceManager.GetString("GIZ_USER_LADDER_HEADER_SECURED_TOP", resourceCulture);
-            }
-        }
-
-        public static string GIZ_USER_LADDER_HEADER_RETAIN {
-            get {
-                return ResourceManager.GetString("GIZ_USER_LADDER_HEADER_RETAIN", resourceCulture);
-            }
-        }
-
         public static string GIZ_USER_LADDER_HEADER_REACH {
             get {
                 return ResourceManager.GetString("GIZ_USER_LADDER_HEADER_REACH", resourceCulture);
-            }
-        }
-
-        public static string GIZ_USER_LADDER_TOPBAR_NEXT_MET {
-            get {
-                return ResourceManager.GetString("GIZ_USER_LADDER_TOPBAR_NEXT_MET", resourceCulture);
-            }
-        }
-
-        public static string GIZ_USER_LADDER_TOPBAR_NEXT_POINTS {
-            get {
-                return ResourceManager.GetString("GIZ_USER_LADDER_TOPBAR_NEXT_POINTS", resourceCulture);
             }
         }
 

@@ -726,23 +726,8 @@
   <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
     <value>İrəliləyiş yenilənir</value>
   </data>
-  <data name="GIZ_USER_LADDER_HEADER_SECURED_NEXT" xml:space="preserve">
-    <value>Qorunub · {1} səviyyəsinə {0} xal qalıb</value>
-  </data>
-  <data name="GIZ_USER_LADDER_HEADER_SECURED_TOP" xml:space="preserve">
-    <value>Qorunub · Ən yüksək səviyyəyə çatdınız</value>
-  </data>
-  <data name="GIZ_USER_LADDER_HEADER_RETAIN" xml:space="preserve">
-    <value>{1} səviyyəsini saxlamaq üçün {0} xal</value>
-  </data>
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{1} səviyyəsinə çatmaq üçün {0} xal</value>
-  </data>
-  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_MET" xml:space="preserve">
-    <value>Növbəti: {0} · {1}/{2}</value>
-  </data>
-  <data name="GIZ_USER_LADDER_TOPBAR_NEXT_POINTS" xml:space="preserve">
-    <value>Növbəti: {0} · {1}/{2} xal</value>
   </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Çağırışlar yüklənir…</value>
