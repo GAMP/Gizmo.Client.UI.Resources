@@ -1395,6 +1395,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
+        public static string GIZ_USER_LADDER_FROZEN {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_FROZEN", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PROJECTED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PROJECTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_BREAKDOWN {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_BREAKDOWN", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_LADDER_PERKS {
             get {
                 return ResourceManager.GetString("GIZ_USER_LADDER_PERKS", resourceCulture);

@@ -732,6 +732,15 @@
   <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
     <value>Beneficios del nivel</value>
   </data>
+  <data name="GIZ_USER_LADDER_FROZEN" xml:space="preserve">
+    <value>El nivel está fijado</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROJECTED" xml:space="preserve">
+    <value>Previsión</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BREAKDOWN" xml:space="preserve">
+    <value>Puntos por logro</value>
+  </data>
   <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
     <value>{0} · {1}</value>
   </data>

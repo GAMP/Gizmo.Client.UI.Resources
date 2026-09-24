@@ -732,6 +732,15 @@
   <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
     <value>Niveaufordele</value>
   </data>
+  <data name="GIZ_USER_LADDER_FROZEN" xml:space="preserve">
+    <value>Niveauet er fastlåst</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROJECTED" xml:space="preserve">
+    <value>Prognose</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BREAKDOWN" xml:space="preserve">
+    <value>Point pr. præstation</value>
+  </data>
   <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
     <value>{0} · {1}</value>
   </data>
