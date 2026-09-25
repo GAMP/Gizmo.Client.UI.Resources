@@ -612,6 +612,294 @@
   <data name="GIZ_USER_PURCHASES" xml:space="preserve">
     <value>Αγορές</value>
   </data>
+  <data name="GIZ_USER_LADDER" xml:space="preserve">
+    <value>Κλίμακα</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS" xml:space="preserve">
+    <value>Επιτεύγματα</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES" xml:space="preserve">
+    <value>Προκλήσεις</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOADING" xml:space="preserve">
+    <value>Φόρτωση κλίμακας…</value>
+  </data>
+  <data name="GIZ_USER_LADDER_EMPTY" xml:space="preserve">
+    <value>Η κλίμακα δεν είναι διαθέσιμη για τον λογαριασμό σας</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_DAY" xml:space="preserve">
+    <value>Σήμερα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_WEEK" xml:space="preserve">
+    <value>Αυτή την εβδομάδα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_MONTH" xml:space="preserve">
+    <value>Αυτόν τον μήνα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_QUARTER" xml:space="preserve">
+    <value>Αυτό το τρίμηνο</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_YEAR" xml:space="preserve">
+    <value>Φέτος</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_ENDS" xml:space="preserve">
+    <value>λήγει</value>
+  </data>
+  <data name="GIZ_USER_LADDER_DAYS_LEFT" xml:space="preserve">
+    <value>απομένουν {0} ημ.</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ENDS_TODAY" xml:space="preserve">
+    <value>λήγει σήμερα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_DAY" xml:space="preserve">
+    <value>πόντοι σήμερα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_WEEK" xml:space="preserve">
+    <value>πόντοι αυτή την εβδομάδα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_MONTH" xml:space="preserve">
+    <value>πόντοι αυτόν τον μήνα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_QUARTER" xml:space="preserve">
+    <value>πόντοι αυτό το τρίμηνο</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_YEAR" xml:space="preserve">
+    <value>πόντοι φέτος</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_RETAIN" xml:space="preserve">
+    <value>{0} για διατήρηση</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_REACH" xml:space="preserve">
+    <value>{0} για να φτάσετε στο {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_SECURED" xml:space="preserve">
+    <value>{0} κατοχυρώθηκε.</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_TOP" xml:space="preserve">
+    <value>Επιτεύχθηκε το υψηλότερο επίπεδο</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_NEXT" xml:space="preserve">
+    <value>{0} πόντοι μέχρι το {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ALL_LEVELS" xml:space="preserve">
+    <value>Όλα τα επίπεδα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
+    <value>Τρέχον</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
+    <value>{0} πόντοι</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY" xml:space="preserve">
+    <value>Ιστορικό επιπέδων</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_SINCE" xml:space="preserve">
+    <value>{0} · από {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_EMPTY" xml:space="preserve">
+    <value>Δεν υπάρχουν ακόμη αλλαγές επιπέδου</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_LEFT" xml:space="preserve">
+    <value>Απομένουν {0} επιτεύγματα για {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_AWAITING" xml:space="preserve">
+    <value>{0} επιτεύχθηκε · προαγωγή στο τέλος της περιόδου</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO" xml:space="preserve">
+    <value>Πρόοδος προς {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_MET_COUNT" xml:space="preserve">
+    <value>{0}/{1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ACHIEVEMENTS_UNIT" xml:space="preserve">
+    <value>επιτεύγματα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
+    <value>Απαιτήσεις για {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
+    <value>Επόμενο</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
+    <value>Κλειδωμένο</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>Η πρόοδος ενημερώνεται</value>
+  </data>
+  <data name="GIZ_USER_LADDER_KEEP_LEFT" xml:space="preserve">
+    <value>Απομένουν {0} επιτεύγματα για να διατηρήσετε το {1} έως {2}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
+    <value>Προνόμια επιπέδου</value>
+  </data>
+  <data name="GIZ_USER_LADDER_FROZEN" xml:space="preserve">
+    <value>Το επίπεδο είναι σταθερό</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROJECTED" xml:space="preserve">
+    <value>Πρόβλεψη</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BREAKDOWN" xml:space="preserve">
+    <value>Πόντοι ανά επίτευγμα</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
+    <value>{0} · {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_QUEUE_PRIORITY" xml:space="preserve">
+    <value>Προτεραιότητα στην ουρά αναμονής {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{0} πόντοι για να φτάσετε στο {1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
+    <value>Φόρτωση προκλήσεων…</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_EMPTY" xml:space="preserve">
+    <value>Δεν υπάρχουν ακόμη προκλήσεις</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COMPLETED_COUNT" xml:space="preserve">
+    <value>{0} ολοκληρώθηκαν</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDS" xml:space="preserve">
+    <value>Λήγει {0} · απομένουν {1} ημ.</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ENDS" xml:space="preserve">
+    <value>Λήγει {0} · απομένουν {1} ημέρες</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDED" xml:space="preserve">
+    <value>Έληξε {0}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REQUIREMENTS_LINE" xml:space="preserve">
+    <value>{0} / {1} επιτεύγματα</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REQUIREMENTS_COUNT" xml:space="preserve">
+    <value>{0} / {1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_NOT_COLLECTED" xml:space="preserve">
+    <value>Δεν έχει συλλεγεί</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_CHIP_COMPLETED" xml:space="preserve">
+    <value>Ολοκληρώθηκε</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_NOT_STARTED" xml:space="preserve">
+    <value>Δεν έχει ξεκινήσει</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNMEASURABLE" xml:space="preserve">
+    <value>Μη διαθέσιμο</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_BLOCKED" xml:space="preserve">
+    <value>Αποκλεισμένο</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_PAUSED" xml:space="preserve">
+    <value>Σε παύση</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNREACHABLE" xml:space="preserve">
+    <value>Απρόσιτο</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_INELIGIBLE" xml:space="preserve">
+    <value>Μη διαθέσιμο για εσάς</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_POOL_EXHAUSTED" xml:space="preserve">
+    <value>Τα δώρα εξαντλήθηκαν</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_ARCHIVED" xml:space="preserve">
+    <value>Σε αρχείο</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ACHIEVEMENTS" xml:space="preserve">
+    <value>Επιτεύγματα</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REWARDS" xml:space="preserve">
+    <value>Ανταμοιβές</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_POINTS" xml:space="preserve">
+    <value>{0} πόντοι</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_TIME" xml:space="preserve">
+    <value>{0} χρόνος</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT" xml:space="preserve">
+    <value>{0} ×{1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN" xml:space="preserve">
+    <value>Προϊόν</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING" xml:space="preserve">
+    <value>Εκκρεμεί</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_AWAITING_CLAIM" xml:space="preserve">
+    <value>Αναμονή παραλαβής</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DELIVERED" xml:space="preserve">
+    <value>Παραδόθηκε</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DECLINED" xml:space="preserve">
+    <value>Απορρίφθηκε</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_CLAIMED" xml:space="preserve">
+    <value>Παραλήφθηκε</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_LOADING" xml:space="preserve">
+    <value>Φόρτωση επιτευγμάτων…</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EMPTY" xml:space="preserve">
+    <value>Δεν υπάρχουν ακόμη επιτεύγματα</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_DAY" xml:space="preserve">
+    <value>σήμερα</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_WEEK" xml:space="preserve">
+    <value>αυτήν την εβδομάδα</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_MONTH" xml:space="preserve">
+    <value>αυτόν τον μήνα</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_QUARTER" xml:space="preserve">
+    <value>αυτό το τρίμηνο</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_YEAR" xml:space="preserve">
+    <value>φέτος</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_POINTS" xml:space="preserve">
+    <value>πόντοι</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_DAYS" xml:space="preserve">
+    <value>ημέρες</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_HOURS" xml:space="preserve">
+    <value>ω</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES" xml:space="preserve">
+    <value>λεπ.</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED" xml:space="preserve">
+    <value>{0} / {1} {2}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_PROGRESS_LINE" xml:space="preserve">
+    <value>{0} {1}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_NOT_COLLECTED" xml:space="preserve">
+    <value>Δεν έχει συλλεγεί</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_COMPLETED" xml:space="preserve">
+    <value>Ολοκληρώθηκε</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_UNAVAILABLE" xml:space="preserve">
+    <value>Μη διαθέσιμο</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_POPUP_PROGRESS" xml:space="preserve">
+    <value>Πρόοδος</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RESETS" xml:space="preserve">
+    <value>Επαναφορά {0}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EARNED_FOR_LIFE" xml:space="preserve">
+    <value>Κερδήθηκε για πάντα — δεν επαναλαμβάνεται</value>
+  </data>
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
     <value>Κινήσεις</value>
   </data>

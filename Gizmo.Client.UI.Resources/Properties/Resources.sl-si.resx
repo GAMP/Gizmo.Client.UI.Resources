@@ -612,6 +612,294 @@
   <data name="GIZ_USER_PURCHASES" xml:space="preserve">
     <value>Nakupi</value>
   </data>
+  <data name="GIZ_USER_LADDER" xml:space="preserve">
+    <value>Lestvica</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS" xml:space="preserve">
+    <value>Dosežki</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES" xml:space="preserve">
+    <value>Izzivi</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOADING" xml:space="preserve">
+    <value>Nalaganje lestvice…</value>
+  </data>
+  <data name="GIZ_USER_LADDER_EMPTY" xml:space="preserve">
+    <value>Lestvica ni na voljo za vaš račun</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_DAY" xml:space="preserve">
+    <value>Danes</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_WEEK" xml:space="preserve">
+    <value>Ta teden</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_MONTH" xml:space="preserve">
+    <value>Ta mesec</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_QUARTER" xml:space="preserve">
+    <value>To četrtletje</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_YEAR" xml:space="preserve">
+    <value>Letos</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_ENDS" xml:space="preserve">
+    <value>konča se</value>
+  </data>
+  <data name="GIZ_USER_LADDER_DAYS_LEFT" xml:space="preserve">
+    <value>še {0} d</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ENDS_TODAY" xml:space="preserve">
+    <value>konča se danes</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_DAY" xml:space="preserve">
+    <value>točk danes</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_WEEK" xml:space="preserve">
+    <value>točk ta teden</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_MONTH" xml:space="preserve">
+    <value>točk ta mesec</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_QUARTER" xml:space="preserve">
+    <value>točk to četrtletje</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_YEAR" xml:space="preserve">
+    <value>točk letos</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_RETAIN" xml:space="preserve">
+    <value>{0} za ohranitev</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_REACH" xml:space="preserve">
+    <value>{0} do ravni {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_SECURED" xml:space="preserve">
+    <value>Raven {0} je zagotovljena.</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_TOP" xml:space="preserve">
+    <value>Dosežena najvišja raven</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_NEXT" xml:space="preserve">
+    <value>{0} točk do {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ALL_LEVELS" xml:space="preserve">
+    <value>Vse ravni</value>
+  </data>
+  <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
+    <value>Trenutna</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
+    <value>{0} točk</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY" xml:space="preserve">
+    <value>Zgodovina ravni</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_SINCE" xml:space="preserve">
+    <value>{0} · od {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_EMPTY" xml:space="preserve">
+    <value>Ni še sprememb ravni</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_LEFT" xml:space="preserve">
+    <value>Do {1} manjka še {0} dosežkov</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_AWAITING" xml:space="preserve">
+    <value>{0} dosežen · napredovanje ob koncu obdobja</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO" xml:space="preserve">
+    <value>Napredek do {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_MET_COUNT" xml:space="preserve">
+    <value>{0}/{1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ACHIEVEMENTS_UNIT" xml:space="preserve">
+    <value>dosežkov</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
+    <value>Zahteve za {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
+    <value>Naslednji</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
+    <value>Zaklenjeno</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>Napredek se posodablja</value>
+  </data>
+  <data name="GIZ_USER_LADDER_KEEP_LEFT" xml:space="preserve">
+    <value>Za ohranitev {1} do {2} manjka še {0} dosežkov</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
+    <value>Ugodnosti ravni</value>
+  </data>
+  <data name="GIZ_USER_LADDER_FROZEN" xml:space="preserve">
+    <value>Raven je zaklenjena</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROJECTED" xml:space="preserve">
+    <value>Napoved</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BREAKDOWN" xml:space="preserve">
+    <value>Točke po dosežkih</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
+    <value>{0} · {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_QUEUE_PRIORITY" xml:space="preserve">
+    <value>Prednost v čakalni vrsti {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{0} točk do ravni {1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
+    <value>Nalaganje izzivov…</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_EMPTY" xml:space="preserve">
+    <value>Še ni izzivov</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COMPLETED_COUNT" xml:space="preserve">
+    <value>{0} zaključenih</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDS" xml:space="preserve">
+    <value>Konec {0} · še {1} dni</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ENDS" xml:space="preserve">
+    <value>Konec {0} · še {1} dni</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDED" xml:space="preserve">
+    <value>Končalo se je {0}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REQUIREMENTS_LINE" xml:space="preserve">
+    <value>{0} / {1} dosežkov</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REQUIREMENTS_COUNT" xml:space="preserve">
+    <value>{0} / {1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_NOT_COLLECTED" xml:space="preserve">
+    <value>Ni zbrano</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_CHIP_COMPLETED" xml:space="preserve">
+    <value>Zaključeno</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_NOT_STARTED" xml:space="preserve">
+    <value>Se še ni začelo</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNMEASURABLE" xml:space="preserve">
+    <value>Ni na voljo</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_BLOCKED" xml:space="preserve">
+    <value>Blokirano</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_PAUSED" xml:space="preserve">
+    <value>V premoru</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNREACHABLE" xml:space="preserve">
+    <value>Nedosegljivo</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_INELIGIBLE" xml:space="preserve">
+    <value>Za vas ni na voljo</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_POOL_EXHAUSTED" xml:space="preserve">
+    <value>Nagrade so pošle</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_ARCHIVED" xml:space="preserve">
+    <value>Arhivirano</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ACHIEVEMENTS" xml:space="preserve">
+    <value>Dosežki</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REWARDS" xml:space="preserve">
+    <value>Nagrade</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_POINTS" xml:space="preserve">
+    <value>{0} točk</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_TIME" xml:space="preserve">
+    <value>{0} časa</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT" xml:space="preserve">
+    <value>{0} ×{1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN" xml:space="preserve">
+    <value>Izdelek</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING" xml:space="preserve">
+    <value>V obravnavi</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_AWAITING_CLAIM" xml:space="preserve">
+    <value>Čaka na prevzem</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DELIVERED" xml:space="preserve">
+    <value>Dostavljeno</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DECLINED" xml:space="preserve">
+    <value>Zavrnjeno</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_CLAIMED" xml:space="preserve">
+    <value>Prevzeto</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_LOADING" xml:space="preserve">
+    <value>Nalaganje dosežkov…</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EMPTY" xml:space="preserve">
+    <value>Še ni dosežkov</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_DAY" xml:space="preserve">
+    <value>danes</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_WEEK" xml:space="preserve">
+    <value>ta teden</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_MONTH" xml:space="preserve">
+    <value>ta mesec</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_QUARTER" xml:space="preserve">
+    <value>to četrtletje</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_YEAR" xml:space="preserve">
+    <value>letos</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_POINTS" xml:space="preserve">
+    <value>tč.</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_DAYS" xml:space="preserve">
+    <value>dni</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_HOURS" xml:space="preserve">
+    <value>h</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES" xml:space="preserve">
+    <value>min</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED" xml:space="preserve">
+    <value>{0} / {1} {2}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_PROGRESS_LINE" xml:space="preserve">
+    <value>{0} {1}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_NOT_COLLECTED" xml:space="preserve">
+    <value>Ni zbrano</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_COMPLETED" xml:space="preserve">
+    <value>Zaključeno</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_UNAVAILABLE" xml:space="preserve">
+    <value>Ni na voljo</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_POPUP_PROGRESS" xml:space="preserve">
+    <value>Napredek</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RESETS" xml:space="preserve">
+    <value>Ponastavi se {0}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EARNED_FOR_LIFE" xml:space="preserve">
+    <value>Pridobljeno za vedno — ni mogoče ponoviti</value>
+  </data>
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
     <value>Transakcije</value>
   </data>

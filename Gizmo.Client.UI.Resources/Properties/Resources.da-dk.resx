@@ -612,6 +612,294 @@
   <data name="GIZ_USER_PURCHASES" xml:space="preserve">
     <value>Indkøb</value>
   </data>
+  <data name="GIZ_USER_LADDER" xml:space="preserve">
+    <value>Rangstige</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS" xml:space="preserve">
+    <value>Præstationer</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES" xml:space="preserve">
+    <value>Udfordringer</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOADING" xml:space="preserve">
+    <value>Indlæser rangstige…</value>
+  </data>
+  <data name="GIZ_USER_LADDER_EMPTY" xml:space="preserve">
+    <value>Rangstigen er ikke tilgængelig for din konto</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_DAY" xml:space="preserve">
+    <value>I dag</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_WEEK" xml:space="preserve">
+    <value>Denne uge</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_MONTH" xml:space="preserve">
+    <value>Denne måned</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_QUARTER" xml:space="preserve">
+    <value>Dette kvartal</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_YEAR" xml:space="preserve">
+    <value>I år</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_ENDS" xml:space="preserve">
+    <value>slutter</value>
+  </data>
+  <data name="GIZ_USER_LADDER_DAYS_LEFT" xml:space="preserve">
+    <value>{0} dage tilbage</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ENDS_TODAY" xml:space="preserve">
+    <value>slutter i dag</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_DAY" xml:space="preserve">
+    <value>point i dag</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_WEEK" xml:space="preserve">
+    <value>point i denne uge</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_MONTH" xml:space="preserve">
+    <value>point i denne måned</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_QUARTER" xml:space="preserve">
+    <value>point i dette kvartal</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_YEAR" xml:space="preserve">
+    <value>point i år</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_RETAIN" xml:space="preserve">
+    <value>{0} for at beholde</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_REACH" xml:space="preserve">
+    <value>{0} for at nå {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_SECURED" xml:space="preserve">
+    <value>{0} sikret.</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_TOP" xml:space="preserve">
+    <value>Højeste niveau nået</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_NEXT" xml:space="preserve">
+    <value>{0} point til {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ALL_LEVELS" xml:space="preserve">
+    <value>Alle niveauer</value>
+  </data>
+  <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
+    <value>Nuværende</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
+    <value>{0} point</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY" xml:space="preserve">
+    <value>Niveauhistorik</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_SINCE" xml:space="preserve">
+    <value>{0} · siden {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_EMPTY" xml:space="preserve">
+    <value>Ingen niveauændringer endnu</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_LEFT" xml:space="preserve">
+    <value>{0} præstationer tilbage til {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_AWAITING" xml:space="preserve">
+    <value>{0} nået · forfremmelse ved periodens slutning</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO" xml:space="preserve">
+    <value>Fremgang mod {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_MET_COUNT" xml:space="preserve">
+    <value>{0}/{1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ACHIEVEMENTS_UNIT" xml:space="preserve">
+    <value>præstationer</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
+    <value>Krav til {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
+    <value>Næste</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
+    <value>Låst</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>Fremskridt opdateres</value>
+  </data>
+  <data name="GIZ_USER_LADDER_KEEP_LEFT" xml:space="preserve">
+    <value>{0} præstationer tilbage for at beholde {1} indtil {2}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
+    <value>Niveaufordele</value>
+  </data>
+  <data name="GIZ_USER_LADDER_FROZEN" xml:space="preserve">
+    <value>Niveauet er fastlåst</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROJECTED" xml:space="preserve">
+    <value>Prognose</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BREAKDOWN" xml:space="preserve">
+    <value>Point pr. præstation</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
+    <value>{0} · {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_QUEUE_PRIORITY" xml:space="preserve">
+    <value>Prioritet i ventekø {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{0} point for at nå {1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
+    <value>Indlæser udfordringer…</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_EMPTY" xml:space="preserve">
+    <value>Ingen udfordringer endnu</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COMPLETED_COUNT" xml:space="preserve">
+    <value>{0} fuldført</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDS" xml:space="preserve">
+    <value>Slutter {0} · {1} dage tilbage</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ENDS" xml:space="preserve">
+    <value>Slutter {0} · {1} dage tilbage</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDED" xml:space="preserve">
+    <value>Sluttede {0}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REQUIREMENTS_LINE" xml:space="preserve">
+    <value>{0} / {1} bedrifter</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REQUIREMENTS_COUNT" xml:space="preserve">
+    <value>{0} / {1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_NOT_COLLECTED" xml:space="preserve">
+    <value>Ikke indsamlet</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_CHIP_COMPLETED" xml:space="preserve">
+    <value>Fuldført</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_NOT_STARTED" xml:space="preserve">
+    <value>Ikke startet</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNMEASURABLE" xml:space="preserve">
+    <value>Ikke tilgængelig</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_BLOCKED" xml:space="preserve">
+    <value>Blokeret</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_PAUSED" xml:space="preserve">
+    <value>Sat på pause</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNREACHABLE" xml:space="preserve">
+    <value>Uopnåelig</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_INELIGIBLE" xml:space="preserve">
+    <value>Ikke tilgængelig for dig</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_POOL_EXHAUSTED" xml:space="preserve">
+    <value>Præmier opbrugt</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_ARCHIVED" xml:space="preserve">
+    <value>Arkiveret</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ACHIEVEMENTS" xml:space="preserve">
+    <value>Bedrifter</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REWARDS" xml:space="preserve">
+    <value>Belønninger</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_POINTS" xml:space="preserve">
+    <value>{0} point</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_TIME" xml:space="preserve">
+    <value>{0} tid</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT" xml:space="preserve">
+    <value>{0} ×{1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN" xml:space="preserve">
+    <value>Produkt</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING" xml:space="preserve">
+    <value>Afventer</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_AWAITING_CLAIM" xml:space="preserve">
+    <value>Afventer afhentning</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DELIVERED" xml:space="preserve">
+    <value>Leveret</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DECLINED" xml:space="preserve">
+    <value>Afvist</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_CLAIMED" xml:space="preserve">
+    <value>Modtaget</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_LOADING" xml:space="preserve">
+    <value>Indlæser præstationer…</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EMPTY" xml:space="preserve">
+    <value>Ingen præstationer endnu</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_DAY" xml:space="preserve">
+    <value>i dag</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_WEEK" xml:space="preserve">
+    <value>denne uge</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_MONTH" xml:space="preserve">
+    <value>denne måned</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_QUARTER" xml:space="preserve">
+    <value>dette kvartal</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_YEAR" xml:space="preserve">
+    <value>i år</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_POINTS" xml:space="preserve">
+    <value>point</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_DAYS" xml:space="preserve">
+    <value>dage</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_HOURS" xml:space="preserve">
+    <value>t</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES" xml:space="preserve">
+    <value>min</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED" xml:space="preserve">
+    <value>{0} / {1} {2}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_PROGRESS_LINE" xml:space="preserve">
+    <value>{0} {1}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_NOT_COLLECTED" xml:space="preserve">
+    <value>Ikke indsamlet</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_COMPLETED" xml:space="preserve">
+    <value>Fuldført</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_UNAVAILABLE" xml:space="preserve">
+    <value>Ikke tilgængelig</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_POPUP_PROGRESS" xml:space="preserve">
+    <value>Fremskridt</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RESETS" xml:space="preserve">
+    <value>Nulstilles {0}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EARNED_FOR_LIFE" xml:space="preserve">
+    <value>Optjent for livet — kan ikke gentages</value>
+  </data>
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
     <value>Transaktioner</value>
   </data>

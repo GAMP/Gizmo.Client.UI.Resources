@@ -612,6 +612,294 @@
   <data name="GIZ_USER_PURCHASES" xml:space="preserve">
     <value>Compras</value>
   </data>
+  <data name="GIZ_USER_LADDER" xml:space="preserve">
+    <value>Ranking</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS" xml:space="preserve">
+    <value>Conquistas</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES" xml:space="preserve">
+    <value>Desafios</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOADING" xml:space="preserve">
+    <value>Carregando ranking…</value>
+  </data>
+  <data name="GIZ_USER_LADDER_EMPTY" xml:space="preserve">
+    <value>O ranking não está disponível para sua conta</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_DAY" xml:space="preserve">
+    <value>Hoje</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_WEEK" xml:space="preserve">
+    <value>Esta semana</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_MONTH" xml:space="preserve">
+    <value>Este mês</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_QUARTER" xml:space="preserve">
+    <value>Este trimestre</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_YEAR" xml:space="preserve">
+    <value>Este ano</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_ENDS" xml:space="preserve">
+    <value>termina</value>
+  </data>
+  <data name="GIZ_USER_LADDER_DAYS_LEFT" xml:space="preserve">
+    <value>faltam {0}d</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ENDS_TODAY" xml:space="preserve">
+    <value>termina hoje</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_DAY" xml:space="preserve">
+    <value>pts hoje</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_WEEK" xml:space="preserve">
+    <value>pts nesta semana</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_MONTH" xml:space="preserve">
+    <value>pts neste mês</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_QUARTER" xml:space="preserve">
+    <value>pts neste trimestre</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_YEAR" xml:space="preserve">
+    <value>pts neste ano</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_RETAIN" xml:space="preserve">
+    <value>{0} para manter</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_REACH" xml:space="preserve">
+    <value>{0} para alcançar {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_SECURED" xml:space="preserve">
+    <value>{0} garantido.</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_TOP" xml:space="preserve">
+    <value>Nível mais alto alcançado</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_NEXT" xml:space="preserve">
+    <value>{0} pts para {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ALL_LEVELS" xml:space="preserve">
+    <value>Todos os níveis</value>
+  </data>
+  <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
+    <value>Atual</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
+    <value>{0} pts</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY" xml:space="preserve">
+    <value>Histórico de níveis</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_SINCE" xml:space="preserve">
+    <value>{0} · desde {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_EMPTY" xml:space="preserve">
+    <value>Ainda não há mudanças de nível</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_LEFT" xml:space="preserve">
+    <value>Faltam {0} conquistas para {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_AWAITING" xml:space="preserve">
+    <value>{0} alcançado · promoção no fim do período</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO" xml:space="preserve">
+    <value>Progresso até {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_MET_COUNT" xml:space="preserve">
+    <value>{0}/{1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ACHIEVEMENTS_UNIT" xml:space="preserve">
+    <value>conquistas</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
+    <value>Requisitos para {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
+    <value>Próximo</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
+    <value>Bloqueado</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>O progresso está sendo atualizado</value>
+  </data>
+  <data name="GIZ_USER_LADDER_KEEP_LEFT" xml:space="preserve">
+    <value>Faltam {0} conquistas para manter {1} até {2}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
+    <value>Benefícios do nível</value>
+  </data>
+  <data name="GIZ_USER_LADDER_FROZEN" xml:space="preserve">
+    <value>O nível está fixado</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROJECTED" xml:space="preserve">
+    <value>Previsão</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BREAKDOWN" xml:space="preserve">
+    <value>Pontos por conquista</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
+    <value>{0} · {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_QUEUE_PRIORITY" xml:space="preserve">
+    <value>Prioridade na fila de espera {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{0} pts para alcançar {1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
+    <value>Carregando desafios…</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_EMPTY" xml:space="preserve">
+    <value>Ainda não há desafios</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COMPLETED_COUNT" xml:space="preserve">
+    <value>{0} concluídos</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDS" xml:space="preserve">
+    <value>Termina em {0} · faltam {1} d</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ENDS" xml:space="preserve">
+    <value>Termina em {0} · faltam {1} dias</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDED" xml:space="preserve">
+    <value>Terminou em {0}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REQUIREMENTS_LINE" xml:space="preserve">
+    <value>{0} / {1} conquistas</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REQUIREMENTS_COUNT" xml:space="preserve">
+    <value>{0} / {1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_NOT_COLLECTED" xml:space="preserve">
+    <value>Não coletado</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_CHIP_COMPLETED" xml:space="preserve">
+    <value>Concluído</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_NOT_STARTED" xml:space="preserve">
+    <value>Não iniciado</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNMEASURABLE" xml:space="preserve">
+    <value>Indisponível</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_BLOCKED" xml:space="preserve">
+    <value>Bloqueado</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_PAUSED" xml:space="preserve">
+    <value>Pausado</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNREACHABLE" xml:space="preserve">
+    <value>Inalcançável</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_INELIGIBLE" xml:space="preserve">
+    <value>Indisponível para você</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_POOL_EXHAUSTED" xml:space="preserve">
+    <value>Prêmios esgotados</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_ARCHIVED" xml:space="preserve">
+    <value>Arquivado</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ACHIEVEMENTS" xml:space="preserve">
+    <value>Conquistas</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REWARDS" xml:space="preserve">
+    <value>Recompensas</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_POINTS" xml:space="preserve">
+    <value>{0} pontos</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_TIME" xml:space="preserve">
+    <value>{0} de tempo</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT" xml:space="preserve">
+    <value>{0} ×{1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN" xml:space="preserve">
+    <value>Produto</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING" xml:space="preserve">
+    <value>Pendente</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_AWAITING_CLAIM" xml:space="preserve">
+    <value>Aguardando retirada</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DELIVERED" xml:space="preserve">
+    <value>Entregue</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DECLINED" xml:space="preserve">
+    <value>Recusado</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_CLAIMED" xml:space="preserve">
+    <value>Resgatado</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_LOADING" xml:space="preserve">
+    <value>Carregando conquistas…</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EMPTY" xml:space="preserve">
+    <value>Ainda não há conquistas</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_DAY" xml:space="preserve">
+    <value>hoje</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_WEEK" xml:space="preserve">
+    <value>esta semana</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_MONTH" xml:space="preserve">
+    <value>este mês</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_QUARTER" xml:space="preserve">
+    <value>este trimestre</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_YEAR" xml:space="preserve">
+    <value>este ano</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_POINTS" xml:space="preserve">
+    <value>pts</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_DAYS" xml:space="preserve">
+    <value>dias</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_HOURS" xml:space="preserve">
+    <value>h</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES" xml:space="preserve">
+    <value>min</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED" xml:space="preserve">
+    <value>{0} / {1} {2}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_PROGRESS_LINE" xml:space="preserve">
+    <value>{0} {1}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_NOT_COLLECTED" xml:space="preserve">
+    <value>Não coletado</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_COMPLETED" xml:space="preserve">
+    <value>Concluído</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_UNAVAILABLE" xml:space="preserve">
+    <value>Indisponível</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_POPUP_PROGRESS" xml:space="preserve">
+    <value>Progresso</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RESETS" xml:space="preserve">
+    <value>Reinicia em {0}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EARNED_FOR_LIFE" xml:space="preserve">
+    <value>Conquistado para sempre — não pode ser repetido</value>
+  </data>
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
     <value>Transações</value>
   </data>

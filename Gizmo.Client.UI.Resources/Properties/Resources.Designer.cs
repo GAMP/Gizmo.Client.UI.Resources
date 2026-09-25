@@ -1160,7 +1160,583 @@ namespace Gizmo.Client.UI.Resources.Properties {
                 return ResourceManager.GetString("GIZ_USER_PURCHASES", resourceCulture);
             }
         }
-        
+
+        public static string GIZ_USER_LADDER {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_LOADING {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_LOADING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_EMPTY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_EMPTY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_DAY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_DAY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_WEEK {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_WEEK", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_MONTH {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_MONTH", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_QUARTER {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_QUARTER", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_YEAR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_YEAR", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERIOD_ENDS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERIOD_ENDS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_DAYS_LEFT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_DAYS_LEFT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_ENDS_TODAY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_ENDS_TODAY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_DAY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_DAY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_WEEK {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_WEEK", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_MONTH {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_MONTH", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_QUARTER {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_QUARTER", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_SCORE_UNIT_YEAR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_SCORE_UNIT_YEAR", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_GOAL_RETAIN {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_GOAL_RETAIN", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_GOAL_REACH {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_GOAL_REACH", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_BANNER_SECURED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_BANNER_SECURED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_BANNER_TOP {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_BANNER_TOP", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_BANNER_NEXT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_BANNER_NEXT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_ALL_LEVELS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_ALL_LEVELS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_CURRENT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_CURRENT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_LEVEL_POINTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_LEVEL_POINTS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_HISTORY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_HISTORY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_HISTORY_SINCE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_HISTORY_SINCE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_HISTORY_EMPTY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_HISTORY_EMPTY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_STATUS_LEFT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_STATUS_LEFT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_STATUS_AWAITING {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_STATUS_AWAITING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PROGRESS_TO {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PROGRESS_TO", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_MET_COUNT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_MET_COUNT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_ACHIEVEMENTS_UNIT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_ACHIEVEMENTS_UNIT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_REQUIREMENTS_FOR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_REQUIREMENTS_FOR", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_NEXT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_NEXT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_LOCKED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_LOCKED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PROGRESS_UPDATING {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PROGRESS_UPDATING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_KEEP_LEFT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_KEEP_LEFT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_FROZEN {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_FROZEN", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PROJECTED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PROJECTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_BREAKDOWN {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_BREAKDOWN", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERKS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERKS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERK_DISCOUNT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERK_DISCOUNT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_PERK_QUEUE_PRIORITY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_PERK_QUEUE_PRIORITY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_LADDER_HEADER_REACH {
+            get {
+                return ResourceManager.GetString("GIZ_USER_LADDER_HEADER_REACH", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_LOADING {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_LOADING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_EMPTY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_EMPTY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_COMPLETED_COUNT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_COMPLETED_COUNT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_COUNT_PILL {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_COUNT_PILL", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_ENDS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_ENDS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_POPUP_ENDS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_POPUP_ENDS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_ENDED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_ENDED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REQUIREMENTS_LINE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REQUIREMENTS_LINE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_POPUP_REQUIREMENTS_COUNT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_POPUP_REQUIREMENTS_COUNT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_NOT_COLLECTED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_NOT_COLLECTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_CHIP_COMPLETED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_CHIP_COMPLETED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_NOT_STARTED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_NOT_STARTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_UNMEASURABLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_UNMEASURABLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_BLOCKED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_BLOCKED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_PAUSED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_PAUSED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_UNREACHABLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_UNREACHABLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_INELIGIBLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_INELIGIBLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_POOL_EXHAUSTED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_POOL_EXHAUSTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_STATE_ARCHIVED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_STATE_ARCHIVED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_POPUP_ACHIEVEMENTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_POPUP_ACHIEVEMENTS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_POPUP_REWARDS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_POPUP_REWARDS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_POINTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_POINTS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_TIME {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_TIME", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_PRODUCT {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_PRODUCT", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_AWAITING_CLAIM {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_AWAITING_CLAIM", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_DELIVERED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_DELIVERED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_DECLINED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_DECLINED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_CHALLENGES_REWARD_STATUS_CLAIMED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_CHALLENGES_REWARD_STATUS_CLAIMED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_LOADING {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_LOADING", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_EMPTY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_EMPTY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_COUNT_PILL {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_COUNT_PILL", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_RANGE_DAY {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_RANGE_DAY", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_RANGE_WEEK {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_RANGE_WEEK", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_RANGE_MONTH {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_RANGE_MONTH", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_RANGE_QUARTER {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_RANGE_QUARTER", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_RANGE_YEAR {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_RANGE_YEAR", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_UNIT_POINTS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_UNIT_POINTS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_UNIT_DAYS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_UNIT_DAYS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_UNIT_HOURS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_UNIT_HOURS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_PROGRESS_LINE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_PROGRESS_LINE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_NOT_COLLECTED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_NOT_COLLECTED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_CHIP_COMPLETED {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_CHIP_COMPLETED", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_CHIP_UNAVAILABLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_CHIP_UNAVAILABLE", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_POPUP_PROGRESS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_POPUP_PROGRESS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_RESETS {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_RESETS", resourceCulture);
+            }
+        }
+
+        public static string GIZ_USER_ACHIEVEMENTS_EARNED_FOR_LIFE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_ACHIEVEMENTS_EARNED_FOR_LIFE", resourceCulture);
+            }
+        }
+
         public static string GIZ_USER_TRANSACTIONS {
             get {
                 return ResourceManager.GetString("GIZ_USER_TRANSACTIONS", resourceCulture);

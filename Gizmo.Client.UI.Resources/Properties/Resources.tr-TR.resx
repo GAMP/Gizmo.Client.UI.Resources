@@ -612,6 +612,294 @@
   <data name="GIZ_USER_PURCHASES" xml:space="preserve">
     <value>Satın Alımlar</value>
   </data>
+  <data name="GIZ_USER_LADDER" xml:space="preserve">
+    <value>Sıralama</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS" xml:space="preserve">
+    <value>Başarılar</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES" xml:space="preserve">
+    <value>Meydan Okumalar</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOADING" xml:space="preserve">
+    <value>Sıralama yükleniyor…</value>
+  </data>
+  <data name="GIZ_USER_LADDER_EMPTY" xml:space="preserve">
+    <value>Sıralama hesabınız için kullanılamıyor</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_DAY" xml:space="preserve">
+    <value>Bugün</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_WEEK" xml:space="preserve">
+    <value>Bu hafta</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_MONTH" xml:space="preserve">
+    <value>Bu ay</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_QUARTER" xml:space="preserve">
+    <value>Bu çeyrek</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_YEAR" xml:space="preserve">
+    <value>Bu yıl</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERIOD_ENDS" xml:space="preserve">
+    <value>bitiş</value>
+  </data>
+  <data name="GIZ_USER_LADDER_DAYS_LEFT" xml:space="preserve">
+    <value>{0}g kaldı</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ENDS_TODAY" xml:space="preserve">
+    <value>bugün bitiyor</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_DAY" xml:space="preserve">
+    <value>bugünkü puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_WEEK" xml:space="preserve">
+    <value>bu haftaki puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_MONTH" xml:space="preserve">
+    <value>bu ayki puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_QUARTER" xml:space="preserve">
+    <value>bu çeyrekteki puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SCORE_UNIT_YEAR" xml:space="preserve">
+    <value>bu yılki puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_RETAIN" xml:space="preserve">
+    <value>{0} korumak için</value>
+  </data>
+  <data name="GIZ_USER_LADDER_GOAL_REACH" xml:space="preserve">
+    <value>{1} seviyesine ulaşmak için {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_SECURED" xml:space="preserve">
+    <value>{0} güvence altında.</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_TOP" xml:space="preserve">
+    <value>En yüksek seviyeye ulaşıldı</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BANNER_NEXT" xml:space="preserve">
+    <value>{1} için {0} puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ALL_LEVELS" xml:space="preserve">
+    <value>Tüm seviyeler</value>
+  </data>
+  <data name="GIZ_USER_LADDER_CURRENT" xml:space="preserve">
+    <value>Mevcut</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LEVEL_POINTS" xml:space="preserve">
+    <value>{0} puan</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY" xml:space="preserve">
+    <value>Seviye geçmişi</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_SINCE" xml:space="preserve">
+    <value>{0} · {1} tarihinden beri</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HISTORY_EMPTY" xml:space="preserve">
+    <value>Henüz seviye değişikliği yok</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_LEFT" xml:space="preserve">
+    <value>{1} seviyesine {0} başarım kaldı</value>
+  </data>
+  <data name="GIZ_USER_LADDER_STATUS_AWAITING" xml:space="preserve">
+    <value>{0} tamamlandı · terfi dönem sonunda</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO" xml:space="preserve">
+    <value>{0} seviyesine ilerleme</value>
+  </data>
+  <data name="GIZ_USER_LADDER_MET_COUNT" xml:space="preserve">
+    <value>{0}/{1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_ACHIEVEMENTS_UNIT" xml:space="preserve">
+    <value>başarım</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
+    <value>{0} için gereksinimler</value>
+  </data>
+  <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
+    <value>Sonraki</value>
+  </data>
+  <data name="GIZ_USER_LADDER_LOCKED" xml:space="preserve">
+    <value>Kilitli</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_UPDATING" xml:space="preserve">
+    <value>İlerleme güncelleniyor</value>
+  </data>
+  <data name="GIZ_USER_LADDER_KEEP_LEFT" xml:space="preserve">
+    <value>{1} seviyesini {2} tarihine kadar korumak için {0} başarım kaldı</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERKS" xml:space="preserve">
+    <value>Seviye avantajları</value>
+  </data>
+  <data name="GIZ_USER_LADDER_FROZEN" xml:space="preserve">
+    <value>Seviye sabitlendi</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROJECTED" xml:space="preserve">
+    <value>Tahmin</value>
+  </data>
+  <data name="GIZ_USER_LADDER_BREAKDOWN" xml:space="preserve">
+    <value>Başarımlara göre puanlar</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_DISCOUNT" xml:space="preserve">
+    <value>{0} · {1}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PERK_QUEUE_PRIORITY" xml:space="preserve">
+    <value>Bekleme sırası önceliği {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
+    <value>{1} seviyesine ulaşmak için {0} puan</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
+    <value>Meydan okumalar yükleniyor…</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_EMPTY" xml:space="preserve">
+    <value>Henüz meydan okuma yok</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COMPLETED_COUNT" xml:space="preserve">
+    <value>{0} tamamlandı</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDS" xml:space="preserve">
+    <value>Bitiş {0} · {1} gün kaldı</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ENDS" xml:space="preserve">
+    <value>Bitiş {0} · {1} gün kaldı</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_ENDED" xml:space="preserve">
+    <value>Bitti {0}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REQUIREMENTS_LINE" xml:space="preserve">
+    <value>{0} / {1} başarım</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REQUIREMENTS_COUNT" xml:space="preserve">
+    <value>{0} / {1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_NOT_COLLECTED" xml:space="preserve">
+    <value>Toplanmadı</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_CHIP_COMPLETED" xml:space="preserve">
+    <value>Tamamlandı</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_NOT_STARTED" xml:space="preserve">
+    <value>Başlamadı</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNMEASURABLE" xml:space="preserve">
+    <value>Kullanılamıyor</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_BLOCKED" xml:space="preserve">
+    <value>Engellendi</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_PAUSED" xml:space="preserve">
+    <value>Duraklatıldı</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_UNREACHABLE" xml:space="preserve">
+    <value>Ulaşılamaz</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_INELIGIBLE" xml:space="preserve">
+    <value>Sizin için kullanılamaz</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_POOL_EXHAUSTED" xml:space="preserve">
+    <value>Ödüller tükendi</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_STATE_ARCHIVED" xml:space="preserve">
+    <value>Arşivlendi</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_ACHIEVEMENTS" xml:space="preserve">
+    <value>Başarımlar</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_POPUP_REWARDS" xml:space="preserve">
+    <value>Ödüller</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_POINTS" xml:space="preserve">
+    <value>{0} Puan</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_TIME" xml:space="preserve">
+    <value>{0} Süre</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT" xml:space="preserve">
+    <value>{0} ×{1}</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_PRODUCT_UNKNOWN" xml:space="preserve">
+    <value>Ürün</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_PENDING" xml:space="preserve">
+    <value>Bekliyor</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_AWAITING_CLAIM" xml:space="preserve">
+    <value>Teslim alma bekleniyor</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DELIVERED" xml:space="preserve">
+    <value>Teslim edildi</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_DECLINED" xml:space="preserve">
+    <value>Reddedildi</value>
+  </data>
+  <data name="GIZ_USER_CHALLENGES_REWARD_STATUS_CLAIMED" xml:space="preserve">
+    <value>Alındı</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_LOADING" xml:space="preserve">
+    <value>Başarılar yükleniyor…</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EMPTY" xml:space="preserve">
+    <value>Henüz başarı yok</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_COUNT_PILL" xml:space="preserve">
+    <value>{0}×</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_DAY" xml:space="preserve">
+    <value>bugün</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_WEEK" xml:space="preserve">
+    <value>bu hafta</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_MONTH" xml:space="preserve">
+    <value>bu ay</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_QUARTER" xml:space="preserve">
+    <value>bu çeyrek</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RANGE_YEAR" xml:space="preserve">
+    <value>bu yıl</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_POINTS" xml:space="preserve">
+    <value>puan</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_DAYS" xml:space="preserve">
+    <value>gün</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_HOURS" xml:space="preserve">
+    <value>sa</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_UNIT_MINUTES" xml:space="preserve">
+    <value>dk</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_INSTANCE_EARNED" xml:space="preserve">
+    <value>{0} / {1} {2}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_PROGRESS_LINE" xml:space="preserve">
+    <value>{0} {1}</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_NOT_COLLECTED" xml:space="preserve">
+    <value>Toplanmadı</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_COMPLETED" xml:space="preserve">
+    <value>Tamamlandı</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_CHIP_UNAVAILABLE" xml:space="preserve">
+    <value>Kullanılamıyor</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_POPUP_PROGRESS" xml:space="preserve">
+    <value>İlerleme</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_RESETS" xml:space="preserve">
+    <value>{0} tarihinde sıfırlanır</value>
+  </data>
+  <data name="GIZ_USER_ACHIEVEMENTS_EARNED_FOR_LIFE" xml:space="preserve">
+    <value>Ömür boyu kazanıldı — tekrarlanamaz</value>
+  </data>
   <data name="GIZ_USER_TRANSACTIONS" xml:space="preserve">
     <value>İşlemler</value>
   </data>
