@@ -1368,6 +1368,9 @@
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
     <value>Su pedido ha sido completado.</value>
   </data>
+  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve">
+    <value>Su pedido ha sido completado</value>
+  </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Su orden se encuentra en espera. será notificado cuando sea aceptado</value>
   </data>

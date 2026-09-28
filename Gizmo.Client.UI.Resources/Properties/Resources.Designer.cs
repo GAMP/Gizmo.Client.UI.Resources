@@ -2739,6 +2739,12 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
         
+        public static string GIZ_MESSAGE_ORDER_COMPLETED_HEADER {
+            get {
+                return ResourceManager.GetString("GIZ_MESSAGE_ORDER_COMPLETED_HEADER", resourceCulture);
+            }
+        }
+        
         public static string GIZ_MESSAGE_ORDER_ON_HOLD {
             get {
                 return ResourceManager.GetString("GIZ_MESSAGE_ORDER_ON_HOLD", resourceCulture);

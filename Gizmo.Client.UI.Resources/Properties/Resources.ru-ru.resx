@@ -1419,6 +1419,9 @@
   <data name="GIZ_MESSAGE_ORDER_COMPLETED" xml:space="preserve">
     <value>Ваш заказ выполнен.</value>
   </data>
+  <data name="GIZ_MESSAGE_ORDER_COMPLETED_HEADER" xml:space="preserve">
+    <value>Ваш заказ выполнен</value>
+  </data>
   <data name="GIZ_MESSAGE_ORDER_ON_HOLD" xml:space="preserve">
     <value>Ваш заказ находится в процессе обработки, вы будете уведомлены, как только заказ будет принят</value>
   </data>
