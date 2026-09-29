@@ -717,12 +717,6 @@
   <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
     <value>Απαιτήσεις για {0}</value>
   </data>
-  <data name="GIZ_USER_LADDER_PROGRESS_KEEP" xml:space="preserve">
-    <value>Διατήρηση {0}</value>
-  </data>
-  <data name="GIZ_USER_LADDER_REQUIREMENTS_KEEP" xml:space="preserve">
-    <value>Απαιτήσεις για διατήρηση {0}</value>
-  </data>
   <data name="GIZ_USER_LADDER_REQUIREMENTS" xml:space="preserve">
     <value>Απαιτήσεις</value>
   </data>

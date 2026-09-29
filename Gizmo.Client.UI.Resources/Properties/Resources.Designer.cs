@@ -1371,18 +1371,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
-        public static string GIZ_USER_LADDER_PROGRESS_KEEP {
-            get {
-                return ResourceManager.GetString("GIZ_USER_LADDER_PROGRESS_KEEP", resourceCulture);
-            }
-        }
-
-        public static string GIZ_USER_LADDER_REQUIREMENTS_KEEP {
-            get {
-                return ResourceManager.GetString("GIZ_USER_LADDER_REQUIREMENTS_KEEP", resourceCulture);
-            }
-        }
-
         public static string GIZ_USER_LADDER_REQUIREMENTS {
             get {
                 return ResourceManager.GetString("GIZ_USER_LADDER_REQUIREMENTS", resourceCulture);

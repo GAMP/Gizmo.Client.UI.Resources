@@ -765,12 +765,6 @@
   <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
     <value>Требования для {0}</value>
   </data>
-  <data name="GIZ_USER_LADDER_PROGRESS_KEEP" xml:space="preserve">
-    <value>Удержание уровня {0}</value>
-  </data>
-  <data name="GIZ_USER_LADDER_REQUIREMENTS_KEEP" xml:space="preserve">
-    <value>Требования для удержания {0}</value>
-  </data>
   <data name="GIZ_USER_LADDER_REQUIREMENTS" xml:space="preserve">
     <value>Требования</value>
   </data>
