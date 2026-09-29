@@ -717,6 +717,18 @@
   <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
     <value>Krav til {0}</value>
   </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_KEEP" xml:space="preserve">
+    <value>Behold {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_KEEP" xml:space="preserve">
+    <value>Krav for at beholde {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS" xml:space="preserve">
+    <value>Krav</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REACH_FIRST" xml:space="preserve">
+    <value>Nå {0} først</value>
+  </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
     <value>Næste</value>
   </data>

@@ -717,6 +717,18 @@
   <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
     <value>{0} üçün tələblər</value>
   </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_KEEP" xml:space="preserve">
+    <value>{0} səviyyəsini qorumaq</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_KEEP" xml:space="preserve">
+    <value>{0} səviyyəsini qorumaq üçün tələblər</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS" xml:space="preserve">
+    <value>Tələblər</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REACH_FIRST" xml:space="preserve">
+    <value>Əvvəlcə {0} səviyyəsinə çatın</value>
+  </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
     <value>Növbəti</value>
   </data>

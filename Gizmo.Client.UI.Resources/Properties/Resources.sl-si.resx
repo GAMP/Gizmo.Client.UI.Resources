@@ -717,6 +717,18 @@
   <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
     <value>Zahteve za {0}</value>
   </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_KEEP" xml:space="preserve">
+    <value>Ohrani {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_KEEP" xml:space="preserve">
+    <value>Zahteve za ohranitev {0}</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS" xml:space="preserve">
+    <value>Zahteve</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REACH_FIRST" xml:space="preserve">
+    <value>Najprej dosezite {0}</value>
+  </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
     <value>Naslednji</value>
   </data>

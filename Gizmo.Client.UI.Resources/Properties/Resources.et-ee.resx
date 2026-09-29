@@ -717,6 +717,18 @@
   <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
     <value>{0} nõuded</value>
   </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_KEEP" xml:space="preserve">
+    <value>Taseme {0} hoidmine</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS_KEEP" xml:space="preserve">
+    <value>Taseme {0} hoidmise nõuded</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS" xml:space="preserve">
+    <value>Nõuded</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REACH_FIRST" xml:space="preserve">
+    <value>Jõua kõigepealt tasemeni {0}</value>
+  </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
     <value>Järgmine</value>
   </data>
