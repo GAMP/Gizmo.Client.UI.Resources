@@ -756,6 +756,15 @@
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{0} πόντοι για να φτάσετε στο {1}</value>
   </data>
+  <data name="GIZ_USER_LADDER_VIEW_FULL" xml:space="preserve">
+    <value>Προβολή πλήρους Κλίμακας</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SECURED" xml:space="preserve">
+    <value>Κατοχυρωμένο</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO_RETAIN" xml:space="preserve">
+    <value>Πρόοδος προς διατήρηση</value>
+  </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Φόρτωση προκλήσεων…</value>
   </data>

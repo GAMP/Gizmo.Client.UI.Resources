@@ -804,6 +804,15 @@
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{0} очк. до {1}</value>
   </data>
+  <data name="GIZ_USER_LADDER_VIEW_FULL" xml:space="preserve">
+    <value>Вся лестница</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SECURED" xml:space="preserve">
+    <value>Закреплён</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO_RETAIN" xml:space="preserve">
+    <value>Прогресс до удержания</value>
+  </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Загрузка испытаний…</value>
   </data>

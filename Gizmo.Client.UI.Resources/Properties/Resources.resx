@@ -846,6 +846,15 @@
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{0} pts to {1}</value>
   </data>
+  <data name="GIZ_USER_LADDER_VIEW_FULL" xml:space="preserve">
+    <value>View full Ladder</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SECURED" xml:space="preserve">
+    <value>Secured</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO_RETAIN" xml:space="preserve">
+    <value>Progress to retain</value>
+  </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Loading challenges…</value>
   </data>

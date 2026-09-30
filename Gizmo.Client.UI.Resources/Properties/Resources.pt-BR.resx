@@ -756,6 +756,15 @@
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{0} pts para alcançar {1}</value>
   </data>
+  <data name="GIZ_USER_LADDER_VIEW_FULL" xml:space="preserve">
+    <value>Ver Ranking completo</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SECURED" xml:space="preserve">
+    <value>Garantido</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO_RETAIN" xml:space="preserve">
+    <value>Progresso para manter</value>
+  </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Carregando desafios…</value>
   </data>

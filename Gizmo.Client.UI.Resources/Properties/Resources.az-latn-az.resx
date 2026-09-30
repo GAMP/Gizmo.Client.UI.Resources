@@ -756,6 +756,15 @@
   <data name="GIZ_USER_LADDER_HEADER_REACH" xml:space="preserve">
     <value>{1} səviyyəsinə çatmaq üçün {0} xal</value>
   </data>
+  <data name="GIZ_USER_LADDER_VIEW_FULL" xml:space="preserve">
+    <value>Bütün nərdivana bax</value>
+  </data>
+  <data name="GIZ_USER_LADDER_SECURED" xml:space="preserve">
+    <value>Qorunub</value>
+  </data>
+  <data name="GIZ_USER_LADDER_PROGRESS_TO_RETAIN" xml:space="preserve">
+    <value>Saxlamağa irəliləyiş</value>
+  </data>
   <data name="GIZ_USER_CHALLENGES_LOADING" xml:space="preserve">
     <value>Çağırışlar yüklənir…</value>
   </data>
