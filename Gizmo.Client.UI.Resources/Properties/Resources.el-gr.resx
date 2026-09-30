@@ -717,6 +717,12 @@
   <data name="GIZ_USER_LADDER_REQUIREMENTS_FOR" xml:space="preserve">
     <value>Απαιτήσεις για {0}</value>
   </data>
+  <data name="GIZ_USER_LADDER_REQUIREMENTS" xml:space="preserve">
+    <value>Απαιτήσεις</value>
+  </data>
+  <data name="GIZ_USER_LADDER_REACH_FIRST" xml:space="preserve">
+    <value>Φτάστε πρώτα στο {0}</value>
+  </data>
   <data name="GIZ_USER_LADDER_NEXT" xml:space="preserve">
     <value>Επόμενο</value>
   </data>
