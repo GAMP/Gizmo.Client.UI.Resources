@@ -771,9 +771,6 @@
   <data name="GIZ_USER_CHALLENGES_EMPTY" xml:space="preserve">
     <value>Hələ çağırış yoxdur</value>
   </data>
-  <data name="GIZ_USER_CHALLENGES_COMPLETED_COUNT" xml:space="preserve">
-    <value>{0} tamamlandı</value>
-  </data>
   <data name="GIZ_USER_CHALLENGES_COUNT_PILL" xml:space="preserve">
     <value>{0}×</value>
   </data>

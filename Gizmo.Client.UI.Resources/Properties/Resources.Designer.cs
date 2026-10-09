@@ -1479,12 +1479,6 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
 
-        public static string GIZ_USER_CHALLENGES_COMPLETED_COUNT {
-            get {
-                return ResourceManager.GetString("GIZ_USER_CHALLENGES_COMPLETED_COUNT", resourceCulture);
-            }
-        }
-
         public static string GIZ_USER_CHALLENGES_COUNT_PILL {
             get {
                 return ResourceManager.GetString("GIZ_USER_CHALLENGES_COUNT_PILL", resourceCulture);

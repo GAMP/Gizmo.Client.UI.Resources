@@ -771,9 +771,6 @@
   <data name="GIZ_USER_CHALLENGES_EMPTY" xml:space="preserve">
     <value>Δεν υπάρχουν ακόμη προκλήσεις</value>
   </data>
-  <data name="GIZ_USER_CHALLENGES_COMPLETED_COUNT" xml:space="preserve">
-    <value>{0} ολοκληρώθηκαν</value>
-  </data>
   <data name="GIZ_USER_CHALLENGES_COUNT_PILL" xml:space="preserve">
     <value>{0}×</value>
   </data>
