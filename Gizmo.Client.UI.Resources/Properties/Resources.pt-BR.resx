@@ -573,6 +573,15 @@
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
     <value>Alterar senha</value>
   </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_TITLE" xml:space="preserve">
+    <value>Complete seu perfil</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SUBTITLE" xml:space="preserve">
+    <value>Algumas informações obrigatórias estão faltando. Preencha os campos abaixo antes de continuar.</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SAVE" xml:space="preserve">
+    <value>Salvar e continuar</value>
+  </data>
   <data name="GIZ_USER_COUNTRY" xml:space="preserve">
     <value>País</value>
   </data>

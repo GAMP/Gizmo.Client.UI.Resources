@@ -573,6 +573,15 @@
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
     <value>Spremeni geslo</value>
   </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_TITLE" xml:space="preserve">
+    <value>Dopolnite svoj profil</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SUBTITLE" xml:space="preserve">
+    <value>Manjkajo nekateri obvezni podatki. Pred nadaljevanjem izpolnite spodnja polja.</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SAVE" xml:space="preserve">
+    <value>Shrani in nadaljuj</value>
+  </data>
   <data name="GIZ_USER_COUNTRY" xml:space="preserve">
     <value>Država</value>
   </data>

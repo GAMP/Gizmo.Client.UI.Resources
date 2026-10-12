@@ -621,6 +621,15 @@
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
     <value>Изменить пароль</value>
   </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_TITLE" xml:space="preserve">
+    <value>Заполните профиль</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SUBTITLE" xml:space="preserve">
+    <value>Не хватает обязательных данных. Заполните поля ниже, чтобы продолжить.</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SAVE" xml:space="preserve">
+    <value>Сохранить и продолжить</value>
+  </data>
   <data name="GIZ_USER_COUNTRY" xml:space="preserve">
     <value>Страна</value>
   </data>

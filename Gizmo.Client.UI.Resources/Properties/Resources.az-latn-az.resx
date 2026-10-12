@@ -573,6 +573,15 @@
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
     <value>Şifrəni dəyişdirin</value>
   </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_TITLE" xml:space="preserve">
+    <value>Profilinizi tamamlayın</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SUBTITLE" xml:space="preserve">
+    <value>Bəzi tələb olunan məlumatlar çatışmır. Davam etməzdən əvvəl aşağıdakı sahələri doldurun.</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SAVE" xml:space="preserve">
+    <value>Yadda saxla və davam et</value>
+  </data>
   <data name="GIZ_USER_COUNTRY" xml:space="preserve">
     <value>Ölkə</value>
   </data>

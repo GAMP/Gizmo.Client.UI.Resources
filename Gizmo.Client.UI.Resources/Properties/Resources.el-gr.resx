@@ -573,6 +573,15 @@
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
     <value>Αλλαγή κωδικού</value>
   </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_TITLE" xml:space="preserve">
+    <value>Ολοκληρώστε το προφίλ σας</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SUBTITLE" xml:space="preserve">
+    <value>Λείπουν ορισμένα απαιτούμενα στοιχεία. Συμπληρώστε τα παρακάτω πεδία πριν συνεχίσετε.</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SAVE" xml:space="preserve">
+    <value>Αποθήκευση και συνέχεια</value>
+  </data>
   <data name="GIZ_USER_COUNTRY" xml:space="preserve">
     <value>Χώρα</value>
   </data>

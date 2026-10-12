@@ -573,6 +573,15 @@
   <data name="GIZ_USER_CHANGE_PASSWORD" xml:space="preserve">
     <value>Muuda parooli</value>
   </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_TITLE" xml:space="preserve">
+    <value>Täida oma profiil</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SUBTITLE" xml:space="preserve">
+    <value>Mõned kohustuslikud andmed puuduvad. Enne jätkamist täida allolevad väljad.</value>
+  </data>
+  <data name="GIZ_USER_COMPLETE_PROFILE_SAVE" xml:space="preserve">
+    <value>Salvesta ja jätka</value>
+  </data>
   <data name="GIZ_USER_COUNTRY" xml:space="preserve">
     <value>Riik</value>
   </data>

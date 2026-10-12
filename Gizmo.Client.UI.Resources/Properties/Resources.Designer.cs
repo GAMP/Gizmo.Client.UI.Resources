@@ -1083,6 +1083,24 @@ namespace Gizmo.Client.UI.Resources.Properties {
             }
         }
         
+        public static string GIZ_USER_COMPLETE_PROFILE_TITLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_COMPLETE_PROFILE_TITLE", resourceCulture);
+            }
+        }
+        
+        public static string GIZ_USER_COMPLETE_PROFILE_SUBTITLE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_COMPLETE_PROFILE_SUBTITLE", resourceCulture);
+            }
+        }
+        
+        public static string GIZ_USER_COMPLETE_PROFILE_SAVE {
+            get {
+                return ResourceManager.GetString("GIZ_USER_COMPLETE_PROFILE_SAVE", resourceCulture);
+            }
+        }
+        
         public static string GIZ_USER_COUNTRY {
             get {
                 return ResourceManager.GetString("GIZ_USER_COUNTRY", resourceCulture);
